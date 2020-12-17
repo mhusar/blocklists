@@ -2,7 +2,7 @@ name: Merge hosts files from different sources.
 
 on:
   schedule:
-    - cron:  '*/15 * * * *'
+    - cron:  '0 5 * * 0'
 
 defaults:
   run:
