@@ -6,7 +6,7 @@ on:
 
 defaults:
   run:
-    working-directory: ./exodus-privacy
+    working-directory: ./exodus
 
 jobs:
   deploy:
@@ -34,6 +34,6 @@ jobs:
         author_name: Marcus Husar
         author_email: marcus.husar@gmail.com
         message: 'Update hosts files from Exodus Privacy API data.'
-        add: 'exodus-privacy/dist'
+        add: 'exodus/dist'
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
