@@ -1,8 +1,8 @@
-name: Create hosts files of EasyPrivacy list from firebog.net
+name: Create hosts files for EasyPrivacy filter list
 
 on:
   schedule:
-    - cron:  '0 0 * * 0'
+    - cron:  '*/15 * * * *'
 
 defaults:
   run:
@@ -18,13 +18,22 @@ jobs:
     - name: Create dist directory
       run: |
         mkdir -p dist
-    - name: Download hosts file
+    - name: Download filter list
       run: |
-        wget -O dist/hosts https://v.firebog.net/hosts/Easyprivacy.txt
-        sed -i '/^[[:space:]]*$\|^#/d' dist/hosts
-    - name: Create ipv4 hosts file
+        wget -O easyprivacy.txt https://easylist.to/easylist/easyprivacy.txt
+    - name: Create hosts file
       run: |
-        sed -e 's/^/0.0.0.0 /' dist/hosts > dist/hosts-ipv4
+        cat easyprivacy.txt | \
+          egrep '! (Version|Title|Last modified|Expires|Homepage|Licence):' | \
+          sed -e 's/^!/#/' > dist/hosts
+          echo >> dist/hosts
+    - name: Add hostnames
+      run: |
+        cat easyprivacy.txt | grep '^||.*\^\$' | \
+          cut -d '^' -f 1 | sed -e 's/||//' | sort -u >> dist/hosts
+    - name: Create IPv4 hosts file
+      run: |
+        sed -e 's/^[^#]/0.0.0.0 /' dist/hosts > dist/hosts-ipv4
     - name: Commit changes
       uses: EndBug/add-and-commit@v5.3.0
       with:
