@@ -25,4 +25,13 @@ jobs:
     - name: Create ipv4 hosts file
       run: |
         python exodus-ipv4.py -i https://reports.exodus-privacy.eu.org/api/trackers -o hosts-ipv4
-
+    - name: Upload hosts file
+      uses: actions/upload-artifact@v2
+      with:
+        name: hosts
+        path: hosts
+    - name: Upload ipv4 hosts file
+      uses: actions/upload-artifact@v2
+      with:
+        name: hosts-ipv4
+        path: hosts-ipv4
