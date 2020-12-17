@@ -44,7 +44,7 @@ def main(argv):
     config = {
         "input": "https://reports.exodus-privacy.eu.org/api/trackers",
         "output": "../blocklists/exodusprivacy/standard/hosts.txt",
-        "whitelistedSubdomains": ["www", "api", "cdn"]
+        "whitelistedSubdomains": ["cdn"]
     }
 
     try:
