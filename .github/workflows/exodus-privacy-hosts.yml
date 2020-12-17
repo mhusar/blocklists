@@ -29,11 +29,11 @@ jobs:
       run: |
         python exodus-ipv4.py -i https://reports.exodus-privacy.eu.org/api/trackers -o dist/hosts-ipv4
     - name: Commit changes
-        uses: EndBug/add-and-commit@v5.3.0
-        with:
-          author_name: Marcus Husar
-          author_email: marcus.husar@gmail.com
-          message: 'Update hosts files from Exodus Privacy API data.'
-          add: 'dist'
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      uses: EndBug/add-and-commit@v5.3.0
+      with:
+        author_name: Marcus Husar
+        author_email: marcus.husar@gmail.com
+        message: 'Update hosts files from Exodus Privacy API data.'
+        add: 'dist'
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
