@@ -1,0 +1,42 @@
+name: Merge hosts files from different sources.
+
+on:
+  schedule:
+    - cron:  '*/5 * * * *'
+
+defaults:
+  run:
+    working-directory: ./
+
+jobs:
+  deploy:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Create dist directory
+      run: |
+        mkdir -p dist
+        rm -f dist/hosts dist/hosts-ipv4
+    - name: EasyPrivacy
+      run: |
+        cat easyprivacy/dist/hosts >> dist/hosts
+        cat easyprivacy/dist/hosts-ipv4 >> dist/hosts-ipv4
+    - name: Exodus
+      run: |
+        cat exodus/dist/hosts >> dist/hosts
+        cat exodus/dist/hosts-ipv4 >> dist/hosts-ipv4
+    - name: Clean files
+      run: |
+        sed -i '/^[[:space:]]*$\|^#/d' dist/hosts
+        sed -i '/^[[:space:]]*$\|^#/d' dist/hosts-ipv4
+    - name: Commit changes
+      uses: EndBug/add-and-commit@v5.3.0
+      with:
+        author_name: Marcus Husar
+        author_email: marcus.husar@gmail.com
+        message: 'Update merged hosts files from different sources.'
+        add: 'dist'
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
