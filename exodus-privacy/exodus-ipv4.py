@@ -110,9 +110,7 @@ def main(argv):
     with open(out_file, "wt") as f_out:
         f_out.write("# exodusprivacy standard\n")
         f_out.write("# This host file is based on Exodus Privacy database.\n")
-        f_out.write("# More info at https://go.blokada.org/exodusprivacy\n")
-        f_out.write(f"# Generated at {datetime.now()}\n")
-        f_out.write("# Made by Blokada\n\n")
+        f_out.write(f"# Generated at {datetime.now()}\n\n")
 
         ip = "0.0.0.0"
 
