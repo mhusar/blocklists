@@ -1,0 +1,28 @@
+name: Create hosts files from Exodus Privacy API data
+
+on:
+  release:
+    types: [created]
+
+defaults:
+  run:
+    working-directory: ./exodus-privacy
+
+jobs:
+  deploy:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+    - name: Create hosts file
+      run: |
+        python exodus.py -i https://reports.exodus-privacy.eu.org/api/trackers -o hosts
+    - name: Create ipv4 hosts file
+      run: |
+        python exodus-ipv4.py -i https://reports.exodus-privacy.eu.org/api/trackers -o hosts-ipv4
+
