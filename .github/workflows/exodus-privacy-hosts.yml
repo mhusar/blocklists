@@ -19,19 +19,21 @@ jobs:
       uses: actions/setup-python@v2
       with:
         python-version: '3.x'
+    - name: Create dist directory
+      run: |
+        mkdir -p dist
     - name: Create hosts file
       run: |
-        python exodus.py -i https://reports.exodus-privacy.eu.org/api/trackers -o hosts
+        python exodus.py -i https://reports.exodus-privacy.eu.org/api/trackers -o dist/hosts
     - name: Create ipv4 hosts file
       run: |
-        python exodus-ipv4.py -i https://reports.exodus-privacy.eu.org/api/trackers -o hosts-ipv4
-    - name: Upload hosts file
-      uses: actions/upload-artifact@v2
-      with:
-        name: hosts
-        path: exodus-privacy/hosts
-    - name: Upload ipv4 hosts file
-      uses: actions/upload-artifact@v2
-      with:
-        name: hosts-ipv4
-        path: exodus-privacy/hosts-ipv4
+        python exodus-ipv4.py -i https://reports.exodus-privacy.eu.org/api/trackers -o dist/hosts-ipv4
+    - name: Commit changes
+        uses: EndBug/add-and-commit@v5
+        with:
+          author_name: Marcus Husar
+          author_email: marcus.husar@gmail.com
+          message: 'Update hosts files from Exodus Privacy API data.'
+          add: 'dist'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
