@@ -1,8 +1,8 @@
 name: Create hosts files from Exodus Privacy API data
 
 on:
-  release:
-    types: [created]
+  schedule:
+    - cron:  '*/15 * * * *'
 
 defaults:
   run:
