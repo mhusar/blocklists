@@ -1,4 +1,4 @@
-name: Create hosts files from Exodus Privacy API data
+name: Create hosts files for Exodus Privacy API data
 
 on:
   schedule:
@@ -25,7 +25,7 @@ jobs:
     - name: Create hosts file
       run: |
         python exodus.py -i https://reports.exodus-privacy.eu.org/api/trackers -o dist/hosts
-    - name: Create ipv4 hosts file
+    - name: Create IPv4 hosts file
       run: |
         python exodus-ipv4.py -i https://reports.exodus-privacy.eu.org/api/trackers -o dist/hosts-ipv4
     - name: Commit changes
