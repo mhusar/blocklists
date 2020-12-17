@@ -2,7 +2,7 @@ name: Create hosts files of EasyPrivacy list from firebog.net
 
 on:
   schedule:
-    - cron:  '*/5 * * * *'
+    - cron:  '0 0 * * 0'
 
 defaults:
   run:
@@ -30,7 +30,7 @@ jobs:
       with:
         author_name: Marcus Husar
         author_email: marcus.husar@gmail.com
-        message: 'Update hosts files of EasyPrivacy from firebog.net.'
+        message: 'Update hosts files of EasyPrivacy list from firebog.net.'
         add: 'easyprivacy/dist'
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
