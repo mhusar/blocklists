@@ -2,7 +2,7 @@ name: Merge hosts files from different sources.
 
 on:
   schedule:
-    - cron:  '0 5 * * 1'
+    - cron:  '*/15 * * * *'
 
 defaults:
   run:
@@ -25,12 +25,10 @@ jobs:
         cat easyprivacy/dist/hosts-ipv4 >> dist/hosts-ipv4
     - name: Exodus
       run: |
+        echo >> dist/hosts
+        echo >> dist/hosts-ipv4
         cat exodus/dist/hosts >> dist/hosts
         cat exodus/dist/hosts-ipv4 >> dist/hosts-ipv4
-    - name: Clean files
-      run: |
-        sed -i '/^[[:space:]]*$\|^#/d' dist/hosts
-        sed -i '/^[[:space:]]*$\|^#/d' dist/hosts-ipv4
     - name: Commit changes
       uses: EndBug/add-and-commit@v5.3.0
       with:
