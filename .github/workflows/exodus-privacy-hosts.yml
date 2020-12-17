@@ -29,9 +29,9 @@ jobs:
       uses: actions/upload-artifact@v2
       with:
         name: hosts
-        path: hosts
+        path: exodus-privacy/hosts
     - name: Upload ipv4 hosts file
       uses: actions/upload-artifact@v2
       with:
         name: hosts-ipv4
-        path: hosts-ipv4
+        path: exodus-privacy/hosts-ipv4
