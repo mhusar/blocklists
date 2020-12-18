@@ -31,7 +31,8 @@ jobs:
     - name: Add hostnames
       run: |
         cat easyprivacy.txt | grep '^||.*\^$\|^||.*\^\$' | \
-          cut -d '^' -f 1 | sed -e 's/||//' | sort -u >> dist/hosts
+          grep -v '\*' | cut -d '^' -f 1 | sed -e 's/||//' | \
+          sort -u >> dist/hosts
     - name: Create IPv4 hosts file
       run: |
         sed -e 's/^\([^#]\)/0.0.0.0 \1/' dist/hosts > dist/hosts-ipv4
