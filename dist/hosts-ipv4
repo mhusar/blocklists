@@ -1,6 +1,6 @@
-# Version: 202012180954
+# Version: 202012181211
 # Title: EasyPrivacy
-# Last modified: 18 Dec 2020 09:54 UTC
+# Last modified: 18 Dec 2020 12:11 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -182,7 +182,6 @@
 0.0.0.0 activeprospects.com
 0.0.0.0 activetracker.activehotels.com
 0.0.0.0 activities.niagara.comedycentral.com
-0.0.0.0 activity.*.miui.com
 0.0.0.0 activity.frequency.com
 0.0.0.0 actnx.com
 0.0.0.0 acuityplatform.com
@@ -312,7 +311,6 @@
 0.0.0.0 aevents.izooto.com
 0.0.0.0 af-z.jp
 0.0.0.0 afairweb.com
-0.0.0.0 aff*.kolektiva.net
 0.0.0.0 affclkr.com
 0.0.0.0 affilae.com
 0.0.0.0 affilate.hh.ru
@@ -442,7 +440,6 @@
 0.0.0.0 analytic.xingcloud.com
 0.0.0.0 analytic20.detik.com
 0.0.0.0 analyticcdn.globalmailer.com
-0.0.0.0 analytics-beacon-*.amazonaws.com
 0.0.0.0 analytics-cdiscount.com
 0.0.0.0 analytics-cms.whitebeard.me
 0.0.0.0 analytics-egain.com
@@ -981,7 +978,6 @@
 0.0.0.0 bigstats.net
 0.0.0.0 bigtracker.com
 0.0.0.0 bikepasture.com
-0.0.0.0 bild.de
 0.0.0.0 bildirt.com
 0.0.0.0 binarybusiness.de
 0.0.0.0 bionicclick.com
@@ -1410,7 +1406,6 @@
 0.0.0.0 cls7.theushuaiaexperience.com
 0.0.0.0 clubcollector.com
 0.0.0.0 clvk.viki.io
-0.0.0.0 clyp.it
 0.0.0.0 cm.g.doubleclick.net
 0.0.0.0 cmap.alibaba.com
 0.0.0.0 cmcintra.net
@@ -1491,15 +1486,11 @@
 0.0.0.0 coll1onf.com
 0.0.0.0 coll2onf.com
 0.0.0.0 collarity.com
-0.0.0.0 collect.*.miui.com
 0.0.0.0 collect.igodigital.com
 0.0.0.0 collect.rewardstyle.com
 0.0.0.0 collect.state.centrum24.pl
 0.0.0.0 collect.tianya.cn
 0.0.0.0 collecting.click
-0.0.0.0 collector-*.elb.amazonaws.com
-0.0.0.0 collector-*.px-client.net
-0.0.0.0 collector-*.tvsquared.com
 0.0.0.0 collector-api.99designs.com
 0.0.0.0 collector-cdn.github.com
 0.0.0.0 collector-medium.lightstep.com
@@ -1950,7 +1941,6 @@
 0.0.0.0 data2.gosquared.com
 0.0.0.0 databrain.com
 0.0.0.0 datacaciques.com
-0.0.0.0 datacollect*.abtasty.com
 0.0.0.0 datacoral.com
 0.0.0.0 datacoral.io
 0.0.0.0 datacygnal.io
@@ -3073,7 +3063,6 @@
 0.0.0.0 hitmaster.de
 0.0.0.0 hitmatic.com
 0.0.0.0 hitmir.ru
-0.0.0.0 hits-*.iubenda.com
 0.0.0.0 hits.antena3.com
 0.0.0.0 hits.dealer.com
 0.0.0.0 hits.e.cl
@@ -3641,8 +3630,6 @@
 0.0.0.0 localytics.com
 0.0.0.0 lockview.cn
 0.0.0.0 locotrack.net
-0.0.0.0 log*.ku6.com
-0.0.0.0 log-*.previewnetworks.com
 0.0.0.0 log.51cto.com
 0.0.0.0 log.aimtell.com
 0.0.0.0 log.artipbox.net
@@ -3696,7 +3683,6 @@
 0.0.0.0 logdy.com
 0.0.0.0 logentries.com
 0.0.0.0 logg.kiwi.com
-0.0.0.0 logger-*.dailymotion.com
 0.0.0.0 logger.co.kr
 0.0.0.0 logger.kataweb.it
 0.0.0.0 logger.nerdwallet.com
@@ -3864,7 +3850,6 @@
 0.0.0.0 mc.webvisor.com
 0.0.0.0 mc.webvisor.org
 0.0.0.0 mc.yandex.ru
-0.0.0.0 mcdp-*.outbrain.com
 0.0.0.0 mcloudglobal.com
 0.0.0.0 mcs-va.tiktokv.com
 0.0.0.0 mcs.delvenetworks.com
@@ -3917,7 +3902,6 @@
 0.0.0.0 metalyzer.com
 0.0.0.0 meteorsolutions.com
 0.0.0.0 metering.pagesuite.com
-0.0.0.0 metric*.rediff.com
 0.0.0.0 metric.inetcore.com
 0.0.0.0 metric.nwsource.com
 0.0.0.0 metricool.com
@@ -3949,7 +3933,6 @@
 0.0.0.0 metriweb.be
 0.0.0.0 metrix.emagister.com
 0.0.0.0 metrixlablw.customers.luna.net
-0.0.0.0 metro-trending-*.amazonaws.com
 0.0.0.0 mezzobit.com
 0.0.0.0 mfadsrvr.com
 0.0.0.0 mfio.cf
@@ -3973,7 +3956,6 @@
 0.0.0.0 minemytraffic.com
 0.0.0.0 minerad.com
 0.0.0.0 mineralt.io
-0.0.0.0 minero-proxy-*.sh
 0.0.0.0 minero.cc
 0.0.0.0 minero.pw
 0.0.0.0 minescripts.info
@@ -3992,7 +3974,6 @@
 0.0.0.0 mkt51.net
 0.0.0.0 mkt6333.com
 0.0.0.0 mkt941.com
-0.0.0.0 mkto-*.com
 0.0.0.0 mktoresp.com
 0.0.0.0 ml-attr.com
 0.0.0.0 ml314.com
@@ -5519,7 +5500,6 @@
 0.0.0.0 social-sb.com
 0.0.0.0 socialhoney.co
 0.0.0.0 socialprofitmachine.com
-0.0.0.0 socialreader.com
 0.0.0.0 socialtrack.co
 0.0.0.0 socialtrack.net
 0.0.0.0 sociaplus.com
@@ -5745,7 +5725,6 @@
 0.0.0.0 stas.outbrain.com
 0.0.0.0 stat-track.com
 0.0.0.0 stat-well.com
-0.0.0.0 stat.*.v-56.com
 0.0.0.0 stat.1688.com
 0.0.0.0 stat.4u.pl
 0.0.0.0 stat.acca.it
@@ -5841,7 +5820,6 @@
 0.0.0.0 statm.the-adult-company.com
 0.0.0.0 statowl.com
 0.0.0.0 statpipe.ru
-0.0.0.0 stats-*.p2pnow.ru
 0.0.0.0 stats-dc1.frz.io
 0.0.0.0 stats-factory.digitregroup.io
 0.0.0.0 stats-messages.gifs.com
@@ -5973,7 +5951,6 @@
 0.0.0.0 stats02.topix.com
 0.0.0.0 stats1.tune.pk
 0.0.0.0 stats1x1.kapaza.be
-0.0.0.0 stats2.*.fdnames.com
 0.0.0.0 stats2.algo.at
 0.0.0.0 stats2.com
 0.0.0.0 stats2.tune.pk
@@ -6218,7 +6195,6 @@
 0.0.0.0 target.smi2.ru
 0.0.0.0 target.ukr.net
 0.0.0.0 targetfuel.com
-0.0.0.0 targeting.*.arcpublishing.com
 0.0.0.0 targeting.perso.aws.arc.pub
 0.0.0.0 targeting.voxus.tv
 0.0.0.0 targetix.net
@@ -6597,9 +6573,7 @@
 0.0.0.0 trackertest.org
 0.0.0.0 trackfeed.com
 0.0.0.0 trackicollect.ibase.fr
-0.0.0.0 tracking*.euroads.fi
 0.0.0.0 tracking-opi.fonpit.de
-0.0.0.0 tracking.*.miui.com
 0.0.0.0 tracking.3ds.com
 0.0.0.0 tracking.adalyser.com
 0.0.0.0 tracking.adweb.co.kr
@@ -6813,7 +6787,6 @@
 0.0.0.0 triptease.io
 0.0.0.0 triptease.net
 0.0.0.0 triver.jp
-0.0.0.0 trk*.vidible.tv
 0.0.0.0 trk.absuite.com.br
 0.0.0.0 trk.adbutter.net
 0.0.0.0 trk.bhs4.com
@@ -6895,9 +6868,7 @@
 0.0.0.0 twch.20min.ch
 0.0.0.0 twcount.com
 0.0.0.0 twcouponcenter.com
-0.0.0.0 twitter.com
 0.0.0.0 twopointo.io
-0.0.0.0 txmblr.com
 0.0.0.0 txmoadserver.net
 0.0.0.0 txt.eu
 0.0.0.0 tynt.com
@@ -7145,7 +7116,6 @@
 0.0.0.0 vs.target.com
 0.0.0.0 vstats.digitaltrends.com
 0.0.0.0 vtf2f.banque-casino.fr
-0.0.0.0 vtnlog-*.elb.amazonaws.com
 0.0.0.0 vtracker.net
 0.0.0.0 vtracy.de
 0.0.0.0 vtrtl.de
@@ -7337,7 +7307,6 @@
 0.0.0.0 womtp.com
 0.0.0.0 wonder-ma.com
 0.0.0.0 wonderpush.com
-0.0.0.0 woolik.com
 0.0.0.0 woopra-ns.com
 0.0.0.0 woopra.com
 0.0.0.0 wootric.com

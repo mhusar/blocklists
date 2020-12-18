@@ -1,6 +1,6 @@
-# Version: 202012180954
+# Version: 202012181211
 # Title: EasyPrivacy
-# Last modified: 18 Dec 2020 09:54 UTC
+# Last modified: 18 Dec 2020 12:11 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -182,7 +182,6 @@ activemeter.com
 activeprospects.com
 activetracker.activehotels.com
 activities.niagara.comedycentral.com
-activity.*.miui.com
 activity.frequency.com
 actnx.com
 acuityplatform.com
@@ -312,7 +311,6 @@ aeros08.tk
 aevents.izooto.com
 af-z.jp
 afairweb.com
-aff*.kolektiva.net
 affclkr.com
 affilae.com
 affilate.hh.ru
@@ -442,7 +440,6 @@ analytic.rocks
 analytic.xingcloud.com
 analytic20.detik.com
 analyticcdn.globalmailer.com
-analytics-beacon-*.amazonaws.com
 analytics-cdiscount.com
 analytics-cms.whitebeard.me
 analytics-egain.com
@@ -981,7 +978,6 @@ bigreal.org
 bigstats.net
 bigtracker.com
 bikepasture.com
-bild.de
 bildirt.com
 binarybusiness.de
 bionicclick.com
@@ -1410,7 +1406,6 @@ cloudtracer101.com
 cls7.theushuaiaexperience.com
 clubcollector.com
 clvk.viki.io
-clyp.it
 cm.g.doubleclick.net
 cmap.alibaba.com
 cmcintra.net
@@ -1491,15 +1486,11 @@ coletor.terra.com
 coll1onf.com
 coll2onf.com
 collarity.com
-collect.*.miui.com
 collect.igodigital.com
 collect.rewardstyle.com
 collect.state.centrum24.pl
 collect.tianya.cn
 collecting.click
-collector-*.elb.amazonaws.com
-collector-*.px-client.net
-collector-*.tvsquared.com
 collector-api.99designs.com
 collector-cdn.github.com
 collector-medium.lightstep.com
@@ -1950,7 +1941,6 @@ data.younow.com
 data2.gosquared.com
 databrain.com
 datacaciques.com
-datacollect*.abtasty.com
 datacoral.com
 datacoral.io
 datacygnal.io
@@ -3073,7 +3063,6 @@ hitgraph.jp
 hitmaster.de
 hitmatic.com
 hitmir.ru
-hits-*.iubenda.com
 hits.antena3.com
 hits.dealer.com
 hits.e.cl
@@ -3641,8 +3630,6 @@ localhost
 localytics.com
 lockview.cn
 locotrack.net
-log*.ku6.com
-log-*.previewnetworks.com
 log.51cto.com
 log.aimtell.com
 log.artipbox.net
@@ -3696,7 +3683,6 @@ logcounter.com
 logdy.com
 logentries.com
 logg.kiwi.com
-logger-*.dailymotion.com
 logger.co.kr
 logger.kataweb.it
 logger.nerdwallet.com
@@ -3864,7 +3850,6 @@ mbww.com
 mc.webvisor.com
 mc.webvisor.org
 mc.yandex.ru
-mcdp-*.outbrain.com
 mcloudglobal.com
 mcs-va.tiktokv.com
 mcs.delvenetworks.com
@@ -3917,7 +3902,6 @@ met.vgwort.de
 metalyzer.com
 meteorsolutions.com
 metering.pagesuite.com
-metric*.rediff.com
 metric.inetcore.com
 metric.nwsource.com
 metricool.com
@@ -3949,7 +3933,6 @@ metrigo.com
 metriweb.be
 metrix.emagister.com
 metrixlablw.customers.luna.net
-metro-trending-*.amazonaws.com
 mezzobit.com
 mfadsrvr.com
 mfio.cf
@@ -3973,7 +3956,6 @@ mine.torrent.pw
 minemytraffic.com
 minerad.com
 mineralt.io
-minero-proxy-*.sh
 minero.cc
 minero.pw
 minescripts.info
@@ -3992,7 +3974,6 @@ mkt3261.com
 mkt51.net
 mkt6333.com
 mkt941.com
-mkto-*.com
 mktoresp.com
 ml-attr.com
 ml314.com
@@ -5519,7 +5500,6 @@ socdm.com
 social-sb.com
 socialhoney.co
 socialprofitmachine.com
-socialreader.com
 socialtrack.co
 socialtrack.net
 sociaplus.com
@@ -5745,7 +5725,6 @@ star-cntr-5.com
 stas.outbrain.com
 stat-track.com
 stat-well.com
-stat.*.v-56.com
 stat.1688.com
 stat.4u.pl
 stat.acca.it
@@ -5841,7 +5820,6 @@ statistx.com
 statm.the-adult-company.com
 statowl.com
 statpipe.ru
-stats-*.p2pnow.ru
 stats-dc1.frz.io
 stats-factory.digitregroup.io
 stats-messages.gifs.com
@@ -5973,7 +5951,6 @@ stats01.20min.ch
 stats02.topix.com
 stats1.tune.pk
 stats1x1.kapaza.be
-stats2.*.fdnames.com
 stats2.algo.at
 stats2.com
 stats2.tune.pk
@@ -6218,7 +6195,6 @@ target.smi2.net
 target.smi2.ru
 target.ukr.net
 targetfuel.com
-targeting.*.arcpublishing.com
 targeting.perso.aws.arc.pub
 targeting.voxus.tv
 targetix.net
@@ -6597,9 +6573,7 @@ trackerstatistik.init-ag.de
 trackertest.org
 trackfeed.com
 trackicollect.ibase.fr
-tracking*.euroads.fi
 tracking-opi.fonpit.de
-tracking.*.miui.com
 tracking.3ds.com
 tracking.adalyser.com
 tracking.adweb.co.kr
@@ -6813,7 +6787,6 @@ trilogyed.com
 triptease.io
 triptease.net
 triver.jp
-trk*.vidible.tv
 trk.absuite.com.br
 trk.adbutter.net
 trk.bhs4.com
@@ -6895,9 +6868,7 @@ tw.i.hulu.com
 twch.20min.ch
 twcount.com
 twcouponcenter.com
-twitter.com
 twopointo.io
-txmblr.com
 txmoadserver.net
 txt.eu
 tynt.com
@@ -7145,7 +7116,6 @@ vry9.destinia.com
 vs.target.com
 vstats.digitaltrends.com
 vtf2f.banque-casino.fr
-vtnlog-*.elb.amazonaws.com
 vtracker.net
 vtracy.de
 vtrtl.de
@@ -7337,7 +7307,6 @@ womanear.com
 womtp.com
 wonder-ma.com
 wonderpush.com
-woolik.com
 woopra-ns.com
 woopra.com
 wootric.com
