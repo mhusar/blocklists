@@ -33,6 +33,9 @@ jobs:
         cat easyprivacy.txt | grep '^||.*\^$\|^||.*\^\$' | \
           grep -v '\*' | cut -d '^' -f 1 | sed -e 's/||//' | \
           sort -u >> dist/hosts
+    - name: Create hosts file without IP addresses
+      run: |
+        cat dist/hosts | egrep -v '^([0-9]{1,3}\.){3}[0-9]{1,3}$' > dist/hosts-noip
     - name: Create IPv4 hosts file
       run: |
         sed -e 's/^\([^#]\)/0.0.0.0 \1/' dist/hosts > dist/hosts-ipv4
