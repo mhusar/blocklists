@@ -1,6 +1,6 @@
-# Version: 202012191647
+# Version: 202012192236
 # Title: EasyPrivacy
-# Last modified: 19 Dec 2020 16:47 UTC
+# Last modified: 19 Dec 2020 22:36 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -7479,7 +7479,7 @@
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2020-12-17 12:56:17.821580
+# Generated at 2020-12-20 00:25:08.497213
 
 0.0.0.0 databerries.com
 0.0.0.0 fidzup
