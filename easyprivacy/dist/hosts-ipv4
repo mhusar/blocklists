@@ -1,6 +1,6 @@
-# Version: 202012192236
+# Version: 202012262341
 # Title: EasyPrivacy
-# Last modified: 19 Dec 2020 22:36 UTC
+# Last modified: 26 Dec 2020 23:41 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -18,6 +18,7 @@
 0.0.0.0 123-counter.de
 0.0.0.0 123compteur.com
 0.0.0.0 123count.com
+0.0.0.0 123stat.com
 0.0.0.0 127.0.0.1
 0.0.0.0 12mnkys.com
 0.0.0.0 15gifts.com
@@ -116,6 +117,7 @@
 0.0.0.0 a.o2u.jp
 0.0.0.0 a.tovarro.com
 0.0.0.0 a013.com
+0.0.0.0 a3xo-eng.spankbang.com
 0.0.0.0 a4b-tracking.com
 0.0.0.0 a4st.club
 0.0.0.0 a8.net
@@ -680,7 +682,6 @@
 0.0.0.0 apkonline.ru
 0.0.0.0 apm-engine.meteor.com
 0.0.0.0 apollofind.com
-0.0.0.0 app.link
 0.0.0.0 appboycdn.com
 0.0.0.0 appcast.io
 0.0.0.0 appier.net
@@ -706,6 +707,7 @@
 0.0.0.0 arrowpushengine.com
 0.0.0.0 arsdev.net
 0.0.0.0 artefact.is
+0.0.0.0 artfin.club
 0.0.0.0 artfut.com
 0.0.0.0 as.base.de
 0.0.0.0 as.mirapodo.de
@@ -929,6 +931,7 @@
 0.0.0.0 belstat.de
 0.0.0.0 belstat.fr
 0.0.0.0 belstat.nl
+0.0.0.0 bemarts.club
 0.0.0.0 bench.uc.cn
 0.0.0.0 benchit.com
 0.0.0.0 benchtag2.co
@@ -1044,6 +1047,7 @@
 0.0.0.0 bnr.alza.cz
 0.0.0.0 bnster.com
 0.0.0.0 bntech.io
+0.0.0.0 bogglecool.club
 0.0.0.0 boilingbeetle.com
 0.0.0.0 bonitrust.de
 0.0.0.0 bonnieradnetwork.se
@@ -1054,6 +1058,7 @@
 0.0.0.0 boomtrain.com
 0.0.0.0 borderbrush.com
 0.0.0.0 borehamwoodtimes-gb.borehamwoodtimes.co.uk
+0.0.0.0 bosetoo.club
 0.0.0.0 boss.bankofamerica.com
 0.0.0.0 bosspush.com
 0.0.0.0 botdetector.ru
@@ -1068,7 +1073,6 @@
 0.0.0.0 bpmonline.com
 0.0.0.0 brain.foresee.com
 0.0.0.0 braintreeandwithamtimes-gb.braintreeandwithamtimes.co.uk
-0.0.0.0 branch.io
 0.0.0.0 brandlock.io
 0.0.0.0 brandmetrics.com
 0.0.0.0 brat-online.ro
@@ -1168,6 +1172,7 @@
 0.0.0.0 cactusglobal.io
 0.0.0.0 cadreon.com
 0.0.0.0 cadreon.s3.amazonaws.com
+0.0.0.0 cahf4eed.mooo.com
 0.0.0.0 calculatorstatement.com
 0.0.0.0 call-tracking.by
 0.0.0.0 call-tracking.co.uk
@@ -1272,6 +1277,7 @@
 0.0.0.0 cguru.ga
 0.0.0.0 ch0p.darty.com
 0.0.0.0 chanalytics.merchantadvantage.com
+0.0.0.0 chanelventure.club
 0.0.0.0 chardandilminsternews-gb.chardandilminsternews.co.uk
 0.0.0.0 chart.dk
 0.0.0.0 chartaca.com
@@ -1638,6 +1644,7 @@
 0.0.0.0 counter.cam-content.com
 0.0.0.0 counter.cnw.cz
 0.0.0.0 counter.de
+0.0.0.0 counter.digits.com
 0.0.0.0 counter.drom.ru
 0.0.0.0 counter.entertainmentwise.com
 0.0.0.0 counter.gd
@@ -1809,6 +1816,7 @@
 0.0.0.0 cya1t.net
 0.0.0.0 cya2.net
 0.0.0.0 cybermonitor.com
+0.0.0.0 cyrstalventure.club
 0.0.0.0 cytoclause.com
 0.0.0.0 cyveillance.com
 0.0.0.0 czx5eyk0exbhwp43ya.biz
@@ -2100,6 +2108,7 @@
 0.0.0.0 do09.net
 0.0.0.0 doa1.immobilier-neuf.com
 0.0.0.0 doceree.com
+0.0.0.0 docileyellow.club
 0.0.0.0 doclix.com
 0.0.0.0 docodoco.jp
 0.0.0.0 dojomojo.com
@@ -2285,6 +2294,7 @@
 0.0.0.0 ela-3-tnk.com
 0.0.0.0 elastx.net
 0.0.0.0 electusdigital.com
+0.0.0.0 elevagant.club
 0.0.0.0 elevenmedia.cn
 0.0.0.0 elite-s001.com
 0.0.0.0 elitics.com
@@ -2951,6 +2961,7 @@
 0.0.0.0 grmtech.net
 0.0.0.0 group-ib.ru
 0.0.0.0 growingio.com
+0.0.0.0 growthrx.in
 0.0.0.0 grumrt.com
 0.0.0.0 gsecondscreen.com
 0.0.0.0 gsimedia.net
@@ -2986,6 +2997,7 @@
 0.0.0.0 halesowennews-gb.halesowennews.co.uk
 0.0.0.0 halldata.com
 0.0.0.0 haloscan.com
+0.0.0.0 halospring.club
 0.0.0.0 halstats.com
 0.0.0.0 halsteadgazette-gb.halsteadgazette.co.uk
 0.0.0.0 haltingbadge.com
@@ -3051,6 +3063,7 @@
 0.0.0.0 hit.copesa.cl
 0.0.0.0 hit.interia.pl
 0.0.0.0 hit.meta.ua
+0.0.0.0 hit.mybestpro.com
 0.0.0.0 hit.skrz.cz
 0.0.0.0 hit100.ro
 0.0.0.0 hit2map.com
@@ -3091,6 +3104,7 @@
 0.0.0.0 hobbi.xyz
 0.0.0.0 hocgeese.com
 0.0.0.0 holder.com.ua
+0.0.0.0 hollydeal.club
 0.0.0.0 homelycrown.com
 0.0.0.0 honorableland.com
 0.0.0.0 hoood.info
@@ -3161,6 +3175,7 @@
 0.0.0.0 ibs.indiatimes.com
 0.0.0.0 ic-live.com
 0.0.0.0 iclive.com
+0.0.0.0 iconstab.club
 0.0.0.0 ics0.com
 0.0.0.0 icstats.nl
 0.0.0.0 icu.getstorybox.com
@@ -3244,6 +3259,7 @@
 0.0.0.0 infox.sg
 0.0.0.0 ingage.tech
 0.0.0.0 ingenioustech.biz
+0.0.0.0 ingest.sentry.io
 0.0.0.0 inimbus.com.au
 0.0.0.0 ininmacerad.pro
 0.0.0.0 inistrack.net
@@ -3464,6 +3480,7 @@
 0.0.0.0 kitbit.net
 0.0.0.0 kitchen.juicer.cc
 0.0.0.0 kitcode.net
+0.0.0.0 kiwihk.net
 0.0.0.0 klamm-counter.de
 0.0.0.0 klangoo.com
 0.0.0.0 klarnaservices.com
@@ -3488,6 +3505,7 @@
 0.0.0.0 ksyrium0014.com
 0.0.0.0 ktracker.kumparan.com
 0.0.0.0 ktxtr.com
+0.0.0.0 kungfupan.club
 0.0.0.0 kupona.de
 0.0.0.0 kyson.kakao.com
 0.0.0.0 l.fairblocker.com
@@ -3556,6 +3574,7 @@
 0.0.0.0 lem.nouvelobs.com
 0.0.0.0 lentainform.com
 0.0.0.0 leokross.com
+0.0.0.0 leono.club
 0.0.0.0 les-experts.com
 0.0.0.0 leserservice-tracking.de
 0.0.0.0 letro.jp
@@ -3626,6 +3645,7 @@
 0.0.0.0 lngtd.com
 0.0.0.0 loc.rediff.com
 0.0.0.0 localads-statistics.maps.me
+0.0.0.0 localbeige.club
 0.0.0.0 localhost
 0.0.0.0 localytics.com
 0.0.0.0 lockview.cn
@@ -3729,6 +3749,7 @@
 0.0.0.0 logx.optimizely.com
 0.0.0.0 logxp.ru
 0.0.0.0 logz.ru
+0.0.0.0 lomeldeer.club
 0.0.0.0 lookery.com
 0.0.0.0 lookit.cz
 0.0.0.0 lookmy.info
@@ -3799,8 +3820,10 @@
 0.0.0.0 mailstat.us
 0.0.0.0 mairdumont.com
 0.0.0.0 make.cohesionapps.com
+0.0.0.0 makedosupport.club
 0.0.0.0 maldonandburnhamstandard-gb.maldonandburnhamstandard.co.uk
 0.0.0.0 malverngazette-gb.malverngazette.co.uk
+0.0.0.0 mandatebright.club
 0.0.0.0 maploco.com
 0.0.0.0 mapmyuser.com
 0.0.0.0 mar.vip.com
@@ -3947,6 +3970,7 @@
 0.0.0.0 midas-i.com
 0.0.0.0 midas-network.com
 0.0.0.0 mieru-ca.com
+0.0.0.0 migrati.xyz
 0.0.0.0 milfordmercury-gb.milfordmercury.co.uk
 0.0.0.0 millioncounter.com
 0.0.0.0 mimgoal.com
@@ -4045,11 +4069,11 @@
 0.0.0.0 monkeytracker.cz
 0.0.0.0 monstat.com
 0.0.0.0 monu.delivery
-0.0.0.0 mooo.com
 0.0.0.0 mooseway.com
 0.0.0.0 mopinion.com
 0.0.0.0 mormont.gamer-network.net
 0.0.0.0 morningdigit.com
+0.0.0.0 morozhko.club
 0.0.0.0 mors22.com
 0.0.0.0 motorpresse-statistik.de
 0.0.0.0 motrixi.com
@@ -4090,6 +4114,7 @@
 0.0.0.0 mtracking.com
 0.0.0.0 mts-ws.rueducommerce.fr
 0.0.0.0 mts.mansion.com
+0.0.0.0 muatui.com
 0.0.0.0 multicounter.de
 0.0.0.0 mundanepollution.com
 0.0.0.0 munero.me
@@ -4246,6 +4271,7 @@
 0.0.0.0 ninestats.com
 0.0.0.0 ninja.akamaized.net
 0.0.0.0 ninja.onap.io
+0.0.0.0 nitropay.com
 0.0.0.0 nj1r.valorbuff.com
 0.0.0.0 nkeq.speedrun.com
 0.0.0.0 nm.newegg.com
@@ -4373,6 +4399,7 @@
 0.0.0.0 openclick.com
 0.0.0.0 openguid.org
 0.0.0.0 openhit.com
+0.0.0.0 openlog.in
 0.0.0.0 openstat.net
 0.0.0.0 opentracker.net
 0.0.0.0 opentracking.ru
@@ -4685,6 +4712,7 @@
 0.0.0.0 polarbyte.com
 0.0.0.0 polarcdn-pentos.com
 0.0.0.0 polarcdn-terrax.com
+0.0.0.0 polobook.club
 0.0.0.0 polymorphicads.jp
 0.0.0.0 poolmining.eu
 0.0.0.0 popsample.com
@@ -4860,6 +4888,7 @@
 0.0.0.0 qbaka.net
 0.0.0.0 qbop.com
 0.0.0.0 qchannel03.cn
+0.0.0.0 qflm.net
 0.0.0.0 qhupdate.com
 0.0.0.0 qlfsat.co.uk
 0.0.0.0 qlitics.com
@@ -4983,6 +5012,7 @@
 0.0.0.0 reedbusiness.net
 0.0.0.0 reedge.com
 0.0.0.0 ref.dealerinspire.com
+0.0.0.0 refer.ccbill.com
 0.0.0.0 referer.org
 0.0.0.0 referer.pixplug.in
 0.0.0.0 referforex.com
@@ -5218,6 +5248,7 @@
 0.0.0.0 sambaads.com
 0.0.0.0 san-spr-01.net
 0.0.0.0 sana.newsinc.com.s3.amazonaws.com
+0.0.0.0 santuforward.club
 0.0.0.0 sapha.com
 0.0.0.0 sare25.com
 0.0.0.0 sarimsol.com
@@ -5372,6 +5403,7 @@
 0.0.0.0 shockinggrass.com
 0.0.0.0 shockingship.com
 0.0.0.0 shoelace.com
+0.0.0.0 shopimind.com
 0.0.0.0 shopmetric.rediff.com
 0.0.0.0 shopnetic.com
 0.0.0.0 shopperapproved.com
@@ -6042,6 +6074,8 @@
 0.0.0.0 superstat.info
 0.0.0.0 superstats.com
 0.0.0.0 supert.ag
+0.0.0.0 supertraders.club
+0.0.0.0 supertraders.info
 0.0.0.0 supportxmr.com
 0.0.0.0 surefire.link
 0.0.0.0 surfcounters.com
@@ -6182,6 +6216,7 @@
 0.0.0.0 tamedia.ch
 0.0.0.0 tamgrt.com
 0.0.0.0 tangibleteam.com
+0.0.0.0 tantrumall.club
 0.0.0.0 tanx.com
 0.0.0.0 tapad.com
 0.0.0.0 tapfiliate.com
@@ -6666,6 +6701,7 @@
 0.0.0.0 tracking.rightmessage.com
 0.0.0.0 tracking.rtl.de
 0.0.0.0 tracking.s24.com
+0.0.0.0 tracking.scenepass.com
 0.0.0.0 tracking.searchmarketing.com
 0.0.0.0 tracking.sembox.it
 0.0.0.0 tracking.shopstyle.com
@@ -6727,6 +6763,7 @@
 0.0.0.0 tradedoubler.com
 0.0.0.0 tradelab.fr
 0.0.0.0 tradescape.biz
+0.0.0.0 tradesecretz.info
 0.0.0.0 trafex.net
 0.0.0.0 traffer.net
 0.0.0.0 traffic.acwebconnecting.com
@@ -6828,6 +6865,7 @@
 0.0.0.0 trustiseverything.de
 0.0.0.0 trustmeiamapro.de
 0.0.0.0 trx.smdatalabs.com
+0.0.0.0 trx3.famousfix.com
 0.0.0.0 try.abtasty.com
 0.0.0.0 trysera.com
 0.0.0.0 ts.faz.net
@@ -7030,6 +7068,7 @@
 0.0.0.0 vgo.vegaoopro.com
 0.0.0.0 vi-serve.com
 0.0.0.0 viapush.com
+0.0.0.0 vicspendig.club
 0.0.0.0 video-ad-stats.googlesyndication.com
 0.0.0.0 video-stats.video.google.com
 0.0.0.0 video.oms.eu
@@ -7047,6 +7086,7 @@
 0.0.0.0 views.cancan.ro
 0.0.0.0 vihtori-analytics.fi
 0.0.0.0 vilynx.com
+0.0.0.0 vinchenmedia.club
 0.0.0.0 vinlens.com
 0.0.0.0 vinsight.de
 0.0.0.0 vinub.com
