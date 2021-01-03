@@ -1,6 +1,6 @@
-# Version: 202012262341
+# Version: 202101021652
 # Title: EasyPrivacy
-# Last modified: 26 Dec 2020 23:41 UTC
+# Last modified: 02 Jan 2021 16:52 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -266,6 +266,8 @@ adrta.com
 ads-trk.vidible.tv
 ads.bridgetrack.com
 adschoom.com
+adsco.re
+adscore.com
 adsensedetective.com
 adsettings.com
 adsixmedia.fr
@@ -535,6 +537,7 @@ analytics.logsss.com
 analytics.loop-cloud.de
 analytics.mailmunch.co
 analytics.matchbin.com
+analytics.mbga.jp
 analytics.meaww.com
 analytics.meituan.net
 analytics.midwesternmac.com
@@ -1373,6 +1376,7 @@ clicks.hurriyet.com.tr
 clicks.traffictrader.net
 clicksagent.com
 clicksen.se
+clicksgate.com
 clickshift.com
 clickstream.co.za
 clicktale.net
@@ -1886,6 +1890,7 @@ d2ry9vue95px0b.cloudfront.net
 d2san7t27xb2pn.cloudfront.net
 d2tcg4i9q4js4a.cloudfront.net
 d2tgfbvjf3q6hn.cloudfront.net
+d2wy8f7a9ursnm.cloudfront.net
 d2xgf76oeu9pbh.cloudfront.net
 d303e3cdddb4ded4b6ff495a7b496ed5.s3.amazonaws.com
 d32hwlnfiv2gyn.cloudfront.net
@@ -2113,6 +2118,7 @@ doclix.com
 docodoco.jp
 dojomojo.com
 dojomojo.ninja
+dollardelta.com
 dominocounter.net
 domodomain.com
 donreach.com
@@ -2746,6 +2752,7 @@ g4p.redtram.com
 g5150192710.co
 g5348277045.co
 g5546361380.co
+g5744445715.co
 ga-analytics.com
 ga-beacon.appspot.com
 ga.canoe.ca
@@ -3436,6 +3443,7 @@ justuno.com
 jwmstats.com
 jyhfuqoh.info
 k-analytix.com
+k.kolplay.com
 k.rueducommerce.fr
 k.streamrail.com
 k3node.com
@@ -3680,6 +3688,7 @@ log.optimizely.com
 log.outbrain.com
 log.outbrainimg.com
 log.pinterest.com
+log.plinga.de
 log.popin.cc
 log.prezi.com
 log.ren.tv
@@ -4271,6 +4280,7 @@ nimpool.io
 ninestats.com
 ninja.akamaized.net
 ninja.onap.io
+ninjacat.io
 nitropay.com
 nj1r.valorbuff.com
 nkeq.speedrun.com
@@ -4537,6 +4547,7 @@ pepperjam.com
 perceivequarter.com
 percentmobile.com
 percycle.com
+perf-serving.com
 perf.dugout.com
 perfdrive.com
 perfectaudience.com
@@ -5539,6 +5550,7 @@ socketviking.net
 socsi.in
 sodoit.com
 soflopxl.com
+soft-com.biz
 softonic-analytics.net
 sojern.com
 soko.ai
@@ -6647,6 +6659,7 @@ tracking.foodblog.it
 tracking.g2crowd.com
 tracking.gameforge.de
 tracking.godatafeed.com
+tracking.gpm-rtv.ru
 tracking.gruppo.mps.it
 tracking.ha.rueducommerce.fr
 tracking.hannoversche.de
