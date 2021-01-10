@@ -1,6 +1,6 @@
-# Version: 202101021652
+# Version: 202101100023
 # Title: EasyPrivacy
-# Last modified: 02 Jan 2021 16:52 UTC
+# Last modified: 10 Jan 2021 00:23 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -95,6 +95,7 @@
 0.0.0.0 7eer.net
 0.0.0.0 7lbd4.armandthiery.fr
 0.0.0.0 7mx.eider.com
+0.0.0.0 7q1z79gxsi.global.ssl.fastly.net
 0.0.0.0 7x4.fr
 0.0.0.0 7x5.fr
 0.0.0.0 8020solutions.net
@@ -117,7 +118,6 @@
 0.0.0.0 a.o2u.jp
 0.0.0.0 a.tovarro.com
 0.0.0.0 a013.com
-0.0.0.0 a3xo-eng.spankbang.com
 0.0.0.0 a4b-tracking.com
 0.0.0.0 a4st.club
 0.0.0.0 a8.net
@@ -339,6 +339,7 @@
 0.0.0.0 affinitymatrix.com
 0.0.0.0 affistats.com
 0.0.0.0 afftrack.pro
+0.0.0.0 afi-b.com
 0.0.0.0 afraidlanguage.com
 0.0.0.0 africal.info
 0.0.0.0 afsanalytics.com
@@ -717,7 +718,6 @@
 0.0.0.0 as.mytoys.de
 0.0.0.0 as.payback.it
 0.0.0.0 as.yomonda.de
-0.0.0.0 as01.overbuff.com
 0.0.0.0 asadcdn.com
 0.0.0.0 ascend.ai
 0.0.0.0 aserve.directorym.com
@@ -960,6 +960,7 @@
 0.0.0.0 bettermetrics.co
 0.0.0.0 beusable.net
 0.0.0.0 bewaslac.com
+0.0.0.0 beyondsecurity.com
 0.0.0.0 bf-tools.net
 0.0.0.0 bfmio.com
 0.0.0.0 bfoleyinteractive.com
@@ -1138,6 +1139,7 @@
 0.0.0.0 bux1le001.com
 0.0.0.0 buzzdeck.com
 0.0.0.0 buzzoole.com
+0.0.0.0 bvr.ast.snva.jp
 0.0.0.0 byebye.ml
 0.0.0.0 bytedance.com
 0.0.0.0 bytemgdd.com
@@ -1199,6 +1201,7 @@
 0.0.0.0 canvas-ping.conduit-data.com
 0.0.0.0 canvas-usage-v2.conduit-data.com
 0.0.0.0 caphyon-analytics.com
+0.0.0.0 capi.connatix.com
 0.0.0.0 capriciouscorn.com
 0.0.0.0 capsquirrel.com
 0.0.0.0 captify.co.uk
@@ -1300,6 +1303,7 @@
 0.0.0.0 christiantop1000.com
 0.0.0.0 christmalicious.com
 0.0.0.0 chrumedia.com
+0.0.0.0 chtbl.com
 0.0.0.0 cifraclub.com.br
 0.0.0.0 cint.com
 0.0.0.0 cintnetworks.com
@@ -1456,6 +1460,7 @@
 0.0.0.0 cnstats.ru
 0.0.0.0 cnt.3dmy.net
 0.0.0.0 cnt.iceporn.com
+0.0.0.0 cnt.krasland.ru
 0.0.0.0 cnt.logoslovo.ru
 0.0.0.0 cnt.mastorage.net
 0.0.0.0 cnt.nicemix.com
@@ -1553,7 +1558,6 @@
 0.0.0.0 confirm-referer.glrsales.com
 0.0.0.0 confirmational.com
 0.0.0.0 confirmit.com
-0.0.0.0 connatix.com
 0.0.0.0 connectif.cloud
 0.0.0.0 consciouschairs.com
 0.0.0.0 consent.api.osano.com
@@ -1593,6 +1597,7 @@
 0.0.0.0 convertglobal.com
 0.0.0.0 convertro.com
 0.0.0.0 convsgmp.taboola.com
+0.0.0.0 cookie.sync.usonar.jp
 0.0.0.0 cookies.livepartners.com
 0.0.0.0 cookies.reedbusiness.nl
 0.0.0.0 cookiescript.info
@@ -1806,6 +1811,7 @@
 0.0.0.0 curalate.com
 0.0.0.0 curated.fieldtest.cc
 0.0.0.0 curvycry.com
+0.0.0.0 cushionpig.com
 0.0.0.0 customer.io
 0.0.0.0 customerconversio.com
 0.0.0.0 customeriomail.codecademy.com
@@ -1878,7 +1884,9 @@
 0.0.0.0 d25ezbwokoefx6.cloudfront.net
 0.0.0.0 d28g9g3vb08y70.cloudfront.net
 0.0.0.0 d2as12kgjg8gw5.cloudfront.net
+0.0.0.0 d2axgrpnciinw7.cloudfront.net
 0.0.0.0 d2cpw6kwpff7n5.cloudfront.net
+0.0.0.0 d2gbtcuv3w9qyv.cloudfront.net
 0.0.0.0 d2ibu2ug0mt5qp.cloudfront.net
 0.0.0.0 d2kdl5wcwrtj90.cloudfront.net
 0.0.0.0 d2nxi61n77zqpl.cloudfront.net
@@ -1904,6 +1912,7 @@
 0.0.0.0 d3cxv97fi8q177.cloudfront.net
 0.0.0.0 d3f5l8ze0o4j2m.cloudfront.net
 0.0.0.0 d3iouejux1os58.cloudfront.net
+0.0.0.0 d3j1weegxvu8ns.cloudfront.net
 0.0.0.0 d3kyk5bao1crtw.cloudfront.net
 0.0.0.0 d3l3lkinz3f56t.cloudfront.net
 0.0.0.0 d3m6sept6cnil5.cloudfront.net
@@ -1984,6 +1993,7 @@
 0.0.0.0 dc8na2hxrj29i.cloudfront.net
 0.0.0.0 dc8xl0ndzn2cb.cloudfront.net
 0.0.0.0 dccss.banggood.com
+0.0.0.0 dcf.espn.com
 0.0.0.0 dcmn.com
 0.0.0.0 dcmn.io
 0.0.0.0 dd.nytimes.com
@@ -2187,6 +2197,7 @@
 0.0.0.0 dyntrk.com
 0.0.0.0 dyv1bugovvq1g.cloudfront.net
 0.0.0.0 dzizsih.ru
+0.0.0.0 e-click.jp
 0.0.0.0 e-contenta.com
 0.0.0.0 e-goi.com
 0.0.0.0 e-kaiseki.com
@@ -2322,6 +2333,7 @@
 0.0.0.0 emxdgt.com
 0.0.0.0 encoderfarmstatsnew.servicebus.windows.net
 0.0.0.0 encoding.ovh
+0.0.0.0 endurablecrayon.com
 0.0.0.0 enecto.com
 0.0.0.0 enfieldindependent-gb.enfieldindependent.co.uk
 0.0.0.0 engage-cdn.schibsted.media
@@ -2406,6 +2418,11 @@
 0.0.0.0 etzbnfuigipwvs.ru
 0.0.0.0 eu-survey.com
 0.0.0.0 eu.groupondata.com
+0.0.0.0 eu1l.dotabuff.com
+0.0.0.0 eu1l.overbuff.com
+0.0.0.0 eu1l.speedrun.com
+0.0.0.0 eu1l.trackdota.com
+0.0.0.0 eu1l.valorbuff.com
 0.0.0.0 eucsoft.com
 0.0.0.0 eulerian.belambra.be
 0.0.0.0 eulerian.belambra.fr
@@ -2441,6 +2458,7 @@
 0.0.0.0 event.dkb.de
 0.0.0.0 event.getblue.io
 0.0.0.0 event.syndigo.cloud
+0.0.0.0 event.webcollage.net
 0.0.0.0 eventapi.libring.com
 0.0.0.0 eventcapture03.com
 0.0.0.0 eventgateway.soundcloud.com
@@ -2715,6 +2733,7 @@
 0.0.0.0 futuristicfifth.com
 0.0.0.0 fuziontech.net
 0.0.0.0 fuzzybasketball.com
+0.0.0.0 fw-ad.jp
 0.0.0.0 fwpixel.com
 0.0.0.0 fyreball.com
 0.0.0.0 fyrsbckgi-c.global.ssl.fastly.net
@@ -2880,7 +2899,6 @@
 0.0.0.0 gixmo.dk
 0.0.0.0 gj.mmstat.com
 0.0.0.0 gjr5.yoigo.com
-0.0.0.0 gk3o.trackdota.com
 0.0.0.0 glanceguide.com
 0.0.0.0 glasgowtimes-gb.glasgowtimes.co.uk
 0.0.0.0 glassboxcdn.com
@@ -2888,6 +2906,7 @@
 0.0.0.0 glassmoni.researchgate.net
 0.0.0.0 glbdns.microsoft.com
 0.0.0.0 glbtracker.com
+0.0.0.0 gleam.io
 0.0.0.0 glisteningguide.com
 0.0.0.0 global.ssl.fastly.net
 0.0.0.0 globalsiteanalytics.com
@@ -3136,6 +3155,7 @@
 0.0.0.0 hpr.outbrain.com
 0.0.0.0 hrum.hotelsapi.io
 0.0.0.0 hs-analytics.net
+0.0.0.0 hs-scripts.com
 0.0.0.0 hsadspixel.net
 0.0.0.0 hscta.net
 0.0.0.0 hsdn.org
@@ -3288,6 +3308,7 @@
 0.0.0.0 insight.rapid7.com
 0.0.0.0 insightera.com
 0.0.0.0 insightgrit.com
+0.0.0.0 insights.algolia.io
 0.0.0.0 insights.blogfoster.com
 0.0.0.0 insights.cdt.ch
 0.0.0.0 insights.plista.com
@@ -3409,6 +3430,7 @@
 0.0.0.0 izea.com
 0.0.0.0 izearanks.com
 0.0.0.0 j93557g.com
+0.0.0.0 jac.yahoosandbox.com
 0.0.0.0 jadeitite.com
 0.0.0.0 jamexistence.com
 0.0.0.0 janrain.xyz
@@ -3447,7 +3469,6 @@
 0.0.0.0 k.rueducommerce.fr
 0.0.0.0 k.streamrail.com
 0.0.0.0 k3node.com
-0.0.0.0 k9v7.dotabuff.com
 0.0.0.0 kaizenplatform.net
 0.0.0.0 kalstats.kaltura.com
 0.0.0.0 kameleoon.com
@@ -3473,6 +3494,7 @@
 0.0.0.0 keyword-match.com
 0.0.0.0 keyword.daumdn.com
 0.0.0.0 keywordmax.com
+0.0.0.0 keywords.complex.com
 0.0.0.0 keywordstrategy.org
 0.0.0.0 keyxel.com
 0.0.0.0 kidderminstershuttle-gb.kidderminstershuttle.co.uk
@@ -3898,6 +3920,7 @@
 0.0.0.0 meatydime.com
 0.0.0.0 mebablo.com
 0.0.0.0 medallia.com
+0.0.0.0 medals.bizrate.com
 0.0.0.0 media01.eu
 0.0.0.0 mediaarmor.com
 0.0.0.0 mediaforgews.com
@@ -4104,7 +4127,6 @@
 0.0.0.0 mpwe.net
 0.0.0.0 mql5.com
 0.0.0.0 mqs.ioam.de
-0.0.0.0 mqzy.dotabuff.com
 0.0.0.0 mr-rank.de
 0.0.0.0 ms-apps.haaretz.com
 0.0.0.0 ms.computerbild.de
@@ -4121,6 +4143,7 @@
 0.0.0.0 mtc.nhk.or.jp
 0.0.0.0 mtrack.nl
 0.0.0.0 mtracking.com
+0.0.0.0 mtrcs.samba.tv
 0.0.0.0 mts-ws.rueducommerce.fr
 0.0.0.0 mts.mansion.com
 0.0.0.0 muatui.com
@@ -4282,8 +4305,6 @@
 0.0.0.0 ninja.onap.io
 0.0.0.0 ninjacat.io
 0.0.0.0 nitropay.com
-0.0.0.0 nj1r.valorbuff.com
-0.0.0.0 nkeq.speedrun.com
 0.0.0.0 nm.newegg.com
 0.0.0.0 nmtracking.netflix.com
 0.0.0.0 noa0.compteczam.fr
@@ -4319,7 +4340,6 @@
 0.0.0.0 nuggad.net
 0.0.0.0 nuloox.com
 0.0.0.0 numerino.cz
-0.0.0.0 nvea.valorbuff.com
 0.0.0.0 nws.naltis.com
 0.0.0.0 nxakpj4ac8gkd53.info
 0.0.0.0 nyctrl32.com
@@ -4527,6 +4547,7 @@
 0.0.0.0 pc-agency24.de
 0.0.0.0 pc1.io
 0.0.0.0 pcgamer-gb.pcgamer.com
+0.0.0.0 pci3oo5mg4mn-a.akamaihd.net
 0.0.0.0 pclick.europe.yahoo.com
 0.0.0.0 pclick.internal.yahoo.com
 0.0.0.0 pclick.yahoo.com
@@ -4552,8 +4573,10 @@
 0.0.0.0 perfdrive.com
 0.0.0.0 perfectaudience.com
 0.0.0.0 perfiliate.com
+0.0.0.0 perfops.io
 0.0.0.0 perfops.net
 0.0.0.0 performanceanalyser.net
+0.0.0.0 performancefirst.jp
 0.0.0.0 performanceplay.co.kr
 0.0.0.0 performancerevenues.com
 0.0.0.0 performances.bestofmedia.com
@@ -4748,7 +4771,6 @@
 0.0.0.0 ppf.rakuten.co.jp
 0.0.0.0 pphwrevr.com
 0.0.0.0 ppro.de
-0.0.0.0 pqoz.trackdota.com
 0.0.0.0 pr-chart.com
 0.0.0.0 pr-chart.de
 0.0.0.0 pr-linktausch.de
@@ -4993,6 +5015,7 @@
 0.0.0.0 realist.gen.tr
 0.0.0.0 realizerecess.com
 0.0.0.0 realizevacation.com
+0.0.0.0 realm.hearst3pcc.com
 0.0.0.0 realtimewebstats.net
 0.0.0.0 realtracker.com
 0.0.0.0 realtracking.ninja
@@ -5187,6 +5210,7 @@
 0.0.0.0 rtb.connatix.com
 0.0.0.0 rtb123.com
 0.0.0.0 rtbiq.com
+0.0.0.0 rtg-endpoint.global.ssl.fastly.net
 0.0.0.0 rtmark.net
 0.0.0.0 rtn.thestar.com
 0.0.0.0 rtoaster.jp
@@ -5281,6 +5305,7 @@
 0.0.0.0 sc.cc.com
 0.0.0.0 scaledb.com
 0.0.0.0 scaleway.ovh
+0.0.0.0 scanverify.com
 0.0.0.0 scarabresearch.com
 0.0.0.0 scaredsnake.com
 0.0.0.0 schoolyeargo.com
@@ -5315,8 +5340,10 @@
 0.0.0.0 sddan.com
 0.0.0.0 sdrive.skoda-auto.com
 0.0.0.0 sea-nov-1.com
+0.0.0.0 seal.digicert.com
 0.0.0.0 seal.godaddy.com
 0.0.0.0 seal.networksolutions.com
+0.0.0.0 seal.qualys.com
 0.0.0.0 seal.verisign.com
 0.0.0.0 sealine.pro
 0.0.0.0 sealserver.trustwave.com
@@ -5332,6 +5359,7 @@
 0.0.0.0 secureanalytic.com
 0.0.0.0 securepaths.com
 0.0.0.0 securite.01net.com
+0.0.0.0 securitymetrics.com
 0.0.0.0 securitytrfx.com
 0.0.0.0 sedotracker.com
 0.0.0.0 sedotracker.de
@@ -6196,6 +6224,7 @@
 0.0.0.0 tag.aumago.com
 0.0.0.0 tag.boulanger.fr
 0.0.0.0 tag.brandcdn.com
+0.0.0.0 tag.cribnotes.jp
 0.0.0.0 tag.goldenbees.fr
 0.0.0.0 tag.leadplace.fr
 0.0.0.0 tag.myplay.com
@@ -6286,6 +6315,8 @@
 0.0.0.0 ted.metro.co.uk
 0.0.0.0 tedioustooth.com
 0.0.0.0 telemetric.dk
+0.0.0.0 telemetrics.klaviyo.com
+0.0.0.0 telemetry.api.wmcdp.io
 0.0.0.0 telemetry.art19.com
 0.0.0.0 telemetry.jivosite.com
 0.0.0.0 telemetry.reembed.com
@@ -6875,6 +6906,7 @@
 0.0.0.0 truepush.com
 0.0.0.0 trugaze.io
 0.0.0.0 truoptik.com
+0.0.0.0 trusted-web-seal.cybertrust.ne.jp
 0.0.0.0 trustiseverything.de
 0.0.0.0 trustmeiamapro.de
 0.0.0.0 trx.smdatalabs.com
@@ -7028,7 +7060,6 @@
 0.0.0.0 utrack.hexun.com
 0.0.0.0 uts.auction.co.kr
 0.0.0.0 uue2.destinia.ir
-0.0.0.0 uuqz.overbuff.com
 0.0.0.0 uuxnwoevyb.com
 0.0.0.0 uzerly.net
 0.0.0.0 uzrating.com
@@ -7060,6 +7091,7 @@
 0.0.0.0 vepxl1.net
 0.0.0.0 vercel-analytics.com
 0.0.0.0 verifier.live
+0.0.0.0 verify.authorize.net
 0.0.0.0 verifypow.com
 0.0.0.0 verseballs.com
 0.0.0.0 vertical-leap.co.uk
@@ -7532,7 +7564,7 @@
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2021-01-03 00:36:20.794342
+# Generated at 2021-01-10 00:42:25.714378
 
 0.0.0.0 databerries.com
 0.0.0.0 fidzup
