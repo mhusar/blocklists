@@ -1,6 +1,6 @@
-# Version: 202101100023
+# Version: 202101162319
 # Title: EasyPrivacy
-# Last modified: 10 Jan 2021 00:23 UTC
+# Last modified: 16 Jan 2021 23:19 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -254,6 +254,7 @@
 0.0.0.0 adpaths.com
 0.0.0.0 adpick.co.kr
 0.0.0.0 adpies.com
+0.0.0.0 adplan7.com
 0.0.0.0 adplusplus.fr
 0.0.0.0 adpon.jp
 0.0.0.0 adprotraffic.com
@@ -321,6 +322,7 @@
 0.0.0.0 affilbox.cz
 0.0.0.0 affiliate.iamplify.com
 0.0.0.0 affiliate.mediatemple.net
+0.0.0.0 affiliate.rakuten.co.jp
 0.0.0.0 affiliate.resellerclub.com
 0.0.0.0 affiliateedge.eu
 0.0.0.0 affiliates.genealogybank.com
@@ -698,6 +700,7 @@
 0.0.0.0 apsislead.com
 0.0.0.0 apxy.io
 0.0.0.0 aqtracker.com
+0.0.0.0 ar-x.site
 0.0.0.0 ar.i-run.fr
 0.0.0.0 aralego.net
 0.0.0.0 arcadeweb.com
@@ -722,6 +725,7 @@
 0.0.0.0 ascend.ai
 0.0.0.0 aserve.directorym.com
 0.0.0.0 asianimage-gb.asianimage.co.uk
+0.0.0.0 aspservice.jp
 0.0.0.0 assoctrac.com
 0.0.0.0 astat.nikkei.com
 0.0.0.0 asteriresearch.com
@@ -904,6 +908,7 @@
 0.0.0.0 beacon.toyota.co.jp
 0.0.0.0 beacon.viewlift.com
 0.0.0.0 beacon.walmart.com
+0.0.0.0 beacon.watch.impress.co.jp
 0.0.0.0 beacon.wikia-services.com
 0.0.0.0 beacon.www.theguardian.com
 0.0.0.0 beacon2.indieclick.com
@@ -1140,8 +1145,8 @@
 0.0.0.0 buzzdeck.com
 0.0.0.0 buzzoole.com
 0.0.0.0 bvr.ast.snva.jp
+0.0.0.0 bvr.snva.jp
 0.0.0.0 byebye.ml
-0.0.0.0 bytedance.com
 0.0.0.0 bytemgdd.com
 0.0.0.0 bzclk.baidu.com
 0.0.0.0 c-o-u-n-t.com
@@ -1201,7 +1206,6 @@
 0.0.0.0 canvas-ping.conduit-data.com
 0.0.0.0 canvas-usage-v2.conduit-data.com
 0.0.0.0 caphyon-analytics.com
-0.0.0.0 capi.connatix.com
 0.0.0.0 capriciouscorn.com
 0.0.0.0 capsquirrel.com
 0.0.0.0 captify.co.uk
@@ -1993,7 +1997,6 @@
 0.0.0.0 dc8na2hxrj29i.cloudfront.net
 0.0.0.0 dc8xl0ndzn2cb.cloudfront.net
 0.0.0.0 dccss.banggood.com
-0.0.0.0 dcf.espn.com
 0.0.0.0 dcmn.com
 0.0.0.0 dcmn.io
 0.0.0.0 dd.nytimes.com
@@ -2022,6 +2025,7 @@
 0.0.0.0 deliv.lexpress.fr
 0.0.0.0 deliver.oztam.com.au
 0.0.0.0 deliver.ptgncdn.com
+0.0.0.0 delivery.satr.jp
 0.0.0.0 demandbase.com
 0.0.0.0 demandmedia.s3.amazonaws.com
 0.0.0.0 demdex.net
@@ -2711,6 +2715,7 @@
 0.0.0.0 fs-client-logger.herokuapp.com
 0.0.0.0 fsd2.digital
 0.0.0.0 fsm.lapresse.ca
+0.0.0.0 fspark-ap.com
 0.0.0.0 fstats.xyz
 0.0.0.0 fstrk.net
 0.0.0.0 fsz1.francoisesaget.com
@@ -2876,6 +2881,7 @@
 0.0.0.0 getconversion.net
 0.0.0.0 getdrip.com
 0.0.0.0 getfreebl.com
+0.0.0.0 getjad.io
 0.0.0.0 getpushmonkey.com
 0.0.0.0 getrockerbox.com
 0.0.0.0 gets.faz.net
@@ -3016,6 +3022,7 @@
 0.0.0.0 gwmtracking.com
 0.0.0.0 gx.idg.se
 0.0.0.0 gxgydnhz.com
+0.0.0.0 gyro-n.com
 0.0.0.0 h-bid.com
 0.0.0.0 h.cliphunter.com
 0.0.0.0 h.imedia.cz
@@ -3064,6 +3071,7 @@
 0.0.0.0 hetchi.com
 0.0.0.0 hexagon-analytics.com
 0.0.0.0 heyhelga.net
+0.0.0.0 heyloyalty.com
 0.0.0.0 heymatic.com
 0.0.0.0 heystaks.com
 0.0.0.0 hi.hellobar.com
@@ -3286,7 +3294,6 @@
 0.0.0.0 infox.sg
 0.0.0.0 ingage.tech
 0.0.0.0 ingenioustech.biz
-0.0.0.0 ingest.sentry.io
 0.0.0.0 inimbus.com.au
 0.0.0.0 ininmacerad.pro
 0.0.0.0 inistrack.net
@@ -3439,6 +3446,7 @@
 0.0.0.0 jdoqocy.com
 0.0.0.0 jeeng.com
 0.0.0.0 jelly.mdhv.io
+0.0.0.0 jen.jiji.com
 0.0.0.0 jiankongbao.com
 0.0.0.0 jirafe.com
 0.0.0.0 jixie.io
@@ -3973,6 +3981,7 @@
 0.0.0.0 metrics.ee.co.uk
 0.0.0.0 metrics.el-mundo.net
 0.0.0.0 metrics.extremetech.com
+0.0.0.0 metrics.getvitals.io
 0.0.0.0 metrics.n-tv.de
 0.0.0.0 metrics.readme.io
 0.0.0.0 metrics.scribblelive.com
@@ -4107,6 +4116,7 @@
 0.0.0.0 morningdigit.com
 0.0.0.0 morozhko.club
 0.0.0.0 mors22.com
+0.0.0.0 moshimo.com
 0.0.0.0 motorpresse-statistik.de
 0.0.0.0 motrixi.com
 0.0.0.0 mouse3k.com
@@ -4133,6 +4143,7 @@
 0.0.0.0 msecure108.com
 0.0.0.0 msg.71.am
 0.0.0.0 msgapp.com
+0.0.0.0 msgfocus.com
 0.0.0.0 msgs.jp
 0.0.0.0 msgtag.com
 0.0.0.0 msparktrk.com
@@ -4490,6 +4501,7 @@
 0.0.0.0 p.delivery.net
 0.0.0.0 p.eyebuydirect-cmr.net
 0.0.0.0 p.gazeta.pl
+0.0.0.0 p.kolplay.com
 0.0.0.0 p.milliyet.com.tr
 0.0.0.0 p.pagesjaunes.fr
 0.0.0.0 p.raasnet.com
@@ -4526,6 +4538,7 @@
 0.0.0.0 pap.zalando.de
 0.0.0.0 papoto.com
 0.0.0.0 parameter.dk
+0.0.0.0 parametre.online
 0.0.0.0 parcelcreature.com
 0.0.0.0 parklogic.com
 0.0.0.0 parrable.com
@@ -4775,6 +4788,7 @@
 0.0.0.0 pr-chart.de
 0.0.0.0 pr-linktausch.de
 0.0.0.0 pr-sunshine.de
+0.0.0.0 pr.ameba.jp
 0.0.0.0 pr.blogflux.com
 0.0.0.0 pr0gram.org
 0.0.0.0 prchecker.info
@@ -4967,6 +4981,7 @@
 0.0.0.0 rampanel.com
 0.0.0.0 rampmetrics.com
 0.0.0.0 rand.com.ru
+0.0.0.0 rangecake.com
 0.0.0.0 rank-hits.com
 0.0.0.0 rank-power.com
 0.0.0.0 rank4all.eu
@@ -4975,6 +4990,7 @@
 0.0.0.0 ranking-counter.de
 0.0.0.0 ranking-hits.de
 0.0.0.0 ranking-links.de
+0.0.0.0 ranking.apis.sankei-digital.co.jp
 0.0.0.0 rankingpartner.com
 0.0.0.0 rankings24.de
 0.0.0.0 rankinteractive.com
@@ -5093,6 +5109,7 @@
 0.0.0.0 reports.pagesuite-professional.co.uk
 0.0.0.0 reprocautious.com
 0.0.0.0 request.issuu.com
+0.0.0.0 requestmetrics.com
 0.0.0.0 res-x.com
 0.0.0.0 res.rbl.ms
 0.0.0.0 research-artisan.com
@@ -5341,6 +5358,7 @@
 0.0.0.0 sdrive.skoda-auto.com
 0.0.0.0 sea-nov-1.com
 0.0.0.0 seal.digicert.com
+0.0.0.0 seal.globalsign.com
 0.0.0.0 seal.godaddy.com
 0.0.0.0 seal.networksolutions.com
 0.0.0.0 seal.qualys.com
@@ -5374,6 +5392,7 @@
 0.0.0.0 segment.io
 0.0.0.0 segmentify.com
 0.0.0.0 segments.adap.tv
+0.0.0.0 segs.jp
 0.0.0.0 seitwert.de
 0.0.0.0 selaris.com
 0.0.0.0 selectivesummer.com
@@ -5397,6 +5416,7 @@
 0.0.0.0 sendtraffic.com
 0.0.0.0 sensic.net
 0.0.0.0 sensor.org.ua
+0.0.0.0 sentry.io
 0.0.0.0 seo-master.net
 0.0.0.0 seomonitor.ro
 0.0.0.0 seomoz.org
@@ -5599,6 +5619,7 @@
 0.0.0.0 sourcepoint-mms.aetv.com
 0.0.0.0 sourcepoint-mms.history.com
 0.0.0.0 sourcepoint-mms.mylifetime.com
+0.0.0.0 sourcepoint.dexerto.com
 0.0.0.0 sourcepoint.vice.com
 0.0.0.0 southendstandard-gb.southendstandard.co.uk
 0.0.0.0 southwalesargus-gb.southwalesargus.co.uk
@@ -6225,6 +6246,7 @@
 0.0.0.0 tag.boulanger.fr
 0.0.0.0 tag.brandcdn.com
 0.0.0.0 tag.cribnotes.jp
+0.0.0.0 tag.elevaate.io
 0.0.0.0 tag.goldenbees.fr
 0.0.0.0 tag.leadplace.fr
 0.0.0.0 tag.myplay.com
@@ -6251,6 +6273,7 @@
 0.0.0.0 tags.refinery89.com
 0.0.0.0 tagsrvcs.com
 0.0.0.0 tagtool.de
+0.0.0.0 tagtracking.vibescm.com
 0.0.0.0 tagtray.com/api
 0.0.0.0 tagx.nytimes.com
 0.0.0.0 tailtarget.com
@@ -6314,6 +6337,7 @@
 0.0.0.0 ted.dailymail.co.uk
 0.0.0.0 ted.metro.co.uk
 0.0.0.0 tedioustooth.com
+0.0.0.0 teenytinycellar.com
 0.0.0.0 telemetric.dk
 0.0.0.0 telemetrics.klaviyo.com
 0.0.0.0 telemetry.api.wmcdp.io
@@ -6426,6 +6450,7 @@
 0.0.0.0 tns-gallup.dk
 0.0.0.0 tns-sifo.se
 0.0.0.0 tns.simba.taobao.com
+0.0.0.0 to.getnitropack.com
 0.0.0.0 toc.io
 0.0.0.0 toecircle.com
 0.0.0.0 tomonline-inc.com
@@ -6479,6 +6504,7 @@
 0.0.0.0 tr.marsflag.com
 0.0.0.0 tr.n2.hk
 0.0.0.0 tr.price.com.hk
+0.0.0.0 tr.reco.combz.jp
 0.0.0.0 tr.snapchat.com
 0.0.0.0 tr.webantenna.info
 0.0.0.0 tr.werkenntwen.de
@@ -6748,6 +6774,7 @@
 0.0.0.0 tracking.scenepass.com
 0.0.0.0 tracking.searchmarketing.com
 0.0.0.0 tracking.sembox.it
+0.0.0.0 tracking.sezzle.com
 0.0.0.0 tracking.shopstyle.com
 0.0.0.0 tracking.shoptogether.buy.com
 0.0.0.0 tracking.skyword.com
@@ -6887,6 +6914,7 @@
 0.0.0.0 trkme.net
 0.0.0.0 trkn.us
 0.0.0.0 trksrv44.com
+0.0.0.0 trmads.eu
 0.0.0.0 trmnsite.com
 0.0.0.0 troubledtail.com
 0.0.0.0 trovus.co.uk
@@ -7344,6 +7372,7 @@
 0.0.0.0 webvisor.com
 0.0.0.0 webvisor.ru
 0.0.0.0 webxmr.com
+0.0.0.0 wecantrack.com
 0.0.0.0 wecount4u.com
 0.0.0.0 welt-der-links.de
 0.0.0.0 wemfbox.ch
@@ -7564,7 +7593,7 @@
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2021-01-10 00:42:25.714378
+# Generated at 2021-01-17 00:55:03.904980
 
 0.0.0.0 databerries.com
 0.0.0.0 fidzup
