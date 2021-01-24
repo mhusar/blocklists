@@ -1,6 +1,6 @@
-# Version: 202101162319
+# Version: 202101232242
 # Title: EasyPrivacy
-# Last modified: 16 Jan 2021 23:19 UTC
+# Last modified: 23 Jan 2021 22:42 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -534,6 +534,7 @@
 0.0.0.0 analytics.linktr.ee
 0.0.0.0 analytics.live.com
 0.0.0.0 analytics.liveact.cri-mw.jp
+0.0.0.0 analytics.livehindustan.com
 0.0.0.0 analytics.livestream.com
 0.0.0.0 analytics.localytics.com
 0.0.0.0 analytics.logsss.com
@@ -673,6 +674,7 @@
 0.0.0.0 anura.io
 0.0.0.0 anxiousapples.com
 0.0.0.0 anymind360.com
+0.0.0.0 aorta.clickagy.com
 0.0.0.0 ape-tagit.timeinc.net
 0.0.0.0 ape78cn2.com
 0.0.0.0 apester.com/event
@@ -969,6 +971,7 @@
 0.0.0.0 bf-tools.net
 0.0.0.0 bfmio.com
 0.0.0.0 bfoleyinteractive.com
+0.0.0.0 bfp.capitalone.com
 0.0.0.0 bglog.bitauto.com
 0.0.0.0 bgpng.me
 0.0.0.0 bhu9.bankia.es
@@ -1235,6 +1238,7 @@
 0.0.0.0 cautiouscrate.com
 0.0.0.0 cautiouscredit.com
 0.0.0.0 cb-mms.carbuyer.co.uk
+0.0.0.0 cbdatatracker.com
 0.0.0.0 cbs.wondershare.com
 0.0.0.0 cbtrk.net
 0.0.0.0 cc.swiftype.com
@@ -1523,6 +1527,7 @@
 0.0.0.0 collector.ksax.com
 0.0.0.0 collector.kstptv5.com
 0.0.0.0 collector.mazeberry.com
+0.0.0.0 collector.ozeex.com
 0.0.0.0 collector.prod.expedia.com
 0.0.0.0 collector.rn.de
 0.0.0.0 collector.roistat.com
@@ -1999,6 +2004,7 @@
 0.0.0.0 dccss.banggood.com
 0.0.0.0 dcmn.com
 0.0.0.0 dcmn.io
+0.0.0.0 dd.lendup.com
 0.0.0.0 dd.nytimes.com
 0.0.0.0 dd6zx4ibq538k.cloudfront.net
 0.0.0.0 ddm.io
@@ -2124,6 +2130,7 @@
 0.0.0.0 dna.uol.com.br
 0.0.0.0 dnab.info
 0.0.0.0 dnn506yrbagrg.cloudfront.net
+0.0.0.0 dnsdelegation.io
 0.0.0.0 do09.net
 0.0.0.0 doa1.immobilier-neuf.com
 0.0.0.0 doceree.com
@@ -3366,6 +3373,7 @@
 0.0.0.0 iocnt.net
 0.0.0.0 iogous.com
 0.0.0.0 iotechnologies.com
+0.0.0.0 iovation.com
 0.0.0.0 ip-api.com
 0.0.0.0 ip-label.net
 0.0.0.0 ip.breitbart.com
@@ -4459,6 +4467,7 @@
 0.0.0.0 optimizely.com
 0.0.0.0 optimizelydata.com
 0.0.0.0 optimost.com
+0.0.0.0 optimove.net
 0.0.0.0 optin-machine.com
 0.0.0.0 optorb.com
 0.0.0.0 oracleinfinity.io
@@ -4583,6 +4592,7 @@
 0.0.0.0 percycle.com
 0.0.0.0 perf-serving.com
 0.0.0.0 perf.dugout.com
+0.0.0.0 perf.mouser.com
 0.0.0.0 perfdrive.com
 0.0.0.0 perfectaudience.com
 0.0.0.0 perfiliate.com
@@ -4755,6 +4765,7 @@
 0.0.0.0 pocitadlo.sk
 0.0.0.0 podfdch.com
 0.0.0.0 pointillist.com
+0.0.0.0 pointmediatracker.com
 0.0.0.0 pointomatic.com
 0.0.0.0 polarbyte.com
 0.0.0.0 polarcdn-pentos.com
@@ -4975,6 +4986,7 @@
 0.0.0.0 radar.imgsmail.ru
 0.0.0.0 radarstats.com
 0.0.0.0 radarurl.com
+0.0.0.0 rail.bankofamerica.com
 0.0.0.0 railwayreason.com
 0.0.0.0 raintwig.com
 0.0.0.0 ramp.purch.com
@@ -6182,6 +6194,7 @@
 0.0.0.0 t.adlpo.com
 0.0.0.0 t.allmodern.com
 0.0.0.0 t.appsflyer.com
+0.0.0.0 t.auditedmedia.org.au
 0.0.0.0 t.av.st
 0.0.0.0 t.beop.io
 0.0.0.0 t.beopinion.com
@@ -6264,7 +6277,9 @@
 0.0.0.0 tagmanager.cn
 0.0.0.0 tagmngrs.com
 0.0.0.0 tags.cdn.circlesix.co
+0.0.0.0 tags.clickagy.com
 0.0.0.0 tags.creativille.co.uk
+0.0.0.0 tags.globo.com
 0.0.0.0 tags.master-perf-tools.com
 0.0.0.0 tags.msnbc.com
 0.0.0.0 tags.news.com.au
@@ -7474,6 +7489,7 @@
 0.0.0.0 x-traceur.com
 0.0.0.0 x.allabout.co.jp
 0.0.0.0 x.bloggurat.net
+0.0.0.0 x.disq.us
 0.0.0.0 x.weather.com
 0.0.0.0 x9.shinobi.jp
 0.0.0.0 xay5o.toscane-boutique.fr
