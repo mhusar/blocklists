@@ -1,6 +1,6 @@
-# Version: 202101232242
+# Version: 202101302302
 # Title: EasyPrivacy
-# Last modified: 23 Jan 2021 22:42 UTC
+# Last modified: 30 Jan 2021 23:02 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -124,6 +124,7 @@ abc.hearst.co.uk
 abc.pema.cl
 abcompteur.com
 abcstats.com
+ablida.net
 ablsrv.com
 abmr.net
 abs.proxistore.com
@@ -1802,6 +1803,7 @@ cts.vresp.com
 cttracking02.com
 cubchannel.com
 cuberoot.co
+culturaltracking.ru
 culturedcrayon.com
 cuntador.com
 curalate.com
@@ -2488,6 +2490,7 @@ events.privy.com
 events.realgravity.com
 events.reddit.com
 events.redditmedia.com
+events.shareably.net
 events.sk.ht
 events.tubecup.org
 events.turbosquid.com
@@ -2810,7 +2813,6 @@ genieedmp.com
 genieessp.jp
 genieesspv.jp
 geo-targetly.com
-geo.6play.fr
 geo.battle.net
 geo.emol.cl
 geo.ertya.com
@@ -3157,7 +3159,6 @@ howsmyssl.com
 hpr.outbrain.com
 hrum.hotelsapi.io
 hs-analytics.net
-hs-scripts.com
 hsadspixel.net
 hscta.net
 hsdn.org
@@ -3443,6 +3444,7 @@ jeeng.com
 jelly.mdhv.io
 jen.jiji.com
 jiankongbao.com
+jill.fc.yahoo.com
 jirafe.com
 jixie.io
 journity.com
@@ -3528,6 +3530,7 @@ knutsfordguardian-gb.knutsfordguardian.co.uk
 koddi.com
 kokos.click
 komtrack.com
+konduit.me
 kono-research.de
 kontagent.net
 kopsil.com
@@ -3564,6 +3567,7 @@ laserveradedomaina.com
 laughcloth.com
 laurel.macrovision.com
 laurel.rovicorp.com
+lciapi.ninthdecimal.com
 lcs.comico.jp
 lcs.livedoor.net
 lddt.de
@@ -4312,6 +4316,7 @@ ninja.onap.io
 ninjacat.io
 nitropay.com
 nm.newegg.com
+nmrodam.com
 nmtracking.netflix.com
 noa0.compteczam.fr
 noflake-aggregator-http.narvar.com
@@ -4407,6 +4412,7 @@ omtrdc.net
 omtvxcle.com
 on-line.lv
 on-push.com
+on.msnbc.com
 onaudience.com
 ondu.ru
 onefeed.co.uk
@@ -4668,6 +4674,7 @@ pixel-static.spotify.com
 pixel.1und1.de
 pixel.4players.de
 pixel.ad
+pixel.ampry.com
 pixel.anyclip.com
 pixel.bild.de
 pixel.blivenyc.com
@@ -4729,6 +4736,7 @@ platform.communicatorcorp.com
 platform.iteratehq.com
 platformpanda.com
 plausible.io
+plavxml.com
 play.mix.kinostuff.com
 player-telemetry.vimeo.com
 pleasantpump.com
@@ -5262,6 +5270,7 @@ s-vop.sundaysky.com
 s.360.cn
 s.agava.ru
 s.clickability.com
+s.clickiocdn.com
 s.edeka.de
 s.infogram.com
 s.qhupdate.com
@@ -5803,6 +5812,7 @@ sstats.mora.jp
 sstats.oui.sncf
 st.arte.tv
 st.cdnco.us
+st.hbrd.io
 st.linkfire.com
 st.tmgrup.com.tr
 stack-sonar.com
@@ -5925,6 +5935,7 @@ stats.avg.com
 stats.bbc.co.uk
 stats.big-boards.com
 stats.binki.es
+stats.bitban.com
 stats.bitgravity.com
 stats.blogg.se
 stats.blogoscoop.net
@@ -6375,6 +6386,7 @@ tget.me
 tgknt.com
 tglyr.co
 tgtag.io
+theactivetag.com
 theadex.com
 theagency.com
 theardent.group
@@ -6582,6 +6594,7 @@ track.sitetag.us
 track.slideshare.net
 track.social.com
 track.sohu.com
+track.spacepush.ru
 track.sprinklecontent.com
 track.strife.com
 track.sunmedia.tv
@@ -6888,6 +6901,7 @@ trends.newsmaxwidget.com
 trezor.efscle.com
 trf.intuitwebsites.com
 trgtcdn.com
+trib.al
 tribl.io
 trick17.it
 triggeredmessaging.com
@@ -7060,7 +7074,6 @@ urtracker.q-sis.de
 usa.cc
 usabilitytools.com
 usabilla.com
-usablenet.com
 usage.seibert-media.io
 usefathom.com
 useg.nextdigital.com.hk
@@ -7596,7 +7609,7 @@ zz.bdstatic.com
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2021-01-24 00:56:00.566153
+# Generated at 2021-01-31 00:27:18.221598
 
 databerries.com
 fidzup
@@ -8150,3 +8163,9 @@ partner-service.link
 prebid.org
 event.split.io
 sdk.split.io
+api.infinario.com
+sygic-api.infinario.com
+ipqualityscore.com
+api.myendpoint.io
+bin5y4muil.execute-api.us-east-1.amazonaws.com
+api.smartechmetrics.com
