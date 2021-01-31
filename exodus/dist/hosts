@@ -1,6 +1,6 @@
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2021-01-24 00:56:00.566153
+# Generated at 2021-01-31 00:27:18.221598
 
 databerries.com
 fidzup
@@ -554,3 +554,9 @@ partner-service.link
 prebid.org
 event.split.io
 sdk.split.io
+api.infinario.com
+sygic-api.infinario.com
+ipqualityscore.com
+api.myendpoint.io
+bin5y4muil.execute-api.us-east-1.amazonaws.com
+api.smartechmetrics.com
