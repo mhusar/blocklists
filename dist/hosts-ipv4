@@ -1,6 +1,6 @@
-# Version: 202101302302
+# Version: 202102062307
 # Title: EasyPrivacy
-# Last modified: 30 Jan 2021 23:02 UTC
+# Last modified: 06 Feb 2021 23:07 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -118,6 +118,114 @@
 0.0.0.0 a.o2u.jp
 0.0.0.0 a.tovarro.com
 0.0.0.0 a013.com
+0.0.0.0 a02342.andoveradvertiser.co.uk
+0.0.0.0 a02342.asianimage.co.uk
+0.0.0.0 a02342.banburycake.co.uk
+0.0.0.0 a02342.barryanddistrictnews.co.uk
+0.0.0.0 a02342.basildonstandard.co.uk
+0.0.0.0 a02342.bicesteradvertiser.net
+0.0.0.0 a02342.borehamwoodtimes.co.uk
+0.0.0.0 a02342.bournemouthecho.co.uk
+0.0.0.0 a02342.braintreeandwithamtimes.co.uk
+0.0.0.0 a02342.brentwoodlive.co.uk
+0.0.0.0 a02342.bridgwatermercury.co.uk
+0.0.0.0 a02342.bridportnews.co.uk
+0.0.0.0 a02342.bromsgroveadvertiser.co.uk
+0.0.0.0 a02342.bucksfreepress.co.uk
+0.0.0.0 a02342.burnhamandhighbridgeweeklynews.co.uk
+0.0.0.0 a02342.burytimes.co.uk
+0.0.0.0 a02342.campaignseries.co.uk
+0.0.0.0 a02342.chardandilminsternews.co.uk
+0.0.0.0 a02342.chelmsfordweeklynews.co.uk
+0.0.0.0 a02342.chorleycitizen.co.uk
+0.0.0.0 a02342.clactonandfrintongazette.co.uk
+0.0.0.0 a02342.cotswoldjournal.co.uk
+0.0.0.0 a02342.cravenherald.co.uk
+0.0.0.0 a02342.dailyecho.co.uk
+0.0.0.0 a02342.darlingtonandstocktontimes.co.uk
+0.0.0.0 a02342.dorsetecho.co.uk
+0.0.0.0 a02342.droitwichadvertiser.co.uk
+0.0.0.0 a02342.dudleynews.co.uk
+0.0.0.0 a02342.ealingtimes.co.uk
+0.0.0.0 a02342.echo-news.co.uk
+0.0.0.0 a02342.enfieldindependent.co.uk
+0.0.0.0 a02342.eppingforestguardian.co.uk
+0.0.0.0 a02342.eveshamjournal.co.uk
+0.0.0.0 a02342.falmouthpacket.co.uk
+0.0.0.0 a02342.freepressseries.co.uk
+0.0.0.0 a02342.gazette-news.co.uk
+0.0.0.0 a02342.gazetteherald.co.uk
+0.0.0.0 a02342.gazetteseries.co.uk
+0.0.0.0 a02342.glasgowtimes.co.uk
+0.0.0.0 a02342.greenocktelegraph.co.uk
+0.0.0.0 a02342.guardian-series.co.uk
+0.0.0.0 a02342.halesowennews.co.uk
+0.0.0.0 a02342.halsteadgazette.co.uk
+0.0.0.0 a02342.hampshirechronicle.co.uk
+0.0.0.0 a02342.harrowtimes.co.uk
+0.0.0.0 a02342.harwichandmanningtreestandard.co.uk
+0.0.0.0 a02342.heraldscotland.com
+0.0.0.0 a02342.heraldseries.co.uk
+0.0.0.0 a02342.herefordtimes.com
+0.0.0.0 a02342.hillingdontimes.co.uk
+0.0.0.0 a02342.ilkleygazette.co.uk
+0.0.0.0 a02342.keighleynews.co.uk
+0.0.0.0 a02342.kidderminstershuttle.co.uk
+0.0.0.0 a02342.knutsfordguardian.co.uk
+0.0.0.0 a02342.lancashiretelegraph.co.uk
+0.0.0.0 a02342.ledburyreporter.co.uk
+0.0.0.0 a02342.leighjournal.co.uk
+0.0.0.0 a02342.ludlowadvertiser.co.uk
+0.0.0.0 a02342.maldonandburnhamstandard.co.uk
+0.0.0.0 a02342.malverngazette.co.uk
+0.0.0.0 a02342.messengernewspapers.co.uk
+0.0.0.0 a02342.milfordmercury.co.uk
+0.0.0.0 a02342.newsshopper.co.uk
+0.0.0.0 a02342.northwichguardian.co.uk
+0.0.0.0 a02342.oxfordmail.co.uk
+0.0.0.0 a02342.penarthtimes.co.uk
+0.0.0.0 a02342.prestwichandwhitefieldguide.co.uk
+0.0.0.0 a02342.redditchadvertiser.co.uk
+0.0.0.0 a02342.redhillandreigatelife.co.uk
+0.0.0.0 a02342.richmondandtwickenhamtimes.co.uk
+0.0.0.0 a02342.romseyadvertiser.co.uk
+0.0.0.0 a02342.runcornandwidnesworld.co.uk
+0.0.0.0 a02342.salisburyjournal.co.uk
+0.0.0.0 a02342.somersetcountygazette.co.uk
+0.0.0.0 a02342.southendstandard.co.uk
+0.0.0.0 a02342.southwalesargus.co.uk
+0.0.0.0 a02342.southwalesguardian.co.uk
+0.0.0.0 a02342.southwestfarmer.co.uk
+0.0.0.0 a02342.stalbansreview.co.uk
+0.0.0.0 a02342.sthelensstar.co.uk
+0.0.0.0 a02342.stourbridgenews.co.uk
+0.0.0.0 a02342.surreycomet.co.uk
+0.0.0.0 a02342.swindonadvertiser.co.uk
+0.0.0.0 a02342.theargus.co.uk
+0.0.0.0 a02342.theboltonnews.co.uk
+0.0.0.0 a02342.thenational.scot
+0.0.0.0 a02342.thenorthernecho.co.uk
+0.0.0.0 a02342.thescottishfarmer.co.uk
+0.0.0.0 a02342.thetelegraphandargus.co.uk
+0.0.0.0 a02342.thetottenhamindependent.co.uk
+0.0.0.0 a02342.thewestmorlandgazette.co.uk
+0.0.0.0 a02342.thisisthewestcountry.co.uk
+0.0.0.0 a02342.thurrockgazette.co.uk
+0.0.0.0 a02342.times-series.co.uk
+0.0.0.0 a02342.wandsworthguardian.co.uk
+0.0.0.0 a02342.warringtonguardian.co.uk
+0.0.0.0 a02342.watfordobserver.co.uk
+0.0.0.0 a02342.westerntelegraph.co.uk
+0.0.0.0 a02342.wharfedaleobserver.co.uk
+0.0.0.0 a02342.wiltsglosstandard.co.uk
+0.0.0.0 a02342.wiltshiretimes.co.uk
+0.0.0.0 a02342.wimbledonguardian.co.uk
+0.0.0.0 a02342.winsfordguardian.co.uk
+0.0.0.0 a02342.wirralglobe.co.uk
+0.0.0.0 a02342.witneygazette.co.uk
+0.0.0.0 a02342.worcesternews.co.uk
+0.0.0.0 a02342.yeovilexpress.co.uk
+0.0.0.0 a02342.yourlocalguardian.co.uk
 0.0.0.0 a4b-tracking.com
 0.0.0.0 a4st.club
 0.0.0.0 a8.net
@@ -592,7 +700,6 @@
 0.0.0.0 analytics.sleeknote.com
 0.0.0.0 analytics.smallpdf.com
 0.0.0.0 analytics.snidigital.com
-0.0.0.0 analytics.socialblade.com
 0.0.0.0 analytics.solidbau.at
 0.0.0.0 analytics.sonymusic.com
 0.0.0.0 analytics.sportybet.com
@@ -640,7 +747,6 @@
 0.0.0.0 analytics.zhihu.com
 0.0.0.0 analytics.ziftsolutions.com
 0.0.0.0 analytics00.meride.tv
-0.0.0.0 analytics2.socialblade.com
 0.0.0.0 analyticschecker.com
 0.0.0.0 analyticsengine.s3.amazonaws.com
 0.0.0.0 analyticsip.net
@@ -657,7 +763,6 @@
 0.0.0.0 andagainanotherthing.com
 0.0.0.0 andersenit.dk
 0.0.0.0 andlache.com
-0.0.0.0 andoveradvertiser-gb.andoveradvertiser.co.uk
 0.0.0.0 andyetanotherthing.com
 0.0.0.0 andyhoppe.com
 0.0.0.0 angelfishstats.com
@@ -727,7 +832,6 @@
 0.0.0.0 asadcdn.com
 0.0.0.0 ascend.ai
 0.0.0.0 aserve.directorym.com
-0.0.0.0 asianimage-gb.asianimage.co.uk
 0.0.0.0 aspservice.jp
 0.0.0.0 assoctrac.com
 0.0.0.0 astat.nikkei.com
@@ -852,7 +956,6 @@
 0.0.0.0 baifendian.com
 0.0.0.0 baikalize.com
 0.0.0.0 bam-x.com
-0.0.0.0 banburycake-gb.banburycake.co.uk
 0.0.0.0 bandborder.com
 0.0.0.0 banner.t-online.de
 0.0.0.0 banstat.nadavi.net
@@ -860,9 +963,7 @@
 0.0.0.0 baremetrics.com
 0.0.0.0 barilliance.net
 0.0.0.0 barium.cheezdev.com
-0.0.0.0 barryanddistrictnews-gb.barryanddistrictnews.co.uk
 0.0.0.0 basicstat.com
-0.0.0.0 basildonstandard-gb.basildonstandard.co.uk
 0.0.0.0 basilic.io
 0.0.0.0 basketballbelieve.com
 0.0.0.0 baskettexture.com
@@ -978,7 +1079,6 @@
 0.0.0.0 bhu9.bankia.es
 0.0.0.0 bi.medscape.com
 0.0.0.0 biberukalap.com
-0.0.0.0 bicesteradvertiser-gb.bicesteradvertiser.net
 0.0.0.0 bid.g.doubleclick.net
 0.0.0.0 bid.run
 0.0.0.0 bidder.mediams.mb.softbank.jp
@@ -1070,7 +1170,6 @@
 0.0.0.0 boomerang.dell.com
 0.0.0.0 boomtrain.com
 0.0.0.0 borderbrush.com
-0.0.0.0 borehamwoodtimes-gb.borehamwoodtimes.co.uk
 0.0.0.0 bosetoo.club
 0.0.0.0 boss.bankofamerica.com
 0.0.0.0 bosspush.com
@@ -1082,10 +1181,8 @@
 0.0.0.0 bounceexchange.com
 0.0.0.0 bouncepilot.com
 0.0.0.0 bouncex.com
-0.0.0.0 bournemouthecho-gb.bournemouthecho.co.uk
 0.0.0.0 bpmonline.com
 0.0.0.0 brain.foresee.com
-0.0.0.0 braintreeandwithamtimes-gb.braintreeandwithamtimes.co.uk
 0.0.0.0 brandlock.io
 0.0.0.0 brandmetrics.com
 0.0.0.0 brat-online.ro
@@ -1093,10 +1190,7 @@
 0.0.0.0 brcdn.com
 0.0.0.0 breakfastboat.com
 0.0.0.0 breaktime.com.tw
-0.0.0.0 brentwoodlive-gb.brentwoodlive.co.uk
 0.0.0.0 bridgevine.com
-0.0.0.0 bridgwatermercury-gb.bridgwatermercury.co.uk
-0.0.0.0 bridportnews-gb.bridportnews.co.uk
 0.0.0.0 bright.bncnt.com
 0.0.0.0 brightedge.com
 0.0.0.0 brightfunnel.com
@@ -1106,7 +1200,6 @@
 0.0.0.0 broadcastbed.com
 0.0.0.0 broaddoor.com
 0.0.0.0 brominer.com
-0.0.0.0 bromsgroveadvertiser-gb.bromsgroveadvertiser.co.uk
 0.0.0.0 bronto.com
 0.0.0.0 browser-statistik.de
 0.0.0.0 browser-update.org
@@ -1129,7 +1222,6 @@
 0.0.0.0 btstats.devtribu.fr
 0.0.0.0 btttag.com
 0.0.0.0 bubblestat.com
-0.0.0.0 bucksfreepress-gb.bucksfreepress.co.uk
 0.0.0.0 buf.lemonde.fr
 0.0.0.0 bugherd.com
 0.0.0.0 bugsnag.com
@@ -1137,10 +1229,8 @@
 0.0.0.0 bumlam.com
 0.0.0.0 bunchbox.co
 0.0.0.0 burnbubble.com
-0.0.0.0 burnhamandhighbridgeweeklynews-gb.burnhamandhighbridgeweeklynews.co.uk
 0.0.0.0 burstbeacon.com
 0.0.0.0 burt.io
-0.0.0.0 burytimes-gb.burytimes.co.uk
 0.0.0.0 business.sharedcount.com
 0.0.0.0 businessclick.ch
 0.0.0.0 butterbulb.com
@@ -1200,7 +1290,6 @@
 0.0.0.0 calmcactus.com
 0.0.0.0 calotag.com
 0.0.0.0 campaigncog.com
-0.0.0.0 campaignseries-gb.campaignseries.co.uk
 0.0.0.0 canalstat.com
 0.0.0.0 canddi.com
 0.0.0.0 candid.zone
@@ -1259,6 +1348,7 @@
 0.0.0.0 cdn.c-i.as
 0.0.0.0 cdn.hiido.cn
 0.0.0.0 cdn.trafficexchangelist.com
+0.0.0.0 cdn.usefathom.com
 0.0.0.0 cdn1.pebx.pl
 0.0.0.0 cdnanalytics.xyz
 0.0.0.0 cdnmaster.cn
@@ -1293,7 +1383,6 @@
 0.0.0.0 ch0p.darty.com
 0.0.0.0 chanalytics.merchantadvantage.com
 0.0.0.0 chanelventure.club
-0.0.0.0 chardandilminsternews-gb.chardandilminsternews.co.uk
 0.0.0.0 chart.dk
 0.0.0.0 chartaca.com
 0.0.0.0 chartaca.com.s3.amazonaws.com
@@ -1303,12 +1392,10 @@
 0.0.0.0 checkeffect.at
 0.0.0.0 checkru.net
 0.0.0.0 checkstat.nl
-0.0.0.0 chelmsfordweeklynews-gb.chelmsfordweeklynews.co.uk
 0.0.0.0 cheqzone.com
 0.0.0.0 chickensaladandads.com
 0.0.0.0 chkpt.zdnet.com
 0.0.0.0 chmproxy.bid
-0.0.0.0 chorleycitizen-gb.chorleycitizen.co.uk
 0.0.0.0 christiantop1000.com
 0.0.0.0 christmalicious.com
 0.0.0.0 chrumedia.com
@@ -1323,7 +1410,6 @@
 0.0.0.0 cityua.net
 0.0.0.0 ck-cdn.com
 0.0.0.0 cl.expedia.com
-0.0.0.0 clactonandfrintongazette-gb.clactonandfrintongazette.co.uk
 0.0.0.0 clancy.spiceworks.com
 0.0.0.0 clarity.ms
 0.0.0.0 claritytag.com
@@ -1514,6 +1600,7 @@
 0.0.0.0 collect.rewardstyle.com
 0.0.0.0 collect.state.centrum24.pl
 0.0.0.0 collect.tianya.cn
+0.0.0.0 collect.usefathom.com
 0.0.0.0 collecting.click
 0.0.0.0 collector-api.99designs.com
 0.0.0.0 collector-cdn.github.com
@@ -1628,7 +1715,6 @@
 0.0.0.0 cosmi.io
 0.0.0.0 cosmosjackson.com
 0.0.0.0 cost1action.com
-0.0.0.0 cotswoldjournal-gb.cotswoldjournal.co.uk
 0.0.0.0 count.asnetworks.de
 0.0.0.0 count.carrierzone.com
 0.0.0.0 count.channeladvisor.com
@@ -1759,7 +1845,6 @@
 0.0.0.0 craftkeys.com
 0.0.0.0 craktraffic.com
 0.0.0.0 crashfootwork.com
-0.0.0.0 cravenherald-gb.cravenherald.co.uk
 0.0.0.0 crazyclickstats.com
 0.0.0.0 crazyegg.com
 0.0.0.0 creatives.sunmedia.tv
@@ -1819,6 +1904,7 @@
 0.0.0.0 culturaltracking.ru
 0.0.0.0 culturedcrayon.com
 0.0.0.0 cuntador.com
+0.0.0.0 cupid.socialblade.com
 0.0.0.0 curalate.com
 0.0.0.0 curated.fieldtest.cc
 0.0.0.0 curvycry.com
@@ -1903,6 +1989,7 @@
 0.0.0.0 d2nxi61n77zqpl.cloudfront.net
 0.0.0.0 d2o67tzzxkqap2.cloudfront.net
 0.0.0.0 d2oh4tlt9mrke9.cloudfront.net
+0.0.0.0 d2p3zdq8vjvnxd.cloudfront.net
 0.0.0.0 d2r7bmv6l6bnd1.cloudfront.net
 0.0.0.0 d2rnkf2kqy5m6h.cloudfront.net
 0.0.0.0 d2ry9vue95px0b.cloudfront.net
@@ -1946,7 +2033,6 @@
 0.0.0.0 dacounter.com
 0.0.0.0 dadi.technology
 0.0.0.0 dailycaller-alerts.com
-0.0.0.0 dailyecho-gb.dailyecho.co.uk
 0.0.0.0 damdoor.com
 0.0.0.0 dampdock.com
 0.0.0.0 danorenius.com
@@ -1954,7 +2040,6 @@
 0.0.0.0 dapxl.com
 0.0.0.0 daq0d0aotgq0f.cloudfront.net
 0.0.0.0 darking07.tk
-0.0.0.0 darlingtonandstocktontimes-gb.darlingtonandstocktontimes.co.uk
 0.0.0.0 dashboard.io
 0.0.0.0 data-dynamic.net
 0.0.0.0 data.alexa.com
@@ -1985,7 +2070,6 @@
 0.0.0.0 datadsk.com
 0.0.0.0 datafeedfile.com
 0.0.0.0 datafront.co
-0.0.0.0 datalayer.p7s1.io
 0.0.0.0 datam.com
 0.0.0.0 datamaster.com.cn
 0.0.0.0 datamind.ru
@@ -2146,7 +2230,6 @@
 0.0.0.0 domodomain.com
 0.0.0.0 donreach.com
 0.0.0.0 dontbeevils.de
-0.0.0.0 dorsetecho-gb.dorsetecho.co.uk
 0.0.0.0 dot-stat.radikal.ru
 0.0.0.0 dot.wp.pl
 0.0.0.0 dotaki.com
@@ -2162,7 +2245,6 @@
 0.0.0.0 dps-reach.com
 0.0.0.0 dq95d35.com
 0.0.0.0 dreamcounter.de
-0.0.0.0 droitwichadvertiser-gb.droitwichadvertiser.co.uk
 0.0.0.0 drydrum.com
 0.0.0.0 ds-aksb-a.akamaihd.net
 0.0.0.0 ds.haaretz.co.il
@@ -2180,7 +2262,6 @@
 0.0.0.0 du4rq1xqh3i1k.cloudfront.net
 0.0.0.0 du8783wkf05yr.cloudfront.net
 0.0.0.0 duckdns.org
-0.0.0.0 dudleynews-gb.dudleynews.co.uk
 0.0.0.0 dull.bankofamerica.com
 0.0.0.0 dumpster.cam4.com
 0.0.0.0 dup.baidustatic.com
@@ -2269,7 +2350,6 @@
 0.0.0.0 ea.vente-unique.lu
 0.0.0.0 ea.warnerbros.fr
 0.0.0.0 eacla.com
-0.0.0.0 ealingtimes-gb.ealingtimes.co.uk
 0.0.0.0 eanalyzer.de
 0.0.0.0 early-birds.fr
 0.0.0.0 early-birds.io
@@ -2288,7 +2368,6 @@
 0.0.0.0 ec-concier.com
 0.0.0.0 ec-optimizer.com
 0.0.0.0 ec-track.com
-0.0.0.0 echo-news-gb.echo-news.co.uk
 0.0.0.0 eclampsialemontree.net
 0.0.0.0 eclick.baidu.com
 0.0.0.0 ecn5.com
@@ -2314,7 +2393,6 @@
 0.0.0.0 ef.futuroscope.com
 0.0.0.0 ef.futuroscope.mobi
 0.0.0.0 efatik.me
-0.0.0.0 eg-p2.eurogamer.net
 0.0.0.0 eggplant.cloud
 0.0.0.0 ejyymghi.com
 0.0.0.0 ek8.voyage-prive.com
@@ -2348,7 +2426,6 @@
 0.0.0.0 encoding.ovh
 0.0.0.0 endurablecrayon.com
 0.0.0.0 enecto.com
-0.0.0.0 enfieldindependent-gb.enfieldindependent.co.uk
 0.0.0.0 engage-cdn.schibsted.media
 0.0.0.0 engageclick.com
 0.0.0.0 engagefront.meteomedia.com
@@ -2380,7 +2457,6 @@
 0.0.0.0 episerver.net
 0.0.0.0 epitrack.com
 0.0.0.0 epl.paypal-communication.com
-0.0.0.0 eppingforestguardian-gb.eppingforestguardian.co.uk
 0.0.0.0 epro.sogou.com
 0.0.0.0 eproof.com
 0.0.0.0 eproof.drudgereport.com
@@ -2453,7 +2529,6 @@
 0.0.0.0 euro-pr.eu
 0.0.0.0 euroads.dk
 0.0.0.0 eurocounter.com
-0.0.0.0 eurogamer-uk.eurogamer.net
 0.0.0.0 europagerank.com
 0.0.0.0 europuls.eu
 0.0.0.0 europuls.net
@@ -2513,7 +2588,6 @@
 0.0.0.0 everestjs.net
 0.0.0.0 everesttech.net
 0.0.0.0 evergage.com
-0.0.0.0 eveshamjournal-gb.eveshamjournal.co.uk
 0.0.0.0 evisit.exeter.ac.uk
 0.0.0.0 evisitanalyst.com
 0.0.0.0 evnt.iol.it
@@ -2557,6 +2631,7 @@
 0.0.0.0 ezytrack.com
 0.0.0.0 f-counter.jp
 0.0.0.0 f-counter.net
+0.0.0.0 f-emc.ngsp.gov.vn
 0.0.0.0 f.staticlp.com
 0.0.0.0 f1tbit.com
 0.0.0.0 f7ds.liberation.fr
@@ -2568,7 +2643,6 @@
 0.0.0.0 faibl.org
 0.0.0.0 faktor.io
 0.0.0.0 fallingfalcon.com
-0.0.0.0 falmouthpacket-gb.falmouthpacket.co.uk
 0.0.0.0 falseframe.com
 0.0.0.0 familiarrod.com
 0.0.0.0 fandommetrics.com
@@ -2699,7 +2773,6 @@
 0.0.0.0 freehitscounter.org
 0.0.0.0 freelogs.com
 0.0.0.0 freeonlineusers.com
-0.0.0.0 freepressseries-gb.freepressseries.co.uk
 0.0.0.0 freesitemapgenerator.com
 0.0.0.0 freestat.ws
 0.0.0.0 freestats.biz
@@ -2807,9 +2880,6 @@
 0.0.0.0 gatorleads.co.uk
 0.0.0.0 gaug.es
 0.0.0.0 gay-hotvideo.net
-0.0.0.0 gazette-news-gb.gazette-news.co.uk
-0.0.0.0 gazetteherald-gb.gazetteherald.co.uk
-0.0.0.0 gazetteseries-gb.gazetteseries.co.uk
 0.0.0.0 gbotvisit.com
 0.0.0.0 gc.newsweek.com
 0.0.0.0 gc.zgo.at
@@ -2821,7 +2891,6 @@
 0.0.0.0 gekko.spiceworks.com
 0.0.0.0 gemius.pl
 0.0.0.0 generaltracking.de
-0.0.0.0 geni.us
 0.0.0.0 genieedmp.com
 0.0.0.0 genieessp.jp
 0.0.0.0 genieesspv.jp
@@ -2915,7 +2984,6 @@
 0.0.0.0 gj.mmstat.com
 0.0.0.0 gjr5.yoigo.com
 0.0.0.0 glanceguide.com
-0.0.0.0 glasgowtimes-gb.glasgowtimes.co.uk
 0.0.0.0 glassboxcdn.com
 0.0.0.0 glassboxdigital.io
 0.0.0.0 glassmoni.researchgate.net
@@ -2941,6 +3009,7 @@
 0.0.0.0 gnpge.com
 0.0.0.0 go-mpulse.net
 0.0.0.0 go.optifuze.com
+0.0.0.0 go.pardot.com
 0.0.0.0 go.techtarget.com
 0.0.0.0 go.theregister.com
 0.0.0.0 go.toutapp.com
@@ -2993,7 +3062,6 @@
 0.0.0.0 greatviews.de
 0.0.0.0 green-griffin-860.appspot.com
 0.0.0.0 greengaming.de
-0.0.0.0 greenocktelegraph-gb.greenocktelegraph.co.uk
 0.0.0.0 grepdata.com
 0.0.0.0 greyinstrument.com
 0.0.0.0 grfz.de
@@ -3019,7 +3087,6 @@
 0.0.0.0 gtrk.s3.amazonaws.com
 0.0.0.0 gu-pix.appspot.com
 0.0.0.0 guanoo.net
-0.0.0.0 guardian-series-gb.guardian-series.co.uk
 0.0.0.0 guardwork.info
 0.0.0.0 guiltlessbasketball.com
 0.0.0.0 gulliblecamp.com
@@ -3036,22 +3103,17 @@
 0.0.0.0 h.cliphunter.com
 0.0.0.0 h.imedia.cz
 0.0.0.0 h4k5.com
-0.0.0.0 halesowennews-gb.halesowennews.co.uk
 0.0.0.0 halldata.com
 0.0.0.0 haloscan.com
 0.0.0.0 halospring.club
 0.0.0.0 halstats.com
-0.0.0.0 halsteadgazette-gb.halsteadgazette.co.uk
 0.0.0.0 haltingbadge.com
 0.0.0.0 hammerhearing.com
-0.0.0.0 hampshirechronicle-gb.hampshirechronicle.co.uk
 0.0.0.0 haostat.qihoo.com
 0.0.0.0 happen.spkt.io
-0.0.0.0 harrowtimes-gb.harrowtimes.co.uk
 0.0.0.0 harvester.eu.square-enix.com
 0.0.0.0 harvester.ext.square-enix-europe.com
 0.0.0.0 harvester.hbpl.co.uk
-0.0.0.0 harwichandmanningtreestandard-gb.harwichandmanningtreestandard.co.uk
 0.0.0.0 hashcoin.co
 0.0.0.0 hashforcash.us
 0.0.0.0 hashing.win
@@ -3072,9 +3134,6 @@
 0.0.0.0 hellosherpa.com
 0.0.0.0 hemnes.win
 0.0.0.0 hentaicounter.com
-0.0.0.0 heraldscotland-gb.heraldscotland.com
-0.0.0.0 heraldseries-gb.heraldseries.co.uk
-0.0.0.0 herefordtimes-gb.herefordtimes.com
 0.0.0.0 hermes.theglobeandmail.com
 0.0.0.0 heroesdom.com
 0.0.0.0 hetchi.com
@@ -3092,7 +3151,6 @@
 0.0.0.0 highfalutinhoney.com
 0.0.0.0 highmetrics.com
 0.0.0.0 hilariouszinc.com
-0.0.0.0 hillingdontimes-gb.hillingdontimes.co.uk
 0.0.0.0 hiperstat.com
 0.0.0.0 hira-meki.jp
 0.0.0.0 hirmatrix.hu
@@ -3240,13 +3298,13 @@
 0.0.0.0 iid-network.jp
 0.0.0.0 iivt.com
 0.0.0.0 iljmp.com
-0.0.0.0 ilkleygazette-gb.ilkleygazette.co.uk
 0.0.0.0 illumenix.com
 0.0.0.0 ilogbox.com
 0.0.0.0 im-apps.net
 0.0.0.0 im.aol.de
 0.0.0.0 imcht.net
 0.0.0.0 imetrix.it
+0.0.0.0 imgprx.livejournal.net
 0.0.0.0 imgstat.ameba.jp
 0.0.0.0 imgstat.baidu.com
 0.0.0.0 imgtrack.domainmarket.com
@@ -3503,7 +3561,6 @@
 0.0.0.0 kdowqlpt.info
 0.0.0.0 keen.io
 0.0.0.0 keet1liod.com
-0.0.0.0 keighleynews-gb.keighleynews.co.uk
 0.0.0.0 keyade.com
 0.0.0.0 keymetric.net
 0.0.0.0 keytiles.com
@@ -3515,7 +3572,6 @@
 0.0.0.0 keywords.complex.com
 0.0.0.0 keywordstrategy.org
 0.0.0.0 keyxel.com
-0.0.0.0 kidderminstershuttle-gb.kidderminstershuttle.co.uk
 0.0.0.0 kieden.com
 0.0.0.0 kiks.auto.ru
 0.0.0.0 killerwebstats.com
@@ -3539,7 +3595,6 @@
 0.0.0.0 kmtx.io
 0.0.0.0 knowlead.io
 0.0.0.0 knowledgevine.net
-0.0.0.0 knutsfordguardian-gb.knutsfordguardian.co.uk
 0.0.0.0 koddi.com
 0.0.0.0 kokos.click
 0.0.0.0 komtrack.com
@@ -3570,7 +3625,6 @@
 0.0.0.0 laferia.cr
 0.0.0.0 lameletters.com
 0.0.0.0 lamplow.com
-0.0.0.0 lancashiretelegraph-gb.lancashiretelegraph.co.uk
 0.0.0.0 lanchaeanly.pro
 0.0.0.0 landingpg.com
 0.0.0.0 lansrv030.com
@@ -3615,11 +3669,9 @@
 0.0.0.0 leadzu.com
 0.0.0.0 leanplum.com
 0.0.0.0 leaplunchroom.com
-0.0.0.0 ledburyreporter-gb.ledburyreporter.co.uk
 0.0.0.0 ledhenone.com
 0.0.0.0 legenhit.com
 0.0.0.0 legolas-media.com
-0.0.0.0 leighjournal-gb.leighjournal.co.uk
 0.0.0.0 leiki.com
 0.0.0.0 lem.nouvelobs.com
 0.0.0.0 lentainform.com
@@ -3825,7 +3877,6 @@
 0.0.0.0 lucidel.com
 0.0.0.0 luckyorange.com
 0.0.0.0 luckyorange.net
-0.0.0.0 ludlowadvertiser-gb.ludlowadvertiser.co.uk
 0.0.0.0 lugansk-info.ru
 0.0.0.0 lumatag.co.uk
 0.0.0.0 lumberamount.com
@@ -3872,8 +3923,6 @@
 0.0.0.0 mairdumont.com
 0.0.0.0 make.cohesionapps.com
 0.0.0.0 makedosupport.club
-0.0.0.0 maldonandburnhamstandard-gb.maldonandburnhamstandard.co.uk
-0.0.0.0 malverngazette-gb.malverngazette.co.uk
 0.0.0.0 mandatebright.club
 0.0.0.0 maploco.com
 0.0.0.0 mapmyuser.com
@@ -3890,8 +3939,6 @@
 0.0.0.0 marketing.nodesource.com
 0.0.0.0 marketing.tr.netsalesmedia.pl
 0.0.0.0 marketizator.com
-0.0.0.0 marketo.com
-0.0.0.0 marketo.net
 0.0.0.0 marketperf.com
 0.0.0.0 marketshot.com
 0.0.0.0 marketshot.fr
@@ -3972,7 +4019,6 @@
 0.0.0.0 mercent.com
 0.0.0.0 mercy.ga
 0.0.0.0 merlin.abc.go.com
-0.0.0.0 messengernewspapers-gb.messengernewspapers.co.uk
 0.0.0.0 met.vgwort.de
 0.0.0.0 metalyzer.com
 0.0.0.0 meteorsolutions.com
@@ -3997,6 +4043,7 @@
 0.0.0.0 metrics.n-tv.de
 0.0.0.0 metrics.readme.io
 0.0.0.0 metrics.scribblelive.com
+0.0.0.0 metrics.slite.com
 0.0.0.0 metrics.sonymusicd2c.com
 0.0.0.0 metrics.ted.com
 0.0.0.0 metrics.toptenreviews.com
@@ -4024,7 +4071,6 @@
 0.0.0.0 midas-network.com
 0.0.0.0 mieru-ca.com
 0.0.0.0 migrati.xyz
-0.0.0.0 milfordmercury-gb.milfordmercury.co.uk
 0.0.0.0 millioncounter.com
 0.0.0.0 mimgoal.com
 0.0.0.0 mindtake.com
@@ -4171,6 +4217,7 @@
 0.0.0.0 mts.mansion.com
 0.0.0.0 muatui.com
 0.0.0.0 multicounter.de
+0.0.0.0 munchkin.marketo.net
 0.0.0.0 mundanepollution.com
 0.0.0.0 munero.me
 0.0.0.0 murdoog.com
@@ -4301,7 +4348,6 @@
 0.0.0.0 newsanalytics.com.au
 0.0.0.0 newscurve.com
 0.0.0.0 newsletters.nationalgeographic.com
-0.0.0.0 newsshopper-gb.newsshopper.co.uk
 0.0.0.0 nex8.net
 0.0.0.0 nexeps.com
 0.0.0.0 nexioniect.com
@@ -4339,7 +4385,6 @@
 0.0.0.0 noowho.com
 0.0.0.0 nordicresearch.com
 0.0.0.0 northstartravelmedia.com
-0.0.0.0 northwichguardian-gb.northwichguardian.co.uk
 0.0.0.0 notifadz.com
 0.0.0.0 notifpush.com
 0.0.0.0 notify.solutions
@@ -4506,7 +4551,6 @@
 0.0.0.0 owldata.com
 0.0.0.0 ownpage.fr
 0.0.0.0 ox-bio.com
-0.0.0.0 oxfordmail-gb.oxfordmail.co.uk
 0.0.0.0 oxidy.com
 0.0.0.0 oxifwsabgd.nzz.ch
 0.0.0.0 p-log.ykimg.com
@@ -4589,7 +4633,6 @@
 0.0.0.0 pedropanther.com
 0.0.0.0 peep1alea.com
 0.0.0.0 peerius.com
-0.0.0.0 penarthtimes-gb.penarthtimes.co.uk
 0.0.0.0 pendo.io
 0.0.0.0 penspade.com
 0.0.0.0 pepperjam.com
@@ -4821,7 +4864,6 @@
 0.0.0.0 premiumads.com.br
 0.0.0.0 prepareplanes.com
 0.0.0.0 presentationtracking.netflix.com
-0.0.0.0 prestwichandwhitefieldguide-gb.prestwichandwhitefieldguide.co.uk
 0.0.0.0 prfct.co
 0.0.0.0 prism.app-us1.com
 0.0.0.0 prism.pandora.tv
@@ -5020,6 +5062,7 @@
 0.0.0.0 raresummer.com
 0.0.0.0 rat.rakuten.co.jp
 0.0.0.0 rating.in
+0.0.0.0 ravelin.click
 0.0.0.0 ravelin.net
 0.0.0.0 rawr.at
 0.0.0.0 rays-counter.com
@@ -5072,10 +5115,8 @@
 0.0.0.0 recruitics.com
 0.0.0.0 recs.atgsvcs.com
 0.0.0.0 redcounter.net
-0.0.0.0 redditchadvertiser-gb.redditchadvertiser.co.uk
 0.0.0.0 redeye.williamhill.com
 0.0.0.0 redfastlabs.com
-0.0.0.0 redhillandreigatelife-gb.redhillandreigatelife.co.uk
 0.0.0.0 redistats.com
 0.0.0.0 redretarget.com
 0.0.0.0 redstatcounter.com
@@ -5182,7 +5223,6 @@
 0.0.0.0 richard-group.com
 0.0.0.0 richaudience.com
 0.0.0.0 richmetrics.com
-0.0.0.0 richmondandtwickenhamtimes-gb.richmondandtwickenhamtimes.co.uk
 0.0.0.0 richstring.com
 0.0.0.0 rightmoveanalytics.co.uk
 0.0.0.0 rightstats.com
@@ -5218,7 +5258,6 @@
 0.0.0.0 roitesting.com
 0.0.0.0 rok.com.com
 0.0.0.0 rollingcounters.com
-0.0.0.0 romseyadvertiser-gb.romseyadvertiser.co.uk
 0.0.0.0 roofrelation.com
 0.0.0.0 roosterfirework.com
 0.0.0.0 rossel.tech
@@ -5226,8 +5265,6 @@
 0.0.0.0 royalcount.de
 0.0.0.0 rp-rep.net
 0.0.0.0 rpdtrk.com
-0.0.0.0 rps-p2.rockpapershotgun.com
-0.0.0.0 rps-uk.rockpapershotgun.com
 0.0.0.0 rqtrk.eu
 0.0.0.0 rrimpl.com
 0.0.0.0 rs.mail.ru
@@ -5268,7 +5305,6 @@
 0.0.0.0 rumanalytics.com
 0.0.0.0 rumble.com
 0.0.0.0 rumpelstiltskinhead.com
-0.0.0.0 runcornandwidnesworld-gb.runcornandwidnesworld.co.uk
 0.0.0.0 runtnc.net
 0.0.0.0 rusticprice.com
 0.0.0.0 rutarget.ru
@@ -5317,7 +5353,6 @@
 0.0.0.0 salesviewer.com
 0.0.0.0 salesviewer.org
 0.0.0.0 saletrack.co.uk
-0.0.0.0 salisburyjournal-gb.salisburyjournal.co.uk
 0.0.0.0 sambaads.com
 0.0.0.0 san-spr-01.net
 0.0.0.0 sana.newsinc.com.s3.amazonaws.com
@@ -5628,7 +5663,6 @@
 0.0.0.0 solutionshindsight.net
 0.0.0.0 somberscarecrow.com
 0.0.0.0 sombersurprise.com
-0.0.0.0 somersetcountygazette-gb.somersetcountygazette.co.uk
 0.0.0.0 sometrics.com
 0.0.0.0 somniture.theglobeandmail.com
 0.0.0.0 soodatmish.com
@@ -5641,11 +5675,8 @@
 0.0.0.0 sourcepoint-mms.history.com
 0.0.0.0 sourcepoint-mms.mylifetime.com
 0.0.0.0 sourcepoint.dexerto.com
+0.0.0.0 sourcepoint.theguardian.com
 0.0.0.0 sourcepoint.vice.com
-0.0.0.0 southendstandard-gb.southendstandard.co.uk
-0.0.0.0 southwalesargus-gb.southwalesargus.co.uk
-0.0.0.0 southwalesguardian-gb.southwalesguardian.co.uk
-0.0.0.0 southwestfarmer-gb.southwestfarmer.co.uk
 0.0.0.0 sp-mms.weather.com
 0.0.0.0 sp.app.com
 0.0.0.0 sp.argusleader.com
@@ -5832,11 +5863,11 @@
 0.0.0.0 stackadapt.com
 0.0.0.0 stadig.ifeng.com
 0.0.0.0 stadsvc.com
-0.0.0.0 stalbansreview-gb.stalbansreview.co.uk
 0.0.0.0 staleshow.com
 0.0.0.0 stalesummer.com
 0.0.0.0 stan.xing.com
 0.0.0.0 star-cntr-5.com
+0.0.0.0 starman.fathomdns.com
 0.0.0.0 stas.outbrain.com
 0.0.0.0 stat-track.com
 0.0.0.0 stat-well.com
@@ -6112,7 +6143,6 @@
 0.0.0.0 sterlingwoods.com
 0.0.0.0 stetic.com
 0.0.0.0 stg-data-collector.playbuzz.com
-0.0.0.0 sthelensstar-gb.sthelensstar.co.uk
 0.0.0.0 stiffgame.com
 0.0.0.0 stiffstem.com
 0.0.0.0 stippleit.com
@@ -6122,7 +6152,6 @@
 0.0.0.0 stormiq.com
 0.0.0.0 stormyachiever.com
 0.0.0.0 storygize.net
-0.0.0.0 stourbridgenews-gb.stourbridgenews.co.uk
 0.0.0.0 str1kee.com
 0.0.0.0 streambeam.io
 0.0.0.0 streamsend.com
@@ -6164,7 +6193,6 @@
 0.0.0.0 surefire.link
 0.0.0.0 surfcounters.com
 0.0.0.0 surfertracker.com
-0.0.0.0 surreycomet-gb.surreycomet.co.uk
 0.0.0.0 survey.interquest.com
 0.0.0.0 surveys.cnet.com
 0.0.0.0 surveyscout.com
@@ -6178,7 +6206,6 @@
 0.0.0.0 sweetslope.com
 0.0.0.0 swfstats.com
 0.0.0.0 swiftmining.win
-0.0.0.0 swindonadvertiser-gb.swindonadvertiser.co.uk
 0.0.0.0 swiss-counter.com
 0.0.0.0 sxtracking.com
 0.0.0.0 sy.amebame.com
@@ -6403,24 +6430,16 @@
 0.0.0.0 theadex.com
 0.0.0.0 theagency.com
 0.0.0.0 theardent.group
-0.0.0.0 theargus-gb.theargus.co.uk
 0.0.0.0 thebestlinks.com
-0.0.0.0 theboltonnews-gb.theboltonnews.co.uk
 0.0.0.0 thebrighttag.com
 0.0.0.0 thecounter.com
 0.0.0.0 thefreehitcounter.com
 0.0.0.0 thehairofcaptainpicard.com
-0.0.0.0 thenational-gb.thenational.scot
-0.0.0.0 thenorthernecho-gb.thenorthernecho.co.uk
 0.0.0.0 thermstats.com
-0.0.0.0 thescottishfarmer-gb.thescottishfarmer.co.uk
 0.0.0.0 thesearchagency.net
 0.0.0.0 thespecialsearch.com
 0.0.0.0 thestat.net
-0.0.0.0 thetelegraphandargus-gb.thetelegraphandargus.co.uk
-0.0.0.0 thetottenhamindependent-gb.thetottenhamindependent.co.uk
 0.0.0.0 thetradedesk-tags.s3.amazonaws.com
-0.0.0.0 thewestmorlandgazette-gb.thewestmorlandgazette.co.uk
 0.0.0.0 thewhizmarketing.com
 0.0.0.0 thewhizproducts.com
 0.0.0.0 thewise.com
@@ -6430,16 +6449,13 @@
 0.0.0.0 thirstytwig.com
 0.0.0.0 thisisacoolthing.com
 0.0.0.0 thisisanothercoolthing.com
-0.0.0.0 thisisthewestcountry-gb.thisisthewestcountry.co.uk
 0.0.0.0 thismetric.com
 0.0.0.0 threat-analytics.com
 0.0.0.0 thrtle.com
-0.0.0.0 thurrockgazette-gb.thurrockgazette.co.uk
 0.0.0.0 ticklesign.com
 0.0.0.0 tidafors.xyz
 0.0.0.0 tidningsnatet.se
 0.0.0.0 tim.nextinpact.com
-0.0.0.0 times-series-gb.times-series.co.uk
 0.0.0.0 timeslogtn.timesnow.tv
 0.0.0.0 timestrends.indiatimes.com
 0.0.0.0 timestrends.timesnow.tv
@@ -6457,6 +6473,7 @@
 0.0.0.0 tl.tradetracker.net
 0.0.0.0 tl813.com
 0.0.0.0 tlp5.mimale.com
+0.0.0.0 tm.dl.dewezet.de
 0.0.0.0 tm.jsuol.com.br
 0.0.0.0 tm.tradetracker.net
 0.0.0.0 tm.uol.com.br
@@ -7088,7 +7105,6 @@
 0.0.0.0 usabilitytools.com
 0.0.0.0 usabilla.com
 0.0.0.0 usage.seibert-media.io
-0.0.0.0 usefathom.com
 0.0.0.0 useg.nextdigital.com.hk
 0.0.0.0 useinsider.com
 0.0.0.0 useitbetter.com
@@ -7274,12 +7290,9 @@
 0.0.0.0 waframedia9.com
 0.0.0.0 wal.wolfram.com
 0.0.0.0 walmeric.com
-0.0.0.0 wandsworthguardian-gb.wandsworthguardian.co.uk
 0.0.0.0 waplog.net
 0.0.0.0 warlog.ru
 0.0.0.0 warp.prnewswire.co.uk
-0.0.0.0 warringtonguardian-gb.warringtonguardian.co.uk
-0.0.0.0 watfordobserver-gb.watfordobserver.co.uk
 0.0.0.0 watson.live.com
 0.0.0.0 waudit.cz
 0.0.0.0 waust.at
@@ -7404,10 +7417,8 @@
 0.0.0.0 wecount4u.com
 0.0.0.0 welt-der-links.de
 0.0.0.0 wemfbox.ch
-0.0.0.0 westerntelegraph-gb.westerntelegraph.co.uk
 0.0.0.0 wf.taboola.com
 0.0.0.0 wgsas.com
-0.0.0.0 wharfedaleobserver-gb.wharfedaleobserver.co.uk
 0.0.0.0 wheredoyoucomefrom.ovh
 0.0.0.0 whhd.gov.cn
 0.0.0.0 whiteclick.biz
@@ -7427,21 +7438,15 @@
 0.0.0.0 wikia-beacon.com
 0.0.0.0 wikiodeliv.com
 0.0.0.0 wildxtraffic.com
-0.0.0.0 wiltsglosstandard-gb.wiltsglosstandard.co.uk
-0.0.0.0 wiltshiretimes-gb.wiltshiretimes.co.uk
-0.0.0.0 wimbledonguardian-gb.wimbledonguardian.co.uk
 0.0.0.0 win.staticstuff.net
 0.0.0.0 winitout.com
-0.0.0.0 winsfordguardian-gb.winsfordguardian.co.uk
 0.0.0.0 wipe.de
 0.0.0.0 wiredminds.de
 0.0.0.0 wirewuss.com
-0.0.0.0 wirralglobe-gb.wirralglobe.co.uk
 0.0.0.0 wisetrack.net
 0.0.0.0 wishloop.com
 0.0.0.0 wisteria-js.excite.co.jp
 0.0.0.0 withcubed.com
-0.0.0.0 witneygazette-gb.witneygazette.co.uk
 0.0.0.0 wkctj.baidu.com
 0.0.0.0 wl.jd.com
 0.0.0.0 wla.vivaldi.com
@@ -7453,7 +7458,6 @@
 0.0.0.0 woopra-ns.com
 0.0.0.0 woopra.com
 0.0.0.0 wootric.com
-0.0.0.0 worcesternews-gb.worcesternews.co.uk
 0.0.0.0 wordc.ga
 0.0.0.0 worldflagcounter.com
 0.0.0.0 worldlogger.com
@@ -7519,6 +7523,7 @@
 0.0.0.0 xplosion.de
 0.0.0.0 xr.shinobi.jp
 0.0.0.0 xref.io
+0.0.0.0 xstats.evoload.io
 0.0.0.0 xtgreat.com
 0.0.0.0 xtrack.capetown.gov.za
 0.0.0.0 xtractor.no
@@ -7537,7 +7542,6 @@
 0.0.0.0 ybotvisit.com
 0.0.0.0 yektanet.com
 0.0.0.0 yellowbrix.com
-0.0.0.0 yeovilexpress-gb.yeovilexpress.co.uk
 0.0.0.0 yext-pixel.com
 0.0.0.0 ygsm.com
 0.0.0.0 yh6u.dealeusedevoyages.com
@@ -7562,7 +7566,6 @@
 0.0.0.0 youle55.com
 0.0.0.0 your-counter.be
 0.0.0.0 youramigo.com
-0.0.0.0 yourlocalguardian-gb.yourlocalguardian.co.uk
 0.0.0.0 youvisit.com
 0.0.0.0 yrdrtzmsmt.com
 0.0.0.0 yu987.com
@@ -7622,7 +7625,7 @@
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2021-01-31 00:27:18.992648
+# Generated at 2021-02-07 00:21:17.597170
 
 0.0.0.0 databerries.com
 0.0.0.0 fidzup
