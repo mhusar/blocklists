@@ -1,6 +1,6 @@
-# Version: 202102062307
+# Version: 202102132336
 # Title: EasyPrivacy
-# Last modified: 06 Feb 2021 23:07 UTC
+# Last modified: 13 Feb 2021 23:36 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -459,6 +459,7 @@ agentinteractive.com
 agg.inquisitr.com
 agg.lifedaily.com
 aggregator.inquisitr.com
+aghtag.tech
 agilecrm.com
 agillic.eu
 agilone.com
@@ -639,6 +640,7 @@ analytics.jst.ai
 analytics.kaggle.io
 analytics.kaltura.com
 analytics.kapost.com
+analytics.kraken.com
 analytics.ladmedia.fr
 analytics.linktr.ee
 analytics.live.com
@@ -1668,8 +1670,10 @@ contadorgratis.com
 contadorgratis.es
 contadorvisitasgratis.com
 contadorweb.com
+container.pepperjam.com
 contatoreaccessi.com
 contemporaryceremonies.ca
+content-garden.com
 content-square.net
 content.ad
 contentexchange.me
@@ -1940,6 +1944,7 @@ d.omsnative.de
 d.rcmd.jp
 d.shareaholic.com
 d.skk.moe
+d.sourcepoint.capitalfm.com
 d10gj7yjsfriaj.cloudfront.net
 d10lpsik1i8c69.cloudfront.net
 d11a2fzhgzqe7i.cloudfront.net
@@ -1958,6 +1963,7 @@ d1hi41nc56pmug.cloudfront.net
 d1iazwv1n1tsyi.cloudfront.net
 d1igp3oop3iho5.cloudfront.net
 d1m6l9dfulcyw7.cloudfront.net
+d1n00d49gkbray.cloudfront.net
 d1qpxk1wfeh8v1.cloudfront.net
 d1r27qvpjiaqj3.cloudfront.net
 d1r2sy6oc0ariq.cloudfront.net
@@ -1985,6 +1991,7 @@ d2axgrpnciinw7.cloudfront.net
 d2cpw6kwpff7n5.cloudfront.net
 d2gbtcuv3w9qyv.cloudfront.net
 d2ibu2ug0mt5qp.cloudfront.net
+d2j1fszo1axgmp.cloudfront.net
 d2kdl5wcwrtj90.cloudfront.net
 d2nxi61n77zqpl.cloudfront.net
 d2o67tzzxkqap2.cloudfront.net
@@ -2507,11 +2514,6 @@ etyper.com
 etzbnfuigipwvs.ru
 eu-survey.com
 eu.groupondata.com
-eu1l.dotabuff.com
-eu1l.overbuff.com
-eu1l.speedrun.com
-eu1l.trackdota.com
-eu1l.valorbuff.com
 eucsoft.com
 eulerian.belambra.be
 eulerian.belambra.fr
@@ -2580,6 +2582,7 @@ events.reddit.com
 events.redditmedia.com
 events.shareably.net
 events.sk.ht
+events.splash-screen.net
 events.tubecup.org
 events.turbosquid.com
 events.whisk.com
@@ -2671,6 +2674,7 @@ fcmatch.google.com
 fcmatch.youtube.com
 fcs.ovh
 fcstats.altervista.org
+fdt.kraken.com
 fdxstats.xyz
 feathr.co
 feedcat.net
@@ -2860,6 +2864,11 @@ g5150192710.co
 g5348277045.co
 g5546361380.co
 g5744445715.co
+g5942530050.co
+g6140614385.co
+g6338698720.co
+g6536783055.co
+g6734867390.co
 ga-analytics.com
 ga-beacon.appspot.com
 ga.canoe.ca
@@ -2889,6 +2898,7 @@ gdm1.toner.fr
 gear5.me
 geistm.com
 gekko.spiceworks.com
+gemius.mgr.consensu.org
 gemius.pl
 generaltracking.de
 genieedmp.com
@@ -3578,7 +3588,6 @@ killerwebstats.com
 kilometrix.de
 kinesisproxy.hearstlabs.com
 kinoprofi.org
-kir.jp
 kissmetrics.com
 kisstesting.com
 kitbit.net
@@ -3618,6 +3627,7 @@ l.ooyala.com
 l.player.ooyala.com
 l.popin.cc
 l.sharethis.com
+l.typesquare.com
 l2.io
 la-sync.taboola.com
 laas.americanexpress.com
@@ -4245,6 +4255,7 @@ mybloglog.com
 mycounter.com.ua
 mycounter.ua
 myfastcounter.com
+myfidevs.io
 mynewcounter.com
 mynsystems.com
 myntelligence.com
@@ -4380,6 +4391,7 @@ nmtracking.netflix.com
 noa0.compteczam.fr
 noflake-aggregator-http.narvar.com
 noibu.com
+nojscontainer.pepperjam.com
 nokaut.link
 nol.yahoo.com
 noowho.com
@@ -4590,6 +4602,7 @@ pagesense-collect.zoho.com
 pagesense.io
 pagesocket.glam.com
 pagoda56.com
+pahtag.tech
 paidstats.com
 pam.nextinpact.com
 pampopholf.com
@@ -4635,7 +4648,6 @@ peep1alea.com
 peerius.com
 pendo.io
 penspade.com
-pepperjam.com
 perceivequarter.com
 percentmobile.com
 percycle.com
@@ -6730,6 +6742,7 @@ tracking.adweb.co.kr
 tracking.aegpresents.com
 tracking.aita.gov.vn
 tracking.alarabiya.net
+tracking.americaneagle.com
 tracking.ancestry.com
 tracking.badgeville.com
 tracking.base.de
@@ -7625,7 +7638,7 @@ zz.bdstatic.com
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2021-02-07 00:21:16.845130
+# Generated at 2021-02-14 00:21:38.179472
 
 databerries.com
 fidzup
