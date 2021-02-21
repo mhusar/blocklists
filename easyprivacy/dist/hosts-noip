@@ -1,6 +1,6 @@
-# Version: 202102132336
+# Version: 202102202249
 # Title: EasyPrivacy
-# Last modified: 13 Feb 2021 23:36 UTC
+# Last modified: 20 Feb 2021 22:49 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -785,6 +785,7 @@ apicit.net
 apkonline.ru
 apm-engine.meteor.com
 apollofind.com
+appanalysis.banggood.com
 appboycdn.com
 appcast.io
 appier.net
@@ -1214,6 +1215,7 @@ bubblestat.com
 buf.lemonde.fr
 bugherd.com
 bugsnag.com
+buildkiteanalytics.com
 bulb.76.my
 bumlam.com
 bunchbox.co
@@ -3233,6 +3235,7 @@ hsdn.org
 hspbotdetection.azurewebsites.net
 hstrck.com
 htlbid.com
+htm1.ch
 hub.com.pl
 hubpd.com
 hubrus.com
@@ -3301,7 +3304,6 @@ im-apps.net
 im.aol.de
 imcht.net
 imetrix.it
-imgprx.livejournal.net
 imgstat.ameba.jp
 imgstat.baidu.com
 imgtrack.domainmarket.com
@@ -3664,6 +3666,7 @@ leadsrx.com
 leadtracking.plumvoice.com
 leadvision.dotmailer.co.uk
 leadzu.com
+leafmedia.io
 leanplum.com
 leaplunchroom.com
 ledhenone.com
@@ -6031,6 +6034,7 @@ stats.media.onet.pl
 stats.miarroba.info
 stats.mituyu.com
 stats.mos.ru
+stats.muasamcong.gov.vn
 stats.nctm.org
 stats.nebula.fi
 stats.netbopdev.co.uk
@@ -6166,6 +6170,7 @@ su.addthis.com
 sub2tech.com
 submitnet.net
 subpixel.4players.de
+subscribers.com
 subsequentswim.com
 successfultogether.co.uk
 suchmaschinen-ranking-hits.de
@@ -7162,6 +7167,7 @@ vendri.io
 ventivmedia.com
 vepxl1.net
 vercel-analytics.com
+vercel-insights.com
 verifier.live
 verify.authorize.net
 verifypow.com
@@ -7451,6 +7457,7 @@ wkctj.baidu.com
 wl.jd.com
 wla.vivaldi.com
 wnpbdan.bid
+wo-cloud.com
 womanear.com
 womtp.com
 wonder-ma.com
@@ -7549,6 +7556,7 @@ yhjinm.cn
 yieldbird.com
 yieldbot.com
 yieldify.com
+yieldlift.com
 yieldsoftware.com
 yigao.com
 yjtag.jp
