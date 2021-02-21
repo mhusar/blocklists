@@ -1,6 +1,6 @@
-# Version: 202102132336
+# Version: 202102202249
 # Title: EasyPrivacy
-# Last modified: 13 Feb 2021 23:36 UTC
+# Last modified: 20 Feb 2021 22:49 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -798,6 +798,7 @@
 0.0.0.0 apkonline.ru
 0.0.0.0 apm-engine.meteor.com
 0.0.0.0 apollofind.com
+0.0.0.0 appanalysis.banggood.com
 0.0.0.0 appboycdn.com
 0.0.0.0 appcast.io
 0.0.0.0 appier.net
@@ -1227,6 +1228,7 @@
 0.0.0.0 buf.lemonde.fr
 0.0.0.0 bugherd.com
 0.0.0.0 bugsnag.com
+0.0.0.0 buildkiteanalytics.com
 0.0.0.0 bulb.76.my
 0.0.0.0 bumlam.com
 0.0.0.0 bunchbox.co
@@ -3246,6 +3248,7 @@
 0.0.0.0 hspbotdetection.azurewebsites.net
 0.0.0.0 hstrck.com
 0.0.0.0 htlbid.com
+0.0.0.0 htm1.ch
 0.0.0.0 hub.com.pl
 0.0.0.0 hubpd.com
 0.0.0.0 hubrus.com
@@ -3314,7 +3317,6 @@
 0.0.0.0 im.aol.de
 0.0.0.0 imcht.net
 0.0.0.0 imetrix.it
-0.0.0.0 imgprx.livejournal.net
 0.0.0.0 imgstat.ameba.jp
 0.0.0.0 imgstat.baidu.com
 0.0.0.0 imgtrack.domainmarket.com
@@ -3677,6 +3679,7 @@
 0.0.0.0 leadtracking.plumvoice.com
 0.0.0.0 leadvision.dotmailer.co.uk
 0.0.0.0 leadzu.com
+0.0.0.0 leafmedia.io
 0.0.0.0 leanplum.com
 0.0.0.0 leaplunchroom.com
 0.0.0.0 ledhenone.com
@@ -6044,6 +6047,7 @@
 0.0.0.0 stats.miarroba.info
 0.0.0.0 stats.mituyu.com
 0.0.0.0 stats.mos.ru
+0.0.0.0 stats.muasamcong.gov.vn
 0.0.0.0 stats.nctm.org
 0.0.0.0 stats.nebula.fi
 0.0.0.0 stats.netbopdev.co.uk
@@ -6179,6 +6183,7 @@
 0.0.0.0 sub2tech.com
 0.0.0.0 submitnet.net
 0.0.0.0 subpixel.4players.de
+0.0.0.0 subscribers.com
 0.0.0.0 subsequentswim.com
 0.0.0.0 successfultogether.co.uk
 0.0.0.0 suchmaschinen-ranking-hits.de
@@ -7175,6 +7180,7 @@
 0.0.0.0 ventivmedia.com
 0.0.0.0 vepxl1.net
 0.0.0.0 vercel-analytics.com
+0.0.0.0 vercel-insights.com
 0.0.0.0 verifier.live
 0.0.0.0 verify.authorize.net
 0.0.0.0 verifypow.com
@@ -7464,6 +7470,7 @@
 0.0.0.0 wl.jd.com
 0.0.0.0 wla.vivaldi.com
 0.0.0.0 wnpbdan.bid
+0.0.0.0 wo-cloud.com
 0.0.0.0 womanear.com
 0.0.0.0 womtp.com
 0.0.0.0 wonder-ma.com
@@ -7562,6 +7569,7 @@
 0.0.0.0 yieldbird.com
 0.0.0.0 yieldbot.com
 0.0.0.0 yieldify.com
+0.0.0.0 yieldlift.com
 0.0.0.0 yieldsoftware.com
 0.0.0.0 yigao.com
 0.0.0.0 yjtag.jp
@@ -7638,7 +7646,7 @@
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2021-02-14 00:21:38.946124
+# Generated at 2021-02-21 00:22:24.305062
 
 0.0.0.0 databerries.com
 0.0.0.0 fidzup
@@ -8198,3 +8206,4 @@
 0.0.0.0 api.myendpoint.io
 0.0.0.0 bin5y4muil.execute-api.us-east-1.amazonaws.com
 0.0.0.0 api.smartechmetrics.com
+0.0.0.0 sdk.predic.io
