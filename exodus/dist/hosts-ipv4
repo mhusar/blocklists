@@ -1,6 +1,6 @@
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2021-02-28 00:23:00.002890
+# Generated at 2021-03-07 00:23:28.453087
 
 0.0.0.0 databerries.com
 0.0.0.0 fidzup
@@ -561,3 +561,26 @@
 0.0.0.0 bin5y4muil.execute-api.us-east-1.amazonaws.com
 0.0.0.0 api.smartechmetrics.com
 0.0.0.0 sdk.predic.io
+0.0.0.0 *.admitad.com
+0.0.0.0 grid.amap.com
+0.0.0.0 tm.amap.com
+0.0.0.0 mst[0-9]*.is.autonavi.com
+0.0.0.0 mt[0-9]*.google.cn
+0.0.0.0 abroad.apilocate.amap.com
+0.0.0.0 apilocate.amap.com
+0.0.0.0 restapi.amap.com
+0.0.0.0 yuntuapi.amap.com
+0.0.0.0 m5.amap.com
+0.0.0.0 wb.amap.com
+0.0.0.0 wb.amap.com
+0.0.0.0 wb.amap.com
+0.0.0.0 wb.amap.com
+0.0.0.0 apiinit.amap.com
+0.0.0.0 restapi.amap.com
+0.0.0.0 logs.amap.com
+0.0.0.0 cgicol.amap.com
+0.0.0.0 lbs.amap.com
+0.0.0.0 wap.amap.com
+0.0.0.0 data.de.coremetrics.com
+0.0.0.0 yoc-performance.com
+0.0.0.0 yoc.com
