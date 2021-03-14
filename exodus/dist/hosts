@@ -1,6 +1,6 @@
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2021-03-07 00:23:27.707017
+# Generated at 2021-03-14 00:23:35.996224
 
 databerries.com
 fidzup
@@ -584,3 +584,12 @@ wap.amap.com
 data.de.coremetrics.com
 yoc-performance.com
 yoc.com
+frm.acuant.net
+medicscan.acuant.net
+services.assureid.net
+*.anvato.net
+sdk.gpshopper.com
+sypi.gpshopper.com
+ipsws.indooratlas.com
+api-device.mocaplatform.com
+api.proximi.fi
