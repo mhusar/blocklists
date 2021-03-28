@@ -1,6 +1,6 @@
-# Version: 202103210012
+# Version: 202103280204
 # Title: EasyPrivacy
-# Last modified: 21 Mar 2021 00:12 UTC
+# Last modified: 28 Mar 2021 02:04 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -802,6 +802,7 @@
 0.0.0.0 analytics.optilead.co.uk
 0.0.0.0 analytics.orenshmu.com
 0.0.0.0 analytics.ostr.io
+0.0.0.0 analytics.ovh.com
 0.0.0.0 analytics.paddle.com
 0.0.0.0 analytics.performable.com
 0.0.0.0 analytics.photorank.me
@@ -1183,6 +1184,7 @@
 0.0.0.0 bat.bing.com
 0.0.0.0 bats.video.yahoo.com
 0.0.0.0 bavvgo.zingat.com
+0.0.0.0 bawdybalance.com
 0.0.0.0 baynote.net
 0.0.0.0 baztrack.com
 0.0.0.0 bbbihe.vertbaudet.es
@@ -1473,6 +1475,7 @@
 0.0.0.0 bunchbox.co
 0.0.0.0 burn5tilt.com
 0.0.0.0 burnbubble.com
+0.0.0.0 burpee.xyz
 0.0.0.0 burstbeacon.com
 0.0.0.0 burt.io
 0.0.0.0 business.franchiseopportunities.com
@@ -1827,7 +1830,6 @@
 0.0.0.0 cms.grandcloud.cn
 0.0.0.0 cms.lv
 0.0.0.0 cmstool.youku.com
-0.0.0.0 cmstrendslog.indiatimes.com
 0.0.0.0 cmstrendslog.timesnow.tv
 0.0.0.0 cnameebis.usagi-online.com
 0.0.0.0 cnhv.co
@@ -1866,7 +1868,6 @@
 0.0.0.0 coin-have.com
 0.0.0.0 coin-hive.com
 0.0.0.0 coin-service.com
-0.0.0.0 coincheck.com
 0.0.0.0 coinerra.com
 0.0.0.0 coinhive.com
 0.0.0.0 coinhiveproxy.com
@@ -2908,6 +2909,7 @@
 0.0.0.0 edvaor.estro.ua
 0.0.0.0 edw.edmunds.com
 0.0.0.0 eec.crunchyroll.com
+0.0.0.0 eel.transistor.fm
 0.0.0.0 ef.futuroscope.com
 0.0.0.0 ef.futuroscope.mobi
 0.0.0.0 efatik.me
@@ -3202,6 +3204,7 @@
 0.0.0.0 events.split.io
 0.0.0.0 events.tubecup.org
 0.0.0.0 events.turbosquid.com
+0.0.0.0 events.uber.com
 0.0.0.0 events.whisk.com
 0.0.0.0 events.yourcx.io
 0.0.0.0 eventtracker.videostrip.com
@@ -3540,6 +3543,7 @@
 0.0.0.0 g6932951725.co
 0.0.0.0 g7131036060.co
 0.0.0.0 g7329120395.co
+0.0.0.0 g7527204730.co
 0.0.0.0 ga-analytics.com
 0.0.0.0 ga-beacon.appspot.com
 0.0.0.0 ga.canoe.ca
@@ -4069,10 +4073,8 @@
 0.0.0.0 ib.adnxs.com
 0.0.0.0 ibbmly.moneymetals.com
 0.0.0.0 ibeat-analytics.com
-0.0.0.0 ibeat.indiatimes.com
 0.0.0.0 ibpxl.com
 0.0.0.0 ibpxl.net
-0.0.0.0 ibs.indiatimes.com
 0.0.0.0 ic-live.com
 0.0.0.0 iclive.com
 0.0.0.0 iconstab.club
@@ -4331,6 +4333,7 @@
 0.0.0.0 ip-api.com
 0.0.0.0 ip-label.net
 0.0.0.0 ip.breitbart.com
+0.0.0.0 ip.cliphunter.com
 0.0.0.0 ip.pichunter.com
 0.0.0.0 ip2c.landscape.co.jp
 0.0.0.0 ip2location.com
@@ -4417,6 +4420,7 @@
 0.0.0.0 janrain.xyz
 0.0.0.0 janus.r.jakuli.com
 0.0.0.0 jaomlf.giftmall.co.jp
+0.0.0.0 jas.indeednps.com
 0.0.0.0 jaup0lake.com
 0.0.0.0 javascriptcounter.appspot.com
 0.0.0.0 jcaqvl.twinset.com
@@ -6044,7 +6048,6 @@
 0.0.0.0 nuquds.citizenwatch.com
 0.0.0.0 nuwoxw.incanto.eu
 0.0.0.0 nuyujp.barstoolsports.com
-0.0.0.0 nvidia.partners
 0.0.0.0 nw-rail-03.com
 0.0.0.0 nwajdf.zakzak.co.jp
 0.0.0.0 nws.naltis.com
@@ -6449,6 +6452,7 @@
 0.0.0.0 pedropanther.com
 0.0.0.0 peep1alea.com
 0.0.0.0 peerius.com
+0.0.0.0 pegasus.unifygroup.com
 0.0.0.0 pendo.io
 0.0.0.0 penspade.com
 0.0.0.0 perceivequarter.com
@@ -6543,6 +6547,7 @@
 0.0.0.0 pix.gfycat.com
 0.0.0.0 pix.impdesk.com
 0.0.0.0 pix.nbcuni.com
+0.0.0.0 pix.revjet.com
 0.0.0.0 pix.speedbit.com
 0.0.0.0 pix.telekom-dienste.de
 0.0.0.0 pix.telekom.de
@@ -6601,6 +6606,7 @@
 0.0.0.0 pixelinteractivemedia.com
 0.0.0.0 pixelpop.co
 0.0.0.0 pixelrevenue.com
+0.0.0.0 pixels.afcdn.com
 0.0.0.0 pixels.boxberry.ru
 0.0.0.0 pixels.livingsocial.com
 0.0.0.0 pixfuture.com
@@ -6823,6 +6829,7 @@
 0.0.0.0 pw.gigazine.net
 0.0.0.0 pwa.telephoneannuaire.fr
 0.0.0.0 px-cloud.net
+0.0.0.0 px.derstandard.at
 0.0.0.0 px.excitedigitalmedia.com
 0.0.0.0 px.marchex.io
 0.0.0.0 px.mvfglobal.com
@@ -6839,6 +6846,7 @@
 0.0.0.0 pxkwgt.kupivip.ru
 0.0.0.0 pxlgnpgecom-a.akamaihd.net
 0.0.0.0 pxmzlk.redfin.com
+0.0.0.0 pxt.daz3d.com
 0.0.0.0 pymx5.com
 0.0.0.0 pzxhyp.aeropostale.com
 0.0.0.0 pzz.events
@@ -7095,7 +7103,6 @@
 0.0.0.0 revenuepilot.com
 0.0.0.0 revenuescience.com
 0.0.0.0 revenuewire.net
-0.0.0.0 revjet.com
 0.0.0.0 revoffers.com
 0.0.0.0 revolvermaps.com
 0.0.0.0 revprotect.com
@@ -9664,9 +9671,9 @@
 0.0.0.0 ticklesign.com
 0.0.0.0 tidafors.xyz
 0.0.0.0 tidningsnatet.se
+0.0.0.0 tilanalytics.timesinternet.in
 0.0.0.0 tim.nextinpact.com
 0.0.0.0 timeslogtn.timesnow.tv
-0.0.0.0 timestrends.indiatimes.com
 0.0.0.0 timestrends.timesnow.tv
 0.0.0.0 tinb.net
 0.0.0.0 tinyclues.com
@@ -9992,6 +9999,7 @@
 0.0.0.0 track.social.com
 0.0.0.0 track.sohu.com
 0.0.0.0 track.spacepush.ru
+0.0.0.0 track.span-smt.jp
 0.0.0.0 track.sprinklecontent.com
 0.0.0.0 track.strife.com
 0.0.0.0 track.sunmedia.tv
@@ -10406,6 +10414,7 @@
 0.0.0.0 trk.darkreading.com
 0.0.0.0 trk.datacenterknowledge.com
 0.0.0.0 trk.email.dynect.net
+0.0.0.0 trk.fensi.plus
 0.0.0.0 trk.flazio.com
 0.0.0.0 trk.freepik.com
 0.0.0.0 trk.gamasutra.com
@@ -11219,6 +11228,7 @@
 0.0.0.0 xslmpq.ohou.se
 0.0.0.0 xsrzqh.bdnews24.com
 0.0.0.0 xstats.evoload.io
+0.0.0.0 xt.persosa.com
 0.0.0.0 xtgreat.com
 0.0.0.0 xtrack.capetown.gov.za
 0.0.0.0 xtractor.no
@@ -11391,7 +11401,7 @@
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2021-03-21 00:24:14.166118
+# Generated at 2021-03-28 02:27:37.039287
 
 0.0.0.0 databerries.com
 0.0.0.0 fidzup
