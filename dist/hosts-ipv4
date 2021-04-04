@@ -1,6 +1,6 @@
-# Version: 202103280204
+# Version: 202104032358
 # Title: EasyPrivacy
-# Last modified: 28 Mar 2021 02:04 UTC
+# Last modified: 03 Apr 2021 23:58 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -349,7 +349,6 @@
 0.0.0.0 acridtwist.com
 0.0.0.0 acs86.com
 0.0.0.0 acsbap.com
-0.0.0.0 acsbapp.com
 0.0.0.0 act.acotedemoi.com
 0.0.0.0 act.convergencetraining.com
 0.0.0.0 act.online.engineering.nyu.edu
@@ -616,6 +615,7 @@
 0.0.0.0 allowmailbox.com
 0.0.0.0 alltracked.com
 0.0.0.0 alocdn.com
+0.0.0.0 aloofvest.com
 0.0.0.0 alpixtrack.com
 0.0.0.0 als-svc.nytimes.com
 0.0.0.0 alsgaj.chosun.com
@@ -1658,7 +1658,6 @@
 0.0.0.0 cformanalytics.com
 0.0.0.0 cfqsup.pro-bike.ru
 0.0.0.0 cftrack.com
-0.0.0.0 cgi.tbs.co.jp
 0.0.0.0 cgicounter.oneandone.co.uk
 0.0.0.0 cgicounter.onlinehome.de
 0.0.0.0 cgicounter.puretec.de
@@ -1904,6 +1903,7 @@
 0.0.0.0 collector.kstptv5.com
 0.0.0.0 collector.mazeberry.com
 0.0.0.0 collector.ozeex.com
+0.0.0.0 collector.pi.spectrum.net
 0.0.0.0 collector.prod.expedia.com
 0.0.0.0 collector.rn.de
 0.0.0.0 collector.roistat.com
@@ -2488,7 +2488,6 @@
 0.0.0.0 de-ner-mi-nis4.info
 0.0.0.0 de-nis-ner-mi-5.info
 0.0.0.0 de17a.com
-0.0.0.0 debug-vp.webmd.com
 0.0.0.0 decdna.net
 0.0.0.0 decibelinsight.net
 0.0.0.0 decideinteractive.com
@@ -3123,6 +3122,7 @@
 0.0.0.0 etrigue.com
 0.0.0.0 etrust.eu
 0.0.0.0 etui.fs.ml.com
+0.0.0.0 etx.indiatimes.com
 0.0.0.0 etym6cero.com
 0.0.0.0 etyper.com
 0.0.0.0 etzbnfuigipwvs.ru
@@ -3544,6 +3544,7 @@
 0.0.0.0 g7131036060.co
 0.0.0.0 g7329120395.co
 0.0.0.0 g7527204730.co
+0.0.0.0 g7725289065.co
 0.0.0.0 ga-analytics.com
 0.0.0.0 ga-beacon.appspot.com
 0.0.0.0 ga.canoe.ca
@@ -3971,6 +3972,7 @@
 0.0.0.0 hjgkdv.fiverr.com
 0.0.0.0 hkj8.evobanco.com
 0.0.0.0 hkqrpk.ozon.ru
+0.0.0.0 hktracker.hankookilbo.com
 0.0.0.0 hlserve.com
 0.0.0.0 hlsjel.engelvoelkers.com
 0.0.0.0 hm.baidu.com
@@ -4413,6 +4415,7 @@
 0.0.0.0 j.bg.adresult-sp.jp
 0.0.0.0 j.image-ad.jp
 0.0.0.0 j.newssuite.sony.net
+0.0.0.0 j1.ax.xrea.com
 0.0.0.0 j93557g.com
 0.0.0.0 jac.yahoosandbox.com
 0.0.0.0 jadeitite.com
@@ -4469,6 +4472,7 @@
 0.0.0.0 jsonip.com
 0.0.0.0 jstracker.com
 0.0.0.0 jubiitag.dk
+0.0.0.0 jumbo.zomato.com
 0.0.0.0 jump-time.net
 0.0.0.0 jumplead.com
 0.0.0.0 jumplead.io
@@ -10566,6 +10570,7 @@
 0.0.0.0 umbel.com
 0.0.0.0 unarmedindustry.com
 0.0.0.0 unbecominghall.com
+0.0.0.0 unblockia.com
 0.0.0.0 uncn.jp
 0.0.0.0 unequalbrake.com
 0.0.0.0 unicaondemand.com
@@ -11123,6 +11128,8 @@
 0.0.0.0 wt.envivas.de
 0.0.0.0 wt.generali.de
 0.0.0.0 wt.vhb.de
+0.0.0.0 wtastats.com
+0.0.0.0 wtastats.ro
 0.0.0.0 wtbevents.pricespider.com
 0.0.0.0 wthlzk.home24.de
 0.0.0.0 wtk.db.com
@@ -11401,7 +11408,7 @@
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2021-03-28 02:27:37.039287
+# Generated at 2021-04-04 00:43:13.257344
 
 0.0.0.0 databerries.com
 0.0.0.0 fidzup
