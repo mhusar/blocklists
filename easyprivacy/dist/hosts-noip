@@ -1,6 +1,6 @@
-# Version: 202103280204
+# Version: 202104032358
 # Title: EasyPrivacy
-# Last modified: 28 Mar 2021 02:04 UTC
+# Last modified: 03 Apr 2021 23:58 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -336,7 +336,6 @@ acq.io
 acridtwist.com
 acs86.com
 acsbap.com
-acsbapp.com
 act.acotedemoi.com
 act.convergencetraining.com
 act.online.engineering.nyu.edu
@@ -603,6 +602,7 @@ allo-media.net
 allowmailbox.com
 alltracked.com
 alocdn.com
+aloofvest.com
 alpixtrack.com
 als-svc.nytimes.com
 alsgaj.chosun.com
@@ -1645,7 +1645,6 @@ cfhjqg.sonyunara.jp
 cformanalytics.com
 cfqsup.pro-bike.ru
 cftrack.com
-cgi.tbs.co.jp
 cgicounter.oneandone.co.uk
 cgicounter.onlinehome.de
 cgicounter.puretec.de
@@ -1891,6 +1890,7 @@ collector.ksax.com
 collector.kstptv5.com
 collector.mazeberry.com
 collector.ozeex.com
+collector.pi.spectrum.net
 collector.prod.expedia.com
 collector.rn.de
 collector.roistat.com
@@ -2475,7 +2475,6 @@ de-mi-nis-ner2.info
 de-ner-mi-nis4.info
 de-nis-ner-mi-5.info
 de17a.com
-debug-vp.webmd.com
 decdna.net
 decibelinsight.net
 decideinteractive.com
@@ -3110,6 +3109,7 @@ etracker.de
 etrigue.com
 etrust.eu
 etui.fs.ml.com
+etx.indiatimes.com
 etym6cero.com
 etyper.com
 etzbnfuigipwvs.ru
@@ -3531,6 +3531,7 @@ g6932951725.co
 g7131036060.co
 g7329120395.co
 g7527204730.co
+g7725289065.co
 ga-analytics.com
 ga-beacon.appspot.com
 ga.canoe.ca
@@ -3958,6 +3959,7 @@ hivps.xyz
 hjgkdv.fiverr.com
 hkj8.evobanco.com
 hkqrpk.ozon.ru
+hktracker.hankookilbo.com
 hlserve.com
 hlsjel.engelvoelkers.com
 hm.baidu.com
@@ -4400,6 +4402,7 @@ izearanks.com
 j.bg.adresult-sp.jp
 j.image-ad.jp
 j.newssuite.sony.net
+j1.ax.xrea.com
 j93557g.com
 jac.yahoosandbox.com
 jadeitite.com
@@ -4456,6 +4459,7 @@ jsecoin.com
 jsonip.com
 jstracker.com
 jubiitag.dk
+jumbo.zomato.com
 jump-time.net
 jumplead.com
 jumplead.io
@@ -10553,6 +10557,7 @@ ulclick.ru
 umbel.com
 unarmedindustry.com
 unbecominghall.com
+unblockia.com
 uncn.jp
 unequalbrake.com
 unicaondemand.com
@@ -11110,6 +11115,8 @@ wt-safetag.com
 wt.envivas.de
 wt.generali.de
 wt.vhb.de
+wtastats.com
+wtastats.ro
 wtbevents.pricespider.com
 wthlzk.home24.de
 wtk.db.com
