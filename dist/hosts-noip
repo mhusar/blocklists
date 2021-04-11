@@ -1,6 +1,6 @@
-# Version: 202104032358
+# Version: 202104110010
 # Title: EasyPrivacy
-# Last modified: 03 Apr 2021 23:58 UTC
+# Last modified: 11 Apr 2021 00:10 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -44,7 +44,6 @@
 24smi.info
 24smi.net
 2cnt.net
-2giga.download
 2ip.ua
 2iui01.com
 2o7.net
@@ -61,7 +60,6 @@
 3enm.com
 3gl.net
 3ng6p6m0.de
-3wnp9.ru
 404tracker.com
 40nuggets.com
 44-trk-srv.com
@@ -608,7 +606,6 @@ als-svc.nytimes.com
 alsgaj.chosun.com
 altabold1.com
 altastat.com
-altavista.ovh
 altpool.pro
 alvenda.com
 alzexa.com
@@ -863,7 +860,6 @@ analytics.us.archive.org
 analytics.valiuz.com
 analytics.vanillaforums.com
 analytics.vendemore.com
-analytics.video.meredithcorp.io
 analytics.webgains.io
 analytics.websolute.it
 analytics.wildtangent.com
@@ -891,7 +887,6 @@ analyzer51.fc2.com
 analyzer52.fc2.com
 anametrix.com
 anametrix.net
-andagainanotherthing.com
 andersenit.dk
 andlache.com
 andyetanotherthing.com
@@ -1053,6 +1048,7 @@ audienceinsights.net
 audienceiq.com
 audiencemanager.de
 audiencepixel.com
+audienceplay.com
 audiencerate.com
 audiencesquare.com
 audiencia.r7.com
@@ -1140,7 +1136,6 @@ bab.frb.io
 babator.com
 bablace.com
 backlink-test.de
-backlink-umsonst.de
 backlinkdino.de
 backstage.funnelenvy.com
 bacon.section.io
@@ -1709,7 +1704,6 @@ click.ali213.net
 click.aliexpress.com
 click.amazingfacts.org
 click.appinthestore.com
-click.aristotle.net
 click.bokecc.com
 click.engage.xbox.com
 click.gamersky.com
@@ -1868,7 +1862,6 @@ coll1onf.com
 coll2onf.com
 collarity.com
 collect.cap.ch
-collect.igodigital.com
 collect.meilleurtaux.com
 collect.rewardstyle.com
 collect.state.centrum24.pl
@@ -2270,7 +2263,6 @@ d.sourcepoint.capitalfm.com
 d10gj7yjsfriaj.cloudfront.net
 d10lpsik1i8c69.cloudfront.net
 d11a2fzhgzqe7i.cloudfront.net
-d15kdpgjg3unno.cloudfront.net
 d169bbxks24g2u.cloudfront.net
 d16fk4ms6rqz1v.cloudfront.net
 d17m68fovwmgxj.cloudfront.net
@@ -3221,7 +3213,6 @@ execution-ci360.rai.it
 exelator.com
 exitbee.com
 exitmonitor.com
-exmarkt.de
 exovueplatform.com
 expbl2ro.xbox.com
 expdb2.msn.com
@@ -3532,6 +3523,7 @@ g7131036060.co
 g7329120395.co
 g7527204730.co
 g7725289065.co
+g7923373400.co
 ga-analytics.com
 ga-beacon.appspot.com
 ga.canoe.ca
@@ -3576,9 +3568,9 @@ geo-targetly.com
 geo.battle.net
 geo.emol.cl
 geo.ertya.com
+geo.gfycat.com
 geo.gorillanation.com
 geo.homepage-web.com
-geo.kaloo.ga
 geo.kontagent.net
 geo.metronews.ca
 geo.mezr.com
@@ -3676,7 +3668,6 @@ glanceguide.com
 glassboxcdn.com
 glassboxdigital.io
 glassmoni.researchgate.net
-glbdns.microsoft.com
 glbtracker.com
 gldsta-02-or.com
 gleam.io
@@ -3717,7 +3708,6 @@ go.loveshaw.com
 go.marfeel.com
 go.morningstar.com.au
 go.mvtec.com
-go.optifuze.com
 go.oracle.com
 go.oroinc.com
 go.pardot.com
@@ -5516,6 +5506,7 @@ metrics.southwest.com
 metrics.speedousa.com
 metrics.spencersonline.com
 metrics.spirithalloween.com
+metrics.spkt.io
 metrics.sportsbusinessdaily.com
 metrics.startribune.com
 metrics.starwoodhotels.com
@@ -5585,6 +5576,7 @@ metricss.bibliotheek.nl
 metricssecure.empiretoday.com
 metricssecure.northwesternmutual.com
 metrigo.com
+metrika-informer.com
 metriweb.be
 metrix.emagister.com
 metrix.youravon.com
@@ -6405,6 +6397,7 @@ payqjd.subito.it
 pb.i.sogou.com
 pb.m.naver.com
 pbbl.co
+pbgrd.com
 pbox.photobox.be
 pbox.photobox.co.uk
 pbox.photobox.de
@@ -6631,7 +6624,6 @@ plexworks.de
 plotrabbit.com
 plug1luge.com
 plugin.ws
-plumbus.minutemediaservices.com
 pluto.r.powuta.com
 pm0.net
 pm14.com
@@ -7381,7 +7373,6 @@ santuforward.club
 saon6harz.com
 sapha.com
 sare25.com
-sarimsol.com
 sarngq.dsklad.ru
 sarov.ws
 sas.com
@@ -7389,6 +7380,7 @@ sas15k01.com
 sasc.solidworks.com
 sat.sanoma.fi
 satisfycork.com
+sats.manager-magazin.de
 savoryorange.com
 sayac.hurriyettv.com
 sayutracking.co.uk
@@ -7396,7 +7388,6 @@ sayyac.com
 sayyac.net
 sbbanalytics.com
 sbdhdq.zeeman.com
-sbdtds.com
 sbgsodufuosmmvsdf.info
 sblftg.com
 sbxelb.bonprix.ro
@@ -7411,7 +7402,6 @@ sc.mtv.fr
 sc.mtvbase.com
 sc.nick.com
 scaledb.com
-scaleway.ovh
 scan6show.com
 scanverify.com
 scarabresearch.com
@@ -9153,7 +9143,6 @@ statsadv.dadapro.com
 statsapi.screen9.com
 statsbox.nl
 statsd.zmags.com
-statsdev.treesd.com
 statse-omtrdc.deka.de
 statsevent.com
 statsforever.com
@@ -9435,7 +9424,6 @@ t.indeed.com
 t.itsehoitoapteekki.fi
 t.jossandmain.com
 t.kck.st
-t.kelkoogroup.net
 t.leady.com
 t.leady.cz
 t.locasun.de
@@ -9655,7 +9643,6 @@ thinktot.com
 thirdrespect.com
 thirstytwig.com
 thisisacoolthing.com
-thisisanothercoolthing.com
 thismetric.com
 threat-analytics.com
 thrtle.com
@@ -9792,6 +9779,7 @@ tp.sheego.de
 tp.universal.at
 tp.yomonda.de
 tp.yourhome.de
+tp88trk.com
 tpa7.iahorro.com
 tpm.pw
 tpubrk.eobuv.com
@@ -10053,6 +10041,7 @@ tracker.cds-tracking.com
 tracker.cpapath.com
 tracker.data-vp.com
 tracker.downdetector.com
+tracker.esputnik.com
 tracker.euroweb.net
 tracker.financialcontent.com
 tracker.icerocket.com
@@ -10064,7 +10053,6 @@ tracker.marinsoftware.com
 tracker.mattel.com
 tracker.mspy.com
 tracker.nbcuas.com
-tracker.neon-images.com
 tracker.nitropay.com
 tracker.pandora.com
 tracker.pinnaclesports.com
@@ -10173,7 +10161,6 @@ tracking.hivecloud.net
 tracking.houzz.com
 tracking.hrs.de
 tracking.hsn.com
-tracking.html5games.com
 tracking.info.ivanti.com
 tracking.info.servicenow.com
 tracking.insperity.com
@@ -10213,6 +10200,7 @@ tracking.netvigie.com
 tracking.netzathleten-media.de
 tracking.nextdoor.com
 tracking.nl.visma.com
+tracking.noen.at
 tracking.notizie.it
 tracking.novem.pl
 tracking.oe24.at
@@ -10359,10 +10347,10 @@ trakksocial.googlecode.com
 trakzor.com
 tranquilside.com
 transactionale.com
+trap.skype.com
 traq.li
 travel.onlinevacationcenter.com
 traversedlp.com
-traviilo.com
 tray0bury.com
 trbas.com
 trbo.com
@@ -10445,6 +10433,7 @@ truehits3.gits.net.th
 truemine.org
 truenat.bid
 truepush.com
+truffle.bid
 trugaze.io
 truoptik.com
 trust.titanhq.com
@@ -10559,6 +10548,7 @@ unarmedindustry.com
 unbecominghall.com
 unblockia.com
 uncn.jp
+undom.net
 unequalbrake.com
 unicaondemand.com
 uniconsent.com
@@ -10644,6 +10634,7 @@ v.emedia.cn
 v.oui.sncf
 v.shopify.com
 v12group.com
+v1sts.me
 v3cdn.net
 va-endpoint.com
 value.kfcu.org
@@ -10696,7 +10687,6 @@ vgo.vegaoo.nl
 vgo.vegaoo.pt
 vgo.vegaooparty.com
 vgo.vegaoopro.com
-vi-serve.com
 viapush.com
 vice4beek.com
 vick6duty.com
@@ -10953,7 +10943,6 @@ webmeter.ws
 webmine.cz
 webmine.pro
 webminepool.com
-webminepool.tk
 webminerpool.com
 webmining.co
 webmobile.ws
@@ -11330,7 +11319,6 @@ zap.dw-world.de
 zarget.com
 zcbmn14.com
 zdbb.net
-zdlogs.sphereup.com
 zdtag.com
 zdwwtt.82plus.co.kr
 zebestof.com
@@ -11395,7 +11383,7 @@ zznfip.bork.ru
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2021-04-04 00:43:11.975088
+# Generated at 2021-04-11 00:44:20.518964
 
 databerries.com
 fidzup
