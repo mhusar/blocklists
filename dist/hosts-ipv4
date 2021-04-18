@@ -1,6 +1,6 @@
-# Version: 202104110010
+# Version: 202104180019
 # Title: EasyPrivacy
-# Last modified: 11 Apr 2021 00:10 UTC
+# Last modified: 18 Apr 2021 00:19 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -964,6 +964,7 @@
 0.0.0.0 aprtx.com
 0.0.0.0 apsis1.com
 0.0.0.0 apsislead.com
+0.0.0.0 apxl.io
 0.0.0.0 apxy.io
 0.0.0.0 aqdawf.ccm.net
 0.0.0.0 aqtracker.com
@@ -1668,6 +1669,7 @@
 0.0.0.0 chartbeat.net
 0.0.0.0 chartercommunicationsoperatingllc.hb-api.omtrdc.net
 0.0.0.0 check.ddos-guard.net
+0.0.0.0 check.deadlinefunnel.com
 0.0.0.0 checkeffect.at
 0.0.0.0 checkru.net
 0.0.0.0 checkstat.nl
@@ -2428,6 +2430,7 @@
 0.0.0.0 datadsk.com
 0.0.0.0 datafeedfile.com
 0.0.0.0 datafront.co
+0.0.0.0 datagroup-reporting.shopeemobile.com
 0.0.0.0 datam.com
 0.0.0.0 datamaster.com.cn
 0.0.0.0 datamind.ru
@@ -3445,6 +3448,7 @@
 0.0.0.0 friendbuy.com
 0.0.0.0 frog.wix.com
 0.0.0.0 frog9alea.com
+0.0.0.0 froglytics.eventfrog.ch
 0.0.0.0 frosmo.com
 0.0.0.0 fruitflan.com
 0.0.0.0 fs-client-logger.herokuapp.com
@@ -3888,6 +3892,7 @@
 0.0.0.0 hetchi.com
 0.0.0.0 hexagon-analytics.com
 0.0.0.0 heyhelga.net
+0.0.0.0 heylink.com
 0.0.0.0 heyloyalty.com
 0.0.0.0 heymatic.com
 0.0.0.0 heystaks.com
@@ -4278,6 +4283,7 @@
 0.0.0.0 instana.io
 0.0.0.0 instant.page
 0.0.0.0 instapage.com
+0.0.0.0 instapagemetrics.com
 0.0.0.0 instore.biz
 0.0.0.0 instore.pagomeno.it
 0.0.0.0 instreamatic.com
@@ -5724,6 +5730,8 @@
 0.0.0.0 monetate.net
 0.0.0.0 mongoosemetrics.com
 0.0.0.0 monitis.com
+0.0.0.0 monitor.azure.com
+0.0.0.0 monitor.channel4.com
 0.0.0.0 monitor.ebay.com
 0.0.0.0 monitus.net
 0.0.0.0 monkeytracker.cz
@@ -6537,6 +6545,7 @@
 0.0.0.0 piper.amocrm.ru
 0.0.0.0 pipfire.com
 0.0.0.0 pippio.com
+0.0.0.0 piratepx.com
 0.0.0.0 pistyll.bleacherreport.com
 0.0.0.0 piti.bplaced.net
 0.0.0.0 piwik.pro
@@ -7193,6 +7202,7 @@
 0.0.0.0 rt.rakuten.co.jp
 0.0.0.0 rta.dailymail.co.uk
 0.0.0.0 rta2.metro.co.uk
+0.0.0.0 rta2.newzit.com
 0.0.0.0 rtb-seller.com
 0.0.0.0 rtb123.com
 0.0.0.0 rtbiq.com
@@ -7393,7 +7403,6 @@
 0.0.0.0 sasc.solidworks.com
 0.0.0.0 sat.sanoma.fi
 0.0.0.0 satisfycork.com
-0.0.0.0 sats.manager-magazin.de
 0.0.0.0 savoryorange.com
 0.0.0.0 sayac.hurriyettv.com
 0.0.0.0 sayutracking.co.uk
@@ -8469,6 +8478,7 @@
 0.0.0.0 sp.desmoinesregister.com
 0.0.0.0 sp.detroitnews.com
 0.0.0.0 sp.dnj.com
+0.0.0.0 sp.dpgmedia.net
 0.0.0.0 sp.fanatical.com
 0.0.0.0 sp.fdlreporter.com
 0.0.0.0 sp.floridatoday.com
@@ -9453,6 +9463,7 @@
 0.0.0.0 t.powerreviews.com
 0.0.0.0 t.pswec.com
 0.0.0.0 t.quisma.com
+0.0.0.0 t.rainide.com
 0.0.0.0 t.raptorsmartadvisor.com
 0.0.0.0 t.regionsjob.com
 0.0.0.0 t.seesaa.net
@@ -9601,6 +9612,7 @@
 0.0.0.0 tellaparts.com
 0.0.0.0 temnos.com
 0.0.0.0 tempo.inc.com
+0.0.0.0 temptation.ad.nl
 0.0.0.0 tendatta.com
 0.0.0.0 tendertest.com
 0.0.0.0 tenilstats.turner.com
@@ -9982,6 +9994,7 @@
 0.0.0.0 track.ra.icast.cn
 0.0.0.0 track.recreativ.ru
 0.0.0.0 track.rediff.com
+0.0.0.0 track.rundschau-online.de
 0.0.0.0 track.searchignite.com
 0.0.0.0 track.searchiq.co
 0.0.0.0 track.securedvisit.com
@@ -10085,6 +10098,7 @@
 0.0.0.0 tracker.tiu.ru
 0.0.0.0 tracker.unbxdapi.com
 0.0.0.0 tracker.uprinting.com
+0.0.0.0 tracker.wigzopush.com
 0.0.0.0 tracker.winload.de
 0.0.0.0 tracker.wordstream.com
 0.0.0.0 tracker.wpserveur.net
@@ -10174,6 +10188,7 @@
 0.0.0.0 tracking.houzz.com
 0.0.0.0 tracking.hrs.de
 0.0.0.0 tracking.hsn.com
+0.0.0.0 tracking.hyros.com
 0.0.0.0 tracking.info.ivanti.com
 0.0.0.0 tracking.info.servicenow.com
 0.0.0.0 tracking.insperity.com
@@ -10195,6 +10210,7 @@
 0.0.0.0 tracking.m.premier.info.shutterstock.com
 0.0.0.0 tracking.magnetmail.net
 0.0.0.0 tracking.mammemagazine.it
+0.0.0.0 tracking.markethero.io
 0.0.0.0 tracking.mathworks.com
 0.0.0.0 tracking.max.co.il
 0.0.0.0 tracking.maxcdn.com
@@ -10471,6 +10487,7 @@
 0.0.0.0 tst14netreal.com
 0.0.0.0 ttauri.bikeperfect.com
 0.0.0.0 ttauri.creativebloq.com
+0.0.0.0 ttauri.cyclingnews.com
 0.0.0.0 ttauri.digitalcameraworld.com
 0.0.0.0 ttauri.guitarworld.com
 0.0.0.0 ttauri.laptopmag.com
@@ -11296,6 +11313,7 @@
 0.0.0.0 youboranqs01.com
 0.0.0.0 youboranqs02.com
 0.0.0.0 youle55.com
+0.0.0.0 your-analytics.org
 0.0.0.0 your-counter.be
 0.0.0.0 youramigo.com
 0.0.0.0 yourhealth.bassett.org
@@ -11396,7 +11414,7 @@
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2021-04-11 00:44:21.471031
+# Generated at 2021-04-18 00:42:20.769276
 
 0.0.0.0 databerries.com
 0.0.0.0 fidzup

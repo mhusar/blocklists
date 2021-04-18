@@ -1,6 +1,6 @@
-# Version: 202104110010
+# Version: 202104180019
 # Title: EasyPrivacy
-# Last modified: 11 Apr 2021 00:10 UTC
+# Last modified: 18 Apr 2021 00:19 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -951,6 +951,7 @@ aprtn.com
 aprtx.com
 apsis1.com
 apsislead.com
+apxl.io
 apxy.io
 aqdawf.ccm.net
 aqtracker.com
@@ -1655,6 +1656,7 @@ chartbeat.com
 chartbeat.net
 chartercommunicationsoperatingllc.hb-api.omtrdc.net
 check.ddos-guard.net
+check.deadlinefunnel.com
 checkeffect.at
 checkru.net
 checkstat.nl
@@ -2415,6 +2417,7 @@ datadome.co
 datadsk.com
 datafeedfile.com
 datafront.co
+datagroup-reporting.shopeemobile.com
 datam.com
 datamaster.com.cn
 datamind.ru
@@ -3432,6 +3435,7 @@ freshplum.com
 friendbuy.com
 frog.wix.com
 frog9alea.com
+froglytics.eventfrog.ch
 frosmo.com
 fruitflan.com
 fs-client-logger.herokuapp.com
@@ -3875,6 +3879,7 @@ heroesdom.com
 hetchi.com
 hexagon-analytics.com
 heyhelga.net
+heylink.com
 heyloyalty.com
 heymatic.com
 heystaks.com
@@ -4265,6 +4270,7 @@ instadia.net
 instana.io
 instant.page
 instapage.com
+instapagemetrics.com
 instore.biz
 instore.pagomeno.it
 instreamatic.com
@@ -5711,6 +5717,8 @@ moneroocean.stream
 monetate.net
 mongoosemetrics.com
 monitis.com
+monitor.azure.com
+monitor.channel4.com
 monitor.ebay.com
 monitus.net
 monkeytracker.cz
@@ -6524,6 +6532,7 @@ pipeline.realtime.active.com
 piper.amocrm.ru
 pipfire.com
 pippio.com
+piratepx.com
 pistyll.bleacherreport.com
 piti.bplaced.net
 piwik.pro
@@ -7180,6 +7189,7 @@ rt.prnewswire.com
 rt.rakuten.co.jp
 rta.dailymail.co.uk
 rta2.metro.co.uk
+rta2.newzit.com
 rtb-seller.com
 rtb123.com
 rtbiq.com
@@ -7380,7 +7390,6 @@ sas15k01.com
 sasc.solidworks.com
 sat.sanoma.fi
 satisfycork.com
-sats.manager-magazin.de
 savoryorange.com
 sayac.hurriyettv.com
 sayutracking.co.uk
@@ -8456,6 +8465,7 @@ sp.desertsun.com
 sp.desmoinesregister.com
 sp.detroitnews.com
 sp.dnj.com
+sp.dpgmedia.net
 sp.fanatical.com
 sp.fdlreporter.com
 sp.floridatoday.com
@@ -9440,6 +9450,7 @@ t.perigold.com
 t.powerreviews.com
 t.pswec.com
 t.quisma.com
+t.rainide.com
 t.raptorsmartadvisor.com
 t.regionsjob.com
 t.seesaa.net
@@ -9588,6 +9599,7 @@ tellapart.com
 tellaparts.com
 temnos.com
 tempo.inc.com
+temptation.ad.nl
 tendatta.com
 tendertest.com
 tenilstats.turner.com
@@ -9969,6 +9981,7 @@ track.qoof.com
 track.ra.icast.cn
 track.recreativ.ru
 track.rediff.com
+track.rundschau-online.de
 track.searchignite.com
 track.searchiq.co
 track.securedvisit.com
@@ -10072,6 +10085,7 @@ tracker.timesgroup.com
 tracker.tiu.ru
 tracker.unbxdapi.com
 tracker.uprinting.com
+tracker.wigzopush.com
 tracker.winload.de
 tracker.wordstream.com
 tracker.wpserveur.net
@@ -10161,6 +10175,7 @@ tracking.hivecloud.net
 tracking.houzz.com
 tracking.hrs.de
 tracking.hsn.com
+tracking.hyros.com
 tracking.info.ivanti.com
 tracking.info.servicenow.com
 tracking.insperity.com
@@ -10182,6 +10197,7 @@ tracking.livingsocial.com
 tracking.m.premier.info.shutterstock.com
 tracking.magnetmail.net
 tracking.mammemagazine.it
+tracking.markethero.io
 tracking.mathworks.com
 tracking.max.co.il
 tracking.maxcdn.com
@@ -10458,6 +10474,7 @@ tsk5.com
 tst14netreal.com
 ttauri.bikeperfect.com
 ttauri.creativebloq.com
+ttauri.cyclingnews.com
 ttauri.digitalcameraworld.com
 ttauri.guitarworld.com
 ttauri.laptopmag.com
@@ -11283,6 +11300,7 @@ youborafds01.com
 youboranqs01.com
 youboranqs02.com
 youle55.com
+your-analytics.org
 your-counter.be
 youramigo.com
 yourhealth.bassett.org
@@ -11383,7 +11401,7 @@ zznfip.bork.ru
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2021-04-11 00:44:20.518964
+# Generated at 2021-04-18 00:42:20.000135
 
 databerries.com
 fidzup
