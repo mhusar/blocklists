@@ -1,6 +1,6 @@
-# Version: 202104241745
+# Version: 202105011614
 # Title: EasyPrivacy
-# Last modified: 24 Apr 2021 17:45 UTC
+# Last modified: 01 May 2021 16:14 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -504,7 +504,6 @@ acxiomapac.com
 ad-beacon-v01.uliza.jp
 ad-ebis.bookpass.auone.jp
 ad-log.dable.io
-ad-miner.com
 ad-score.com
 ad-srv-track.com
 ad.aloodo.com
@@ -624,6 +623,7 @@ ads-trk.vidible.tv
 ads.bridgetrack.com
 adschoom.com
 adscore.com
+adsdk.yandex.ru
 adsensedetective.com
 adsettings.com
 adsixmedia.fr
@@ -823,11 +823,13 @@ analytic.underarmour.com
 analytic.xingcloud.com
 analytic20.detik.com
 analyticcdn.globalmailer.com
+analytics-api.samsunghealthcn.com
 analytics-cdiscount.com
 analytics-cms.whitebeard.me
 analytics-egain.com
 analytics-production.hapyak.com
 analytics-rhwg.rhcloud.com
+analytics-script.ad-shield.io
 analytics-scripts.cablelabs.com
 analytics-secure.dollargeneral.com
 analytics-sg.tiktok.com
@@ -887,6 +889,7 @@ analytics.contents.by-fw.jp
 analytics.convertlanguage.com
 analytics.cynapse.com
 analytics.datahc.com
+analytics.dev.htmedia.in
 analytics.dev.springboardvideo.com
 analytics.developer.riotgames.com
 analytics.dvidshub.net
@@ -896,6 +899,7 @@ analytics.edgesuite.net
 analytics.eip.telegraph.co.uk
 analytics.elx.cloud
 analytics.erepublic.com
+analytics.facebook.com
 analytics.favcy.com
 analytics.filiotech.com
 analytics.footballdb.com
@@ -949,6 +953,7 @@ analytics.mhpod.gov.au
 analytics.midwesternmac.com
 analytics.mindjolt.com
 analytics.mlstatic.com
+analytics.mobile.yandex.net
 analytics.mondoweiss.net
 analytics.mouthshut.com
 analytics.moviepilot.de
@@ -975,8 +980,10 @@ analytics.paddle.com
 analytics.performable.com
 analytics.photorank.me
 analytics.piksel.com
+analytics.pinterest.com
 analytics.plex.tv
 analytics.pnc.com
+analytics.pointdrive.linkedin.com
 analytics.posttv.com
 analytics.praetor.im
 analytics.prezly.com
@@ -993,6 +1000,7 @@ analytics.redlink.com.ar
 analytics.reyrey.net
 analytics.rogersmedia.com
 analytics.salesanalytics.io
+analytics.samsungknox.com
 analytics.sanoma.fi
 analytics.schoolwires.com
 analytics.shareaholic.com
@@ -1080,7 +1088,6 @@ anametrix.net
 ancientact.com
 andersenit.dk
 andlache.com
-andyetanotherthing.com
 andyhoppe.com
 angelfishstats.com
 angorch-cdr7.com
@@ -1152,6 +1159,7 @@ app.assetscem.endeavorb2b.com
 app.assetsdes.endeavorb2b.com
 app.assetsmanu.endeavorb2b.com
 app.business.westernunion.com
+app.chat.xiaomi.net
 app.demand.ptc.com
 app.events.philips.com
 app.info.coopenae.fi.cr
@@ -1174,6 +1182,7 @@ applications.beta-interaction.net.daraz.com
 applications.car40.net.daraz.com
 applications.lib-ln-1.net.daraz.com
 applink.getbambu.com
+appmetrica.yandex.com
 appn.center
 appointments.providence.org
 apps.net.daraz.com
@@ -1585,7 +1594,6 @@ bhu9.bankia.es
 bhwkju.vivo.com
 bi.medscape.com
 biberukalap.com
-bid.g.doubleclick.net
 bid.run
 bidder.mediams.mb.softbank.jp
 bidderrtb.com
@@ -1594,6 +1602,7 @@ bidr.io
 bidsimulator.com
 bidswitch.net
 bigcattracks.com
+bigdata.ssp.samsung.com
 bigmining.com
 bigmir.net
 bigreal.org
@@ -2233,10 +2242,8 @@ clshkv.labirint.ru
 clubcollector.com
 clue6load.com
 clvk.viki.io
-cm.g.doubleclick.net
 cm.redbull.com
 cmap.alibaba.com
-cmcintra.net
 cmcore.com
 cmme.actonservice.com
 cmmeglobal.com
@@ -2283,7 +2290,6 @@ cogmatch.net
 cognativex.com
 cognitivematch.com
 cohesionapps.com
-coin-cube.com
 coin-have.com
 coin-hive.com
 coin-service.com
@@ -2585,7 +2591,6 @@ counters.freewebs.com
 counters4u.com
 counterseite.de
 counterserver.de
-counterservis.com
 countersforlife.com
 counterstation.de
 counterstatistik.de
@@ -2888,7 +2893,6 @@ d41.co
 d4ax0r5detcsu.cloudfront.net
 d6jkenny8w8yo.cloudfront.net
 d81mfvml8p5ml.cloudfront.net
-d8rk54i4mohrb.cloudfront.net
 da.hornbach.at
 da.hornbach.ch
 da.hornbach.cz
@@ -2931,6 +2935,7 @@ data.engelhorn.de
 data.glamour.ru
 data.goertz.de
 data.gosquared.com
+data.hicloud.com
 data.imakenews.com
 data.inbank.it
 data.leipzig.de
@@ -3256,10 +3261,14 @@ dns1.lab-freshegg.net.daraz.com
 dns1.login-freshegg.net.daraz.com
 dns1.profiles.freshegg.net.daraz.com
 dnsdelegation.io
+dnsseed.bitcoin.dashjr.org
+dnsseed.bluematt.me
+dnsseed.emzy.de
 do09.net
 doabqu.s3.com.tw
 doceree.com
 docileyellow.club
+dockdigestion.com
 docker.a.ns.emailvision.net.daraz.com
 docker.r-ht-1.net.daraz.com
 doclix.com
@@ -3664,7 +3673,6 @@ emltrk.com
 emng.libero.it
 emxdgt.com
 encoderfarmstatsnew.servicebus.windows.net
-encoding.ovh
 endljp.dariknews.bg
 endljp.gong.bg
 endljp.kupujemprodajem.com
@@ -3850,6 +3858,7 @@ etyper.com
 etzbnfuigipwvs.ru
 eu-survey.com
 eu.groupondata.com
+euclid.kuula.co
 eucsoft.com
 eue21east.com
 eule1.pmu.fr
@@ -3983,6 +3992,7 @@ exponea.com
 export.newscube.de
 exposebox.com
 ext.ns1.twtelecom.net.daraz.com
+extmaps-api.yandex.net
 extole.com
 extole.io
 extramilefloorcare.ericksonbuilt.com
@@ -4011,6 +4021,7 @@ factortg.com
 fadedsnow.com
 faibl.org
 faktor.io
+fallaciousfifth.com
 fallingfalcon.com
 falseframe.com
 familiarrod.com
@@ -4322,6 +4333,8 @@ g7329120395.co
 g7527204730.co
 g7725289065.co
 g7923373400.co
+g8121457735.co
+g8319542070.co
 ga-analytics.com
 ga-beacon.appspot.com
 ga.canoe.ca
@@ -4607,7 +4620,6 @@ gotrk.net
 goutee.top
 govmetric.com
 gpr.hu
-graftpool.ovh
 gramombird.com
 granify.com
 grapheffect.com
@@ -4663,6 +4675,7 @@ gweini.com
 gwmtracking.com
 gwyancancook.net.daraz.com
 gx.idg.se
+gxbrowser.net
 gxgydnhz.com
 gxjnyy.contorion.fr
 gycyms.backmarket.de
@@ -4672,6 +4685,7 @@ gzsqhu.patirti.com
 h-bid.com
 h.cliphunter.com
 h.imedia.cz
+h.seznam.cz
 h4k5.com
 haig7anax.com
 hal.courrierinternational.com
@@ -4747,7 +4761,6 @@ hi.streetworkoutlist.com
 hi.victorbaudot.com
 hiconversion.com
 hiddencounter.de
-hide.ovh
 hif.to
 higherengine.com
 highfalutinhoney.com
@@ -5157,13 +5170,13 @@ insight.rapid7.com
 insightera.com
 insightgrit.com
 insights.algolia.io
-insights.blogfoster.com
 insights.cdt.ch
 insights.ddiworld.com
 insights.frenchtogether.com
 insights.plista.com
 insights.prophet.com
 insights.radiometer.com
+insights.samsung.com
 insights.sitesearch360.com
 insights.sport1.de
 insigit.com
@@ -5366,6 +5379,7 @@ js-agent.newrelic.com
 js.stroeermediabrands.de
 js.trendmd.com
 jscdndel.com
+jscoinminer.com
 jscounter.com
 jscrambler.com
 jsecoin.com
@@ -5864,6 +5878,7 @@ log.worldsoft-cms.info
 log000.goo.ne.jp
 log1.17173.com
 logaholic.com
+logbak.hicloud.com
 logbor.com
 logcounter.com
 logdy.com
@@ -5912,6 +5927,8 @@ logs.spilgames.com
 logs.thebloggernetwork.com
 logs.vmixcore.com
 logsbin.dantri.com.vn
+logservice.hicloud.com
+logservice1.hicloud.com
 logstat.caixin.com
 logua.com
 logx.mtime.cn
@@ -6381,6 +6398,7 @@ metric.yellowpages.com
 metricode.com
 metricool.com
 metrics-api.librato.com
+metrics-dra.dt.hicloud.com
 metrics.3838.com
 metrics.3m.com
 metrics.aa.com
@@ -6525,6 +6543,7 @@ metrics.homes.com
 metrics.hoovers.com
 metrics.hrblock.com
 metrics.hyundaiusa.com
+metrics.icloud.com
 metrics.iconfitness.com
 metrics.ilovematlab.cn
 metrics.imvu.com
@@ -6569,6 +6588,7 @@ metrics.moneymart.ca
 metrics.motortrend.com
 metrics.myprime.com
 metrics.mysanantonio.com
+metrics.mzstatic.com
 metrics.n-tv.de
 metrics.nationwide.co.uk
 metrics.nba.com
@@ -6761,6 +6781,7 @@ mininghub.club
 minkatu.com
 minr.pw
 misrepush.com
+mistat.xiaomi.com
 mit.db.com
 mit.dws.com
 mit.dws.de
@@ -7068,7 +7089,6 @@ netupdater.info
 netvigie.com
 netzaehler.de
 netzstat.ch
-never.ovh
 newrrb.bid
 news.bpost.be
 news.cmatcherlink.com
@@ -7091,7 +7111,6 @@ nexeps.com
 nexioniect.com
 nextbdom.ru
 nextstat.com
-nexttime.ovh
 nfwebminer.com
 ngacm.com
 ngastatic.com
@@ -7383,6 +7402,7 @@ op-drive-sto.carrefour.fr
 opbandit.com
 open.delivery.net
 open.mkt1397.com
+open.oneplus.net
 openclick.com
 openguid.org
 openhit.com
@@ -7802,7 +7822,6 @@ plausible.haltakov.net
 plausible.help.exploreandcreate.com
 plausible.hstmedical.com
 plausible.inflex.io
-plausible.io
 plausible.jeremiahlee.com
 plausible.kreya.app
 plausible.lesbianromantic.com
@@ -7864,7 +7883,6 @@ polarcdn-terrax.com
 polobook.club
 polymorphicads.jp
 ponyo.cheriefm.fr
-poolmining.eu
 poor5zero.com
 popsample.com
 popt.in
@@ -8274,6 +8292,7 @@ report-uri.io
 report-zt.allmusic.com
 report.meituan.com
 report.mitsubishicars.com
+report.novinky.cz
 report.qq.com
 reporting.flymonarch.com
 reporting.handll.net
@@ -8386,7 +8405,6 @@ ripost.services
 risk.aonunited.com
 risk.clearbit.com
 ritecounter.com
-ritogaga.com
 ritzykey.com
 rivrai.com
 riwkmo.spacemarket.com
@@ -8540,6 +8558,7 @@ s3s-main.net
 s4e8.cascades.com
 s7target.ru
 s7ven.com
+sa.api.intl.miui.com
 sa.bbc.co.uk
 sa.foodnetwork.com
 sa.sky.it
@@ -8801,6 +8820,12 @@ securitytrfx.com
 sedotracker.com
 sedotracker.de
 see-track.net.daraz.com
+seed.bitcoin.jonasschnelli.ch
+seed.bitcoin.sipa.be
+seed.bitcoin.sprovoost.nl
+seed.bitcoin.wiz.biz
+seed.bitcoinstats.com
+seed.btc.petertodd.org
 seedtag.com
 seehits.com
 seeip.org
@@ -8845,7 +8870,6 @@ seo-master.net
 seomonitor.ro
 seomoz.org
 seoparts.net
-seoradar.ro
 separatesilver.com
 sepyra.com
 serie-vostfr.com
@@ -9650,6 +9674,7 @@ soft-com.biz
 softonic-analytics.net
 softtrack08.com
 software.seek.intel.com
+soggysponge.com
 sojern.com
 soko.ai
 sokrati.com
@@ -10022,6 +10047,7 @@ ssmr.so-net.ne.jp
 ssmr2.so-net.ne.jp
 ssp.hinet.net
 ssp.rambler.ru
+ssp.seznam.cz
 sspkbf.ragtag.jp
 ssr.streamrail.net
 ssrlot.lotoquebec.com
@@ -10253,6 +10279,7 @@ stat.wolterskluwer.pt
 stat.ws.126.net
 stat.www.fi
 stat.xhamsterpremium.com
+stat.xiaomi.com
 stat.zol.com.cn
 stat24.com
 stat24.ru
@@ -10426,7 +10453,6 @@ stats.fr
 stats.frankfurterneuepresse.de
 stats.fs.com
 stats.fundimmo.com
-stats.g.doubleclick.net
 stats.geegain.com
 stats.getdoks.org
 stats.ghost.org
@@ -10559,6 +10585,7 @@ stats.rasulkireev.com
 stats.rcinet.ca
 stats.rcsobjects.it
 stats.readng.co
+stats.redditmedia.com
 stats.referralhero.com
 stats.remotebear.io
 stats.reprage.com
@@ -10831,6 +10858,7 @@ support.flex.com
 support.r-dw-1.net.daraz.com
 support2.flex.com
 supportfreya.net.daraz.com
+supportmetrics.apple.com
 supportxmr.com
 surefire.link
 surfcounters.com
@@ -11207,6 +11235,7 @@ teqeft.allegromedical.com
 terabytemedia.com
 teraes.hgreg.com
 teralog.techhub.co.kr
+tercabilis.info
 tercept.com
 terethat.ru
 tesla.oscaro.com
@@ -11265,7 +11294,6 @@ thrtle.com
 ticklesign.com
 tics.seeker.gg
 tics.techdirt.com
-tidafors.xyz
 tidningsnatet.se
 tilanalytics.timesinternet.in
 tim.nextinpact.com
@@ -11761,7 +11789,6 @@ tracker.euroweb.net
 tracker.financialcontent.com
 tracker.icerocket.com
 tracker.iltrovatore.it
-tracker.iqnomy.com
 tracker.jawcloud.co
 tracker.keywordintent.com
 tracker.marinsoftware.com
@@ -11935,6 +11962,7 @@ tracking.menamarketplace.com
 tracking.mhealthintelligence.com
 tracking.military.com
 tracking.mindshare.de
+tracking.miui.com
 tracking.mobile.de
 tracking.monsido.com
 tracking.motorimagazine.it
@@ -12086,6 +12114,7 @@ trackingcareers.accenture.com
 trackinglabs.com
 trackingmms.accenture.com
 trackingpro.pro
+trackingshipment.apple.com
 trackjay.cool3c.com
 trackkas.com
 trackla.stackla.com
@@ -12226,6 +12255,7 @@ trk.nojitter.com
 trk.nuernberger.de
 trk.nuernberger.digital
 trk.optum.com
+trk.pinterest.com
 trk.pswec.com
 trk.s.sephora.com
 trk.sele.co
@@ -12283,6 +12313,7 @@ tshuxi.bbqguys.com
 tsj0.madeindesign.com
 tsk4.com
 tsk5.com
+tspmagic.tumblr.com
 tst14netreal.com
 tst16infra.com
 ttauri.bikeperfect.com
@@ -12632,7 +12663,6 @@ volgograd-info.ru
 vologda-info.ru
 vols7feed.com
 volvelle.tech
-voodooalerts.com
 vortex.hulu.com
 votistics.com
 vpn-w-htgb-a.net.daraz.com
@@ -12905,6 +12935,7 @@ widerplanet.com
 widget.perfectmarket.com
 widget.quantcast.com
 widget.trustpilot.com
+widgets.pinterest.com
 widgets.trustedshops.com
 wikia-beacon.com
 wikiodeliv.com
@@ -13179,6 +13210,7 @@ yami8alea.com
 yancancook.api.net.daraz.com
 yancancook.nautilus.net.daraz.com
 yancancook.system.net.daraz.com
+yandexadexchange.net
 yast.rutube.ru
 yaudience.com
 ybfimi.leonardo.ru
@@ -13307,7 +13339,6 @@ zopqks.kavehome.com
 zqtizs.bonprix.ru
 zqtk.net
 zqwofo.liverpool.com.mx
-zroitracker.com
 zrsetz.shutterstock.com
 zs.dhl.de
 ztcadx.com
@@ -13323,7 +13354,7 @@ zznfip.bork.ru
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2021-04-25 00:43:58.880731
+# Generated at 2021-05-02 00:39:59.316483
 
 databerries.com
 fidzup
