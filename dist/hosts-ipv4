@@ -1,6 +1,6 @@
-# Version: 202105082204
+# Version: 202105152312
 # Title: EasyPrivacy
-# Last modified: 08 May 2021 22:04 UTC
+# Last modified: 15 May 2021 23:12 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -837,6 +837,7 @@
 0.0.0.0 adtd.douglas.ch
 0.0.0.0 adtd.douglas.de
 0.0.0.0 adtd.douglas.pl
+0.0.0.0 adtector.com
 0.0.0.0 adtelligence.de
 0.0.0.0 adten.eu
 0.0.0.0 adthletic.com
@@ -1044,6 +1045,7 @@
 0.0.0.0 analytics-cms.whitebeard.me
 0.0.0.0 analytics-egain.com
 0.0.0.0 analytics-production.hapyak.com
+0.0.0.0 analytics-proxy.springboard.com
 0.0.0.0 analytics-rhwg.rhcloud.com
 0.0.0.0 analytics-script.ad-shield.io
 0.0.0.0 analytics-scripts.cablelabs.com
@@ -1115,10 +1117,12 @@
 0.0.0.0 analytics.ecosia.org
 0.0.0.0 analytics.edgekey.net
 0.0.0.0 analytics.edgesuite.net
+0.0.0.0 analytics.eggoffer.com
 0.0.0.0 analytics.eip.telegraph.co.uk
 0.0.0.0 analytics.elx.cloud
 0.0.0.0 analytics.erepublic.com
 0.0.0.0 analytics.facebook.com
+0.0.0.0 analytics.faceitanalytics.com
 0.0.0.0 analytics.favcy.com
 0.0.0.0 analytics.filiotech.com
 0.0.0.0 analytics.fnbfremont.com
@@ -1203,6 +1207,7 @@
 0.0.0.0 analytics.ostr.io
 0.0.0.0 analytics.ovh.com
 0.0.0.0 analytics.paddle.com
+0.0.0.0 analytics.pagefly.io
 0.0.0.0 analytics.performable.com
 0.0.0.0 analytics.pgatour.com
 0.0.0.0 analytics.photorank.me
@@ -1990,6 +1995,7 @@
 0.0.0.0 bxbiwo.beliani.ch
 0.0.0.0 by.bollore-logistics.com
 0.0.0.0 byebye.ml
+0.0.0.0 byside.com
 0.0.0.0 bytemgdd.com
 0.0.0.0 bzclk.baidu.com
 0.0.0.0 bzlold.machi.to
@@ -3156,6 +3162,7 @@
 0.0.0.0 datasecu.download
 0.0.0.0 datasteam.io
 0.0.0.0 dataxpand.com
+0.0.0.0 datayi.cn
 0.0.0.0 daten.union-investment.de
 0.0.0.0 datum.appfleet.com
 0.0.0.0 datvantage.com
@@ -3326,7 +3333,6 @@
 0.0.0.0 digitaloptout.com
 0.0.0.0 digitalpush.org
 0.0.0.0 digitaltarget.ru
-0.0.0.0 digitiminimi.com
 0.0.0.0 digitru.st
 0.0.0.0 dignow.org
 0.0.0.0 dii2.bitiba.be
@@ -4732,6 +4738,7 @@
 0.0.0.0 giga-abs.de
 0.0.0.0 gigcount.com
 0.0.0.0 gim.co.il
+0.0.0.0 giocdn.com
 0.0.0.0 giraff.io
 0.0.0.0 giraffepiano.com
 0.0.0.0 gixmo.dk
@@ -5008,6 +5015,7 @@
 0.0.0.0 heapanalytics.com
 0.0.0.0 hear8crew.com
 0.0.0.0 heartbeat.flickr.com
+0.0.0.0 hearthorn.com
 0.0.0.0 heat6have.com
 0.0.0.0 heatmap.it
 0.0.0.0 heatmap.services
@@ -8096,6 +8104,7 @@
 0.0.0.0 mycounter.ua
 0.0.0.0 myfastcounter.com
 0.0.0.0 myfidevs.io
+0.0.0.0 mygtmn.com
 0.0.0.0 myhome.usg.com
 0.0.0.0 myhzhu.chicme.com
 0.0.0.0 mynewcounter.com
@@ -9141,6 +9150,7 @@
 0.0.0.0 prism.app-us1.com
 0.0.0.0 prism.noordermeer.ch
 0.0.0.0 prism.pandora.tv
+0.0.0.0 privacy-api.9gag.com
 0.0.0.0 privacy-policy.truste.com
 0.0.0.0 prjslxhtx003.top
 0.0.0.0 prnetwork.de
@@ -9492,6 +9502,7 @@
 0.0.0.0 rel2.nextinpact.com
 0.0.0.0 relap.io
 0.0.0.0 relatable.inquisitr.com
+0.0.0.0 relay.fiverr.com
 0.0.0.0 relead.com
 0.0.0.0 relevant-digital.com
 0.0.0.0 reliablecounter.com
@@ -9642,6 +9653,7 @@
 0.0.0.0 roitesting.com
 0.0.0.0 rok.com.com
 0.0.0.0 rollbar.com
+0.0.0.0 rollercoin.com
 0.0.0.0 rollingcounters.com
 0.0.0.0 roofrelation.com
 0.0.0.0 roosterfirework.com
@@ -10129,7 +10141,6 @@
 0.0.0.0 seedtag.com
 0.0.0.0 seehits.com
 0.0.0.0 seeip.org
-0.0.0.0 seesaa.jp
 0.0.0.0 seevolution.com
 0.0.0.0 seewhy.com
 0.0.0.0 seg.sharethis.com
@@ -10602,6 +10613,7 @@
 0.0.0.0 smetrics.roche.de
 0.0.0.0 smetrics.roger.ai
 0.0.0.0 smetrics.ryanhomes.com
+0.0.0.0 smetrics.samsung.com
 0.0.0.0 smetrics.scarboroughtoyota.ca
 0.0.0.0 smetrics.sce.com
 0.0.0.0 smetrics.seasearcher.com
@@ -11577,6 +11589,7 @@
 0.0.0.0 stats.proff.no
 0.0.0.0 stats.propublica.org
 0.0.0.0 stats.pselookup.vrymel.com
+0.0.0.0 stats.pstream.net
 0.0.0.0 stats.pusher.com
 0.0.0.0 stats.qawl.app
 0.0.0.0 stats.qbitstore.nl
@@ -13823,7 +13836,6 @@
 0.0.0.0 widget.perfectmarket.com
 0.0.0.0 widget.quantcast.com
 0.0.0.0 widget.trustpilot.com
-0.0.0.0 widgets.pinterest.com
 0.0.0.0 widgets.trustedshops.com
 0.0.0.0 wikia-beacon.com
 0.0.0.0 wikiodeliv.com
@@ -14209,7 +14221,7 @@
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2021-05-09 00:29:40.390281
+# Generated at 2021-05-16 00:40:15.609610
 
 0.0.0.0 databerries.com
 0.0.0.0 fidzup
