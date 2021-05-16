@@ -1,6 +1,6 @@
-# Version: 202105082204
+# Version: 202105152312
 # Title: EasyPrivacy
-# Last modified: 08 May 2021 22:04 UTC
+# Last modified: 15 May 2021 23:12 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -837,6 +837,7 @@ adtd.douglas.at
 adtd.douglas.ch
 adtd.douglas.de
 adtd.douglas.pl
+adtector.com
 adtelligence.de
 adten.eu
 adthletic.com
@@ -1044,6 +1045,7 @@ analytics-cdiscount.com
 analytics-cms.whitebeard.me
 analytics-egain.com
 analytics-production.hapyak.com
+analytics-proxy.springboard.com
 analytics-rhwg.rhcloud.com
 analytics-script.ad-shield.io
 analytics-scripts.cablelabs.com
@@ -1115,10 +1117,12 @@ analytics.dvidshub.net
 analytics.ecosia.org
 analytics.edgekey.net
 analytics.edgesuite.net
+analytics.eggoffer.com
 analytics.eip.telegraph.co.uk
 analytics.elx.cloud
 analytics.erepublic.com
 analytics.facebook.com
+analytics.faceitanalytics.com
 analytics.favcy.com
 analytics.filiotech.com
 analytics.fnbfremont.com
@@ -1203,6 +1207,7 @@ analytics.orenshmu.com
 analytics.ostr.io
 analytics.ovh.com
 analytics.paddle.com
+analytics.pagefly.io
 analytics.performable.com
 analytics.pgatour.com
 analytics.photorank.me
@@ -1990,6 +1995,7 @@ bvr.snva.jp
 bxbiwo.beliani.ch
 by.bollore-logistics.com
 byebye.ml
+byside.com
 bytemgdd.com
 bzclk.baidu.com
 bzlold.machi.to
@@ -3156,6 +3162,7 @@ dataperforma.com
 datasecu.download
 datasteam.io
 dataxpand.com
+datayi.cn
 daten.union-investment.de
 datum.appfleet.com
 datvantage.com
@@ -3326,7 +3333,6 @@ digitalmarketing.nglantz.com
 digitaloptout.com
 digitalpush.org
 digitaltarget.ru
-digitiminimi.com
 digitru.st
 dignow.org
 dii2.bitiba.be
@@ -4732,6 +4738,7 @@ gift2pair.com
 giga-abs.de
 gigcount.com
 gim.co.il
+giocdn.com
 giraff.io
 giraffepiano.com
 gixmo.dk
@@ -5008,6 +5015,7 @@ healte.de
 heapanalytics.com
 hear8crew.com
 heartbeat.flickr.com
+hearthorn.com
 heat6have.com
 heatmap.it
 heatmap.services
@@ -8096,6 +8104,7 @@ mycounter.com.ua
 mycounter.ua
 myfastcounter.com
 myfidevs.io
+mygtmn.com
 myhome.usg.com
 myhzhu.chicme.com
 mynewcounter.com
@@ -9141,6 +9150,7 @@ prfct.co
 prism.app-us1.com
 prism.noordermeer.ch
 prism.pandora.tv
+privacy-api.9gag.com
 privacy-policy.truste.com
 prjslxhtx003.top
 prnetwork.de
@@ -9492,6 +9502,7 @@ rel.nextinpact.com
 rel2.nextinpact.com
 relap.io
 relatable.inquisitr.com
+relay.fiverr.com
 relead.com
 relevant-digital.com
 reliablecounter.com
@@ -9642,6 +9653,7 @@ roispy.com
 roitesting.com
 rok.com.com
 rollbar.com
+rollercoin.com
 rollingcounters.com
 roofrelation.com
 roosterfirework.com
@@ -10129,7 +10141,6 @@ seed.btc.petertodd.org
 seedtag.com
 seehits.com
 seeip.org
-seesaa.jp
 seevolution.com
 seewhy.com
 seg.sharethis.com
@@ -10602,6 +10613,7 @@ smetrics.rexulti.com
 smetrics.roche.de
 smetrics.roger.ai
 smetrics.ryanhomes.com
+smetrics.samsung.com
 smetrics.scarboroughtoyota.ca
 smetrics.sce.com
 smetrics.seasearcher.com
@@ -11577,6 +11589,7 @@ stats.processserver101.com
 stats.proff.no
 stats.propublica.org
 stats.pselookup.vrymel.com
+stats.pstream.net
 stats.pusher.com
 stats.qawl.app
 stats.qbitstore.nl
@@ -13823,7 +13836,6 @@ widerplanet.com
 widget.perfectmarket.com
 widget.quantcast.com
 widget.trustpilot.com
-widgets.pinterest.com
 widgets.trustedshops.com
 wikia-beacon.com
 wikiodeliv.com
