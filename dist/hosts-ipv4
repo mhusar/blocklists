@@ -1,6 +1,6 @@
-# Version: 202105152312
+# Version: 202105222350
 # Title: EasyPrivacy
-# Last modified: 15 May 2021 23:12 UTC
+# Last modified: 22 May 2021 23:50 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -877,7 +877,6 @@
 0.0.0.0 aem-collector.daumkakao.io
 0.0.0.0 aero.bankofamerica.com
 0.0.0.0 aesus.so-net.ne.jp
-0.0.0.0 aevents.izooto.com
 0.0.0.0 af-z.jp
 0.0.0.0 afairweb.com
 0.0.0.0 affclkr.com
@@ -920,6 +919,7 @@
 0.0.0.0 agillic.eu
 0.0.0.0 agilone.com
 0.0.0.0 agkn.com
+0.0.0.0 agorahtag.tech
 0.0.0.0 agreeabletouch.com
 0.0.0.0 agrvt.com
 0.0.0.0 aheadday.com
@@ -1035,6 +1035,7 @@
 0.0.0.0 analytic.cibc.com
 0.0.0.0 analytic.imlive.com
 0.0.0.0 analytic.rocks
+0.0.0.0 analytic.rollout.io
 0.0.0.0 analytic.surfline.com
 0.0.0.0 analytic.underarmour.com
 0.0.0.0 analytic.xingcloud.com
@@ -1092,6 +1093,7 @@
 0.0.0.0 analytics.carambo.la
 0.0.0.0 analytics.ceneo.pl
 0.0.0.0 analytics.chase.com
+0.0.0.0 analytics.chegg.com
 0.0.0.0 analytics.churchthemes.com
 0.0.0.0 analytics.cibc.com
 0.0.0.0 analytics.cibcrewards.com
@@ -1110,6 +1112,7 @@
 0.0.0.0 analytics.cynapse.com
 0.0.0.0 analytics.data.lloydsbankinggroup.com
 0.0.0.0 analytics.datahc.com
+0.0.0.0 analytics.designspiration.com
 0.0.0.0 analytics.dev.htmedia.in
 0.0.0.0 analytics.dev.springboardvideo.com
 0.0.0.0 analytics.developer.riotgames.com
@@ -1298,6 +1301,7 @@
 0.0.0.0 analytics.valheimgamer.com
 0.0.0.0 analytics.valiuz.com
 0.0.0.0 analytics.vanillaforums.com
+0.0.0.0 analytics.vdo.ai
 0.0.0.0 analytics.vendemore.com
 0.0.0.0 analytics.verizon.com
 0.0.0.0 analytics.verizonwireless.com
@@ -2764,6 +2768,7 @@
 0.0.0.0 counter.people.cn
 0.0.0.0 counter.photopulse.ru
 0.0.0.0 counter.pixplug.in
+0.0.0.0 counter.plos.org
 0.0.0.0 counter.powweb.com
 0.0.0.0 counter.pr-cy.ru
 0.0.0.0 counter.proxycrawl.com
@@ -3467,6 +3472,7 @@
 0.0.0.0 dockdigestion.com
 0.0.0.0 doclix.com
 0.0.0.0 docodoco.jp
+0.0.0.0 docomo-analytics.com
 0.0.0.0 dogcollarfavourbluff.com
 0.0.0.0 doja.worten.es
 0.0.0.0 dojomojo.com
@@ -4151,7 +4157,6 @@
 0.0.0.0 events.guesttoguest.com
 0.0.0.0 events.il.fi
 0.0.0.0 events.ingatlan.com
-0.0.0.0 events.izooto.com
 0.0.0.0 events.jora.com
 0.0.0.0 events.jotform.com
 0.0.0.0 events.kaloo.ga
@@ -4187,7 +4192,6 @@
 0.0.0.0 evisitanalyst.com
 0.0.0.0 evnt.iol.it
 0.0.0.0 evt.collarity.com
-0.0.0.0 evt.izooto.com
 0.0.0.0 evyy.net
 0.0.0.0 ew3.io
 0.0.0.0 ewebanalytics.com
@@ -4251,6 +4255,7 @@
 0.0.0.0 f-counter.jp
 0.0.0.0 f-counter.net
 0.0.0.0 f-emc.ngsp.gov.vn
+0.0.0.0 f.schemeflood.com
 0.0.0.0 f.staticlp.com
 0.0.0.0 f0nn.oney.fr
 0.0.0.0 f1tbit.com
@@ -4458,6 +4463,7 @@
 0.0.0.0 free-counter.com
 0.0.0.0 free-counters.co.uk
 0.0.0.0 free-counters.net
+0.0.0.0 free-hit-counters.net
 0.0.0.0 free-website-hit-counters.com
 0.0.0.0 free-website-statistics.com
 0.0.0.0 freebloghitcounter.com
@@ -4481,6 +4487,7 @@
 0.0.0.0 freestats.ws
 0.0.0.0 freetrafficsystem.com
 0.0.0.0 freeusersonline.com
+0.0.0.0 freevisitorcounters.com
 0.0.0.0 freeweblogger.com
 0.0.0.0 freihit.de
 0.0.0.0 fremaks.net
@@ -5756,6 +5763,7 @@
 0.0.0.0 iyi.net
 0.0.0.0 izea.com
 0.0.0.0 izearanks.com
+0.0.0.0 izooto.com
 0.0.0.0 j.bg.adresult-sp.jp
 0.0.0.0 j.image-ad.jp
 0.0.0.0 j.newssuite.sony.net
@@ -6269,6 +6277,7 @@
 0.0.0.0 localytics.com
 0.0.0.0 lockview.cn
 0.0.0.0 locotrack.net
+0.0.0.0 log-api.newrelic.com
 0.0.0.0 log.51cto.com
 0.0.0.0 log.aimtell.com
 0.0.0.0 log.artipbox.net
@@ -6366,6 +6375,7 @@
 0.0.0.0 logs.ggweb.nl
 0.0.0.0 logs.hotstar.com
 0.0.0.0 logs.naukri.com
+0.0.0.0 logs.psm.wmcdp.io
 0.0.0.0 logs.ptable.com
 0.0.0.0 logs.spilgames.com
 0.0.0.0 logs.thebloggernetwork.com
@@ -9152,6 +9162,7 @@
 0.0.0.0 prism.pandora.tv
 0.0.0.0 privacy-api.9gag.com
 0.0.0.0 privacy-policy.truste.com
+0.0.0.0 privacy.outdoorsg.com
 0.0.0.0 prjslxhtx003.top
 0.0.0.0 prnetwork.de
 0.0.0.0 prnx.net
@@ -10043,6 +10054,7 @@
 0.0.0.0 sealine.pro
 0.0.0.0 sealingdev.actonservice.com
 0.0.0.0 sealserver.trustwave.com
+0.0.0.0 searchenginegenie.com
 0.0.0.0 searchfeed.com
 0.0.0.0 searchignite.com
 0.0.0.0 searchplow.com
@@ -11580,6 +11592,7 @@
 0.0.0.0 stats.piaggio.com
 0.0.0.0 stats.pixify.net
 0.0.0.0 stats.planillaplus.com
+0.0.0.0 stats.podcastwebsites.com
 0.0.0.0 stats.polldaddy.com
 0.0.0.0 stats.portabella.io
 0.0.0.0 stats.premiumsim.de
@@ -12732,6 +12745,7 @@
 0.0.0.0 track2.dulingo.com
 0.0.0.0 track2.me
 0.0.0.0 track2.mycliplister.com
+0.0.0.0 trackadm.com
 0.0.0.0 trackalyzer.com
 0.0.0.0 trackboxx.info
 0.0.0.0 trackcb.com
@@ -14221,7 +14235,7 @@
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2021-05-16 00:40:15.609610
+# Generated at 2021-05-23 00:42:58.066721
 
 0.0.0.0 databerries.com
 0.0.0.0 fidzup
@@ -14819,3 +14833,4 @@
 0.0.0.0 cedexis.com
 0.0.0.0 radar.cedexis.com
 0.0.0.0 tele.fm
+0.0.0.0 cdn-api.swirl.com
