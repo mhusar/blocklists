@@ -1,6 +1,6 @@
-# Version: 202105152312
+# Version: 202105222350
 # Title: EasyPrivacy
-# Last modified: 15 May 2021 23:12 UTC
+# Last modified: 22 May 2021 23:50 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -864,7 +864,6 @@ aelsth.azerty.nl
 aem-collector.daumkakao.io
 aero.bankofamerica.com
 aesus.so-net.ne.jp
-aevents.izooto.com
 af-z.jp
 afairweb.com
 affclkr.com
@@ -907,6 +906,7 @@ agilecrm.com
 agillic.eu
 agilone.com
 agkn.com
+agorahtag.tech
 agreeabletouch.com
 agrvt.com
 aheadday.com
@@ -1022,6 +1022,7 @@ analytic.ae.com
 analytic.cibc.com
 analytic.imlive.com
 analytic.rocks
+analytic.rollout.io
 analytic.surfline.com
 analytic.underarmour.com
 analytic.xingcloud.com
@@ -1079,6 +1080,7 @@ analytics.carambatv.ru
 analytics.carambo.la
 analytics.ceneo.pl
 analytics.chase.com
+analytics.chegg.com
 analytics.churchthemes.com
 analytics.cibc.com
 analytics.cibcrewards.com
@@ -1097,6 +1099,7 @@ analytics.convertlanguage.com
 analytics.cynapse.com
 analytics.data.lloydsbankinggroup.com
 analytics.datahc.com
+analytics.designspiration.com
 analytics.dev.htmedia.in
 analytics.dev.springboardvideo.com
 analytics.developer.riotgames.com
@@ -1285,6 +1288,7 @@ analytics.us.archive.org
 analytics.valheimgamer.com
 analytics.valiuz.com
 analytics.vanillaforums.com
+analytics.vdo.ai
 analytics.vendemore.com
 analytics.verizon.com
 analytics.verizonwireless.com
@@ -2751,6 +2755,7 @@ counter.packa2.cz
 counter.people.cn
 counter.photopulse.ru
 counter.pixplug.in
+counter.plos.org
 counter.powweb.com
 counter.pr-cy.ru
 counter.proxycrawl.com
@@ -3454,6 +3459,7 @@ docileyellow.club
 dockdigestion.com
 doclix.com
 docodoco.jp
+docomo-analytics.com
 dogcollarfavourbluff.com
 doja.worten.es
 dojomojo.com
@@ -4138,7 +4144,6 @@ events.demoup.com
 events.guesttoguest.com
 events.il.fi
 events.ingatlan.com
-events.izooto.com
 events.jora.com
 events.jotform.com
 events.kaloo.ga
@@ -4174,7 +4179,6 @@ evisit.exeter.ac.uk
 evisitanalyst.com
 evnt.iol.it
 evt.collarity.com
-evt.izooto.com
 evyy.net
 ew3.io
 ewebanalytics.com
@@ -4238,6 +4242,7 @@ ezytrack.com
 f-counter.jp
 f-counter.net
 f-emc.ngsp.gov.vn
+f.schemeflood.com
 f.staticlp.com
 f0nn.oney.fr
 f1tbit.com
@@ -4445,6 +4450,7 @@ free-counter.co.uk
 free-counter.com
 free-counters.co.uk
 free-counters.net
+free-hit-counters.net
 free-website-hit-counters.com
 free-website-statistics.com
 freebloghitcounter.com
@@ -4468,6 +4474,7 @@ freestats.tv
 freestats.ws
 freetrafficsystem.com
 freeusersonline.com
+freevisitorcounters.com
 freeweblogger.com
 freihit.de
 fremaks.net
@@ -5743,6 +5750,7 @@ ixrfsm.sawiday.fr
 iyi.net
 izea.com
 izearanks.com
+izooto.com
 j.bg.adresult-sp.jp
 j.image-ad.jp
 j.newssuite.sony.net
@@ -6256,6 +6264,7 @@ localbeige.club
 localytics.com
 lockview.cn
 locotrack.net
+log-api.newrelic.com
 log.51cto.com
 log.aimtell.com
 log.artipbox.net
@@ -6353,6 +6362,7 @@ logs.gaana.com
 logs.ggweb.nl
 logs.hotstar.com
 logs.naukri.com
+logs.psm.wmcdp.io
 logs.ptable.com
 logs.spilgames.com
 logs.thebloggernetwork.com
@@ -9139,6 +9149,7 @@ prism.noordermeer.ch
 prism.pandora.tv
 privacy-api.9gag.com
 privacy-policy.truste.com
+privacy.outdoorsg.com
 prjslxhtx003.top
 prnetwork.de
 prnx.net
@@ -10030,6 +10041,7 @@ seal.verisign.com
 sealine.pro
 sealingdev.actonservice.com
 sealserver.trustwave.com
+searchenginegenie.com
 searchfeed.com
 searchignite.com
 searchplow.com
@@ -11567,6 +11579,7 @@ stats.phoenix-widget.com
 stats.piaggio.com
 stats.pixify.net
 stats.planillaplus.com
+stats.podcastwebsites.com
 stats.polldaddy.com
 stats.portabella.io
 stats.premiumsim.de
@@ -12719,6 +12732,7 @@ track2.cliplister.com
 track2.dulingo.com
 track2.me
 track2.mycliplister.com
+trackadm.com
 trackalyzer.com
 trackboxx.info
 trackcb.com
