@@ -1,6 +1,6 @@
-# Version: 202105222350
+# Version: 202105292333
 # Title: EasyPrivacy
-# Last modified: 22 May 2021 23:50 UTC
+# Last modified: 29 May 2021 23:33 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -477,6 +477,7 @@
 0.0.0.0 aax-eu-dub.amazon.com
 0.0.0.0 aax-us-iad.amazon.com
 0.0.0.0 aaxdetect.com
+0.0.0.0 ab-machine.forbes.com
 0.0.0.0 abakus.freenet.de
 0.0.0.0 abc.fackelmann.de
 0.0.0.0 abc.hearst.co.uk
@@ -941,11 +942,13 @@
 0.0.0.0 aimediagroup.com
 0.0.0.0 aimtell.com
 0.0.0.0 aip.actonservice.com
+0.0.0.0 air.audioeye.com
 0.0.0.0 air2s.com
 0.0.0.0 air360tracker.net
 0.0.0.0 airnewzealand.eu
 0.0.0.0 airpr.com
 0.0.0.0 airserve.net
+0.0.0.0 aivalabs.com
 0.0.0.0 ajbeqy.delfi.lt
 0.0.0.0 akamai.net
 0.0.0.0 akamaihd.net
@@ -1233,6 +1236,7 @@
 0.0.0.0 analytics.ramiyer.io
 0.0.0.0 analytics.ramiyer.me
 0.0.0.0 analytics.ratioform.it
+0.0.0.0 analytics.realestate.com.au
 0.0.0.0 analytics.rechtslupe.org
 0.0.0.0 analytics.recruitics.com
 0.0.0.0 analytics.redlink.com.ar
@@ -1637,6 +1641,7 @@
 0.0.0.0 backlink-test.de
 0.0.0.0 backlinkdino.de
 0.0.0.0 backstage.funnelenvy.com
+0.0.0.0 bacon.getcarro.com
 0.0.0.0 bacon.section.io
 0.0.0.0 badb5refl.com
 0.0.0.0 bagbeam.com
@@ -1956,6 +1961,7 @@
 0.0.0.0 btbuckets.com
 0.0.0.0 btloader.com
 0.0.0.0 btn.clickability.com
+0.0.0.0 btncdn.com
 0.0.0.0 btrace.qq.com
 0.0.0.0 btrace.video.qq.com
 0.0.0.0 btserve.com
@@ -2009,6 +2015,7 @@
 0.0.0.0 c.adroll.com
 0.0.0.0 c.bigmir.net
 0.0.0.0 c.cdngeek.com
+0.0.0.0 c.cloudwp.io
 0.0.0.0 c.gazetevatan.com
 0.0.0.0 c.hit.ua
 0.0.0.0 c.holmesmind.com
@@ -2247,6 +2254,7 @@
 0.0.0.0 cjcqls.onbuy.com
 0.0.0.0 ck-cdn.com
 0.0.0.0 ckozwx.n11.com
+0.0.0.0 cl.canva.com
 0.0.0.0 cl.expedia.com
 0.0.0.0 clancy.spiceworks.com
 0.0.0.0 clarity.ms
@@ -2381,6 +2389,7 @@
 0.0.0.0 cliftons.actonservice.com
 0.0.0.0 clipcanvas.actonservice.com
 0.0.0.0 clixcount.com
+0.0.0.0 clixgalore.com
 0.0.0.0 clixpy.com
 0.0.0.0 clk.about.com
 0.0.0.0 clk.boulanger.com
@@ -3042,6 +3051,7 @@
 0.0.0.0 d2rnkf2kqy5m6h.cloudfront.net
 0.0.0.0 d2ry9vue95px0b.cloudfront.net
 0.0.0.0 d2san7t27xb2pn.cloudfront.net
+0.0.0.0 d2t77mnxyo7adj.cloudfront.net
 0.0.0.0 d2tcg4i9q4js4a.cloudfront.net
 0.0.0.0 d2tgfbvjf3q6hn.cloudfront.net
 0.0.0.0 d2wu036mkcz52n.cloudfront.net
@@ -3106,6 +3116,7 @@
 0.0.0.0 data.adlermode.com
 0.0.0.0 data.alexa.com
 0.0.0.0 data.all-in.de
+0.0.0.0 data.beop.io
 0.0.0.0 data.caroda.io
 0.0.0.0 data.circulate.com
 0.0.0.0 data.collectandgo.be
@@ -4606,6 +4617,9 @@
 0.0.0.0 g7923373400.co
 0.0.0.0 g8121457735.co
 0.0.0.0 g8319542070.co
+0.0.0.0 g8517626405.co
+0.0.0.0 g8715710740.co
+0.0.0.0 g8913795075.co
 0.0.0.0 ga-analytics.com
 0.0.0.0 ga-beacon.appspot.com
 0.0.0.0 ga.canoe.ca
@@ -4992,6 +5006,7 @@
 0.0.0.0 halstats.com
 0.0.0.0 haltingbadge.com
 0.0.0.0 hammerhearing.com
+0.0.0.0 handyfireman.com
 0.0.0.0 haostat.qihoo.com
 0.0.0.0 happen.spkt.io
 0.0.0.0 harm6stop.com
@@ -5955,6 +5970,7 @@
 0.0.0.0 koddi.com
 0.0.0.0 kohlermetrics.kohler.com
 0.0.0.0 kohlermetricssecure.kohler.com
+0.0.0.0 koji-analytics.com
 0.0.0.0 kojiht.partsdirect.ru
 0.0.0.0 kokos.click
 0.0.0.0 komtrack.com
@@ -6124,6 +6140,7 @@
 0.0.0.0 lijit.com
 0.0.0.0 likemore-go.imgsmail.ru
 0.0.0.0 lilb2.shutterstock.com
+0.0.0.0 limone.iltrovatore.it
 0.0.0.0 lindon-pool.win
 0.0.0.0 linezing.com
 0.0.0.0 link-empfehlen24.de
@@ -8779,6 +8796,7 @@
 0.0.0.0 party-vqgdyvoycc.now.sh
 0.0.0.0 pasco.actonservice.com
 0.0.0.0 pass-1234.com
+0.0.0.0 pastoralroad.com
 0.0.0.0 path5wall.com
 0.0.0.0 pathful.com
 0.0.0.0 paynewest.actonservice.com
@@ -8816,6 +8834,7 @@
 0.0.0.0 pdbu.net
 0.0.0.0 pdc.dmleonyc.com
 0.0.0.0 pdmp.jp
+0.0.0.0 pdst.fm
 0.0.0.0 peak2poem.com
 0.0.0.0 peakcounter.dk
 0.0.0.0 pedropanther.com
@@ -8862,6 +8881,7 @@
 0.0.0.0 petjue.lcwaikiki.ru
 0.0.0.0 peuzhq.bookspot.be
 0.0.0.0 pevftg.shopee.sg
+0.0.0.0 pexa.realestate.com.au
 0.0.0.0 pf.newegg.com
 0.0.0.0 pfdqxv.bibloo.ro
 0.0.0.0 pgs.farmprogress.com
@@ -8969,6 +8989,7 @@
 0.0.0.0 pixel.staging.tree.com
 0.0.0.0 pixel.tree.com
 0.0.0.0 pixel.tuko.co.ke
+0.0.0.0 pixel.videohub.tv
 0.0.0.0 pixel.watch
 0.0.0.0 pixel.widgetly.com
 0.0.0.0 pixel.wp.com
@@ -9156,6 +9177,7 @@
 0.0.0.0 premiumads.com.br
 0.0.0.0 prepareplanes.com
 0.0.0.0 presentationtracking.netflix.com
+0.0.0.0 prf.vagnt.com
 0.0.0.0 prfct.co
 0.0.0.0 prism.app-us1.com
 0.0.0.0 prism.noordermeer.ch
@@ -9242,6 +9264,7 @@
 0.0.0.0 pubstack.io
 0.0.0.0 pubstr.acs.org
 0.0.0.0 pubstr.acspubs.org
+0.0.0.0 pubxtag1.com
 0.0.0.0 puffyloss.com
 0.0.0.0 puffypaste.com
 0.0.0.0 puffypull.com
@@ -9471,6 +9494,7 @@
 0.0.0.0 reco.hardsextube.com
 0.0.0.0 recognified.net
 0.0.0.0 recommendation.24.com
+0.0.0.0 reconditerake.com
 0.0.0.0 reconditerespect.com
 0.0.0.0 recosenselabs.com
 0.0.0.0 recoset.com
@@ -9744,6 +9768,7 @@
 0.0.0.0 s.allanibutiti.com
 0.0.0.0 s.allbootdisks.com
 0.0.0.0 s.bangkokoutline.com
+0.0.0.0 s.beop.io
 0.0.0.0 s.cameratico.com
 0.0.0.0 s.clickability.com
 0.0.0.0 s.clickiocdn.com
@@ -10182,6 +10207,7 @@
 0.0.0.0 semiocast.com
 0.0.0.0 semnicneposilejte.cz
 0.0.0.0 semtracker.de
+0.0.0.0 sendbird.com
 0.0.0.0 sendpulse.com
 0.0.0.0 sendtraffic.com
 0.0.0.0 seniorliving.ascanet.com
@@ -10243,6 +10269,7 @@
 0.0.0.0 sgw-analytics.panasonic.com
 0.0.0.0 shareasale.com
 0.0.0.0 shared.65twenty.com
+0.0.0.0 sharedid.org
 0.0.0.0 sharppatch.com
 0.0.0.0 sharpspring.com
 0.0.0.0 sheeta.nrj-play.fr
@@ -10703,6 +10730,7 @@
 0.0.0.0 sni-dat.com
 0.0.0.0 sniperlog.ru
 0.0.0.0 sniphub.com
+0.0.0.0 snitcher.com
 0.0.0.0 snoobi.com
 0.0.0.0 snowplow.swm.digital
 0.0.0.0 snowsignal.com
@@ -11817,6 +11845,7 @@
 0.0.0.0 subpixel.4players.de
 0.0.0.0 subscribers.com
 0.0.0.0 subsequentswim.com
+0.0.0.0 substation.confection.io
 0.0.0.0 success.act-on.com
 0.0.0.0 success.catman.global
 0.0.0.0 success.vertigis.com
@@ -12636,6 +12665,7 @@
 0.0.0.0 trace.events
 0.0.0.0 trace.insead.edu
 0.0.0.0 trace.qq.com
+0.0.0.0 tracead.com
 0.0.0.0 traceless.me
 0.0.0.0 tracelog.www.alibaba.com
 0.0.0.0 tracelytics.com
@@ -12854,6 +12884,7 @@
 0.0.0.0 tracking.diet.mayoclinic.org
 0.0.0.0 tracking.donnemagazine.it
 0.0.0.0 tracking.drsfostersmith.com
+0.0.0.0 tracking.drum.io
 0.0.0.0 tracking.dsmmadvantage.com
 0.0.0.0 tracking.ecookie.fr
 0.0.0.0 tracking.edb.gov.sg
@@ -13605,6 +13636,7 @@
 0.0.0.0 vttics.world.co.jp
 0.0.0.0 vudjof.tiu.ru
 0.0.0.0 vuorrx.aromantic.co.uk
+0.0.0.0 vuukle.com
 0.0.0.0 vuzkbh.jshealthvitamins.com
 0.0.0.0 vv.ricardo.ch
 0.0.0.0 vvvvid.it
@@ -14157,6 +14189,7 @@
 0.0.0.0 yzcpqa.gumtree.com
 0.0.0.0 yzxvyl.bestandless.com.au
 0.0.0.0 yzzqza.vanillashu.co.kr
+0.0.0.0 z.cdp-dev.cnn.com
 0.0.0.0 z.opmnstr.com
 0.0.0.0 z0uolej1qnxzub1.info
 0.0.0.0 z444o.com
@@ -14208,6 +14241,7 @@
 0.0.0.0 zoomino.com
 0.0.0.0 zoosnet.net
 0.0.0.0 zoossoft.net
+0.0.0.0 zprk.io
 0.0.0.0 zqtizs.bonprix.ru
 0.0.0.0 zqtk.net
 0.0.0.0 zqwofo.liverpool.com.mx
