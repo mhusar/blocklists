@@ -1,6 +1,6 @@
-# Version: 202105222350
+# Version: 202105292333
 # Title: EasyPrivacy
-# Last modified: 22 May 2021 23:50 UTC
+# Last modified: 29 May 2021 23:33 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -477,6 +477,7 @@ aas.visitsaudi.com
 aax-eu-dub.amazon.com
 aax-us-iad.amazon.com
 aaxdetect.com
+ab-machine.forbes.com
 abakus.freenet.de
 abc.fackelmann.de
 abc.hearst.co.uk
@@ -941,11 +942,13 @@ aikrir.lcwaikiki.com
 aimediagroup.com
 aimtell.com
 aip.actonservice.com
+air.audioeye.com
 air2s.com
 air360tracker.net
 airnewzealand.eu
 airpr.com
 airserve.net
+aivalabs.com
 ajbeqy.delfi.lt
 akamai.net
 akamaihd.net
@@ -1233,6 +1236,7 @@ analytics.rambla.be
 analytics.ramiyer.io
 analytics.ramiyer.me
 analytics.ratioform.it
+analytics.realestate.com.au
 analytics.rechtslupe.org
 analytics.recruitics.com
 analytics.redlink.com.ar
@@ -1637,6 +1641,7 @@ bablace.com
 backlink-test.de
 backlinkdino.de
 backstage.funnelenvy.com
+bacon.getcarro.com
 bacon.section.io
 badb5refl.com
 bagbeam.com
@@ -1956,6 +1961,7 @@ bt.mediaimpact.de
 btbuckets.com
 btloader.com
 btn.clickability.com
+btncdn.com
 btrace.qq.com
 btrace.video.qq.com
 btserve.com
@@ -2009,6 +2015,7 @@ c-rings.net
 c.adroll.com
 c.bigmir.net
 c.cdngeek.com
+c.cloudwp.io
 c.gazetevatan.com
 c.hit.ua
 c.holmesmind.com
@@ -2247,6 +2254,7 @@ cjbdme.conquer.org
 cjcqls.onbuy.com
 ck-cdn.com
 ckozwx.n11.com
+cl.canva.com
 cl.expedia.com
 clancy.spiceworks.com
 clarity.ms
@@ -2381,6 +2389,7 @@ clientgear.com
 cliftons.actonservice.com
 clipcanvas.actonservice.com
 clixcount.com
+clixgalore.com
 clixpy.com
 clk.about.com
 clk.boulanger.com
@@ -3042,6 +3051,7 @@ d2p3zdq8vjvnxd.cloudfront.net
 d2rnkf2kqy5m6h.cloudfront.net
 d2ry9vue95px0b.cloudfront.net
 d2san7t27xb2pn.cloudfront.net
+d2t77mnxyo7adj.cloudfront.net
 d2tcg4i9q4js4a.cloudfront.net
 d2tgfbvjf3q6hn.cloudfront.net
 d2wu036mkcz52n.cloudfront.net
@@ -3106,6 +3116,7 @@ data-ssl.stepstone.nl
 data.adlermode.com
 data.alexa.com
 data.all-in.de
+data.beop.io
 data.caroda.io
 data.circulate.com
 data.collectandgo.be
@@ -4606,6 +4617,9 @@ g792337340.co
 g7923373400.co
 g8121457735.co
 g8319542070.co
+g8517626405.co
+g8715710740.co
+g8913795075.co
 ga-analytics.com
 ga-beacon.appspot.com
 ga.canoe.ca
@@ -4992,6 +5006,7 @@ halospring.club
 halstats.com
 haltingbadge.com
 hammerhearing.com
+handyfireman.com
 haostat.qihoo.com
 happen.spkt.io
 harm6stop.com
@@ -5955,6 +5970,7 @@ knzqjr.pult.ru
 koddi.com
 kohlermetrics.kohler.com
 kohlermetricssecure.kohler.com
+koji-analytics.com
 kojiht.partsdirect.ru
 kokos.click
 komtrack.com
@@ -6124,6 +6140,7 @@ lightminer.co
 lijit.com
 likemore-go.imgsmail.ru
 lilb2.shutterstock.com
+limone.iltrovatore.it
 lindon-pool.win
 linezing.com
 link-empfehlen24.de
@@ -8779,6 +8796,7 @@ partplanes.com
 party-vqgdyvoycc.now.sh
 pasco.actonservice.com
 pass-1234.com
+pastoralroad.com
 path5wall.com
 pathful.com
 paynewest.actonservice.com
@@ -8816,6 +8834,7 @@ pcykgc.onetravel.com
 pdbu.net
 pdc.dmleonyc.com
 pdmp.jp
+pdst.fm
 peak2poem.com
 peakcounter.dk
 pedropanther.com
@@ -8862,6 +8881,7 @@ petitionermaster.appspot.com
 petjue.lcwaikiki.ru
 peuzhq.bookspot.be
 pevftg.shopee.sg
+pexa.realestate.com.au
 pf.newegg.com
 pfdqxv.bibloo.ro
 pgs.farmprogress.com
@@ -8969,6 +8989,7 @@ pixel.sprinklr.com
 pixel.staging.tree.com
 pixel.tree.com
 pixel.tuko.co.ke
+pixel.videohub.tv
 pixel.watch
 pixel.widgetly.com
 pixel.wp.com
@@ -9156,6 +9177,7 @@ preferences.acspubs.org
 premiumads.com.br
 prepareplanes.com
 presentationtracking.netflix.com
+prf.vagnt.com
 prfct.co
 prism.app-us1.com
 prism.noordermeer.ch
@@ -9242,6 +9264,7 @@ pubplus.com
 pubstack.io
 pubstr.acs.org
 pubstr.acspubs.org
+pubxtag1.com
 puffyloss.com
 puffypaste.com
 puffypull.com
@@ -9471,6 +9494,7 @@ reciteme.com
 reco.hardsextube.com
 recognified.net
 recommendation.24.com
+reconditerake.com
 reconditerespect.com
 recosenselabs.com
 recoset.com
@@ -9744,6 +9768,7 @@ s.agava.ru
 s.allanibutiti.com
 s.allbootdisks.com
 s.bangkokoutline.com
+s.beop.io
 s.cameratico.com
 s.clickability.com
 s.clickiocdn.com
@@ -10182,6 +10207,7 @@ sematext.com
 semiocast.com
 semnicneposilejte.cz
 semtracker.de
+sendbird.com
 sendpulse.com
 sendtraffic.com
 seniorliving.ascanet.com
@@ -10243,6 +10269,7 @@ sgphctileh-a.akamaihd.net
 sgw-analytics.panasonic.com
 shareasale.com
 shared.65twenty.com
+sharedid.org
 sharppatch.com
 sharpspring.com
 sheeta.nrj-play.fr
@@ -10703,6 +10730,7 @@ snd.tc
 sni-dat.com
 sniperlog.ru
 sniphub.com
+snitcher.com
 snoobi.com
 snowplow.swm.digital
 snowsignal.com
@@ -11817,6 +11845,7 @@ submitnet.net
 subpixel.4players.de
 subscribers.com
 subsequentswim.com
+substation.confection.io
 success.act-on.com
 success.catman.global
 success.vertigis.com
@@ -12636,6 +12665,7 @@ trace-2000.com
 trace.events
 trace.insead.edu
 trace.qq.com
+tracead.com
 traceless.me
 tracelog.www.alibaba.com
 tracelytics.com
@@ -12854,6 +12884,7 @@ tracking.customerly.io
 tracking.diet.mayoclinic.org
 tracking.donnemagazine.it
 tracking.drsfostersmith.com
+tracking.drum.io
 tracking.dsmmadvantage.com
 tracking.ecookie.fr
 tracking.edb.gov.sg
@@ -13605,6 +13636,7 @@ vtrtl.de
 vttics.world.co.jp
 vudjof.tiu.ru
 vuorrx.aromantic.co.uk
+vuukle.com
 vuzkbh.jshealthvitamins.com
 vv.ricardo.ch
 vvvvid.it
@@ -14157,6 +14189,7 @@ yybrtm.ru-mi.com
 yzcpqa.gumtree.com
 yzxvyl.bestandless.com.au
 yzzqza.vanillashu.co.kr
+z.cdp-dev.cnn.com
 z.opmnstr.com
 z0uolej1qnxzub1.info
 z444o.com
@@ -14208,6 +14241,7 @@ zoomflow.com
 zoomino.com
 zoosnet.net
 zoossoft.net
+zprk.io
 zqtizs.bonprix.ru
 zqtk.net
 zqwofo.liverpool.com.mx
@@ -14235,7 +14269,7 @@ zzsiqn.happyxnature.com
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2021-05-23 00:42:57.135849
+# Generated at 2021-05-30 01:15:09.404273
 
 databerries.com
 fidzup
