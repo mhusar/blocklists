@@ -1,6 +1,6 @@
-# Version: 202105292333
+# Version: 202106060039
 # Title: EasyPrivacy
-# Last modified: 29 May 2021 23:33 UTC
+# Last modified: 06 Jun 2021 00:39 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -71,6 +71,7 @@
 360i.com
 360tag.com
 360tag.net
+365dmp.com
 3d.shophumanoid.com
 3dlivestats.com
 3dstats.com
@@ -618,6 +619,7 @@ ac.mz-web.de
 acadian-asset.actonservice.com
 acbp0020171456.page.tl
 acc-hd.de
+accdab.net
 accengage.net
 acceptableserver.com
 access-analyze.org
@@ -2266,6 +2268,7 @@ clc.stackoverflow.com
 clck.yandex.com
 clck.yandex.ru
 cleananalytics.com
+clearbitjs.com
 clearsale.com.br
 cleveritics.com
 cleverpush.com
@@ -3493,6 +3496,7 @@ dominocounter.net
 domodomain.com
 donreach.com
 dontbeevils.de
+doppler-reporting.cbsivideo.com
 dot-stat.radikal.ru
 dot.wp.pl
 dotaki.com
@@ -4266,6 +4270,8 @@ ezytrack.com
 f-counter.jp
 f-counter.net
 f-emc.ngsp.gov.vn
+f-log-at.grammarly.io
+f-log-test.grammarly.io
 f.schemeflood.com
 f.staticlp.com
 f0nn.oney.fr
@@ -5722,6 +5728,7 @@ iproanalytics.com
 iprotrk.com
 ipstack.com
 ipstat.com
+iptrack.io
 ipummv.pharao24.de
 ipv6monitoring.eu
 iq.sixaxisllc.com
@@ -7911,6 +7918,7 @@ mit.researchlog.dbresearch.com
 mivyyq.safeandfair.com
 mixi.mn
 mixpanel.com
+mjca-yijws.global.ssl.fastly.net
 mjeejc.tiki.vn
 mjnpya.marktplaats.nl
 mjnzmb.jasmine.ua
@@ -8850,6 +8858,7 @@ percycle.com
 perf-serving.com
 perf.dugout.com
 perf.mouser.com
+perfalytics.com
 perfdrive.com
 perfectaudience.com
 perfiliate.com
@@ -9176,6 +9185,7 @@ predictiveresponse.net
 preferences.acspubs.org
 premiumads.com.br
 prepareplanes.com
+presage.io
 presentationtracking.netflix.com
 prf.vagnt.com
 prfct.co
@@ -9627,6 +9637,7 @@ reydrj.kozaczek.pl
 reztrack.com
 rezync.com
 rfihub.com
+rfk.biglots.com
 rfksrv.com
 rfr-69.com
 rghpjl.tsuchiya-kaban.jp
@@ -10207,7 +10218,6 @@ sematext.com
 semiocast.com
 semnicneposilejte.cz
 semtracker.de
-sendbird.com
 sendpulse.com
 sendtraffic.com
 seniorliving.ascanet.com
@@ -11339,6 +11349,7 @@ stat.tvigle.ru
 stat.ustore.bz
 stat.uuu9.com
 stat.valica.it
+stat.vulkanvegas.com
 stat.web-regie.com
 stat.webevolutis.com
 stat.wolterskluwer.com
@@ -12124,11 +12135,13 @@ tag4arm.com
 tagcdn.com
 tagcommander.com
 tagcommander.laredoute.co.uk
+tagdatax.com
 tagger.ope.scmp.com
 tagger.opecloud.com
 tagm.tchibo.de
 tagmanager.cn
 tagmngrs.com
+tags.catapultx.com
 tags.cdn.circlesix.co
 tags.clickagy.com
 tags.creativille.co.uk
@@ -12141,6 +12154,7 @@ tags.newscgp.com
 tags.op-palvelut.fi
 tags.refinery89.com
 tagsrvcs.com
+tagstaticx.com
 tagtracking.vibescm.com
 tagtray.com/api
 tagx.nytimes.com
@@ -13363,6 +13377,7 @@ unequalbrake.com
 unicaondemand.com
 uniconsent.com
 unifilabs.actonservice.com
+uninterestedquarter.com
 uniqodo.com
 united-infos.net
 units.knotch.it
@@ -13579,7 +13594,6 @@ visitortracklog.com
 visitorville.com
 visitping.rossel.be
 visits.lt
-visitstats.com
 visitstreamer.com
 visto1.net
 visualdna.com
@@ -13636,7 +13650,6 @@ vtrtl.de
 vttics.world.co.jp
 vudjof.tiu.ru
 vuorrx.aromantic.co.uk
-vuukle.com
 vuzkbh.jshealthvitamins.com
 vv.ricardo.ch
 vvvvid.it
@@ -14269,7 +14282,7 @@ zzsiqn.happyxnature.com
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2021-05-30 01:15:09.404273
+# Generated at 2021-06-06 00:53:35.505702
 
 databerries.com
 fidzup
