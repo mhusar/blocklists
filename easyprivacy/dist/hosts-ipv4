@@ -1,6 +1,6 @@
-# Version: 202105292333
+# Version: 202106060039
 # Title: EasyPrivacy
-# Last modified: 29 May 2021 23:33 UTC
+# Last modified: 06 Jun 2021 00:39 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -71,6 +71,7 @@
 0.0.0.0 360i.com
 0.0.0.0 360tag.com
 0.0.0.0 360tag.net
+0.0.0.0 365dmp.com
 0.0.0.0 3d.shophumanoid.com
 0.0.0.0 3dlivestats.com
 0.0.0.0 3dstats.com
@@ -618,6 +619,7 @@
 0.0.0.0 acadian-asset.actonservice.com
 0.0.0.0 acbp0020171456.page.tl
 0.0.0.0 acc-hd.de
+0.0.0.0 accdab.net
 0.0.0.0 accengage.net
 0.0.0.0 acceptableserver.com
 0.0.0.0 access-analyze.org
@@ -2266,6 +2268,7 @@
 0.0.0.0 clck.yandex.com
 0.0.0.0 clck.yandex.ru
 0.0.0.0 cleananalytics.com
+0.0.0.0 clearbitjs.com
 0.0.0.0 clearsale.com.br
 0.0.0.0 cleveritics.com
 0.0.0.0 cleverpush.com
@@ -3493,6 +3496,7 @@
 0.0.0.0 domodomain.com
 0.0.0.0 donreach.com
 0.0.0.0 dontbeevils.de
+0.0.0.0 doppler-reporting.cbsivideo.com
 0.0.0.0 dot-stat.radikal.ru
 0.0.0.0 dot.wp.pl
 0.0.0.0 dotaki.com
@@ -4266,6 +4270,8 @@
 0.0.0.0 f-counter.jp
 0.0.0.0 f-counter.net
 0.0.0.0 f-emc.ngsp.gov.vn
+0.0.0.0 f-log-at.grammarly.io
+0.0.0.0 f-log-test.grammarly.io
 0.0.0.0 f.schemeflood.com
 0.0.0.0 f.staticlp.com
 0.0.0.0 f0nn.oney.fr
@@ -5722,6 +5728,7 @@
 0.0.0.0 iprotrk.com
 0.0.0.0 ipstack.com
 0.0.0.0 ipstat.com
+0.0.0.0 iptrack.io
 0.0.0.0 ipummv.pharao24.de
 0.0.0.0 ipv6monitoring.eu
 0.0.0.0 iq.sixaxisllc.com
@@ -7911,6 +7918,7 @@
 0.0.0.0 mivyyq.safeandfair.com
 0.0.0.0 mixi.mn
 0.0.0.0 mixpanel.com
+0.0.0.0 mjca-yijws.global.ssl.fastly.net
 0.0.0.0 mjeejc.tiki.vn
 0.0.0.0 mjnpya.marktplaats.nl
 0.0.0.0 mjnzmb.jasmine.ua
@@ -8850,6 +8858,7 @@
 0.0.0.0 perf-serving.com
 0.0.0.0 perf.dugout.com
 0.0.0.0 perf.mouser.com
+0.0.0.0 perfalytics.com
 0.0.0.0 perfdrive.com
 0.0.0.0 perfectaudience.com
 0.0.0.0 perfiliate.com
@@ -9176,6 +9185,7 @@
 0.0.0.0 preferences.acspubs.org
 0.0.0.0 premiumads.com.br
 0.0.0.0 prepareplanes.com
+0.0.0.0 presage.io
 0.0.0.0 presentationtracking.netflix.com
 0.0.0.0 prf.vagnt.com
 0.0.0.0 prfct.co
@@ -9627,6 +9637,7 @@
 0.0.0.0 reztrack.com
 0.0.0.0 rezync.com
 0.0.0.0 rfihub.com
+0.0.0.0 rfk.biglots.com
 0.0.0.0 rfksrv.com
 0.0.0.0 rfr-69.com
 0.0.0.0 rghpjl.tsuchiya-kaban.jp
@@ -10207,7 +10218,6 @@
 0.0.0.0 semiocast.com
 0.0.0.0 semnicneposilejte.cz
 0.0.0.0 semtracker.de
-0.0.0.0 sendbird.com
 0.0.0.0 sendpulse.com
 0.0.0.0 sendtraffic.com
 0.0.0.0 seniorliving.ascanet.com
@@ -11339,6 +11349,7 @@
 0.0.0.0 stat.ustore.bz
 0.0.0.0 stat.uuu9.com
 0.0.0.0 stat.valica.it
+0.0.0.0 stat.vulkanvegas.com
 0.0.0.0 stat.web-regie.com
 0.0.0.0 stat.webevolutis.com
 0.0.0.0 stat.wolterskluwer.com
@@ -12124,11 +12135,13 @@
 0.0.0.0 tagcdn.com
 0.0.0.0 tagcommander.com
 0.0.0.0 tagcommander.laredoute.co.uk
+0.0.0.0 tagdatax.com
 0.0.0.0 tagger.ope.scmp.com
 0.0.0.0 tagger.opecloud.com
 0.0.0.0 tagm.tchibo.de
 0.0.0.0 tagmanager.cn
 0.0.0.0 tagmngrs.com
+0.0.0.0 tags.catapultx.com
 0.0.0.0 tags.cdn.circlesix.co
 0.0.0.0 tags.clickagy.com
 0.0.0.0 tags.creativille.co.uk
@@ -12141,6 +12154,7 @@
 0.0.0.0 tags.op-palvelut.fi
 0.0.0.0 tags.refinery89.com
 0.0.0.0 tagsrvcs.com
+0.0.0.0 tagstaticx.com
 0.0.0.0 tagtracking.vibescm.com
 0.0.0.0 tagtray.com/api
 0.0.0.0 tagx.nytimes.com
@@ -13363,6 +13377,7 @@
 0.0.0.0 unicaondemand.com
 0.0.0.0 uniconsent.com
 0.0.0.0 unifilabs.actonservice.com
+0.0.0.0 uninterestedquarter.com
 0.0.0.0 uniqodo.com
 0.0.0.0 united-infos.net
 0.0.0.0 units.knotch.it
@@ -13579,7 +13594,6 @@
 0.0.0.0 visitorville.com
 0.0.0.0 visitping.rossel.be
 0.0.0.0 visits.lt
-0.0.0.0 visitstats.com
 0.0.0.0 visitstreamer.com
 0.0.0.0 visto1.net
 0.0.0.0 visualdna.com
@@ -13636,7 +13650,6 @@
 0.0.0.0 vttics.world.co.jp
 0.0.0.0 vudjof.tiu.ru
 0.0.0.0 vuorrx.aromantic.co.uk
-0.0.0.0 vuukle.com
 0.0.0.0 vuzkbh.jshealthvitamins.com
 0.0.0.0 vv.ricardo.ch
 0.0.0.0 vvvvid.it
