@@ -1,6 +1,6 @@
-# Version: 202106060039
+# Version: 202106130008
 # Title: EasyPrivacy
-# Last modified: 06 Jun 2021 00:39 UTC
+# Last modified: 13 Jun 2021 00:08 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -123,6 +123,7 @@ a-pagerank.net
 a.20minutes.fr
 a.artistasdigitais.net
 a.beliefnet.com
+a.electerious.com
 a.evergage.com
 a.fdmedia.io
 a.fox.com
@@ -360,6 +361,7 @@ a43939.actonservice.com
 a44112.actonservice.com
 a4b-tracking.com
 a4st.club
+a5xo-eng.spankbang.com
 a8.01cloud.jp
 a8.cyclemarket.jp
 a8.denki-koji.work
@@ -629,6 +631,7 @@ acount.alley.ws
 acq-hk.americanexpress.com
 acq.io
 acridtwist.com
+acrosspf.com
 acs86.com
 acsbap.com
 act-on.ioactive.com
@@ -934,6 +937,7 @@ aip.actonservice.com
 air.audioeye.com
 air2s.com
 air360tracker.net
+airbrake.io
 airnewzealand.eu
 airpr.com
 airserve.net
@@ -1716,6 +1720,8 @@ beacons.brandads.net
 beacons.mediamelon.com
 beaconstreetservices.com
 beagle.prod.tda.link
+beam-ws.giraffe360.com
+beam.giraffe360.com
 beam.mjhlifesciences.com
 beampulse.com
 beanstalkdata.com
@@ -2004,7 +2010,6 @@ c-rings.net
 c.adroll.com
 c.bigmir.net
 c.cdngeek.com
-c.cloudwp.io
 c.gazetevatan.com
 c.hit.ua
 c.holmesmind.com
@@ -2403,12 +2408,14 @@ cloudfront-labs.amazonaws.com
 cloudfront.net
 cloudhosting.actonservice.com
 cloudtracer101.com
+cloudwp.io
 cls7.theushuaiaexperience.com
 clshkv.labirint.ru
 cltgtstor001.blob.core.windows.net
 clubcollector.com
 clue6load.com
 clvk.viki.io
+cm-exchange.toast.com
 cm.redbull.com
 cmap.alibaba.com
 cmcore.com
@@ -2522,6 +2529,7 @@ collector.wallapop.com
 college.business.oregonstate.edu
 collserve.com
 colorfulafterthought.com
+colossalcoat.com
 colossusssp.com
 com.econa.com
 comm.toro.com
@@ -2853,6 +2861,7 @@ cracataum.com
 craftkeys.com
 craktraffic.com
 crashfootwork.com
+crayfish.thingelstad.com
 crazyclickstats.com
 crazyegg.com
 create.unity.com
@@ -4159,6 +4168,7 @@ events.demoup.com
 events.guesttoguest.com
 events.il.fi
 events.ingatlan.com
+events.jokerly.com
 events.jora.com
 events.jotform.com
 events.kaloo.ga
@@ -4193,6 +4203,7 @@ evhkrh.biory.kr
 evisit.exeter.ac.uk
 evisitanalyst.com
 evnt.iol.it
+evs.sgmt.loom.com
 evt.collarity.com
 evyy.net
 ew3.io
@@ -4293,8 +4304,10 @@ fastonlineusers.com
 faststart.ru
 fastwebcounter.com
 fatcoil.com
+fathom.app.silverbeak.com
 fathom.pixeldrain.com
 fathom.status.im
+fathom.tdvm.net
 fathomseo.com
 faultycanvas.com
 fazphz.theiconic.com.au
@@ -4613,6 +4626,7 @@ g8319542070.co
 g8517626405.co
 g8715710740.co
 g8913795075.co
+g9111879410.co
 ga-analytics.com
 ga-beacon.appspot.com
 ga.canoe.ca
@@ -5939,6 +5953,7 @@ kinesisproxy.hearstlabs.com
 kinoprofi.org
 kirbyrisk.actonservice.com
 kissmetrics.com
+kissmetrics.io
 kitbit.net
 kitchen.juicer.cc
 kitcode.net
@@ -6127,7 +6142,6 @@ lh.secure.yahoo.com
 liadm.com
 library.westernstatescat.com
 libstat.com
-licensing.bitmovin.com
 licensinginsights.ascap.com
 lift.acquia.com
 lightminer.co
@@ -8298,6 +8312,7 @@ nfused.eobuv.com.ua
 nfwebminer.com
 ngacm.com
 ngastatic.com
+ngc1.nsm-corp.com
 nginfo.industrialinfo.com
 ngmco.net
 nhkoze.saneibd.com
@@ -8842,6 +8857,7 @@ penspade.com
 perceivequarter.com
 percentmobile.com
 percycle.com
+perf-events.cloud.unity3d.com
 perf-serving.com
 perf.dugout.com
 perf.mouser.com
@@ -9069,6 +9085,7 @@ plausible.moncefbelyamani.com
 plausible.notiontweet.app
 plausible.nova.app
 plausible.nubemia.com
+plausible.nuqu.org
 plausible.panic.com
 plausible.phuctm97.com
 plausible.play.date
@@ -9087,6 +9104,7 @@ plausible.strzibny.name
 plausible.tac.dappstar.io
 plausible.vaughanesports.org
 plausible.zorin.com
+plausibleio.workers.dev
 plavxml.com
 play.mix.kinostuff.com
 player-telemetry.vimeo.com
@@ -9130,6 +9148,7 @@ populr.me
 popup.laybuy.com
 popupmaker.com
 porngraph.com
+porpoise.azettl.net
 portfold.com
 pos.baidu.com
 posst.co
@@ -9182,6 +9201,7 @@ prism.pandora.tv
 privacy-api.9gag.com
 privacy-policy.truste.com
 privacy.outdoorsg.com
+privacyfriendly.brainbits.in
 prjslxhtx003.top
 prnetwork.de
 prnx.net
@@ -9224,6 +9244,7 @@ protectsubrev.com
 provenpixel.com
 provesrc.com
 providence.voxmedia.com
+proxy.dzeio.com
 proxypage.msn.com
 prprocess.com
 prstats.postrelease.com
@@ -9922,6 +9943,7 @@ sappmetrics.sprint.com
 sare25.com
 sarov.ws
 sas.com
+sas.nsm-corp.com
 sas15k01.com
 sasc.solidworks.com
 sat.sanoma.fi
@@ -10218,6 +10240,7 @@ seniorliving.villageshalom.org
 sensic.net
 sensor.org.ua
 sentry-cdn.com
+sentry.arc.io
 sentry.io
 seo-master.net
 seomonitor.ro
@@ -10336,6 +10359,7 @@ site-submit.com.ua
 site.firstnet.com
 site.johnlewis.com
 site24x7rum.com
+site24x7rum.eu
 siteanaliz.org
 siteapps.com
 sitebot.cn
@@ -11411,6 +11435,7 @@ stats.avg.com
 stats.baby-care.de
 stats.bbc.co.uk
 stats.belstonevillage.net
+stats.biblionumericus.fr
 stats.big-boards.com
 stats.bildconnect.de
 stats.binki.es
@@ -11439,10 +11464,10 @@ stats.christianpost.com
 stats.clear-media.com
 stats.clickability.com
 stats.clickforknowledge.com
-stats.cloudwp.io
 stats.cmcigroup.com
 stats.code-it-studio.de
 stats.cohere.so
+stats.comovee.com
 stats.console.dev
 stats.contentwritingjobs.com
 stats.coop.dk
@@ -11541,6 +11566,7 @@ stats.iscc-system.org
 stats.itsol.it
 stats.itweb.co.za
 stats.ivankahl.com
+stats.jacksellwood.com
 stats.jackwhiting.co.uk
 stats.jansix.at
 stats.jatan.space
@@ -11598,6 +11624,7 @@ stats.nicolabricot.com
 stats.nimiq-network.com
 stats.nodehub.io
 stats.nota.md
+stats.nrcaknights.com
 stats.nymag.com
 stats.olark.com
 stats.onepagelove.com
@@ -11679,6 +11706,7 @@ stats.stronglifts.com
 stats.studypages.com
 stats.stylight.it
 stats.sublimesecurity.com
+stats.suenicholls.com
 stats.tazeros.com
 stats.tdameritrade.com
 stats.technopia.it
@@ -11700,6 +11728,7 @@ stats.topofblogs.com
 stats.townnews.com
 stats.travel.geek.nz
 stats.tresor.one
+stats.trimbles.ie
 stats.tunt.lv
 stats.twhl.xyz
 stats.twistage.com
@@ -11735,6 +11764,7 @@ stats.x5x.host
 stats.yinyuetai.com
 stats.ynet.co.il
 stats.yourfone.de
+stats.zeitimpuls.at
 stats.zmags.com
 stats.zotabox.com
 stats01.20min.ch
@@ -13383,6 +13413,7 @@ upapi.net
 updates.aem.org
 upeayz.eksisozluk.com
 upfmqr.carmensteffens.com.br
+uplift-platform.com
 upravel.com
 upscore.com
 upstats.ru
@@ -13691,6 +13722,7 @@ was.stubhub.com
 was.vodafone.de
 was.vodafone.ie
 was.vodafone.nl
+wasp.frenchtogether.com
 wass.ihsmarkit.com
 wat.gogoinflight.com
 wats.gogoinflight.com
@@ -14269,7 +14301,7 @@ zzsiqn.happyxnature.com
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2021-06-06 00:53:35.505702
+# Generated at 2021-06-13 00:33:40.814925
 
 databerries.com
 fidzup
