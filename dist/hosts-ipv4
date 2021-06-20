@@ -1,6 +1,6 @@
-# Version: 202106130008
+# Version: 202106192000
 # Title: EasyPrivacy
-# Last modified: 13 Jun 2021 00:08 UTC
+# Last modified: 19 Jun 2021 20:00 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -1402,6 +1402,7 @@
 0.0.0.0 apicit.net
 0.0.0.0 apkonline.ru
 0.0.0.0 apm-engine.meteor.com
+0.0.0.0 apm.tnet.nl
 0.0.0.0 apollofind.com
 0.0.0.0 app-clicks.firstrepublic.com
 0.0.0.0 app-stats.supernotes.app
@@ -1559,6 +1560,7 @@
 0.0.0.0 audit.macworld.co.uk
 0.0.0.0 audit.median.hu
 0.0.0.0 audit.pcadvisor.co.uk
+0.0.0.0 audit.shaa.it
 0.0.0.0 audrte.com
 0.0.0.0 audsp.com
 0.0.0.0 audtd.com
@@ -3009,6 +3011,7 @@
 0.0.0.0 d.shareaholic.com
 0.0.0.0 d.skk.moe
 0.0.0.0 d.sourcepoint.capitalfm.com
+0.0.0.0 d.wi-fi.ru
 0.0.0.0 d10gj7yjsfriaj.cloudfront.net
 0.0.0.0 d10lpsik1i8c69.cloudfront.net
 0.0.0.0 d11a2fzhgzqe7i.cloudfront.net
@@ -3117,6 +3120,7 @@
 0.0.0.0 dapperdiscussion.com
 0.0.0.0 dapxl.com
 0.0.0.0 daq0d0aotgq0f.cloudfront.net
+0.0.0.0 dash.getsitecontrol.com
 0.0.0.0 dashboard.io
 0.0.0.0 data-dynamic.net
 0.0.0.0 data-ssl.pnet.co.za
@@ -4526,6 +4530,7 @@
 0.0.0.0 freshcounter.com
 0.0.0.0 freshmarketer.com
 0.0.0.0 freshplum.com
+0.0.0.0 fresnel-events.vimeocdn.com
 0.0.0.0 friendbuy.com
 0.0.0.0 frog.wix.com
 0.0.0.0 frog9alea.com
@@ -4790,6 +4795,7 @@
 0.0.0.0 gkgygj.verivox.de
 0.0.0.0 gksqfw.reverso.net
 0.0.0.0 gkvouu.aktiesport.nl
+0.0.0.0 glancecdn.net
 0.0.0.0 glanceguide.com
 0.0.0.0 glassboxcdn.com
 0.0.0.0 glassboxdigital.io
@@ -6516,6 +6522,7 @@
 0.0.0.0 m0mentum.net
 0.0.0.0 m1.stadiumgoods.com
 0.0.0.0 m1ll1c4n0.com
+0.0.0.0 m365log.com
 0.0.0.0 m6r.eu
 0.0.0.0 ma.globalhma.com
 0.0.0.0 ma.meritgo.se
@@ -10436,6 +10443,7 @@
 0.0.0.0 smart-dmp.com
 0.0.0.0 smart-ip.net
 0.0.0.0 smart-traffik.com
+0.0.0.0 smart-widget-assets.ekomiapps.de
 0.0.0.0 smartclip-services.com
 0.0.0.0 smartctr.com
 0.0.0.0 smarterhq.io
@@ -11789,6 +11797,7 @@
 0.0.0.0 stats2.glamour.com
 0.0.0.0 stats2.teenvogue.com
 0.0.0.0 stats2.tune.pk
+0.0.0.0 stats2.videonow.ru
 0.0.0.0 stats21.com
 0.0.0.0 stats3.unrulymedia.com
 0.0.0.0 stats4all.com
@@ -12431,6 +12440,7 @@
 0.0.0.0 tmgr.ccmbg.com
 0.0.0.0 tmmp.io
 0.0.0.0 tms-st.cdn.ngenix.net
+0.0.0.0 tms.dmp.wi-fi.ru
 0.0.0.0 tms.eharmony.ca
 0.0.0.0 tms.eharmony.co.uk
 0.0.0.0 tmvtp.com
@@ -13198,6 +13208,7 @@
 0.0.0.0 trckr.nordiskemedier.dk
 0.0.0.0 treasuredata.com
 0.0.0.0 trecker.aklamio.com
+0.0.0.0 tredir.go.com
 0.0.0.0 tree-pixel-log.s3.amazonaws.com
 0.0.0.0 trekmedia.net
 0.0.0.0 tremorhub.com
@@ -13619,6 +13630,7 @@
 0.0.0.0 visitorjs.com
 0.0.0.0 visitorpath.com
 0.0.0.0 visitorprofiler.com
+0.0.0.0 visitorqueue.com
 0.0.0.0 visitors.sourcingmap.com
 0.0.0.0 visitors.winecountrygiftbaskets.com
 0.0.0.0 visitortracklog.com
@@ -14314,7 +14326,7 @@
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2021-06-13 00:33:41.618248
+# Generated at 2021-06-20 00:32:46.278499
 
 0.0.0.0 databerries.com
 0.0.0.0 fidzup
