@@ -1,6 +1,6 @@
-# Version: 202106192000
+# Version: 202106270004
 # Title: EasyPrivacy
-# Last modified: 19 Jun 2021 20:00 UTC
+# Last modified: 27 Jun 2021 00:04 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -3072,6 +3072,7 @@
 0.0.0.0 d2wu036mkcz52n.cloudfront.net
 0.0.0.0 d2wy8f7a9ursnm.cloudfront.net
 0.0.0.0 d303e3cdddb4ded4b6ff495a7b496ed5.s3.amazonaws.com
+0.0.0.0 d31qbv1cthcecs.cloudfront.net
 0.0.0.0 d32hwlnfiv2gyn.cloudfront.net
 0.0.0.0 d34ko97cxuv4p7.cloudfront.net
 0.0.0.0 d34qb8suadcc4g.cloudfront.net
@@ -4193,6 +4194,7 @@
 0.0.0.0 events.matterport.com
 0.0.0.0 events.medio.com
 0.0.0.0 events.mywd.com
+0.0.0.0 events.newsroom.bi
 0.0.0.0 events.ocdn.eu
 0.0.0.0 events.onet.pl
 0.0.0.0 events.practo.com
@@ -5648,7 +5650,6 @@
 0.0.0.0 insights.mckimcg.ca
 0.0.0.0 insights.plista.com
 0.0.0.0 insights.radiometer.com
-0.0.0.0 insights.samsung.com
 0.0.0.0 insights.sitesearch360.com
 0.0.0.0 insights.sport1.de
 0.0.0.0 insights.thisisgrow.com
@@ -6334,6 +6335,7 @@
 0.0.0.0 log.etoday.co.kr
 0.0.0.0 log.f-tra.com
 0.0.0.0 log.flight.qunar.com
+0.0.0.0 log.genyt.net
 0.0.0.0 log.go.com
 0.0.0.0 log.gs3.goo.ne.jp
 0.0.0.0 log.hiiir.com
@@ -10265,6 +10267,8 @@
 0.0.0.0 seo-master.net
 0.0.0.0 seomonitor.ro
 0.0.0.0 seomoz.org
+0.0.0.0 seon.io
+0.0.0.0 seondnsresolve.com
 0.0.0.0 seoparts.net
 0.0.0.0 separatesilver.com
 0.0.0.0 sepyra.com
@@ -14326,7 +14330,7 @@
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2021-06-20 00:32:46.278499
+# Generated at 2021-06-27 00:22:25.331425
 
 0.0.0.0 databerries.com
 0.0.0.0 fidzup

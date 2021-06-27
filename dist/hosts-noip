@@ -1,6 +1,6 @@
-# Version: 202106192000
+# Version: 202106270004
 # Title: EasyPrivacy
-# Last modified: 19 Jun 2021 20:00 UTC
+# Last modified: 27 Jun 2021 00:04 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -3059,6 +3059,7 @@ d2tgfbvjf3q6hn.cloudfront.net
 d2wu036mkcz52n.cloudfront.net
 d2wy8f7a9ursnm.cloudfront.net
 d303e3cdddb4ded4b6ff495a7b496ed5.s3.amazonaws.com
+d31qbv1cthcecs.cloudfront.net
 d32hwlnfiv2gyn.cloudfront.net
 d34ko97cxuv4p7.cloudfront.net
 d34qb8suadcc4g.cloudfront.net
@@ -4180,6 +4181,7 @@ events.launchdarkly.com
 events.matterport.com
 events.medio.com
 events.mywd.com
+events.newsroom.bi
 events.ocdn.eu
 events.onet.pl
 events.practo.com
@@ -5635,7 +5637,6 @@ insights.frenchtogether.com
 insights.mckimcg.ca
 insights.plista.com
 insights.radiometer.com
-insights.samsung.com
 insights.sitesearch360.com
 insights.sport1.de
 insights.thisisgrow.com
@@ -6321,6 +6322,7 @@ log.ecgh.dk
 log.etoday.co.kr
 log.f-tra.com
 log.flight.qunar.com
+log.genyt.net
 log.go.com
 log.gs3.goo.ne.jp
 log.hiiir.com
@@ -10252,6 +10254,8 @@ sentry.io
 seo-master.net
 seomonitor.ro
 seomoz.org
+seon.io
+seondnsresolve.com
 seoparts.net
 separatesilver.com
 sepyra.com
@@ -14313,7 +14317,7 @@ zzsiqn.happyxnature.com
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2021-06-20 00:32:45.528818
+# Generated at 2021-06-27 00:22:24.075037
 
 databerries.com
 fidzup
