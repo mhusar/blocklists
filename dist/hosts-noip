@@ -1,6 +1,6 @@
-# Version: 202106270004
+# Version: 202107032357
 # Title: EasyPrivacy
-# Last modified: 27 Jun 2021 00:04 UTC
+# Last modified: 03 Jul 2021 23:57 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -1464,6 +1464,7 @@ as.myhomebook.de
 as.mytoys.de
 as.payback.it
 as.rollingstone.de
+as.saechsische.de
 as.stylebook.de
 as.techbook.de
 as.travelbook.de
@@ -2060,6 +2061,7 @@ calltracks.com
 calmcactus.com
 calmradio.actonservice.com
 calotag.com
+camel.headfarming.com
 camisado.actonservice.com
 campaign.amadeus.com
 campaign.bbmbonnier.se
@@ -4189,6 +4191,7 @@ events.privy.com
 events.realgravity.com
 events.reddit.com
 events.redditmedia.com
+events.santander.co.uk
 events.shareably.net
 events.sk.ht
 events.splash-screen.net
@@ -5609,6 +5612,7 @@ inimbus.com.au
 ininmacerad.pro
 inistrack.net
 inmoment.com
+innertrends.com
 innocentinvention.com
 innomdc.com
 innovateads.com
@@ -6412,6 +6416,7 @@ logs.psm.wmcdp.io
 logs.ptable.com
 logs.spilgames.com
 logs.thebloggernetwork.com
+logs.viadata.store
 logs.vmixcore.com
 logsbin.dantri.com.vn
 logservice.hicloud.com
@@ -6454,6 +6459,7 @@ lpbhnv.nbcchicago.com
 lpbhnv.nbcdfw.com
 lporirxe.com
 lqpzdi.coppel.com
+lr-ingest.io
 lrdnuu.shopee.co.th
 lrtzrm.aufsafari.de
 lsfinteractive.com
@@ -8367,6 +8373,7 @@ nokaut.link
 nol.yahoo.com
 nom.churchofjesuschrist.org
 nong3bram.com
+noodle.backmarket.io
 noowho.com
 nora7nice.com
 nordicresearch.com
@@ -8803,6 +8810,7 @@ parcelcreature.com
 parklogic.com
 parrable.com
 parsimoniouspolice.com
+particularaudience.com
 partner.cynapse.com
 partner.haru-shop.jp
 partnermktg.symantec.com
@@ -12803,6 +12811,7 @@ track.ultimate-guitar.com
 track.untd.com
 track.vdo.ai
 track.veedio.it
+track.venatusmedia.com
 track.vscash.com
 track.wattpad.com
 track.wayin.com
@@ -13327,6 +13336,7 @@ ttauri.tomshardware.com
 ttauri.toptenreviews.com
 ttauri.whathifi.com
 ttdetect.staticimgfarm.com
+ttrace.ru
 tubemogul.com
 tuinfra.com
 tukuru.cotta.jp
@@ -14317,7 +14327,7 @@ zzsiqn.happyxnature.com
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2021-06-27 00:22:24.075037
+# Generated at 2021-07-04 00:31:12.372101
 
 databerries.com
 fidzup

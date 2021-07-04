@@ -1,6 +1,6 @@
-# Version: 202106270004
+# Version: 202107032357
 # Title: EasyPrivacy
-# Last modified: 27 Jun 2021 00:04 UTC
+# Last modified: 03 Jul 2021 23:57 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -1477,6 +1477,7 @@
 0.0.0.0 as.mytoys.de
 0.0.0.0 as.payback.it
 0.0.0.0 as.rollingstone.de
+0.0.0.0 as.saechsische.de
 0.0.0.0 as.stylebook.de
 0.0.0.0 as.techbook.de
 0.0.0.0 as.travelbook.de
@@ -2073,6 +2074,7 @@
 0.0.0.0 calmcactus.com
 0.0.0.0 calmradio.actonservice.com
 0.0.0.0 calotag.com
+0.0.0.0 camel.headfarming.com
 0.0.0.0 camisado.actonservice.com
 0.0.0.0 campaign.amadeus.com
 0.0.0.0 campaign.bbmbonnier.se
@@ -4202,6 +4204,7 @@
 0.0.0.0 events.realgravity.com
 0.0.0.0 events.reddit.com
 0.0.0.0 events.redditmedia.com
+0.0.0.0 events.santander.co.uk
 0.0.0.0 events.shareably.net
 0.0.0.0 events.sk.ht
 0.0.0.0 events.splash-screen.net
@@ -5622,6 +5625,7 @@
 0.0.0.0 ininmacerad.pro
 0.0.0.0 inistrack.net
 0.0.0.0 inmoment.com
+0.0.0.0 innertrends.com
 0.0.0.0 innocentinvention.com
 0.0.0.0 innomdc.com
 0.0.0.0 innovateads.com
@@ -6425,6 +6429,7 @@
 0.0.0.0 logs.ptable.com
 0.0.0.0 logs.spilgames.com
 0.0.0.0 logs.thebloggernetwork.com
+0.0.0.0 logs.viadata.store
 0.0.0.0 logs.vmixcore.com
 0.0.0.0 logsbin.dantri.com.vn
 0.0.0.0 logservice.hicloud.com
@@ -6467,6 +6472,7 @@
 0.0.0.0 lpbhnv.nbcdfw.com
 0.0.0.0 lporirxe.com
 0.0.0.0 lqpzdi.coppel.com
+0.0.0.0 lr-ingest.io
 0.0.0.0 lrdnuu.shopee.co.th
 0.0.0.0 lrtzrm.aufsafari.de
 0.0.0.0 lsfinteractive.com
@@ -8380,6 +8386,7 @@
 0.0.0.0 nol.yahoo.com
 0.0.0.0 nom.churchofjesuschrist.org
 0.0.0.0 nong3bram.com
+0.0.0.0 noodle.backmarket.io
 0.0.0.0 noowho.com
 0.0.0.0 nora7nice.com
 0.0.0.0 nordicresearch.com
@@ -8816,6 +8823,7 @@
 0.0.0.0 parklogic.com
 0.0.0.0 parrable.com
 0.0.0.0 parsimoniouspolice.com
+0.0.0.0 particularaudience.com
 0.0.0.0 partner.cynapse.com
 0.0.0.0 partner.haru-shop.jp
 0.0.0.0 partnermktg.symantec.com
@@ -12816,6 +12824,7 @@
 0.0.0.0 track.untd.com
 0.0.0.0 track.vdo.ai
 0.0.0.0 track.veedio.it
+0.0.0.0 track.venatusmedia.com
 0.0.0.0 track.vscash.com
 0.0.0.0 track.wattpad.com
 0.0.0.0 track.wayin.com
@@ -13340,6 +13349,7 @@
 0.0.0.0 ttauri.toptenreviews.com
 0.0.0.0 ttauri.whathifi.com
 0.0.0.0 ttdetect.staticimgfarm.com
+0.0.0.0 ttrace.ru
 0.0.0.0 tubemogul.com
 0.0.0.0 tuinfra.com
 0.0.0.0 tukuru.cotta.jp
@@ -14330,7 +14340,7 @@
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2021-06-27 00:22:25.331425
+# Generated at 2021-07-04 00:31:13.595915
 
 0.0.0.0 databerries.com
 0.0.0.0 fidzup
