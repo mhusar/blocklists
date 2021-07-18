@@ -1,6 +1,6 @@
-# Version: 202107101555
+# Version: 202107180022
 # Title: EasyPrivacy
-# Last modified: 10 Jul 2021 15:55 UTC
+# Last modified: 18 Jul 2021 00:22 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -146,6 +146,7 @@ a-counter.kiev.ua
 a-counters.com
 a-mo.net
 a-pagerank.net
+a-reporting.nytimes.com
 a.20minutes.fr
 a.aawp.de
 a.acxiom.com
@@ -864,6 +865,7 @@ acridtwist.com
 acrosspf.com
 acs86.com
 acsbap.com
+acstat.com
 act-on.ioactive.com
 act-on.up.edu.pe
 act.acotedemoi.com
@@ -1454,6 +1456,7 @@ analytics.kaltura.com
 analytics.kapost.com
 analytics.kraken.com
 analytics.ladmedia.fr
+analytics.laregione.ch
 analytics.linktr.ee
 analytics.live.com
 analytics.liveact.cri-mw.jp
@@ -2830,7 +2833,14 @@ cmme.actonservice.com
 cmmeglobal.com
 cmon.congress.gov
 cmp.channelpartner.de
+cmp.courrierinternational.com
 cmp.dreamlab.pl
+cmp.finn.no
+cmp.huffingtonpost.fr
+cmp.netzwelt.de
+cmp.nouvelobs.com
+cmp.tek.no
+cmp.telerama.fr
 cmptch.com
 cms.grandcloud.cn
 cms.hardloopaanbiedingen.nl
@@ -3319,6 +3329,7 @@ crta.dailymail.co.uk
 crta.metro.co.uk
 crtx.info
 crwdcntrl.net
+cryo.socialblade.com
 cryptaloot.pro
 crypto-coins.club
 crypto-coins.com
@@ -3379,7 +3390,6 @@ culliganwaterco.actonservice.com
 culturaltracking.ru
 culturedcrayon.com
 cuntador.com
-cupid.socialblade.com
 curalate.com
 curated.fieldtest.cc
 curvycry.com
@@ -5292,6 +5302,7 @@ geovisite.ovh
 get.anthem.com
 get.docusign.com
 get.hydrosystemsco.com
+get4click.ru
 getaim.info
 getambassador.com
 getback.ch
@@ -6961,6 +6972,7 @@ locotrack.net
 log-api.newrelic.com
 log.51cto.com
 log.aimtell.com
+log.aliyuncs.com
 log.artipbox.net
 log.bitauto.com
 log.china.cn
@@ -10023,6 +10035,7 @@ ping-dot-acp-magento.appspot.com
 ping-fast.com
 ping.cavelab.dev
 ping.dozuki.com
+ping.hashnode.com
 ping.hellobar.com
 ping.hungama.com
 ping.richardtaylor.dev
@@ -10922,6 +10935,7 @@ rt.flix360.com
 rt.prnewswire.com
 rt.rakuten.co.jp
 rta.dailymail.co.uk
+rta2.inews.co.uk
 rta2.metro.co.uk
 rta2.newzit.com
 rtb-seller.com
@@ -11216,6 +11230,7 @@ salesmanago.pl
 salesviewer.com
 salesviewer.org
 saletrack.co.uk
+salsify-ecdn.com
 salzwerk.viessmann.de
 sam.spiegel.de
 sambaads.com
@@ -13514,6 +13529,7 @@ stats.ghost.org
 stats.gifs.com
 stats.glassmountains.co.uk
 stats.grafikart.fr
+stats.gruporeforma.com
 stats.gslc.utah.edu
 stats.guersanguillaume.com
 stats.handyvertrag.de
@@ -15014,6 +15030,7 @@ tracking.cairn.info
 tracking.carsales.com.au
 tracking.cat898.com
 tracking.cengage.com
+tracking.cerdmann.com
 tracking.chacha.com
 tracking.chem-agilent.com
 tracking.christianpost.com
@@ -15909,6 +15926,7 @@ wc.yahoodns.net
 wc4.net
 wcdkff.rueducommerce.fr
 wcfbc.net
+wco.crownpeak.com
 wcs.naver.com
 wdfl.co
 wdm.map24.com
@@ -15964,7 +15982,6 @@ webest.info
 webeyez.com
 webflowmetrics.com
 webforensics.co.uk
-webgains.com
 webglstats.com
 webgozar.com
 webgozar.ir
@@ -16172,6 +16189,7 @@ wtmtrack.com
 wtp101.com
 wts.one
 wtstats.com
+wtstats.ro
 wttd.douglas.at
 wttd.douglas.ch
 wttd.douglas.de
@@ -16458,7 +16476,7 @@ zz.bdstatic.com
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2021-07-11 00:33:37.277957
+# Generated at 2021-07-18 00:32:42.505169
 
 databerries.com
 fidzup
