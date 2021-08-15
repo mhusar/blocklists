@@ -1,6 +1,6 @@
-# Version: 202108080000
+# Version: 202108150022
 # Title: EasyPrivacy
-# Last modified: 08 Aug 2021 00:00 UTC
+# Last modified: 15 Aug 2021 00:22 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -75,6 +75,7 @@
 3gl.net
 3ng6p6m0.de
 3p-geo.yahoo.com
+3p-udc.yahoo.com
 404tracker.com
 40nuggets.com
 44-trk-srv.com
@@ -1753,6 +1754,7 @@ azera-s014.com
 azg1.emalu-store.com
 azointel.com
 azscgj.penningtons.com
+azury.gg
 b-aws.aol.com
 b.aecf.org
 b.bedop.com
@@ -2575,6 +2577,7 @@ client.tahono.com
 clientgear.com
 cliftons.actonservice.com
 clipcanvas.actonservice.com
+clipcentric.com
 clixcount.com
 clixgalore.com
 clixpy.com
@@ -2617,6 +2620,7 @@ cmp.finn.no
 cmp.huffingtonpost.fr
 cmp.netzwelt.de
 cmp.nouvelobs.com
+cmp.tech426.com
 cmp.tek.no
 cmp.telerama.fr
 cmp2.channelpartner.de
@@ -2767,6 +2771,7 @@ compteur-visite.com
 compteur.cc
 compteur.com
 compteur.developpez.com
+compteur.fr
 compteur.org
 compteur.websiteout.net
 comunicaciones.davivienda.com
@@ -4275,6 +4280,7 @@ ens.nzz.ch
 ens.tagblatt.ch
 ensighten.com
 enter-system.com
+enthusiastgaming.net
 enticelabs.com
 entryhit.wp.pl
 enviousshape.com
@@ -4562,6 +4568,7 @@ fast-thinking.co.uk
 fastanalytic.com
 fastcounter.de
 fastenermkt.averydennison.com
+faster-trk.com
 fastly-analytics.com
 fastly-insights.com
 fastonlineusers.com
@@ -4992,6 +4999,7 @@ geoip-js.com
 geoip.ativo.com
 geoip.boredpanda.com
 geoip.cookieyes.com
+geoip.finanzen.net
 geoip.hmageo.com
 geoip.ifunny.co
 geoip.nekudo.com
@@ -5395,6 +5403,7 @@ heystaks.com
 hfd.bridgetowermedia.com
 hgf4.zanzicar.fr
 hgvqaq.pg-bra.com
+hh.ru/analytics
 hi.hellobar.com
 hi.streetworkoutlist.com
 hi.victorbaudot.com
@@ -6145,6 +6154,7 @@ journity.com
 jpaatr.astellas.jp
 jpluzr.autoc-one.jp
 jptobh.network.com.tr
+jpush.cn
 jquery-cdn.download
 jqwwny.hotelpass.com
 jraasj.kobo.com
@@ -8703,6 +8713,7 @@ mql5.com
 mqldrm.lgcity.ru
 mqs.ioam.de
 mr-rank.de
+ms-trackingapi.phenompeople.com
 ms.informaengage.com
 ms.topschooljobs.org
 msecure108.com
@@ -9023,7 +9034,6 @@ nora7nice.com
 nordicresearch.com
 norm0care.com
 northstartravelmedia.com
-nos.netease.com
 nossl.aafp.org
 nossl.kennametal.com
 notice.hoopladigital.com
@@ -9734,7 +9744,6 @@ pixel.roymorgan.com
 pixel.s3xified.com
 pixel.safe-installation.com
 pixel.smartmedia.tj
-pixel.snapsmedia.io
 pixel.solvemedia.com
 pixel.sprinklr.com
 pixel.tree.com
@@ -10187,6 +10196,7 @@ qysknb.fukuishimbun.co.jp
 qyuale.depound.com
 qzcxtm.mango.com
 qzlog.com
+qzone.qq.com/wspeed.qq.com
 qzwktr.world-fusigi.net
 r-ad.ne.jp
 r.bbci.co.uk
@@ -10312,6 +10322,7 @@ reedbusiness.net
 reedge.com
 ref.dealerinspire.com
 refer.ccbill.com
+refer.wordpress.com
 referer.org
 referer.pixplug.in
 referforex.com
@@ -10373,7 +10384,6 @@ report-uri.io
 report.meituan.com
 report.mitsubishicars.com
 report.novinky.cz
-report.qq.com
 reporting.cdndex.io
 reporting.handll.net
 reporting.singlefeed.com
@@ -11086,6 +11096,7 @@ sci.quickbooks.com
 sciencerevenue.com
 scientificshirt.com
 scintillatingscissors.com
+scintillatingsilver.com
 scintillatingspace.com
 scis.tbs.co.jp
 scjlpq.navitime.co.jp
@@ -11479,6 +11490,7 @@ sitetistik.com
 sitetracker.com
 sitetraq.nl
 sitizy.network
+sjpf.io
 sjremetrics.java.com
 sjv.io
 sjyskm.litres.ru
@@ -13922,6 +13934,7 @@ thirdrespect.com
 thirstytwig.com
 thisisacoolthing.com
 thismetric.com
+thomastorch.com
 thomson.hb-api.omtrdc.net
 thomsonreuters.actonservice.com
 threat-analytics.com
@@ -14398,6 +14411,7 @@ track.thebase.in
 track.thesaurus.com
 track.tiara.daum.net
 track.tiara.kakao.com
+track.tomwx.net
 track.totalav.com
 track.uc.cn
 track.untd.com
@@ -14990,6 +15004,7 @@ ukmnlp.techbang.com
 uktvltd.hb.omtrdc.net
 ukw.jp
 ulclick.ru
+umami.wakarimasen.moe
 umbel.com
 umcicv.europcar.com
 umtzwr.adidas.co.kr
@@ -15365,6 +15380,7 @@ web-01-gbl.com
 web-boosting.net
 web-counter.net
 web-stat.com
+web-stat.fr
 web-stat.net
 web-t.9gag.com
 web-visor.com
@@ -15453,6 +15469,7 @@ websitewelcome.com
 webspectator.com
 webstat.channel4.com
 webstat.com
+webstat.fr
 webstat.kuwo.cn
 webstat.net
 webstat.no
@@ -15479,6 +15496,7 @@ webtracking.becker.com
 webtracking.chamberlain.edu
 webtracking.medical.rossu.edu
 webtracking.oncourselearning.com
+webtrackingservices.com
 webtraffic.mastercontrol.com
 webtraffic.se
 webtrafficagents.com
@@ -15590,6 +15608,7 @@ wren.condenastdigital.com
 ws.audioeye.com
 ws.sharethis.com
 wsgddl.deporvillage.it
+wspeed.qq.com
 wssgmstats.vibbo.com
 wsstats.coches.net
 wstat.wibiya.com
@@ -15612,6 +15631,7 @@ wtm.monitoringservice.co
 wtmtrack.com
 wtp101.com
 wts.one
+wts2.one
 wtstats.com
 wtstats.ro
 wttd.douglas.at
