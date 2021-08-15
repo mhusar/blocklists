@@ -1,6 +1,6 @@
-# Version: 202108080000
+# Version: 202108150022
 # Title: EasyPrivacy
-# Last modified: 08 Aug 2021 00:00 UTC
+# Last modified: 15 Aug 2021 00:22 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -85,6 +85,7 @@
 0.0.0.0 3gl.net
 0.0.0.0 3ng6p6m0.de
 0.0.0.0 3p-geo.yahoo.com
+0.0.0.0 3p-udc.yahoo.com
 0.0.0.0 404tracker.com
 0.0.0.0 40nuggets.com
 0.0.0.0 44-trk-srv.com
@@ -1766,6 +1767,7 @@
 0.0.0.0 azg1.emalu-store.com
 0.0.0.0 azointel.com
 0.0.0.0 azscgj.penningtons.com
+0.0.0.0 azury.gg
 0.0.0.0 b-aws.aol.com
 0.0.0.0 b.aecf.org
 0.0.0.0 b.bedop.com
@@ -2588,6 +2590,7 @@
 0.0.0.0 clientgear.com
 0.0.0.0 cliftons.actonservice.com
 0.0.0.0 clipcanvas.actonservice.com
+0.0.0.0 clipcentric.com
 0.0.0.0 clixcount.com
 0.0.0.0 clixgalore.com
 0.0.0.0 clixpy.com
@@ -2630,6 +2633,7 @@
 0.0.0.0 cmp.huffingtonpost.fr
 0.0.0.0 cmp.netzwelt.de
 0.0.0.0 cmp.nouvelobs.com
+0.0.0.0 cmp.tech426.com
 0.0.0.0 cmp.tek.no
 0.0.0.0 cmp.telerama.fr
 0.0.0.0 cmp2.channelpartner.de
@@ -2780,6 +2784,7 @@
 0.0.0.0 compteur.cc
 0.0.0.0 compteur.com
 0.0.0.0 compteur.developpez.com
+0.0.0.0 compteur.fr
 0.0.0.0 compteur.org
 0.0.0.0 compteur.websiteout.net
 0.0.0.0 comunicaciones.davivienda.com
@@ -4288,6 +4293,7 @@
 0.0.0.0 ens.tagblatt.ch
 0.0.0.0 ensighten.com
 0.0.0.0 enter-system.com
+0.0.0.0 enthusiastgaming.net
 0.0.0.0 enticelabs.com
 0.0.0.0 entryhit.wp.pl
 0.0.0.0 enviousshape.com
@@ -4575,6 +4581,7 @@
 0.0.0.0 fastanalytic.com
 0.0.0.0 fastcounter.de
 0.0.0.0 fastenermkt.averydennison.com
+0.0.0.0 faster-trk.com
 0.0.0.0 fastly-analytics.com
 0.0.0.0 fastly-insights.com
 0.0.0.0 fastonlineusers.com
@@ -5005,6 +5012,7 @@
 0.0.0.0 geoip.ativo.com
 0.0.0.0 geoip.boredpanda.com
 0.0.0.0 geoip.cookieyes.com
+0.0.0.0 geoip.finanzen.net
 0.0.0.0 geoip.hmageo.com
 0.0.0.0 geoip.ifunny.co
 0.0.0.0 geoip.nekudo.com
@@ -5408,6 +5416,7 @@
 0.0.0.0 hfd.bridgetowermedia.com
 0.0.0.0 hgf4.zanzicar.fr
 0.0.0.0 hgvqaq.pg-bra.com
+0.0.0.0 hh.ru/analytics
 0.0.0.0 hi.hellobar.com
 0.0.0.0 hi.streetworkoutlist.com
 0.0.0.0 hi.victorbaudot.com
@@ -6158,6 +6167,7 @@
 0.0.0.0 jpaatr.astellas.jp
 0.0.0.0 jpluzr.autoc-one.jp
 0.0.0.0 jptobh.network.com.tr
+0.0.0.0 jpush.cn
 0.0.0.0 jquery-cdn.download
 0.0.0.0 jqwwny.hotelpass.com
 0.0.0.0 jraasj.kobo.com
@@ -8716,6 +8726,7 @@
 0.0.0.0 mqldrm.lgcity.ru
 0.0.0.0 mqs.ioam.de
 0.0.0.0 mr-rank.de
+0.0.0.0 ms-trackingapi.phenompeople.com
 0.0.0.0 ms.informaengage.com
 0.0.0.0 ms.topschooljobs.org
 0.0.0.0 msecure108.com
@@ -9036,7 +9047,6 @@
 0.0.0.0 nordicresearch.com
 0.0.0.0 norm0care.com
 0.0.0.0 northstartravelmedia.com
-0.0.0.0 nos.netease.com
 0.0.0.0 nossl.aafp.org
 0.0.0.0 nossl.kennametal.com
 0.0.0.0 notice.hoopladigital.com
@@ -9747,7 +9757,6 @@
 0.0.0.0 pixel.s3xified.com
 0.0.0.0 pixel.safe-installation.com
 0.0.0.0 pixel.smartmedia.tj
-0.0.0.0 pixel.snapsmedia.io
 0.0.0.0 pixel.solvemedia.com
 0.0.0.0 pixel.sprinklr.com
 0.0.0.0 pixel.tree.com
@@ -10200,6 +10209,7 @@
 0.0.0.0 qyuale.depound.com
 0.0.0.0 qzcxtm.mango.com
 0.0.0.0 qzlog.com
+0.0.0.0 qzone.qq.com/wspeed.qq.com
 0.0.0.0 qzwktr.world-fusigi.net
 0.0.0.0 r-ad.ne.jp
 0.0.0.0 r.bbci.co.uk
@@ -10325,6 +10335,7 @@
 0.0.0.0 reedge.com
 0.0.0.0 ref.dealerinspire.com
 0.0.0.0 refer.ccbill.com
+0.0.0.0 refer.wordpress.com
 0.0.0.0 referer.org
 0.0.0.0 referer.pixplug.in
 0.0.0.0 referforex.com
@@ -10386,7 +10397,6 @@
 0.0.0.0 report.meituan.com
 0.0.0.0 report.mitsubishicars.com
 0.0.0.0 report.novinky.cz
-0.0.0.0 report.qq.com
 0.0.0.0 reporting.cdndex.io
 0.0.0.0 reporting.handll.net
 0.0.0.0 reporting.singlefeed.com
@@ -11099,6 +11109,7 @@
 0.0.0.0 sciencerevenue.com
 0.0.0.0 scientificshirt.com
 0.0.0.0 scintillatingscissors.com
+0.0.0.0 scintillatingsilver.com
 0.0.0.0 scintillatingspace.com
 0.0.0.0 scis.tbs.co.jp
 0.0.0.0 scjlpq.navitime.co.jp
@@ -11492,6 +11503,7 @@
 0.0.0.0 sitetracker.com
 0.0.0.0 sitetraq.nl
 0.0.0.0 sitizy.network
+0.0.0.0 sjpf.io
 0.0.0.0 sjremetrics.java.com
 0.0.0.0 sjv.io
 0.0.0.0 sjyskm.litres.ru
@@ -13935,6 +13947,7 @@
 0.0.0.0 thirstytwig.com
 0.0.0.0 thisisacoolthing.com
 0.0.0.0 thismetric.com
+0.0.0.0 thomastorch.com
 0.0.0.0 thomson.hb-api.omtrdc.net
 0.0.0.0 thomsonreuters.actonservice.com
 0.0.0.0 threat-analytics.com
@@ -14411,6 +14424,7 @@
 0.0.0.0 track.thesaurus.com
 0.0.0.0 track.tiara.daum.net
 0.0.0.0 track.tiara.kakao.com
+0.0.0.0 track.tomwx.net
 0.0.0.0 track.totalav.com
 0.0.0.0 track.uc.cn
 0.0.0.0 track.untd.com
@@ -15003,6 +15017,7 @@
 0.0.0.0 uktvltd.hb.omtrdc.net
 0.0.0.0 ukw.jp
 0.0.0.0 ulclick.ru
+0.0.0.0 umami.wakarimasen.moe
 0.0.0.0 umbel.com
 0.0.0.0 umcicv.europcar.com
 0.0.0.0 umtzwr.adidas.co.kr
@@ -15378,6 +15393,7 @@
 0.0.0.0 web-boosting.net
 0.0.0.0 web-counter.net
 0.0.0.0 web-stat.com
+0.0.0.0 web-stat.fr
 0.0.0.0 web-stat.net
 0.0.0.0 web-t.9gag.com
 0.0.0.0 web-visor.com
@@ -15466,6 +15482,7 @@
 0.0.0.0 webspectator.com
 0.0.0.0 webstat.channel4.com
 0.0.0.0 webstat.com
+0.0.0.0 webstat.fr
 0.0.0.0 webstat.kuwo.cn
 0.0.0.0 webstat.net
 0.0.0.0 webstat.no
@@ -15492,6 +15509,7 @@
 0.0.0.0 webtracking.chamberlain.edu
 0.0.0.0 webtracking.medical.rossu.edu
 0.0.0.0 webtracking.oncourselearning.com
+0.0.0.0 webtrackingservices.com
 0.0.0.0 webtraffic.mastercontrol.com
 0.0.0.0 webtraffic.se
 0.0.0.0 webtrafficagents.com
@@ -15603,6 +15621,7 @@
 0.0.0.0 ws.audioeye.com
 0.0.0.0 ws.sharethis.com
 0.0.0.0 wsgddl.deporvillage.it
+0.0.0.0 wspeed.qq.com
 0.0.0.0 wssgmstats.vibbo.com
 0.0.0.0 wsstats.coches.net
 0.0.0.0 wstat.wibiya.com
@@ -15625,6 +15644,7 @@
 0.0.0.0 wtmtrack.com
 0.0.0.0 wtp101.com
 0.0.0.0 wts.one
+0.0.0.0 wts2.one
 0.0.0.0 wtstats.com
 0.0.0.0 wtstats.ro
 0.0.0.0 wttd.douglas.at
@@ -15911,7 +15931,7 @@
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2021-08-08 00:32:53.459944
+# Generated at 2021-08-15 00:32:30.918569
 
 0.0.0.0 databerries.com
 0.0.0.0 fidzup
