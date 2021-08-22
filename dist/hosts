@@ -1,6 +1,6 @@
-# Version: 202108150022
+# Version: 202108220012
 # Title: EasyPrivacy
-# Last modified: 15 Aug 2021 00:22 UTC
+# Last modified: 22 Aug 2021 00:12 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -1303,6 +1303,7 @@ analytics.google.com
 analytics.greensender.pl
 analytics.groupe-seb.com
 analytics.gvim.mobi
+analytics.hashnode.com
 analytics.haworth.com
 analytics.hayneedle.com
 analytics.hermesworld.com
@@ -1452,6 +1453,7 @@ analytics.verizonwireless.com
 analytics.villagehouse.jp
 analytics.virginmobileusa.com
 analytics.webgains.io
+analytics.webpushr.com
 analytics.websolute.it
 analytics.whotargets.me
 analytics.wildtangent.com
@@ -2857,7 +2859,6 @@ contact.marathon-sports-ec.com
 contact.sjdaccountancy.com
 contact.tsr-net.co.jp
 contactcenter.presenceco.com
-contactforms.53.com
 contactmonkey.com
 contacto.gtc.com.gt
 contadordevisitas.es
@@ -2923,6 +2924,7 @@ convertglobal.com
 convertro.com
 conveyor.lewcoinc.com
 convsgmp.taboola.com
+cookie-guard-erdee.ey.r.appspot.com
 cookie.sync.usonar.jp
 cookiejar.atea.no
 cookies.engage.russellinvestments.com
@@ -4416,6 +4418,7 @@ europagerank.com
 europuls.eu
 europuls.net
 eurotax-pl.autovistagroup.com
+ev.tpocdm.com
 event-api.contactatonce.co.uk
 event-api.contactatonce.com
 event-api.contactatonce.com.au
@@ -5217,9 +5220,7 @@ gomerchant.groupon.com
 gondolagnome.com
 goneviral.com
 goodcounter.org
-google-analytics.com/batch
-google-analytics.com/internal/collect
-google-analytics.com/r/collect
+google-analytics.com
 google-rank.org
 googleadservices.com
 googleanalytcs.com
@@ -6158,6 +6159,7 @@ jirafe.com
 jixie.io
 jknarp.kakaku.com
 jln3.clstudios.com
+jly24aw29n5m-a.akamaihd.net
 jo2f.cheque-cadhoc.fr
 joastb.idealista.com
 johannes.voith.com
@@ -7491,6 +7493,7 @@ marketshot.com
 marketshot.fr
 marktest.pt
 maropost.com
+martech.condenastdigital.com
 marx7loki.com
 mas.nth.ch
 mass1soma.com
@@ -7531,6 +7534,7 @@ mcdmetric.aaa.com
 mcdmetrics.aaa.com
 mckbpe.united-arrows.co.jp
 mcloudglobal.com
+mcs-va.tiktok.com
 mcs-va.tiktokv.com
 mcs.delvenetworks.com
 mczpco.darty.com
@@ -8803,7 +8807,6 @@ my.stbarth.com
 my.usq.edu.au
 myaffiliateprogram.com
 myaudience.de
-mybbc-analytics.files.bbci.co.uk
 mybloglog.com
 mycounter.com.ua
 mycounter.ua
@@ -9478,6 +9481,7 @@ ox-bio.com
 oxidy.com
 oxifwsabgd.nzz.ch
 oyoigg.jdsports.my
+p-analytics.life
 p-log.ykimg.com
 p-td.com
 p.adbrn.com
@@ -9943,6 +9947,7 @@ pr-sunshine.de
 pr.ameba.jp
 pr.blogflux.com
 pr0gram.org
+prairiedog.hashnode.com
 prchecker.info
 prd-collector-anon.ex.co
 prd-collector-anon.playbuzz.com
@@ -10592,6 +10597,7 @@ rtve.hb.omtrdc.net
 rtxlni.doclasse.com
 ru.net
 ru4.com
+rudderlabs.com
 rum.azion.com
 rum.azioncdn.net
 rum.conde.io
@@ -12936,6 +12942,7 @@ stat.mtv3.fi
 stat.novinky.cz
 stat.nyheter24.se
 stat.ouedkniss.com
+stat.ovh
 stat.pl
 stat.ppstream.com
 stat.pravmir.ru
@@ -13016,6 +13023,7 @@ statowl.com
 statpipe.ru
 stats-dc1.frz.io
 stats-factory.digitregroup.io
+stats-jobstreet-sg-en-prod.supercharge-srp.co
 stats-messages.gifs.com
 stats-newyork1.bloxcms.com
 stats-ssl.mdanderson.org
@@ -13256,6 +13264,7 @@ stats.sa-as.com
 stats.safeway.com
 stats.sawlive.tv
 stats.scalgo.com
+stats.screenresolution.org
 stats.searchftps.net
 stats.sec.telefonica.com
 stats.seedr.com
@@ -13458,6 +13467,7 @@ sugarcurtain.com
 sugh8yami.com
 sugodeku.com
 sugs.m.sm.cn
+sulkycook.com
 summerhamster.com
 sumo.com
 sumokoin.com
@@ -13697,7 +13707,6 @@ t.wayfair.de
 t0y.toyota.ca
 t1.stadiumgoods.com
 t2.hulu.com
-t2.huluim.com
 t2.t2b.click
 t4ft.de
 t9h2.ricardocuisine.com
@@ -13938,7 +13947,6 @@ thermstats.com
 thesearchagency.net
 thespecialsearch.com
 thestat.net
-thetradedesk-tags.s3.amazonaws.com
 thewhizmarketing.com
 thewhizproducts.com
 thewise.com
@@ -14387,6 +14395,7 @@ track.laredoute.fr
 track.leady.cz
 track.lexico.com
 track.mailerlite.com
+track.mp4.center
 track.mycliplister.com
 track.netzero.net
 track.noddus.com
@@ -14822,14 +14831,12 @@ treasuredata.com
 treatment.grammarly.com
 trecker.aklamio.com
 tredir.go.com
-tree-pixel-log.s3.amazonaws.com
 trekmedia.net
 tremorhub.com
 trendcounter.com
 trendcounter.de
 trendemon.com
 trends.newsmaxwidget.com
-trf.intuitwebsites.com
 trgtcdn.com
 trib.al
 tribl.io
@@ -14847,13 +14854,11 @@ trk.absuite.com.br
 trk.adbutter.net
 trk.atxwest.com
 trk.bc.shutterfly.com
-trk.bhs4.com
 trk.blume2000.de
 trk.business.westernunion.ch
 trk.business.westernunion.com
 trk.channelfutures.com
 trk.chegg.com
-trk.cloudsna.com
 trk.contentmarketinginstitute.com
 trk.coteriefashionevents.com
 trk.darkreading.com
@@ -14861,7 +14866,6 @@ trk.datacenterknowledge.com
 trk.designnews.com
 trk.dmwest.com
 trk.drdobbs.com
-trk.email.dynect.net
 trk.fensi.plus
 trk.fr.business.westernunion.ca
 trk.fr.business.westernunion.ch
@@ -14880,13 +14884,9 @@ trk.nojitter.com
 trk.nuernberger.de
 trk.nuernberger.digital
 trk.optum.com
-trk.pinterest.com
 trk.plastecwest.com
-trk.pswec.com
 trk.s.sephora.com
-trk.sele.co
 trk.techtarget.com
-trk.vindicosuite.com
 trk.webhostingtalk.com
 trk.westpackshow.com
 trkjmp.com
@@ -14939,7 +14939,6 @@ tsnebc.mebelok.com
 tspmagic.tumblr.com
 tst16infra.com
 ttcu-union.actonservice.com
-ttdetect.staticimgfarm.com
 ttfpil.2dehands.be
 ttrace.ru
 tubemogul.com
@@ -15883,6 +15882,7 @@ zeustechnology.com
 zfzhwz.hema.nl
 zhihu-web-analytics.zhihu.com
 zio.xcar.com.cn
+zion-telemetry.api.cnn.io
 zipstat.dk
 zirve100.com
 ziyu.net
@@ -15931,7 +15931,7 @@ zz.bdstatic.com
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2021-08-15 00:32:29.597145
+# Generated at 2021-08-22 00:31:43.683218
 
 databerries.com
 fidzup
