@@ -1,6 +1,6 @@
-# Version: 202108150022
+# Version: 202108220012
 # Title: EasyPrivacy
-# Last modified: 15 Aug 2021 00:22 UTC
+# Last modified: 22 Aug 2021 00:12 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -1303,6 +1303,7 @@
 0.0.0.0 analytics.greensender.pl
 0.0.0.0 analytics.groupe-seb.com
 0.0.0.0 analytics.gvim.mobi
+0.0.0.0 analytics.hashnode.com
 0.0.0.0 analytics.haworth.com
 0.0.0.0 analytics.hayneedle.com
 0.0.0.0 analytics.hermesworld.com
@@ -1452,6 +1453,7 @@
 0.0.0.0 analytics.villagehouse.jp
 0.0.0.0 analytics.virginmobileusa.com
 0.0.0.0 analytics.webgains.io
+0.0.0.0 analytics.webpushr.com
 0.0.0.0 analytics.websolute.it
 0.0.0.0 analytics.whotargets.me
 0.0.0.0 analytics.wildtangent.com
@@ -2857,7 +2859,6 @@
 0.0.0.0 contact.sjdaccountancy.com
 0.0.0.0 contact.tsr-net.co.jp
 0.0.0.0 contactcenter.presenceco.com
-0.0.0.0 contactforms.53.com
 0.0.0.0 contactmonkey.com
 0.0.0.0 contacto.gtc.com.gt
 0.0.0.0 contadordevisitas.es
@@ -2923,6 +2924,7 @@
 0.0.0.0 convertro.com
 0.0.0.0 conveyor.lewcoinc.com
 0.0.0.0 convsgmp.taboola.com
+0.0.0.0 cookie-guard-erdee.ey.r.appspot.com
 0.0.0.0 cookie.sync.usonar.jp
 0.0.0.0 cookiejar.atea.no
 0.0.0.0 cookies.engage.russellinvestments.com
@@ -4416,6 +4418,7 @@
 0.0.0.0 europuls.eu
 0.0.0.0 europuls.net
 0.0.0.0 eurotax-pl.autovistagroup.com
+0.0.0.0 ev.tpocdm.com
 0.0.0.0 event-api.contactatonce.co.uk
 0.0.0.0 event-api.contactatonce.com
 0.0.0.0 event-api.contactatonce.com.au
@@ -5217,9 +5220,7 @@
 0.0.0.0 gondolagnome.com
 0.0.0.0 goneviral.com
 0.0.0.0 goodcounter.org
-0.0.0.0 google-analytics.com/batch
-0.0.0.0 google-analytics.com/internal/collect
-0.0.0.0 google-analytics.com/r/collect
+0.0.0.0 google-analytics.com
 0.0.0.0 google-rank.org
 0.0.0.0 googleadservices.com
 0.0.0.0 googleanalytcs.com
@@ -6158,6 +6159,7 @@
 0.0.0.0 jixie.io
 0.0.0.0 jknarp.kakaku.com
 0.0.0.0 jln3.clstudios.com
+0.0.0.0 jly24aw29n5m-a.akamaihd.net
 0.0.0.0 jo2f.cheque-cadhoc.fr
 0.0.0.0 joastb.idealista.com
 0.0.0.0 johannes.voith.com
@@ -7491,6 +7493,7 @@
 0.0.0.0 marketshot.fr
 0.0.0.0 marktest.pt
 0.0.0.0 maropost.com
+0.0.0.0 martech.condenastdigital.com
 0.0.0.0 marx7loki.com
 0.0.0.0 mas.nth.ch
 0.0.0.0 mass1soma.com
@@ -7531,6 +7534,7 @@
 0.0.0.0 mcdmetrics.aaa.com
 0.0.0.0 mckbpe.united-arrows.co.jp
 0.0.0.0 mcloudglobal.com
+0.0.0.0 mcs-va.tiktok.com
 0.0.0.0 mcs-va.tiktokv.com
 0.0.0.0 mcs.delvenetworks.com
 0.0.0.0 mczpco.darty.com
@@ -8803,7 +8807,6 @@
 0.0.0.0 my.usq.edu.au
 0.0.0.0 myaffiliateprogram.com
 0.0.0.0 myaudience.de
-0.0.0.0 mybbc-analytics.files.bbci.co.uk
 0.0.0.0 mybloglog.com
 0.0.0.0 mycounter.com.ua
 0.0.0.0 mycounter.ua
@@ -9478,6 +9481,7 @@
 0.0.0.0 oxidy.com
 0.0.0.0 oxifwsabgd.nzz.ch
 0.0.0.0 oyoigg.jdsports.my
+0.0.0.0 p-analytics.life
 0.0.0.0 p-log.ykimg.com
 0.0.0.0 p-td.com
 0.0.0.0 p.adbrn.com
@@ -9943,6 +9947,7 @@
 0.0.0.0 pr.ameba.jp
 0.0.0.0 pr.blogflux.com
 0.0.0.0 pr0gram.org
+0.0.0.0 prairiedog.hashnode.com
 0.0.0.0 prchecker.info
 0.0.0.0 prd-collector-anon.ex.co
 0.0.0.0 prd-collector-anon.playbuzz.com
@@ -10592,6 +10597,7 @@
 0.0.0.0 rtxlni.doclasse.com
 0.0.0.0 ru.net
 0.0.0.0 ru4.com
+0.0.0.0 rudderlabs.com
 0.0.0.0 rum.azion.com
 0.0.0.0 rum.azioncdn.net
 0.0.0.0 rum.conde.io
@@ -12936,6 +12942,7 @@
 0.0.0.0 stat.novinky.cz
 0.0.0.0 stat.nyheter24.se
 0.0.0.0 stat.ouedkniss.com
+0.0.0.0 stat.ovh
 0.0.0.0 stat.pl
 0.0.0.0 stat.ppstream.com
 0.0.0.0 stat.pravmir.ru
@@ -13016,6 +13023,7 @@
 0.0.0.0 statpipe.ru
 0.0.0.0 stats-dc1.frz.io
 0.0.0.0 stats-factory.digitregroup.io
+0.0.0.0 stats-jobstreet-sg-en-prod.supercharge-srp.co
 0.0.0.0 stats-messages.gifs.com
 0.0.0.0 stats-newyork1.bloxcms.com
 0.0.0.0 stats-ssl.mdanderson.org
@@ -13256,6 +13264,7 @@
 0.0.0.0 stats.safeway.com
 0.0.0.0 stats.sawlive.tv
 0.0.0.0 stats.scalgo.com
+0.0.0.0 stats.screenresolution.org
 0.0.0.0 stats.searchftps.net
 0.0.0.0 stats.sec.telefonica.com
 0.0.0.0 stats.seedr.com
@@ -13458,6 +13467,7 @@
 0.0.0.0 sugh8yami.com
 0.0.0.0 sugodeku.com
 0.0.0.0 sugs.m.sm.cn
+0.0.0.0 sulkycook.com
 0.0.0.0 summerhamster.com
 0.0.0.0 sumo.com
 0.0.0.0 sumokoin.com
@@ -13697,7 +13707,6 @@
 0.0.0.0 t0y.toyota.ca
 0.0.0.0 t1.stadiumgoods.com
 0.0.0.0 t2.hulu.com
-0.0.0.0 t2.huluim.com
 0.0.0.0 t2.t2b.click
 0.0.0.0 t4ft.de
 0.0.0.0 t9h2.ricardocuisine.com
@@ -13938,7 +13947,6 @@
 0.0.0.0 thesearchagency.net
 0.0.0.0 thespecialsearch.com
 0.0.0.0 thestat.net
-0.0.0.0 thetradedesk-tags.s3.amazonaws.com
 0.0.0.0 thewhizmarketing.com
 0.0.0.0 thewhizproducts.com
 0.0.0.0 thewise.com
@@ -14387,6 +14395,7 @@
 0.0.0.0 track.leady.cz
 0.0.0.0 track.lexico.com
 0.0.0.0 track.mailerlite.com
+0.0.0.0 track.mp4.center
 0.0.0.0 track.mycliplister.com
 0.0.0.0 track.netzero.net
 0.0.0.0 track.noddus.com
@@ -14822,14 +14831,12 @@
 0.0.0.0 treatment.grammarly.com
 0.0.0.0 trecker.aklamio.com
 0.0.0.0 tredir.go.com
-0.0.0.0 tree-pixel-log.s3.amazonaws.com
 0.0.0.0 trekmedia.net
 0.0.0.0 tremorhub.com
 0.0.0.0 trendcounter.com
 0.0.0.0 trendcounter.de
 0.0.0.0 trendemon.com
 0.0.0.0 trends.newsmaxwidget.com
-0.0.0.0 trf.intuitwebsites.com
 0.0.0.0 trgtcdn.com
 0.0.0.0 trib.al
 0.0.0.0 tribl.io
@@ -14847,13 +14854,11 @@
 0.0.0.0 trk.adbutter.net
 0.0.0.0 trk.atxwest.com
 0.0.0.0 trk.bc.shutterfly.com
-0.0.0.0 trk.bhs4.com
 0.0.0.0 trk.blume2000.de
 0.0.0.0 trk.business.westernunion.ch
 0.0.0.0 trk.business.westernunion.com
 0.0.0.0 trk.channelfutures.com
 0.0.0.0 trk.chegg.com
-0.0.0.0 trk.cloudsna.com
 0.0.0.0 trk.contentmarketinginstitute.com
 0.0.0.0 trk.coteriefashionevents.com
 0.0.0.0 trk.darkreading.com
@@ -14861,7 +14866,6 @@
 0.0.0.0 trk.designnews.com
 0.0.0.0 trk.dmwest.com
 0.0.0.0 trk.drdobbs.com
-0.0.0.0 trk.email.dynect.net
 0.0.0.0 trk.fensi.plus
 0.0.0.0 trk.fr.business.westernunion.ca
 0.0.0.0 trk.fr.business.westernunion.ch
@@ -14880,13 +14884,9 @@
 0.0.0.0 trk.nuernberger.de
 0.0.0.0 trk.nuernberger.digital
 0.0.0.0 trk.optum.com
-0.0.0.0 trk.pinterest.com
 0.0.0.0 trk.plastecwest.com
-0.0.0.0 trk.pswec.com
 0.0.0.0 trk.s.sephora.com
-0.0.0.0 trk.sele.co
 0.0.0.0 trk.techtarget.com
-0.0.0.0 trk.vindicosuite.com
 0.0.0.0 trk.webhostingtalk.com
 0.0.0.0 trk.westpackshow.com
 0.0.0.0 trkjmp.com
@@ -14939,7 +14939,6 @@
 0.0.0.0 tspmagic.tumblr.com
 0.0.0.0 tst16infra.com
 0.0.0.0 ttcu-union.actonservice.com
-0.0.0.0 ttdetect.staticimgfarm.com
 0.0.0.0 ttfpil.2dehands.be
 0.0.0.0 ttrace.ru
 0.0.0.0 tubemogul.com
@@ -15883,6 +15882,7 @@
 0.0.0.0 zfzhwz.hema.nl
 0.0.0.0 zhihu-web-analytics.zhihu.com
 0.0.0.0 zio.xcar.com.cn
+0.0.0.0 zion-telemetry.api.cnn.io
 0.0.0.0 zipstat.dk
 0.0.0.0 zirve100.com
 0.0.0.0 ziyu.net
