@@ -1,6 +1,6 @@
-# Version: 202108220012
+# Version: 202108281654
 # Title: EasyPrivacy
-# Last modified: 22 Aug 2021 00:12 UTC
+# Last modified: 28 Aug 2021 16:54 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -1189,7 +1189,6 @@ analoganalytics.com
 analyse.bcovery.com
 analyselog.dx.com
 analysis.fi
-analysis.shinobi.jp
 analyti.io
 analytic.ae.com
 analytic.cibc.com
@@ -1529,6 +1528,7 @@ apextwo.com
 api-location-prd.pelcro.com
 api-pl.kdrag0n.dev
 api.bunzlaucastle.com
+api.carrottrack.io
 api.decentralize.today
 api.elliehuxtable.com
 api.nobeta.com.br
@@ -1687,7 +1687,6 @@ atxqb.psychologies.com
 atxslk.galamart.ru
 audev.zeit.de
 audience-mostread.r7.com
-audience.acpm.fr
 audience.atex.com
 audience.newscgp.com
 audience.systems
@@ -2293,7 +2292,6 @@ caringzinc.com
 carl.pubsvs.com
 carpentercomparison.com
 carreras.unisabana.edu.co
-carrotquest.io
 carscannon.com
 carswellmedia.thomsonreuterscanada.ca
 cart8draw.com
@@ -2423,6 +2421,7 @@ cherry.le.com
 ches5sort.com
 chevalierusa.actonservice.com
 chic9usia.com
+chickensstation.com
 chihiro.nostalgie.fr
 chip2gift.com
 chmproxy.bid
@@ -2457,6 +2456,7 @@ cityua.net
 ciyacton.ciy.com
 cjgffo.thesportsedit.com
 ck-cdn.com
+ck.connatix.com
 ckozwx.n11.com
 cl.canva.com
 cla.actonservice.com
@@ -3321,11 +3321,13 @@ dacounter.com
 dadi.technology
 daifez.thebay.com
 dailycaller-alerts.com
+damageddistance.com
 damdoor.com
 dampdock.com
 dana8herb.com
 danorenius.com
 dapperdiscussion.com
+dapperfloor.com
 dapxl.com
 daq0d0aotgq0f.cloudfront.net
 dash.getsitecontrol.com
@@ -5352,6 +5354,7 @@ halospring.club
 haltingbadge.com
 hambtr.unilife.co.jp
 hammerhearing.com
+hanaana.socialblade.com
 handyfireman.com
 haostat.qihoo.com
 happen.spkt.io
@@ -9489,6 +9492,7 @@ p.aty.sohu.com
 p.barrera.io
 p.classroombookings.com
 p.clvs7.com
+p.data.cctv.com
 p.delivery.net
 p.eyebuydirect-cmr.net
 p.fairspot.host
@@ -11394,6 +11398,7 @@ shawtelevision.hb.omtrdc.net
 sheeta.nrj-play.fr
 shermore.info
 shesubscriptions.com
+shield.sitelock.com
 shinystat.com
 shinystat.it
 shippinginsights.com
@@ -12470,7 +12475,6 @@ sourcepoint-mms.history.com
 sourcepoint-mms.mylifetime.com
 sourcepoint.theguardian.com
 sourcepoint.vice.com
-sourcepointcmp.bloomberg.com
 sowa.carhartt.com
 soxnwz.lg.com
 sp.app.com
@@ -13759,7 +13763,6 @@ tagtray.com/api
 tailtarget.com
 talenteq.intuit.com
 talpaholdingnv.hb.omtrdc.net
-tamedia.ch
 tamgrt.com
 tangibleteam.com
 tank3pull.com
@@ -15931,7 +15934,7 @@ zz.bdstatic.com
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2021-08-22 00:31:43.683218
+# Generated at 2021-08-29 00:34:12.249229
 
 databerries.com
 fidzup
