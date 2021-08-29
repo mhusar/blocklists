@@ -1,6 +1,6 @@
-# Version: 202108220012
+# Version: 202108281654
 # Title: EasyPrivacy
-# Last modified: 22 Aug 2021 00:12 UTC
+# Last modified: 28 Aug 2021 16:54 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -1189,7 +1189,6 @@
 0.0.0.0 analyse.bcovery.com
 0.0.0.0 analyselog.dx.com
 0.0.0.0 analysis.fi
-0.0.0.0 analysis.shinobi.jp
 0.0.0.0 analyti.io
 0.0.0.0 analytic.ae.com
 0.0.0.0 analytic.cibc.com
@@ -1529,6 +1528,7 @@
 0.0.0.0 api-location-prd.pelcro.com
 0.0.0.0 api-pl.kdrag0n.dev
 0.0.0.0 api.bunzlaucastle.com
+0.0.0.0 api.carrottrack.io
 0.0.0.0 api.decentralize.today
 0.0.0.0 api.elliehuxtable.com
 0.0.0.0 api.nobeta.com.br
@@ -1687,7 +1687,6 @@
 0.0.0.0 atxslk.galamart.ru
 0.0.0.0 audev.zeit.de
 0.0.0.0 audience-mostread.r7.com
-0.0.0.0 audience.acpm.fr
 0.0.0.0 audience.atex.com
 0.0.0.0 audience.newscgp.com
 0.0.0.0 audience.systems
@@ -2293,7 +2292,6 @@
 0.0.0.0 carl.pubsvs.com
 0.0.0.0 carpentercomparison.com
 0.0.0.0 carreras.unisabana.edu.co
-0.0.0.0 carrotquest.io
 0.0.0.0 carscannon.com
 0.0.0.0 carswellmedia.thomsonreuterscanada.ca
 0.0.0.0 cart8draw.com
@@ -2423,6 +2421,7 @@
 0.0.0.0 ches5sort.com
 0.0.0.0 chevalierusa.actonservice.com
 0.0.0.0 chic9usia.com
+0.0.0.0 chickensstation.com
 0.0.0.0 chihiro.nostalgie.fr
 0.0.0.0 chip2gift.com
 0.0.0.0 chmproxy.bid
@@ -2457,6 +2456,7 @@
 0.0.0.0 ciyacton.ciy.com
 0.0.0.0 cjgffo.thesportsedit.com
 0.0.0.0 ck-cdn.com
+0.0.0.0 ck.connatix.com
 0.0.0.0 ckozwx.n11.com
 0.0.0.0 cl.canva.com
 0.0.0.0 cla.actonservice.com
@@ -3321,11 +3321,13 @@
 0.0.0.0 dadi.technology
 0.0.0.0 daifez.thebay.com
 0.0.0.0 dailycaller-alerts.com
+0.0.0.0 damageddistance.com
 0.0.0.0 damdoor.com
 0.0.0.0 dampdock.com
 0.0.0.0 dana8herb.com
 0.0.0.0 danorenius.com
 0.0.0.0 dapperdiscussion.com
+0.0.0.0 dapperfloor.com
 0.0.0.0 dapxl.com
 0.0.0.0 daq0d0aotgq0f.cloudfront.net
 0.0.0.0 dash.getsitecontrol.com
@@ -5352,6 +5354,7 @@
 0.0.0.0 haltingbadge.com
 0.0.0.0 hambtr.unilife.co.jp
 0.0.0.0 hammerhearing.com
+0.0.0.0 hanaana.socialblade.com
 0.0.0.0 handyfireman.com
 0.0.0.0 haostat.qihoo.com
 0.0.0.0 happen.spkt.io
@@ -9489,6 +9492,7 @@
 0.0.0.0 p.barrera.io
 0.0.0.0 p.classroombookings.com
 0.0.0.0 p.clvs7.com
+0.0.0.0 p.data.cctv.com
 0.0.0.0 p.delivery.net
 0.0.0.0 p.eyebuydirect-cmr.net
 0.0.0.0 p.fairspot.host
@@ -11394,6 +11398,7 @@
 0.0.0.0 sheeta.nrj-play.fr
 0.0.0.0 shermore.info
 0.0.0.0 shesubscriptions.com
+0.0.0.0 shield.sitelock.com
 0.0.0.0 shinystat.com
 0.0.0.0 shinystat.it
 0.0.0.0 shippinginsights.com
@@ -12470,7 +12475,6 @@
 0.0.0.0 sourcepoint-mms.mylifetime.com
 0.0.0.0 sourcepoint.theguardian.com
 0.0.0.0 sourcepoint.vice.com
-0.0.0.0 sourcepointcmp.bloomberg.com
 0.0.0.0 sowa.carhartt.com
 0.0.0.0 soxnwz.lg.com
 0.0.0.0 sp.app.com
@@ -13759,7 +13763,6 @@
 0.0.0.0 tailtarget.com
 0.0.0.0 talenteq.intuit.com
 0.0.0.0 talpaholdingnv.hb.omtrdc.net
-0.0.0.0 tamedia.ch
 0.0.0.0 tamgrt.com
 0.0.0.0 tangibleteam.com
 0.0.0.0 tank3pull.com
