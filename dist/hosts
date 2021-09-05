@@ -1,6 +1,6 @@
-# Version: 202108281654
+# Version: 202109050013
 # Title: EasyPrivacy
-# Last modified: 28 Aug 2021 16:54 UTC
+# Last modified: 05 Sep 2021 00:13 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -1135,6 +1135,7 @@ allo-media.net
 allowmailbox.com
 alltracked.com
 alocdn.com
+aloofmetal.com
 aloofvest.com
 alp1.drimki.fr
 alpixtrack.com
@@ -1468,7 +1469,6 @@ analytics.yourbankcard.com
 analytics.ziftsolutions.com
 analytics00.meride.tv
 analyticschecker.com
-analyticsengine.s3.amazonaws.com
 analyticsip.net
 analyticson.com
 analyticsssl.forcepoint.com
@@ -1935,6 +1935,7 @@ berserkpl.net.pl
 besstahete.info
 best-top.de
 best-top.ro
+bestboundary.com
 bestbuy.actonservice.com
 bestcontactform.com
 besti.ga
@@ -2231,7 +2232,6 @@ cache.am
 cache2.delvenetworks.com
 cactusglobal.io
 cadreon.com
-cadreon.s3.amazonaws.com
 cage6west.com
 cagkpu.suitdirect.co.uk
 cahf4eed.mooo.com
@@ -2288,6 +2288,7 @@ care.petcureoncology.com
 care5alea.com
 cargas.actonservice.com
 cargurus.actonservice.com
+caringcast.com
 caringzinc.com
 carl.pubsvs.com
 carpentercomparison.com
@@ -2405,7 +2406,6 @@ channelusa.samsung.com
 channelwatcher.panda.tech
 chart.dk
 chartaca.com
-chartaca.com.s3.amazonaws.com
 chartbeat.com
 chartbeat.net
 chartec.actonservice.com
@@ -2512,6 +2512,7 @@ click.mail.carousell.com
 click.mail.thecarousell.com
 click.marketing.carousell.com
 click.official.nike.com
+click.oneplus.cn
 click.oneplus.com
 click.policypilot.com
 click.quickenloansnow.com
@@ -2575,6 +2576,7 @@ clicksen.se
 clicksgate.com
 clickshift.com
 clickstream.co.za
+clickstream.odysee.com
 clicktale.net
 clicktale.pantherssl.com
 clickthru.lefbc.com
@@ -2597,10 +2599,12 @@ clixcount.com
 clixgalore.com
 clixpy.com
 clk.boulanger.com
+cllctr.roistat.com
 clnbze.echodnia.eu
 clnbze.gk24.pl
 clnbze.naszemiasto.pl
 cloisteredcord.com
+closedcows.com
 cloud-9751.com
 cloud-exploration.com
 cloud-iq.com
@@ -3084,6 +3088,7 @@ crackle.hb.omtrdc.net
 craftkeys.com
 craktraffic.com
 crashfootwork.com
+cratecamera.com
 crayfish.thingelstad.com
 crazyclickstats.com
 crazyegg.com
@@ -3172,6 +3177,7 @@ culturedcrayon.com
 cuntador.com
 curalate.com
 curated.fieldtest.cc
+curtaincows.com
 curvycry.com
 cushionpig.com
 custom.plausible.io
@@ -3278,7 +3284,6 @@ d2tcg4i9q4js4a.cloudfront.net
 d2tgfbvjf3q6hn.cloudfront.net
 d2wu036mkcz52n.cloudfront.net
 d2wy8f7a9ursnm.cloudfront.net
-d303e3cdddb4ded4b6ff495a7b496ed5.s3.amazonaws.com
 d31qbv1cthcecs.cloudfront.net
 d32hwlnfiv2gyn.cloudfront.net
 d34ko97cxuv4p7.cloudfront.net
@@ -3571,6 +3576,7 @@ didit.com
 didna.io
 die-rankliste.com
 diffusion-tracker.com
+dig.ultimedia.com
 digi.maestro.fi
 digidip.net
 digistat.westjet.com
@@ -4430,6 +4436,7 @@ event.api.drift.com
 event.csdn.net
 event.edb.gov.sg
 event.getblue.io
+event.instiengage.com
 event.syndigo.cloud
 event.webcollage.net
 eventapi.libring.com
@@ -4670,6 +4677,7 @@ firebaselogging-pa.googleapis.com
 firebaselogging.googleapis.com
 firstfrogs.com
 firstparty.alloyio.com
+firstpromoter.com
 fishhoo.com
 fitanalytics.com
 fiwinet.firmenwissen.com
@@ -4882,6 +4890,7 @@ fusion.bonniertidskrifter.se
 future-fie-assets.co.uk
 future-price.co.uk
 future.uwindsor.ca
+futuristicapparatus.com
 futuristicfifth.com
 fuziontech.net
 fuzzybasketball.com
@@ -5617,6 +5626,7 @@ i.image-ad.jp
 i.imedia.cz
 i.pokernews.com
 i.viafoura.co
+i218435.net
 i22lo.com
 i2ad.jp
 i2i.jp
@@ -5704,6 +5714,7 @@ imp.constantcontact.com
 imp.go.sohu.com
 imp.optaim.com
 imp.pvnsolutions.com
+impactcdn.com
 impactradius-event.com
 importedincrease.com
 importedinsect.com
@@ -6039,7 +6050,6 @@ iper2.com
 iperceptions.com
 ipfingerprint.com
 ipfrom.com
-ipgeolocation.io
 ipgp.net
 iphufr.circleline.com
 ipify.org
@@ -6652,6 +6662,7 @@ live.ec2.cxo.name
 livecount.fr
 livecounter.dk
 livecounter.theyosh.nl
+livelylaugh.com
 livesegmentservice.com
 livesession.io
 livestat.com
@@ -6695,6 +6706,7 @@ log.cizion.com
 log.codemarketing.cloud
 log.cognex.com
 log.cpex.cz
+log.ctrl.blog
 log.ecgh.dk
 log.etoday.co.kr
 log.f-tra.com
@@ -6911,7 +6923,6 @@ magicpixel.io
 magiq.com
 magnetairport.com
 magnetmail1.net
-magnify360-cdn.s3.amazonaws.com
 magnify360.com
 magnuum.com
 mail.dolce-gusto.at
@@ -8845,6 +8856,7 @@ mywebstats.com.au
 mywebstats.org
 myxuak.mir-kubikov.ru
 mzjruy.yocoyoco.com
+n-analytics.io
 n-core-pipe.com
 n.lexusfinancial.com
 n.mailfire.io
@@ -8866,6 +8878,7 @@ nametraff.com
 namrinfo.motorolasolutions.com
 nanostats.nanopress.it
 nanovisor.io
+nappyattack.com
 narrativ.com
 nascardigitalsap.hb.omtrdc.net
 natero.com
@@ -9046,6 +9059,7 @@ nol.yahoo.com
 nom.churchofjesuschrist.org
 nom.lds.org
 nomsc.kpn.com
+nondescriptnote.com
 nong3bram.com
 noodle.backmarket.io
 noowho.com
@@ -9555,12 +9569,14 @@ pampopholf.com
 pan.render.com
 panelsave.com
 panickycurtain.com
+panickypancake.com
 pap.qualityunit.com
 papoto.com
 parameter.dk
 parametre.online
 paramountnetwork.hb.omtrdc.net
 parcelcreature.com
+parchedsofa.com
 parklogic.com
 parrable.com
 parsimoniouspolice.com
@@ -9609,6 +9625,7 @@ pcspeedup.com
 pcykgc.onetravel.com
 pdbu.net
 pdc.dmleonyc.com
+pdflive.org
 pdlavr.erwinmueller.com
 pdmp.jp
 pdmsmrt.buick.com
@@ -9886,6 +9903,7 @@ plexworks.de
 plhwid.evdeeczane.com
 plotrabbit.com
 pls.indiemakers.fr
+pluckypocket.com
 plug1luge.com
 plugin.ws
 pluralsight.hb.omtrdc.net
@@ -10490,7 +10508,6 @@ rhetoricalloss.com
 rhinoseo.com
 rhybey.gap.co.jp
 riastats.com
-rich-agent.s3.amazonaws.com
 richard-group.com
 richaudience.com
 richmetrics.com
@@ -10690,7 +10707,6 @@ s0.beyondonline.nl
 s1.carnext.com
 s1.subaru.com
 s24cloud.net/log
-s3-tracking.synthasite.net.s3.amazonaws.com
 s362693299.aon.com
 s3network1.com
 s3s-main.net
@@ -11151,6 +11167,7 @@ scout.bergfreunde.nl
 scout.us2.salesloft.com
 scoutanalytics.net
 screechingslip.com
+screechingstove.com
 scribe.wongnai.com
 scrippscontroller.com
 script.ag
@@ -11422,6 +11439,7 @@ shows.broadwayacrossamerica.com
 shqmetrics.sony.com
 shrek.6.cn
 shrfbdg004.com
+shrillspoon.com
 shroughtened.com
 shtptt.cupshe.com
 shyseed.com
@@ -12312,6 +12330,7 @@ smetrix.youravon.com
 smileyhost.net
 sminerva.healthcentral.com
 smodus.nike.com
+smoggysnakes.com
 smoggystation.com
 smon.congress.gov
 smon.loc.gov
@@ -12616,6 +12635,7 @@ spn.ee
 spolecznosci.net
 sponsorcounter.de
 sponsored.com
+spookysleet.com
 spotlessstamp.com
 spotmx.com
 spottednoise.com
@@ -13448,6 +13468,7 @@ studentadvantage.actonservice.com
 study.vu.edu.au
 stuekv.domondo.pl
 stupendoussleet.com
+stupendoussnow.com
 stv.hb.omtrdc.net
 style.onvz.nl
 su.addthis.com
@@ -13963,6 +13984,7 @@ thomson.hb-api.omtrdc.net
 thomsonreuters.actonservice.com
 threat-analytics.com
 thrtle.com
+ticketaunt.com
 ticklesign.com
 tics.seeker.gg
 tics.techdirt.com
@@ -13976,8 +13998,10 @@ tinb.net
 tinyclues.com
 tinycounter.com
 tinystat.ir
+tinytendency.com
 tippcom01.tipp24.com
 tire1soak.com
+tiresomethunder.com
 tiser.com.au
 tisoomi-services.com
 titag.com
@@ -14887,6 +14911,7 @@ trk.nojitter.com
 trk.nuernberger.de
 trk.nuernberger.digital
 trk.optum.com
+trk.pinterest.com
 trk.plastecwest.com
 trk.s.sephora.com
 trk.techtarget.com
@@ -15571,6 +15596,7 @@ wildxtraffic.com
 win.staticstuff.net
 winitout.com
 wipe.de
+wirecomic.com
 wiredminds.de
 wirewuss.com
 wisetrack.net
@@ -15626,7 +15652,6 @@ wsgddl.deporvillage.it
 wspeed.qq.com
 wssgmstats.vibbo.com
 wsstats.coches.net
-wstat.wibiya.com
 wstats.e-wok.tv
 wstats.gameblog.fr
 wstatslive.com
@@ -15934,7 +15959,7 @@ zz.bdstatic.com
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2021-08-29 00:34:12.249229
+# Generated at 2021-09-05 00:35:58.264687
 
 databerries.com
 fidzup
