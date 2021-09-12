@@ -1,6 +1,6 @@
-# Version: 202109050013
+# Version: 202109120005
 # Title: EasyPrivacy
-# Last modified: 05 Sep 2021 00:13 UTC
+# Last modified: 12 Sep 2021 00:05 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -908,6 +908,7 @@ admissions.trios.com
 admitad.com
 admo.tv
 admother.com
+adnext.co
 adnz.co
 adobe-nonsecure.cjone.com
 adobe-secure.cjone.com
@@ -1216,6 +1217,7 @@ analytics.163.com
 analytics.30m.com
 analytics.aasaam.com
 analytics.aba.com
+analytics.academy.com
 analytics.adfreetime.com
 analytics.adonisjs.com
 analytics.ae.com
@@ -1272,6 +1274,7 @@ analytics.cynapse.com
 analytics.data.lloydsbankinggroup.com
 analytics.datahc.com
 analytics.designspiration.com
+analytics.deutscher-apotheker-verlag.de
 analytics.dev.htmedia.in
 analytics.dev.springboardvideo.com
 analytics.developer.riotgames.com
@@ -1290,6 +1293,7 @@ analytics.faceitanalytics.com
 analytics.fatalparadox.com
 analytics.favcy.com
 analytics.filiotech.com
+analytics.firespring.com
 analytics.fnbfremont.com
 analytics.footballdb.com
 analytics.foresee.com
@@ -1863,12 +1867,7 @@ beacon.affil.walmart.com
 beacon.aimtell.com
 beacon.errorception.com
 beacon.flow.io
-beacon.gcion.com
-beacon.gu-web.net
-beacon.heliumnetwork.com
-beacon.indieclick.com
 beacon.kmi-us.com
-beacon.livefyre.com
 beacon.nrholding.net
 beacon.riskified.com
 beacon.rum.dynapis.com
@@ -1960,6 +1959,7 @@ bfp.capitalone.com
 bgiamericas.actonservice.com
 bgpng.me
 bhu9.bankia.es
+bi.medscape.com
 biberukalap.com
 bid.run
 bidder.mediams.mb.softbank.jp
@@ -1991,7 +1991,6 @@ bitcoin-cashcard.eu
 bitcoin-pay.eu
 bitcoin-pocket.de
 bitcoin-pocket.eu
-bitdash-reporting.appspot.com
 biz1.kddi.com
 bizible.com
 bizo.com
@@ -2062,7 +2061,6 @@ boilingbeetle.com
 bolt8snap.com
 bonitrust.de
 bonnieradnetwork.se
-bonsai.internetbrands.com
 bonuscounter.de
 boomerang.com.au
 boomerang.dell.com
@@ -2091,7 +2089,6 @@ bpmonline.com
 br.ac.travelocity.com
 br.backmarket.fr
 br.email.lifesum.com
-brain.foresee.com
 branch-consumer.hipages.com.au
 branch.chelseafc.com
 branch.email.livenation.com
@@ -2109,7 +2106,6 @@ breaktime.com.tw
 bred4tula.com
 bridgevine.com
 briefing.actonservice.com
-bright.bncnt.com
 brightedge.com
 brightfunnel.com
 brilig.com
@@ -2138,11 +2134,9 @@ bstn-14-ma.com
 btbuckets.com
 bthwkw.bazarchic.com
 btloader.com
-btn.clickability.com
 btncdn.com
 btptod.aerzteblatt.de
 btrace.qq.com
-btrace.video.qq.com
 btserve.com
 btstatic.com
 btstats.devtribu.fr
@@ -2167,7 +2161,6 @@ business-pages.edfenergy.com
 business.franchiseforsale.com
 business.franchiseopportunities.com
 business.samsungusa.com
-business.sharedcount.com
 business.vodafone.co.nz
 business.vodafone.com
 businessclick.ch
@@ -2328,6 +2321,7 @@ cbsinteractive.hb.omtrdc.net
 cbsnews-dev.hb-api.omtrdc.net
 cbsnews.hb-api.omtrdc.net
 cbtrk.net
+cc-api-data.adobe.io
 cc.conforama.es
 cc.hb.omtrdc.net
 cc.pennstatehealth.org
@@ -2720,6 +2714,7 @@ collect.cap.ch
 collect.elvia.ch
 collect.helsana.ch
 collect.igodigital.com
+collect.iteam-dress.com
 collect.meilleurtaux.com
 collect.rewardstyle.com
 collect.state.centrum24.pl
@@ -2804,7 +2799,6 @@ confiant-integrations.global.ssl.fastly.net
 confiant.msn.com
 config.parsely.com
 confirmational.com
-confirmit.com
 conimicutlighthouse.viessmann-us.com
 connect.abm.netapp.com
 connect.acspubs.org
@@ -2852,8 +2846,6 @@ connexuscu.actonservice.com
 consciouschairs.com
 consciouscheese.com
 consciousdirt.com
-consent.api.osano.com
-consent.inm.ie
 construsoft.actonservice.com
 consulting.guidehouse.com
 consulting.ramboll.com
@@ -3194,7 +3186,6 @@ cvhefd.ixbt.com
 cvs.kireimo.jp
 cvtr.io
 cws.conviva.com
-cx.atdmt.com
 cxense.com
 cxrfns.gu-global.com
 cxt.ms
@@ -3276,6 +3267,7 @@ d2kdl5wcwrtj90.cloudfront.net
 d2nxi61n77zqpl.cloudfront.net
 d2o67tzzxkqap2.cloudfront.net
 d2oh4tlt9mrke9.cloudfront.net
+d2r1yp2w7bby2u.cloudfront.net
 d2rnkf2kqy5m6h.cloudfront.net
 d2ry9vue95px0b.cloudfront.net
 d2san7t27xb2pn.cloudfront.net
@@ -4968,11 +4960,11 @@ gaafbi.fashiondays.hu
 gacela.eu
 gaconnector.com
 gak.webtoons.com
+gala.spiceworks.com
 galaxiemedia.fr
 gallupnet.fi
 game9time.com
 gameanalytics.com
-gamesradar-gb.gamesradar.com
 gammachug.com
 gammamaximum.com
 gannett.hb.omtrdc.net
@@ -5102,6 +5094,7 @@ glb12pkgr.com
 glb21pkgr.com
 glbtracker.com
 gleam.io
+glimr.io
 glisteningguide.com
 global.ssl.fastly.net
 globalbanking.wolterskluwer.com
@@ -5231,6 +5224,7 @@ gomerchant.groupon.com
 gondolagnome.com
 goneviral.com
 goodcounter.org
+goodmeasure.io
 google-analytics.com
 google-rank.org
 googleadservices.com
@@ -5997,6 +5991,9 @@ intelligence.marykayintouch.com
 intelligencefocus.com
 intelligentscissors.com
 intellimize.co
+intent.cmo.com.au
+intent.goodgearguide.com.au
+intent.pcworld.idg.com.au
 interact-analytics.com
 interactive-circle.jp
 interakt.ru
@@ -6036,6 +6033,7 @@ ip-label.net
 ip.cliphunter.com
 ip.pichunter.com
 ip2c.landscape.co.jp
+ip2c.org
 ip2location.com
 ip2map.com
 ip2phrase.com
@@ -6096,7 +6094,6 @@ italianadirectory.com
 iterable.convoy.com
 ithinkthereforeiam.net
 itop.cz
-itpuk-mms.itpro.co.uk
 itrac.it
 itracker360.com
 itrackerpro.com
@@ -8098,6 +8095,7 @@ metrics.greenflag.com
 metrics.greenies.com
 metrics.grundfos.com
 metrics.guess.hk
+metrics.hackerrank.com
 metrics.handbag.com
 metrics.harley-davidson.com
 metrics.hatarako.net
@@ -8669,9 +8667,7 @@ mm7.net
 mmccint.com
 mmi.bemobile.ua
 mmpool.org
-mms.blick.ch
 mms.cnn.com
-mms.gocomics.com
 mms.wwe.com
 mmstat.com
 mmtro.com
@@ -9444,7 +9440,6 @@ orcapia.com
 oregonstate.actonservice.com
 organicfruitapps.com
 oribi.io
-orionis.techradar.com
 orquideassp.com
 orsmfg.notino.de
 orts.wixawin.com
@@ -9618,7 +9613,6 @@ pbox.photobox.se
 pbstats.jpmorgan.com
 pbstck.com
 pc-agency24.de
-pcgamer-gb.pcgamer.com
 pciidk.shopee.vn
 pclicks.com
 pcspeedup.com
@@ -9683,7 +9677,6 @@ pertholin.com
 peruse.ai
 petametrics.com
 petiteumbrella.com
-petitionermaster.appspot.com
 petjue.lcwaikiki.ru
 pevftg.shopee.sg
 pexa.realestate.com.au
@@ -9696,7 +9689,6 @@ pgs.io
 pgt1.voyage-prive.es
 phar.gu-web.net
 phjzsx.elevit.jp
-phoenix.untd.com
 phonalytics.com
 phone-analytics.com
 photographpan.com
@@ -9768,8 +9760,6 @@ pixel.cpex.cz
 pixel.digitalspy.co.uk
 pixel.europapress.net
 pixel.facebook.com
-pixel.fanbridge.com
-pixel.glimr.io
 pixel.homebook.pl
 pixel.honestjohn.co.uk
 pixel.inforsea.com
@@ -9791,7 +9781,6 @@ pixel.watch
 pixel.widgetly.com
 pixel.wp.com
 pixel.wp.pl
-pixel.xmladfeed.com
 pixel.yabidos.com
 pixel.yola.com
 pixel.zumby.io
@@ -9828,7 +9817,6 @@ pladform.ru
 plan.seek.intel.com
 plantdigestion.com
 plantronics.hb.omtrdc.net
-platform.communicatorcorp.com
 platform.iteratehq.com
 platformpanda.com
 platformsolutions.shutterstock.com
@@ -10004,8 +9992,6 @@ processor.asccommunications.com
 proclivitysystems.com
 proditor.sparda.de
 producecopy.com
-production-mcs.lvp.llnw.net
-production.mcs.delve.cust.lldns.net
 products.marketingcube.com.au
 productsup.com
 proext.com
@@ -10024,7 +10010,6 @@ profusesupport.com
 programmatic.cz
 programmatictrader.com
 projectsunblock.com
-projop.dnsalias.com
 promo.skf.com
 promos.trustedtours.com
 promotionengine.com
@@ -10042,7 +10027,6 @@ protectsubrev.com
 proteinhikaku2019.proteinhikaku.com
 provenpixel.com
 provesrc.com
-providence.voxmedia.com
 provify.io
 proxy.dzeio.com
 prprocess.com
@@ -10243,7 +10227,6 @@ r.bbci.co.uk
 r.jakuli.com
 r.mail.ru
 r.movad.de
-r.msn.com
 r.my.com
 r.sax.sina.com.cn
 r1ztni.oui.sncf
@@ -10252,7 +10235,6 @@ r42tag.com
 r4nds.absorba.com
 r7ls.net
 raab3frog.com
-rackcdn.com
 radar.imgsmail.ru
 radarstats.com
 radarurl.com
@@ -10349,7 +10331,6 @@ reconditerespect.com
 recosenselabs.com
 recoset.com
 recruitics.com
-recs.atgsvcs.com
 redcounter.net
 redd7liod.com
 redfastlabs.com
@@ -10574,6 +10555,7 @@ royalcount.de
 royplz.scottsmenswear.com
 rp-rep.net
 rpdtrk.com
+rps-uk.rockpapershotgun.com
 rpt.kidsfootlocker.com
 rqhtgf.pierrecardin.com.tr
 rqjjdi.bershka.com
@@ -10589,7 +10571,6 @@ rs0.co.uk
 rs6.net
 rsc.lepoint.fr
 rsotku.mitsui-shopping-park.com
-rss.tmgrup.com.tr
 rstg.io
 rsvpgenius.com
 rt.bunte.de
@@ -10604,7 +10585,6 @@ rta2.newzit.com
 rtb-seller.com
 rtb123.com
 rtbiq.com
-rtg-endpoint.global.ssl.fastly.net
 rtl.hb-api.omtrdc.net
 rtl.hb.omtrdc.net
 rtmark.net
@@ -10612,7 +10592,6 @@ rtoaster.jp
 rtox.net
 rtrk.co.nz
 rtrk.com
-rtt.campanja.com
 rtvc.hb.omtrdc.net
 rtve.hb.omtrdc.net
 rtxlni.doclasse.com
@@ -10621,14 +10600,13 @@ ru4.com
 rudderlabs.com
 rum.azion.com
 rum.azioncdn.net
-rum.conde.io
+rum.ingress.layer0.co
 rum.kobo.com
+rum.layer0.co
 rum.marquardmedia.hu
-rum.minutemediaservices.com
 rum.nccgroup-webperf.com
 rum.perfops.net
 rum.uptime.com
-rum.vhwrz.net
 rumanalytics.com
 rumble.com
 rumpelstiltskinhead.com
@@ -10641,7 +10619,6 @@ ruth8badb.com
 ruthlessdegree.com
 ruvdkw.turk.net
 rv.modanisa.com
-rva.outbrain.com
 rvdnyq.topito.com
 rvkcpqz.com
 rvv.emol.com
@@ -10658,7 +10635,6 @@ s-adobeanalytics.vice.com
 s-omniture.yell.com
 s-onetag.com
 s-sitecatalyst.work.shiseido.co.jp
-s-vop.sundaysky.com
 s.360.cn
 s.80000hours.org
 s.agava.ru
@@ -10706,7 +10682,6 @@ s.wellandtribune.ca
 s0.beyondonline.nl
 s1.carnext.com
 s1.subaru.com
-s24cloud.net/log
 s362693299.aon.com
 s3network1.com
 s3s-main.net
@@ -10871,7 +10846,6 @@ sadobemarketing.bodendirect.de
 sadobemarketing.bodenusa.com
 sadobemetrics.dr.dk
 sadobemetrics.la-z-boy.com
-sadv.dadapro.com
 safe-click.net
 safety.dupont.com
 sageanalyst.net
@@ -11361,6 +11335,7 @@ sentry.arc.io
 sentry.io
 seo-master.net
 seo.tkc110.jp
+seoab.io
 seomonitor.ro
 seomoz.org
 seon.io
@@ -11452,7 +11427,6 @@ sid.nordstrom.com
 sifomedia.se
 sift.com
 siftscience.com
-sig.atdmt.com
 sig.ig.com
 sig.nadex.com
 signifyd.com
@@ -11540,7 +11514,6 @@ sk1n.fr
 sk8t.fr
 skhwik.wakakuu.com
 ski1.skiset.com
-skimresources.com
 skydeutschland.hb.omtrdc.net
 skye6oner.com
 skyglue.com
@@ -12493,7 +12466,6 @@ sourcepoint-mms.aetv.com
 sourcepoint-mms.history.com
 sourcepoint-mms.mylifetime.com
 sourcepoint.theguardian.com
-sourcepoint.vice.com
 sowa.carhartt.com
 soxnwz.lg.com
 sp.app.com
@@ -12659,6 +12631,10 @@ sqdljj.kijiji.ca
 squeakzinc.com
 squealingturn.com
 squidanalytics.com
+squirrel.cividi.ch
+squirrel.ethanelientz.com
+squirrel.honeysqueeze.app
+squirrel.malaynahocker.com
 squirrelhands.com
 squjvr.modamerve.com
 srcip.com
@@ -12930,6 +12906,7 @@ stat-ssl.xn--pckua2a7gp15o89zb.com
 stat-track.com
 stat-well.com
 stat.1688.com
+stat.24liveplus.com
 stat.4u.pl
 stat.acca.it
 stat.altalex.com
@@ -13900,6 +13877,7 @@ teenytinycellar.com
 teijs.alcampo.es
 telemetric.dk
 telemetrics.klaviyo.com
+telemetry.adobe.io
 telemetry.api.playstation.com
 telemetry.jivosite.com
 telemetry.reembed.com
@@ -14989,7 +14967,6 @@ tv2.hb.omtrdc.net
 tvl8.supdecreation.com
 tvpixel.com
 tw.cx
-twch.20min.ch
 twcount.com
 twcouponcenter.com
 twctsg.hb-api.omtrdc.net
@@ -15165,6 +15142,7 @@ vch.voyage-prive.ch
 vde1.voyage-prive.de
 vdna-assets.com
 vdoing.com
+vdrn.redplum.com
 veduy.com
 vedznh.cumhuriyet.com.tr
 veille-referencement.com
@@ -15959,7 +15937,7 @@ zz.bdstatic.com
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2021-09-05 00:35:58.264687
+# Generated at 2021-09-12 00:35:56.822037
 
 databerries.com
 fidzup
