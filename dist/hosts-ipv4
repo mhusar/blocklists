@@ -1,6 +1,6 @@
-# Version: 202109120005
+# Version: 202109190020
 # Title: EasyPrivacy
-# Last modified: 12 Sep 2021 00:05 UTC
+# Last modified: 19 Sep 2021 00:20 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -715,6 +715,7 @@
 0.0.0.0 absorbingcorn.com
 0.0.0.0 absorbingprison.com
 0.0.0.0 abstractedamount.com
+0.0.0.0 abstractedauthority.com
 0.0.0.0 absurdapple.com
 0.0.0.0 abtest.em.redmart.com
 0.0.0.0 abtest.redmart.com
@@ -1258,6 +1259,7 @@
 0.0.0.0 analytics.cibcrewards.com
 0.0.0.0 analytics.cincopa.com
 0.0.0.0 analytics.clickpathmedia.com
+0.0.0.0 analytics.cmn.com
 0.0.0.0 analytics.cnd-motionmedia.de
 0.0.0.0 analytics.cocolog-nifty.com
 0.0.0.0 analytics.codeforscience.org
@@ -1431,6 +1433,7 @@
 0.0.0.0 analytics.themarketiq.com
 0.0.0.0 analytics.thingx.tv
 0.0.0.0 analytics.threedeepmarketing.com
+0.0.0.0 analytics.ticinolibero.ch
 0.0.0.0 analytics.tiktok.com
 0.0.0.0 analytics.tio.ch
 0.0.0.0 analytics.tooso.ai
@@ -2070,6 +2073,7 @@
 0.0.0.0 boredcrown.com
 0.0.0.0 bosetoo.club
 0.0.0.0 bosspush.com
+0.0.0.0 botdetection.hbrsd.com
 0.0.0.0 botdetector.ru
 0.0.0.0 botize.com
 0.0.0.0 botman.ninja
@@ -2473,6 +2477,7 @@
 0.0.0.0 click.aabacosmallbusiness.com
 0.0.0.0 click.aaptiv.com
 0.0.0.0 click.aliexpress.com
+0.0.0.0 click.alternate.de
 0.0.0.0 click.amazingfacts.org
 0.0.0.0 click.appinthestore.com
 0.0.0.0 click.bible.com
@@ -2664,6 +2669,7 @@
 0.0.0.0 cnt-tm-1.com
 0.0.0.0 cnt.3dmy.net
 0.0.0.0 cnt.iceporn.com
+0.0.0.0 cnt.iol.it
 0.0.0.0 cnt.krasland.ru
 0.0.0.0 cnt.logoslovo.ru
 0.0.0.0 cnt.mastorage.net
@@ -3281,7 +3287,10 @@
 0.0.0.0 d34ko97cxuv4p7.cloudfront.net
 0.0.0.0 d34qb8suadcc4g.cloudfront.net
 0.0.0.0 d35u1vg1q28b3w.cloudfront.net
+0.0.0.0 d36u3psykfwy91.cloudfront.net
+0.0.0.0 d36upaw912d02q.cloudfront.net
 0.0.0.0 d39yds8oe4n4jq.cloudfront.net
+0.0.0.0 d3bj8nkfly20uo.cloudfront.net
 0.0.0.0 d3cgm8py10hi0z.cloudfront.net
 0.0.0.0 d3cxv97fi8q177.cloudfront.net
 0.0.0.0 d3iouejux1os58.cloudfront.net
@@ -3292,6 +3301,7 @@
 0.0.0.0 d3mskfhorhi2fb.cloudfront.net
 0.0.0.0 d3n6i6eorggdxk.cloudfront.net
 0.0.0.0 d3q7vxy7usqoub.cloudfront.net
+0.0.0.0 d3qfdthu9f51gu.cloudfront.net
 0.0.0.0 d3qxwzhswv93jk.cloudfront.net
 0.0.0.0 d3r7h55ola878c.cloudfront.net
 0.0.0.0 d3s7ggfq1s6jlj.cloudfront.net
@@ -3340,7 +3350,6 @@
 0.0.0.0 data.alexa.com
 0.0.0.0 data.all-in.de
 0.0.0.0 data.avid.com
-0.0.0.0 data.beop.io
 0.0.0.0 data.campaign.prenatal.com
 0.0.0.0 data.campaign.toyscenter.it
 0.0.0.0 data.caroda.io
@@ -3697,6 +3706,7 @@
 0.0.0.0 dmpprof.com
 0.0.0.0 dmpxs.com
 0.0.0.0 dmqykw.thirtymall.com
+0.0.0.0 dmtgo.upc.biz
 0.0.0.0 dmtracker.com
 0.0.0.0 dmtry.com
 0.0.0.0 dmxleo.com
@@ -3711,6 +3721,7 @@
 0.0.0.0 dnsseed.bitcoin.dashjr.org
 0.0.0.0 dnsseed.bluematt.me
 0.0.0.0 dnsseed.emzy.de
+0.0.0.0 dnt-userreport.com
 0.0.0.0 do09.net
 0.0.0.0 doceree.com
 0.0.0.0 docileyellow.club
@@ -3764,6 +3775,7 @@
 0.0.0.0 dryvit.actonservice.com
 0.0.0.0 ds-aksb-a.akamaihd.net
 0.0.0.0 ds.haaretz.co.il
+0.0.0.0 ds2.independer.nl
 0.0.0.0 dsbahmgppc0j4.cloudfront.net
 0.0.0.0 dsg.interia.pl
 0.0.0.0 dsmmadvantage.com
@@ -4582,6 +4594,7 @@
 0.0.0.0 farmergoldfish.com
 0.0.0.0 farshake.com
 0.0.0.0 fast-thinking.co.uk
+0.0.0.0 fast.appcues.com
 0.0.0.0 fastanalytic.com
 0.0.0.0 fastcounter.de
 0.0.0.0 fastenermkt.averydennison.com
@@ -4882,6 +4895,7 @@
 0.0.0.0 future-fie-assets.co.uk
 0.0.0.0 future-price.co.uk
 0.0.0.0 future.uwindsor.ca
+0.0.0.0 futurehybrid.tech
 0.0.0.0 futuristicapparatus.com
 0.0.0.0 futuristicfifth.com
 0.0.0.0 fuziontech.net
@@ -5608,6 +5622,7 @@
 0.0.0.0 hyperactivate.com
 0.0.0.0 hypestat.com
 0.0.0.0 hyrankhit.meldingcloud.com
+0.0.0.0 hystericalcloth.com
 0.0.0.0 hyybul.kaskus.co.id
 0.0.0.0 hzdjfb.polskikoszyk.pl
 0.0.0.0 hzeetn.natalie.mu
@@ -5940,6 +5955,7 @@
 0.0.0.0 ininmacerad.pro
 0.0.0.0 inistrack.net
 0.0.0.0 inmoment.com
+0.0.0.0 innerskinresearch.com
 0.0.0.0 innertrends.com
 0.0.0.0 innocentinvention.com
 0.0.0.0 innomdc.com
@@ -6058,6 +6074,7 @@
 0.0.0.0 ipinyou.com.cn
 0.0.0.0 iplist.cc
 0.0.0.0 iplocationtools.com
+0.0.0.0 ipmeta.io
 0.0.0.0 ippen.space
 0.0.0.0 ipro.com
 0.0.0.0 iproanalytics.com
@@ -6766,6 +6783,7 @@
 0.0.0.0 loggingapi.spingo.com
 0.0.0.0 loggly.com
 0.0.0.0 loggychops.paulsmith.site
+0.0.0.0 logicsfort.com
 0.0.0.0 loginfra.com
 0.0.0.0 loginhood.io
 0.0.0.0 loginlog.sdo.com
@@ -7540,6 +7558,7 @@
 0.0.0.0 mc.bruker.com
 0.0.0.0 mc.webvisor.com
 0.0.0.0 mc.webvisor.org
+0.0.0.0 mc.yandex.com
 0.0.0.0 mc.yandex.ru
 0.0.0.0 mcdmetric.aaa.com
 0.0.0.0 mcdmetrics.aaa.com
@@ -7809,6 +7828,7 @@
 0.0.0.0 metrics-api.librato.com
 0.0.0.0 metrics-dra.dt.hicloud.com
 0.0.0.0 metrics-ieeexplore.ieee.org
+0.0.0.0 metrics-logger.spot.im
 0.0.0.0 metrics.3838.com
 0.0.0.0 metrics.3m.com
 0.0.0.0 metrics.aa.com
@@ -8709,6 +8729,7 @@
 0.0.0.0 monu.delivery
 0.0.0.0 mooseway.com
 0.0.0.0 mopinion.com
+0.0.0.0 more-data.ru
 0.0.0.0 more.socialflow.com
 0.0.0.0 mormont.gamer-network.net
 0.0.0.0 morozhko.club
@@ -8726,6 +8747,7 @@
 0.0.0.0 movemeal.com
 0.0.0.0 mowfruit.com
 0.0.0.0 mown5gaze.com
+0.0.0.0 mp.huangye.miui.com
 0.0.0.0 mp3vizor.com
 0.0.0.0 mparticle.com
 0.0.0.0 mpglie.apartmentguide.com
@@ -8965,6 +8987,7 @@
 0.0.0.0 netmonitor.fi
 0.0.0.0 netratings.com
 0.0.0.0 netstats.dk
+0.0.0.0 netu.wiztube.xyz
 0.0.0.0 netupdater.info
 0.0.0.0 netvigie.com
 0.0.0.0 netzaehler.de
@@ -9742,6 +9765,7 @@
 0.0.0.0 pix.eads.com
 0.0.0.0 pix.revjet.com
 0.0.0.0 pix.speedbit.com
+0.0.0.0 pix.spot.im
 0.0.0.0 pix.telekom-dienste.de
 0.0.0.0 pix.telekom.de
 0.0.0.0 pixanalytics.com
@@ -9795,6 +9819,7 @@
 0.0.0.0 pixfuture.com
 0.0.0.0 pixiedust.buzzfeed.com
 0.0.0.0 piximedia.com
+0.0.0.0 pixrealm.com
 0.0.0.0 pjatr.com
 0.0.0.0 pjh7.us.chantelle.com
 0.0.0.0 pjoxcw.rosewe.com
@@ -9861,6 +9886,7 @@
 0.0.0.0 plausible.nova.app
 0.0.0.0 plausible.nubemia.com
 0.0.0.0 plausible.nuqu.org
+0.0.0.0 plausible.omgapi.org
 0.0.0.0 plausible.panic.com
 0.0.0.0 plausible.pgmustard.com
 0.0.0.0 plausible.phuctm97.com
@@ -9886,6 +9912,7 @@
 0.0.0.0 pleasantpump.com
 0.0.0.0 plecki.com
 0.0.0.0 pleisty.com
+0.0.0.0 plerdy.com
 0.0.0.0 plexop.com
 0.0.0.0 plexworks.de
 0.0.0.0 plhwid.evdeeczane.com
@@ -10007,6 +10034,7 @@
 0.0.0.0 profitrumour.com
 0.0.0.0 profitshare.ro
 0.0.0.0 profusesupport.com
+0.0.0.0 progmxs.com
 0.0.0.0 programmatic.cz
 0.0.0.0 programmatictrader.com
 0.0.0.0 projectsunblock.com
@@ -10604,6 +10632,7 @@
 0.0.0.0 rum.kobo.com
 0.0.0.0 rum.layer0.co
 0.0.0.0 rum.marquardmedia.hu
+0.0.0.0 rum.minutemediaservices.com
 0.0.0.0 rum.nccgroup-webperf.com
 0.0.0.0 rum.perfops.net
 0.0.0.0 rum.uptime.com
@@ -11544,7 +11573,6 @@
 0.0.0.0 smart-digital-solutions.com
 0.0.0.0 smart-dmp.com
 0.0.0.0 smart-ip.net
-0.0.0.0 smart-traffik.com
 0.0.0.0 smart-widget-assets.ekomiapps.de
 0.0.0.0 smartclip-services.com
 0.0.0.0 smartctr.com
@@ -12578,6 +12606,7 @@
 0.0.0.0 spamanalyst.com
 0.0.0.0 spanids.dictionary.com
 0.0.0.0 spanids.thesaurus.com
+0.0.0.0 spankbang.com
 0.0.0.0 sparechange.io
 0.0.0.0 sparklingshelf.com
 0.0.0.0 sparnove.com
@@ -13022,6 +13051,7 @@
 0.0.0.0 statm.the-adult-company.com
 0.0.0.0 statowl.com
 0.0.0.0 statpipe.ru
+0.0.0.0 stats-bq.stylight.net
 0.0.0.0 stats-dc1.frz.io
 0.0.0.0 stats-factory.digitregroup.io
 0.0.0.0 stats-jobstreet-sg-en-prod.supercharge-srp.co
@@ -13477,6 +13507,7 @@
 0.0.0.0 sumome.com
 0.0.0.0 suncanny.marvel.com
 0.0.0.0 sunios.de
+0.0.0.0 sunlightmetrics.b-cdn.net
 0.0.0.0 suntcontent.se
 0.0.0.0 supercounters.com
 0.0.0.0 superficialsquare.com
@@ -13620,6 +13651,7 @@
 0.0.0.0 sysomos.com
 0.0.0.0 systancia-scp.actonservice.com
 0.0.0.0 systemmonitoring.badgeville.com
+0.0.0.0 syteapi.com
 0.0.0.0 t-analytics.com
 0.0.0.0 t-pan.triodos.com
 0.0.0.0 t-staging.powerreviews.com
@@ -13933,6 +13965,7 @@
 0.0.0.0 tgtgzo.otelz.com
 0.0.0.0 tgvrfc4.com
 0.0.0.0 thaqyl.mediamarkt.nl
+0.0.0.0 the-ozone-project.com
 0.0.0.0 theaba.actonservice.com
 0.0.0.0 theactivetag.com
 0.0.0.0 theadex.com
@@ -14180,6 +14213,7 @@
 0.0.0.0 tr.courrier.charentelibre.fr
 0.0.0.0 tr.courrier.larepubliquedespyrenees.fr
 0.0.0.0 tr.courrier.sudouest.fr
+0.0.0.0 tr.datatrics.com
 0.0.0.0 tr.devis-companeo.com
 0.0.0.0 tr.devis-companeo.fr
 0.0.0.0 tr.devis-express.be
@@ -14509,6 +14543,7 @@
 0.0.0.0 tracker.thinkindot.com
 0.0.0.0 tracker.timesgroup.com
 0.0.0.0 tracker.tiu.ru
+0.0.0.0 tracker.tv.sohu.com
 0.0.0.0 tracker.unbxdapi.com
 0.0.0.0 tracker.uprinting.com
 0.0.0.0 tracker.wigzopush.com
@@ -14557,6 +14592,7 @@
 0.0.0.0 tracking.brandmentions.com
 0.0.0.0 tracking.business.comcast.com
 0.0.0.0 tracking.businessdirect.bt.com
+0.0.0.0 tracking.buygoods.com
 0.0.0.0 tracking.bv.com
 0.0.0.0 tracking.cairn.info
 0.0.0.0 tracking.carsales.com.au
@@ -14895,6 +14931,7 @@
 0.0.0.0 trk.techtarget.com
 0.0.0.0 trk.webhostingtalk.com
 0.0.0.0 trk.westpackshow.com
+0.0.0.0 trkbc.com
 0.0.0.0 trkjmp.com
 0.0.0.0 trklink.luisaviaroma.com
 0.0.0.0 trklvs.com
@@ -14910,6 +14947,7 @@
 0.0.0.0 trovus.co.uk
 0.0.0.0 trpreviews.bp01.net
 0.0.0.0 trs.cn
+0.0.0.0 trstplse.com
 0.0.0.0 trtl.ws
 0.0.0.0 tru.am
 0.0.0.0 tru.webelapp.com
@@ -15054,6 +15092,7 @@
 0.0.0.0 uplift-platform.com
 0.0.0.0 upravel.com
 0.0.0.0 upscore.com
+0.0.0.0 upsellit.com
 0.0.0.0 upstats.ru
 0.0.0.0 upstats.yadro.ru
 0.0.0.0 upt.graphiq.com
@@ -15753,7 +15792,7 @@
 0.0.0.0 xmrpool.net
 0.0.0.0 xnbwsp.c-and-a.com
 0.0.0.0 xnt4.ece.fr
-0.0.0.0 xoxo5-eng.spankbang.com
+0.0.0.0 xoxo6-eng.spankbang.com
 0.0.0.0 xp.apple.com
 0.0.0.0 xplosion.de
 0.0.0.0 xr.shinobi.jp
@@ -15937,7 +15976,7 @@
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2021-09-12 00:35:57.590671
+# Generated at 2021-09-19 00:34:53.757953
 
 0.0.0.0 databerries.com
 0.0.0.0 fidzup
