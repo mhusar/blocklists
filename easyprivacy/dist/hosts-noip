@@ -1,6 +1,6 @@
-# Version: 202109120005
+# Version: 202109190020
 # Title: EasyPrivacy
-# Last modified: 12 Sep 2021 00:05 UTC
+# Last modified: 19 Sep 2021 00:20 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -702,6 +702,7 @@ absorbingband.com
 absorbingcorn.com
 absorbingprison.com
 abstractedamount.com
+abstractedauthority.com
 absurdapple.com
 abtest.em.redmart.com
 abtest.redmart.com
@@ -1245,6 +1246,7 @@ analytics.cibc.com
 analytics.cibcrewards.com
 analytics.cincopa.com
 analytics.clickpathmedia.com
+analytics.cmn.com
 analytics.cnd-motionmedia.de
 analytics.cocolog-nifty.com
 analytics.codeforscience.org
@@ -1418,6 +1420,7 @@ analytics.techdiary.dev
 analytics.themarketiq.com
 analytics.thingx.tv
 analytics.threedeepmarketing.com
+analytics.ticinolibero.ch
 analytics.tiktok.com
 analytics.tio.ch
 analytics.tooso.ai
@@ -2057,6 +2060,7 @@ borderbrush.com
 boredcrown.com
 bosetoo.club
 bosspush.com
+botdetection.hbrsd.com
 botdetector.ru
 botize.com
 botman.ninja
@@ -2460,6 +2464,7 @@ click-url.com
 click.aabacosmallbusiness.com
 click.aaptiv.com
 click.aliexpress.com
+click.alternate.de
 click.amazingfacts.org
 click.appinthestore.com
 click.bible.com
@@ -2651,6 +2656,7 @@ cnstats.ru
 cnt-tm-1.com
 cnt.3dmy.net
 cnt.iceporn.com
+cnt.iol.it
 cnt.krasland.ru
 cnt.logoslovo.ru
 cnt.mastorage.net
@@ -3268,7 +3274,10 @@ d32hwlnfiv2gyn.cloudfront.net
 d34ko97cxuv4p7.cloudfront.net
 d34qb8suadcc4g.cloudfront.net
 d35u1vg1q28b3w.cloudfront.net
+d36u3psykfwy91.cloudfront.net
+d36upaw912d02q.cloudfront.net
 d39yds8oe4n4jq.cloudfront.net
+d3bj8nkfly20uo.cloudfront.net
 d3cgm8py10hi0z.cloudfront.net
 d3cxv97fi8q177.cloudfront.net
 d3iouejux1os58.cloudfront.net
@@ -3279,6 +3288,7 @@ d3m6sept6cnil5.cloudfront.net
 d3mskfhorhi2fb.cloudfront.net
 d3n6i6eorggdxk.cloudfront.net
 d3q7vxy7usqoub.cloudfront.net
+d3qfdthu9f51gu.cloudfront.net
 d3qxwzhswv93jk.cloudfront.net
 d3r7h55ola878c.cloudfront.net
 d3s7ggfq1s6jlj.cloudfront.net
@@ -3327,7 +3337,6 @@ data.adlermode.com
 data.alexa.com
 data.all-in.de
 data.avid.com
-data.beop.io
 data.campaign.prenatal.com
 data.campaign.toyscenter.it
 data.caroda.io
@@ -3684,6 +3693,7 @@ dmpcounter.com
 dmpprof.com
 dmpxs.com
 dmqykw.thirtymall.com
+dmtgo.upc.biz
 dmtracker.com
 dmtry.com
 dmxleo.com
@@ -3698,6 +3708,7 @@ dnsdelegation.io
 dnsseed.bitcoin.dashjr.org
 dnsseed.bluematt.me
 dnsseed.emzy.de
+dnt-userreport.com
 do09.net
 doceree.com
 docileyellow.club
@@ -3751,6 +3762,7 @@ drydrum.com
 dryvit.actonservice.com
 ds-aksb-a.akamaihd.net
 ds.haaretz.co.il
+ds2.independer.nl
 dsbahmgppc0j4.cloudfront.net
 dsg.interia.pl
 dsmmadvantage.com
@@ -4569,6 +4581,7 @@ fanplayr.com
 farmergoldfish.com
 farshake.com
 fast-thinking.co.uk
+fast.appcues.com
 fastanalytic.com
 fastcounter.de
 fastenermkt.averydennison.com
@@ -4869,6 +4882,7 @@ fusion.bonniertidskrifter.se
 future-fie-assets.co.uk
 future-price.co.uk
 future.uwindsor.ca
+futurehybrid.tech
 futuristicapparatus.com
 futuristicfifth.com
 fuziontech.net
@@ -5595,6 +5609,7 @@ hyjtrf.niidpo.ru
 hyperactivate.com
 hypestat.com
 hyrankhit.meldingcloud.com
+hystericalcloth.com
 hyybul.kaskus.co.id
 hzdjfb.polskikoszyk.pl
 hzeetn.natalie.mu
@@ -5927,6 +5942,7 @@ inimbus.com.au
 ininmacerad.pro
 inistrack.net
 inmoment.com
+innerskinresearch.com
 innertrends.com
 innocentinvention.com
 innomdc.com
@@ -6045,6 +6061,7 @@ ipinyou.com
 ipinyou.com.cn
 iplist.cc
 iplocationtools.com
+ipmeta.io
 ippen.space
 ipro.com
 iproanalytics.com
@@ -6753,6 +6770,7 @@ logging.wilmaa.com
 loggingapi.spingo.com
 loggly.com
 loggychops.paulsmith.site
+logicsfort.com
 loginfra.com
 loginhood.io
 loginlog.sdo.com
@@ -7527,6 +7545,7 @@ mbww.com
 mc.bruker.com
 mc.webvisor.com
 mc.webvisor.org
+mc.yandex.com
 mc.yandex.ru
 mcdmetric.aaa.com
 mcdmetrics.aaa.com
@@ -7796,6 +7815,7 @@ metricool.com
 metrics-api.librato.com
 metrics-dra.dt.hicloud.com
 metrics-ieeexplore.ieee.org
+metrics-logger.spot.im
 metrics.3838.com
 metrics.3m.com
 metrics.aa.com
@@ -8696,6 +8716,7 @@ montpalatin.handicap.fr
 monu.delivery
 mooseway.com
 mopinion.com
+more-data.ru
 more.socialflow.com
 mormont.gamer-network.net
 morozhko.club
@@ -8713,6 +8734,7 @@ movable-ink-6710.com
 movemeal.com
 mowfruit.com
 mown5gaze.com
+mp.huangye.miui.com
 mp3vizor.com
 mparticle.com
 mpglie.apartmentguide.com
@@ -8952,6 +8974,7 @@ netmng.com
 netmonitor.fi
 netratings.com
 netstats.dk
+netu.wiztube.xyz
 netupdater.info
 netvigie.com
 netzaehler.de
@@ -9729,6 +9752,7 @@ pix.airbusgroup.com
 pix.eads.com
 pix.revjet.com
 pix.speedbit.com
+pix.spot.im
 pix.telekom-dienste.de
 pix.telekom.de
 pixanalytics.com
@@ -9782,6 +9806,7 @@ pixelzirkus.gameforge.com
 pixfuture.com
 pixiedust.buzzfeed.com
 piximedia.com
+pixrealm.com
 pjatr.com
 pjh7.us.chantelle.com
 pjoxcw.rosewe.com
@@ -9848,6 +9873,7 @@ plausible.moncefbelyamani.com
 plausible.nova.app
 plausible.nubemia.com
 plausible.nuqu.org
+plausible.omgapi.org
 plausible.panic.com
 plausible.pgmustard.com
 plausible.phuctm97.com
@@ -9873,6 +9899,7 @@ player-telemetry.vimeo.com
 pleasantpump.com
 plecki.com
 pleisty.com
+plerdy.com
 plexop.com
 plexworks.de
 plhwid.evdeeczane.com
@@ -9994,6 +10021,7 @@ profiling.ruukki.com
 profitrumour.com
 profitshare.ro
 profusesupport.com
+progmxs.com
 programmatic.cz
 programmatictrader.com
 projectsunblock.com
@@ -10591,6 +10619,7 @@ rum.ingress.layer0.co
 rum.kobo.com
 rum.layer0.co
 rum.marquardmedia.hu
+rum.minutemediaservices.com
 rum.nccgroup-webperf.com
 rum.perfops.net
 rum.uptime.com
@@ -11531,7 +11560,6 @@ smart-counter.net
 smart-digital-solutions.com
 smart-dmp.com
 smart-ip.net
-smart-traffik.com
 smart-widget-assets.ekomiapps.de
 smartclip-services.com
 smartctr.com
@@ -12565,6 +12593,7 @@ spacepools.org
 spamanalyst.com
 spanids.dictionary.com
 spanids.thesaurus.com
+spankbang.com
 sparechange.io
 sparklingshelf.com
 sparnove.com
@@ -13009,6 +13038,7 @@ statistx.com
 statm.the-adult-company.com
 statowl.com
 statpipe.ru
+stats-bq.stylight.net
 stats-dc1.frz.io
 stats-factory.digitregroup.io
 stats-jobstreet-sg-en-prod.supercharge-srp.co
@@ -13464,6 +13494,7 @@ sumologic.com
 sumome.com
 suncanny.marvel.com
 sunios.de
+sunlightmetrics.b-cdn.net
 suntcontent.se
 supercounters.com
 superficialsquare.com
@@ -13607,6 +13638,7 @@ synthasite.net
 sysomos.com
 systancia-scp.actonservice.com
 systemmonitoring.badgeville.com
+syteapi.com
 t-analytics.com
 t-pan.triodos.com
 t-staging.powerreviews.com
@@ -13920,6 +13952,7 @@ tgtag.io
 tgtgzo.otelz.com
 tgvrfc4.com
 thaqyl.mediamarkt.nl
+the-ozone-project.com
 theaba.actonservice.com
 theactivetag.com
 theadex.com
@@ -14167,6 +14200,7 @@ tr.courriel.ouestnormandie.cci.fr
 tr.courrier.charentelibre.fr
 tr.courrier.larepubliquedespyrenees.fr
 tr.courrier.sudouest.fr
+tr.datatrics.com
 tr.devis-companeo.com
 tr.devis-companeo.fr
 tr.devis-express.be
@@ -14496,6 +14530,7 @@ tracker.thinkermail.com
 tracker.thinkindot.com
 tracker.timesgroup.com
 tracker.tiu.ru
+tracker.tv.sohu.com
 tracker.unbxdapi.com
 tracker.uprinting.com
 tracker.wigzopush.com
@@ -14544,6 +14579,7 @@ tracking.bradyid.com
 tracking.brandmentions.com
 tracking.business.comcast.com
 tracking.businessdirect.bt.com
+tracking.buygoods.com
 tracking.bv.com
 tracking.cairn.info
 tracking.carsales.com.au
@@ -14882,6 +14918,7 @@ trk.s.sephora.com
 trk.techtarget.com
 trk.webhostingtalk.com
 trk.westpackshow.com
+trkbc.com
 trkjmp.com
 trklink.luisaviaroma.com
 trklvs.com
@@ -14897,6 +14934,7 @@ troubledtail.com
 trovus.co.uk
 trpreviews.bp01.net
 trs.cn
+trstplse.com
 trtl.ws
 tru.am
 tru.webelapp.com
@@ -15041,6 +15079,7 @@ upfrontbd.actonservice.com
 uplift-platform.com
 upravel.com
 upscore.com
+upsellit.com
 upstats.ru
 upstats.yadro.ru
 upt.graphiq.com
@@ -15740,7 +15779,7 @@ xlisting.jp
 xmrpool.net
 xnbwsp.c-and-a.com
 xnt4.ece.fr
-xoxo5-eng.spankbang.com
+xoxo6-eng.spankbang.com
 xp.apple.com
 xplosion.de
 xr.shinobi.jp
