@@ -1,6 +1,6 @@
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2021-10-03 00:38:33.687124
+# Generated at 2021-10-10 00:37:07.468349
 
 0.0.0.0 databerries.com
 0.0.0.0 fidzup
@@ -599,3 +599,4 @@
 0.0.0.0 radar.cedexis.com
 0.0.0.0 tele.fm
 0.0.0.0 cdn-api.swirl.com
+0.0.0.0 sdk6.ibm.xtify.com
