@@ -1,6 +1,6 @@
-# Version: 202110030010
+# Version: 202110100022
 # Title: EasyPrivacy
-# Last modified: 03 Oct 2021 00:10 UTC
+# Last modified: 10 Oct 2021 00:22 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -54,6 +54,8 @@
 0.0.0.0 24counter.com
 0.0.0.0 24log.com
 0.0.0.0 24log.de
+0.0.0.0 24log.es
+0.0.0.0 24log.fr
 0.0.0.0 24log.ru
 0.0.0.0 24smi.info
 0.0.0.0 24smi.net
@@ -1229,6 +1231,7 @@
 0.0.0.0 aesus.so-net.ne.jp
 0.0.0.0 af-z.jp
 0.0.0.0 afairweb.com
+0.0.0.0 aff-handler.com
 0.0.0.0 affclkr.com
 0.0.0.0 affex.org
 0.0.0.0 affilae.com
@@ -1946,7 +1949,7 @@
 0.0.0.0 aufp.io
 0.0.0.0 auqvva.insektenstop.net
 0.0.0.0 auriro.net
-0.0.0.0 auth3-eng.spankbang.com
+0.0.0.0 auth4-eng.spankbang.com
 0.0.0.0 authcaptcha.com
 0.0.0.0 authedmine.eu
 0.0.0.0 authedwebmine.cz
@@ -1959,7 +1962,6 @@
 0.0.0.0 autoline-top.com
 0.0.0.0 automate-prod.s3.amazonaws.com
 0.0.0.0 automaticside.com
-0.0.0.0 automizely.com
 0.0.0.0 autozone.actonservice.com
 0.0.0.0 avantlink.com
 0.0.0.0 avapartner.com
@@ -1997,6 +1999,7 @@
 0.0.0.0 axoncoho.tk
 0.0.0.0 axoqvl.daf-shoes.com
 0.0.0.0 ayc0zsm69431gfebd.info
+0.0.0.0 ayc0zsm69431gfebd.xyz
 0.0.0.0 aydtkb.pikabu.ru
 0.0.0.0 aypbpr.tokopedia.com
 0.0.0.0 az693360.vo.msecnd.net
@@ -3606,6 +3609,7 @@
 0.0.0.0 data2.gosquared.com
 0.0.0.0 databrain.com
 0.0.0.0 datacaciques.com
+0.0.0.0 datacollector-dra.dt.hicloud.com
 0.0.0.0 datacoral.com
 0.0.0.0 datacoral.io
 0.0.0.0 datacygnal.io
@@ -3884,6 +3888,7 @@
 0.0.0.0 dl1d2m8ri9v3j.cloudfront.net
 0.0.0.0 dl8.me
 0.0.0.0 dlpjgh.techport.ru
+0.0.0.0 dlswbr.baidu.com
 0.0.0.0 dm-event.net
 0.0.0.0 dmanalytics1.com
 0.0.0.0 dmclick.cn
@@ -4591,6 +4596,9 @@
 0.0.0.0 euro-pr.eu
 0.0.0.0 euroads.dk
 0.0.0.0 eurocounter.com
+0.0.0.0 eurogamer-it.eurogamer.it
+0.0.0.0 eurogamer-pl.eurogamer.pl
+0.0.0.0 eurogamer-pt.eurogamer.pt
 0.0.0.0 europagerank.com
 0.0.0.0 europuls.eu
 0.0.0.0 europuls.net
@@ -4897,6 +4905,7 @@
 0.0.0.0 fout.jp
 0.0.0.0 foxpush.com
 0.0.0.0 foxpush.net
+0.0.0.0 fp-cdn.azureedge.net
 0.0.0.0 fp.mandatumlife.fi
 0.0.0.0 fp.mandatumtrader.fi
 0.0.0.0 fp.measure.office.com
@@ -6122,7 +6131,6 @@
 0.0.0.0 ingest.make.rvapps.io
 0.0.0.0 inimbus.com.au
 0.0.0.0 inistrack.net
-0.0.0.0 inmoment.com
 0.0.0.0 innerskinresearch.com
 0.0.0.0 innertrends.com
 0.0.0.0 innocentinvention.com
@@ -6483,6 +6491,7 @@
 0.0.0.0 kitbit.net
 0.0.0.0 kitchen.juicer.cc
 0.0.0.0 kitcode.net
+0.0.0.0 kiwi.mdldb.net
 0.0.0.0 kiwihk.net
 0.0.0.0 kjiztu.reebok.ru
 0.0.0.0 kjxmcn.eset.com
@@ -13165,6 +13174,7 @@
 0.0.0.0 stats.biblionumericus.fr
 0.0.0.0 stats.big-boards.com
 0.0.0.0 stats.bildconnect.de
+0.0.0.0 stats.birgun.net
 0.0.0.0 stats.bitdefender.com
 0.0.0.0 stats.bitgravity.com
 0.0.0.0 stats.bitpost.app
@@ -13491,6 +13501,7 @@
 0.0.0.0 stats.voltamediahouse.com
 0.0.0.0 stats.votemagie.com
 0.0.0.0 stats.walkiees.co.uk
+0.0.0.0 stats.wawacity.one
 0.0.0.0 stats.webs.com
 0.0.0.0 stats.webstarts.com
 0.0.0.0 stats.westswindon-pc.gov.uk
@@ -14799,6 +14810,7 @@
 0.0.0.0 tracking.cerdmann.com
 0.0.0.0 tracking.changehealthcare.com
 0.0.0.0 tracking.chem-agilent.com
+0.0.0.0 tracking.chilipiper.com
 0.0.0.0 tracking.clarivate.com
 0.0.0.0 tracking.columbiabank.com
 0.0.0.0 tracking.compactappliance.com
@@ -15309,6 +15321,7 @@
 0.0.0.0 usersegment.wpdigital.net
 0.0.0.0 userzoom.com
 0.0.0.0 usesfathom.com
+0.0.0.0 usgamer-us.usgamer.net
 0.0.0.0 usgzei.vidaxl.ch
 0.0.0.0 usivbt.qoo10.com
 0.0.0.0 usmetric.rediff.com
@@ -15486,6 +15499,7 @@
 0.0.0.0 vole.amplenote.com
 0.0.0.0 volgograd-info.ru
 0.0.0.0 vologda-info.ru
+0.0.0.0 volument.com
 0.0.0.0 volvelle.tech
 0.0.0.0 vortex.hulu.com
 0.0.0.0 vosdid.petcarerx.com
@@ -15844,6 +15858,7 @@
 0.0.0.0 wlwtcr.toptoon.com
 0.0.0.0 wlxhzn.godfreys.com.au
 0.0.0.0 wmcdp.io
+0.0.0.0 wmgroup.us
 0.0.0.0 wmpmvk.whiskeyriff.com
 0.0.0.0 wmxuba.aldoshoes.com
 0.0.0.0 wnozpl.escarpe.it
@@ -16320,6 +16335,7 @@
 0.0.0.0 ykhliz.manscaped.com
 0.0.0.0 ykhqhe.domain.com.au
 0.0.0.0 yldr.io
+0.0.0.0 ylog.huya.com
 0.0.0.0 ymetrica1.com
 0.0.0.0 ymprove.web.de
 0.0.0.0 ynmaom.uzayspor.com

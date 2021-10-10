@@ -1,6 +1,6 @@
-# Version: 202110030010
+# Version: 202110100022
 # Title: EasyPrivacy
-# Last modified: 03 Oct 2021 00:10 UTC
+# Last modified: 10 Oct 2021 00:22 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -54,6 +54,8 @@
 24counter.com
 24log.com
 24log.de
+24log.es
+24log.fr
 24log.ru
 24smi.info
 24smi.net
@@ -1229,6 +1231,7 @@ aeromark.actonservice.com
 aesus.so-net.ne.jp
 af-z.jp
 afairweb.com
+aff-handler.com
 affclkr.com
 affex.org
 affilae.com
@@ -1946,7 +1949,7 @@ audtd.com
 aufp.io
 auqvva.insektenstop.net
 auriro.net
-auth3-eng.spankbang.com
+auth4-eng.spankbang.com
 authcaptcha.com
 authedmine.eu
 authedwebmine.cz
@@ -1959,7 +1962,6 @@ autoid.com
 autoline-top.com
 automate-prod.s3.amazonaws.com
 automaticside.com
-automizely.com
 autozone.actonservice.com
 avantlink.com
 avapartner.com
@@ -1997,6 +1999,7 @@ axjfkc.kobayashi.co.jp
 axoncoho.tk
 axoqvl.daf-shoes.com
 ayc0zsm69431gfebd.info
+ayc0zsm69431gfebd.xyz
 aydtkb.pikabu.ru
 aypbpr.tokopedia.com
 az693360.vo.msecnd.net
@@ -3606,6 +3609,7 @@ data1.virginplus.ca
 data2.gosquared.com
 databrain.com
 datacaciques.com
+datacollector-dra.dt.hicloud.com
 datacoral.com
 datacoral.io
 datacygnal.io
@@ -3884,6 +3888,7 @@ dl.zola.com
 dl1d2m8ri9v3j.cloudfront.net
 dl8.me
 dlpjgh.techport.ru
+dlswbr.baidu.com
 dm-event.net
 dmanalytics1.com
 dmclick.cn
@@ -4591,6 +4596,9 @@ euqsfp.belluna.jp
 euro-pr.eu
 euroads.dk
 eurocounter.com
+eurogamer-it.eurogamer.it
+eurogamer-pl.eurogamer.pl
+eurogamer-pt.eurogamer.pt
 europagerank.com
 europuls.eu
 europuls.net
@@ -4897,6 +4905,7 @@ fourmtagservices.appspot.com
 fout.jp
 foxpush.com
 foxpush.net
+fp-cdn.azureedge.net
 fp.mandatumlife.fi
 fp.mandatumtrader.fi
 fp.measure.office.com
@@ -6122,7 +6131,6 @@ ingenioustech.biz
 ingest.make.rvapps.io
 inimbus.com.au
 inistrack.net
-inmoment.com
 innerskinresearch.com
 innertrends.com
 innocentinvention.com
@@ -6483,6 +6491,7 @@ kissmetrics.io
 kitbit.net
 kitchen.juicer.cc
 kitcode.net
+kiwi.mdldb.net
 kiwihk.net
 kjiztu.reebok.ru
 kjxmcn.eset.com
@@ -13165,6 +13174,7 @@ stats.bholmes.dev
 stats.biblionumericus.fr
 stats.big-boards.com
 stats.bildconnect.de
+stats.birgun.net
 stats.bitdefender.com
 stats.bitgravity.com
 stats.bitpost.app
@@ -13491,6 +13501,7 @@ stats.vngameden.com
 stats.voltamediahouse.com
 stats.votemagie.com
 stats.walkiees.co.uk
+stats.wawacity.one
 stats.webs.com
 stats.webstarts.com
 stats.westswindon-pc.gov.uk
@@ -14799,6 +14810,7 @@ tracking.cengage.com
 tracking.cerdmann.com
 tracking.changehealthcare.com
 tracking.chem-agilent.com
+tracking.chilipiper.com
 tracking.clarivate.com
 tracking.columbiabank.com
 tracking.compactappliance.com
@@ -15309,6 +15321,7 @@ users-api.com
 usersegment.wpdigital.net
 userzoom.com
 usesfathom.com
+usgamer-us.usgamer.net
 usgzei.vidaxl.ch
 usivbt.qoo10.com
 usmetric.rediff.com
@@ -15486,6 +15499,7 @@ volantix.com
 vole.amplenote.com
 volgograd-info.ru
 vologda-info.ru
+volument.com
 volvelle.tech
 vortex.hulu.com
 vosdid.petcarerx.com
@@ -15844,6 +15858,7 @@ wlptux.habitaclia.com
 wlwtcr.toptoon.com
 wlxhzn.godfreys.com.au
 wmcdp.io
+wmgroup.us
 wmpmvk.whiskeyriff.com
 wmxuba.aldoshoes.com
 wnozpl.escarpe.it
@@ -16320,6 +16335,7 @@ yjxssk.apartments.com
 ykhliz.manscaped.com
 ykhqhe.domain.com.au
 yldr.io
+ylog.huya.com
 ymetrica1.com
 ymprove.web.de
 ynmaom.uzayspor.com
