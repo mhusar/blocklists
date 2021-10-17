@@ -1,6 +1,6 @@
-# Version: 202110100022
+# Version: 202110170019
 # Title: EasyPrivacy
-# Last modified: 10 Oct 2021 00:22 UTC
+# Last modified: 17 Oct 2021 00:19 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -1435,6 +1435,7 @@ analytics.behaheaters.co.uk
 analytics.belgacom.be
 analytics.betterplaces.nl
 analytics.bigcommerce.com
+analytics.bitrix.info
 analytics.bleacherreport.com
 analytics.blue
 analytics.boing.es
@@ -1949,7 +1950,6 @@ audtd.com
 aufp.io
 auqvva.insektenstop.net
 auriro.net
-auth4-eng.spankbang.com
 authcaptcha.com
 authedmine.eu
 authedwebmine.cz
@@ -1973,6 +1973,7 @@ averoconnector.com
 avma.avmaplit.com
 avmws.com
 avocado.laprovence.com
+avsplow.com
 avstat.it
 awakebird.com
 awap.equifax.com
@@ -2373,7 +2374,9 @@ bronto.com
 browser-statistik.de
 browser-update.org
 browser-updater.yandex.net
+browser.events.data.microsoft.com
 browser.mi-img.com
+browser.pipe.aria.microsoft.com
 browsermine.com
 browserpusher.com
 browsiprod.com
@@ -4500,7 +4503,6 @@ episerver.net
 epitrack.com
 epl.paypal-communication.com
 epm.mailperformance.com
-epnt.ebay.com
 epro.sogou.com
 eproof.com
 eproof.drudgereport.com
@@ -4932,6 +4934,7 @@ fpcsbulls.nba.com
 fpctraffic2.com
 fpjs.io
 fprnt.com
+fpt.microsoft.com
 fpxewa.ilmeteo.it
 fqppgv.cheapoair.com
 fqsecure.com
@@ -6199,6 +6202,7 @@ intergid.ru
 intergient.com
 interhits.de
 intermundomedia.com
+internal-ana.spankbang.com
 internalcomms.hubinternational.com
 internalforms.legalsolutions.thomsonreuters.co.uk
 internationalfactoring-temp.wf.com
@@ -6476,6 +6480,7 @@ keyxel.com
 kfzntn.chinatimes.com
 kfzqoj.utkonos.ru
 kgqxzw.blue-tomato.com
+kick-lake.ga
 kickfire.com
 kiddbs.baby-calendar.jp
 kieden.com
@@ -7002,6 +7007,7 @@ logsbin.dantri.com.vn
 logservice.hicloud.com
 logservice1.hicloud.com
 logstat.caixin.com
+logtake.weidian.com
 logua.com
 logx.mtime.cn
 logx.mtime.com
@@ -9621,6 +9627,7 @@ pixel.archive.vn
 pixel.augsburger-allgemeine.de
 pixel.blivenyc.com
 pixel.cdnwidget.com
+pixel.coccoc.com
 pixel.condenastdigital.com
 pixel.cpex.cz
 pixel.digitalspy.co.uk
@@ -9870,6 +9877,7 @@ prf.vagnt.com
 prfct.co
 pricklydebt.com
 primary.hasegawa.jp
+primate.dmarcdigests.com
 prism.app-us1.com
 prism.pandora.tv
 privacy-api.9gag.com
@@ -10722,6 +10730,7 @@ scaledb.com
 scanverify.com
 scarabresearch.com
 scaredsnake.com
+scarfsmash.com
 schoolyeargo.com
 schwaebischhall.efscle.com
 sci.digitalinsight.com
@@ -10792,6 +10801,7 @@ sdc2.credit-suisse.com
 sdcs.felissimo.co.jp
 sddan.com
 sdome.underarmour.co.jp
+sdqoi2d.com
 sdrive.skoda-auto.com
 sea-nov-1.com
 seadform.net
@@ -13043,6 +13053,7 @@ stat.4u.pl
 stat.acca.it
 stat.api.2gis.ru
 stat.bankiros.ru
+stat.belonnanotservice.ga
 stat.bill.harding.blog
 stat.boredomtherapy.com
 stat.caijing.com.cn
@@ -13118,6 +13129,7 @@ statistiche.it
 statistiche.ws
 statistichegratis.net
 statistics.csweapons.com
+statistics.daktilo.com
 statistics.fppressa.ru
 statistics.heatbeat.de
 statistics.jfmedier.dk
@@ -13205,6 +13217,7 @@ stats.citizenos.com
 stats.clear-media.com
 stats.clickability.com
 stats.clickforknowledge.com
+stats.cloudwp.io
 stats.cmcigroup.com
 stats.codeexposed.com
 stats.coditia.com
@@ -13766,7 +13779,6 @@ swasc.kaufland.md
 swasc.kaufland.pl
 swasc.kaufland.ro
 swasc.kaufland.sk
-swcs.jp
 sweb.ulta.com
 swebanalytics.acs.org
 swebanalytics.degulesider.dk
@@ -14170,6 +14182,7 @@ thisisacoolthing.com
 thomastorch.com
 thor.pureelectric.se
 threat-analytics.com
+threatbook.cn
 thrtle.com
 thumos.fileside.app
 ticketaunt.com
@@ -15668,6 +15681,7 @@ web.news.thebridge.it
 web.newsletter.viviennewestwood.com
 web.newsletter.wearetennis.bnpparibas
 web.northwestern.nm.org
+web.vortex.data.microsoft.com
 web.x.ilpost.it
 web.zoominfo.com
 web1.51.la
