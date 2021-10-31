@@ -1,12 +1,12 @@
-# Version: 202110240018
+# Version: 202110310006
 # Title: EasyPrivacy
-# Last modified: 24 Oct 2021 00:18 UTC
+# Last modified: 31 Oct 2021 00:06 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
 
+0.0.0.0 042qge73l5aw.app.polymersearch.com
 0.0.0.0 0emm.com
-0.0.0.0 0ewo7r50vwkz.www.botcomics.com
 0.0.0.0 0sbm.consobaby.co.uk
 0.0.0.0 0stats.com
 0.0.0.0 0x1f4b0.com
@@ -14,7 +14,6 @@
 0.0.0.0 103bees.com
 0.0.0.0 105app.com
 0.0.0.0 109.169.66.161
-0.0.0.0 11jboxuvhdn.www.jeddd.com
 0.0.0.0 11nux.com
 0.0.0.0 123-counter.de
 0.0.0.0 123compteur.com
@@ -27,6 +26,7 @@
 0.0.0.0 164fi5kesvt.www.usa-corporate.com
 0.0.0.0 168logger.com
 0.0.0.0 16ao.mathon.fr
+0.0.0.0 1796kpkzuwj.www.hawpar.com
 0.0.0.0 180.76.2.18
 0.0.0.0 185.165.169.108
 0.0.0.0 185.193.38.148
@@ -44,8 +44,8 @@
 0.0.0.0 1ctc.sfr.fr
 0.0.0.0 1dmp.io
 0.0.0.0 1freecounter.com
+0.0.0.0 1kpv4njzilv.community.intersystems.com
 0.0.0.0 1l-hit.mail.ru
-0.0.0.0 1op1je6zs97.www.emanualonline.com
 0.0.0.0 1pel.com
 0.0.0.0 1q6ck0lrhrr.www.newsinside.org
 0.0.0.0 1to1.bbva.com
@@ -95,6 +95,7 @@
 0.0.0.0 404tracker.com
 0.0.0.0 40nuggets.com
 0.0.0.0 45.32.105.134
+0.0.0.0 4ntug5jhu0t8.furucombo.app
 0.0.0.0 4oney.com
 0.0.0.0 4stats.de
 0.0.0.0 50bang.org
@@ -143,6 +144,7 @@
 0.0.0.0 99click.com
 0.0.0.0 99counters.com
 0.0.0.0 99stats.com
+0.0.0.0 9kkjfywjz50v.www.eventus.io
 0.0.0.0 9nl.eu
 0.0.0.0 a-calc.com
 0.0.0.0 a-calc.de
@@ -413,7 +415,6 @@
 0.0.0.0 a29817.actonservice.com
 0.0.0.0 a29866.actonservice.com
 0.0.0.0 a29868.actonservice.com
-0.0.0.0 a2z.com
 0.0.0.0 a30667.actonservice.com
 0.0.0.0 a30668.actonservice.com
 0.0.0.0 a31734.actonservice.com
@@ -1396,6 +1397,7 @@
 0.0.0.0 analytics.faceitanalytics.com
 0.0.0.0 analytics.fatalparadox.com
 0.0.0.0 analytics.favcy.com
+0.0.0.0 analytics.feedly.com
 0.0.0.0 analytics.ferguson.com
 0.0.0.0 analytics.filiotech.com
 0.0.0.0 analytics.firespring.com
@@ -2146,6 +2148,7 @@
 0.0.0.0 bm23.com
 0.0.0.0 bm324.com
 0.0.0.0 bmages.carte-gr.total.fr
+0.0.0.0 bmcdn2.com
 0.0.0.0 bmcm.pw
 0.0.0.0 bmfeed.ru
 0.0.0.0 bmlmedia.com
@@ -3091,7 +3094,6 @@
 0.0.0.0 copycarpenter.com
 0.0.0.0 coralogix.com
 0.0.0.0 core-cen-54.com
-0.0.0.0 core-sys.spankbang.com
 0.0.0.0 core.bruynzeelkeukens.nl
 0.0.0.0 core.unit-sense.net
 0.0.0.0 coremetrics.com
@@ -3270,6 +3272,7 @@
 0.0.0.0 cryptomine.pro
 0.0.0.0 cryptonoter.com
 0.0.0.0 cryptotax.efscle.com
+0.0.0.0 crystal-toxic.cf
 0.0.0.0 cs.analytics.lego.com
 0.0.0.0 cs.coopeservidores.fi.cr
 0.0.0.0 cs.hot.net.il
@@ -3975,8 +3978,8 @@
 0.0.0.0 dynatracesaas.com
 0.0.0.0 dyntrk.com
 0.0.0.0 dyv1bugovvq1g.cloudfront.net
+0.0.0.0 dz0969r6p006.www.botcomics.com
 0.0.0.0 dzbrr144kh0m6.cloudfront.net
-0.0.0.0 dzoytx9uvr2h.www.cybernetman.com
 0.0.0.0 e-click.jp
 0.0.0.0 e-contenta.com
 0.0.0.0 e-goi.com
@@ -4358,6 +4361,7 @@
 0.0.0.0 emltrk.com
 0.0.0.0 emng.libero.it
 0.0.0.0 empresa.ricoh.es
+0.0.0.0 emycewiw.xyz
 0.0.0.0 en.johnhardy.com
 0.0.0.0 encoderfarmstatsnew.servicebus.windows.net
 0.0.0.0 endljp.abv.bg
@@ -4826,6 +4830,7 @@
 0.0.0.0 fipsta.urbanara.de
 0.0.0.0 firebaselogging-pa.googleapis.com
 0.0.0.0 firebaselogging.googleapis.com
+0.0.0.0 fireworkanalytics.com
 0.0.0.0 firstfrogs.com
 0.0.0.0 firstparty.alloyio.com
 0.0.0.0 firstpromoter.com
@@ -4860,6 +4865,7 @@
 0.0.0.0 flixsyndication.net
 0.0.0.0 flockflame.com
 0.0.0.0 flocktory.com
+0.0.0.0 flog.pressplay.cc
 0.0.0.0 fluencymedia.com
 0.0.0.0 fluidsurveys.com
 0.0.0.0 flurry.com
@@ -5681,6 +5687,7 @@
 0.0.0.0 i.justblinds.com
 0.0.0.0 i.pokernews.com
 0.0.0.0 i.viafoura.co
+0.0.0.0 i0gx8avj0e5r.www.cybernetman.com
 0.0.0.0 i218435.net
 0.0.0.0 i22lo.com
 0.0.0.0 i2ad.jp
@@ -6383,7 +6390,6 @@
 0.0.0.0 keywordstrategy.org
 0.0.0.0 keyxel.com
 0.0.0.0 kftfhp.furusato-tax.jp
-0.0.0.0 kfuf06i7g8qn.www.earthclassmail.com
 0.0.0.0 kfzhph.bonprix.pl
 0.0.0.0 kfzntn.chinatimes.com
 0.0.0.0 kfzqoj.utkonos.ru
@@ -6585,6 +6591,7 @@
 0.0.0.0 lfcbvf.viata.fr
 0.0.0.0 lfov.net
 0.0.0.0 lg.tr.pandora.tv
+0.0.0.0 lh3pvljbkong.www.nookgaming.com
 0.0.0.0 liadm.com
 0.0.0.0 libstat.com
 0.0.0.0 lift.acquia.com
@@ -8950,7 +8957,6 @@
 0.0.0.0 nxnszu.ettoday.net
 0.0.0.0 nxovay.fo-online.jp
 0.0.0.0 nxpuap.job-con.jp
-0.0.0.0 ny7tvb3lqvm1.furucombo.app
 0.0.0.0 nyceov.life.ru
 0.0.0.0 nyltx.com
 0.0.0.0 nym5c.bonlook.com
@@ -9236,6 +9242,7 @@
 0.0.0.0 osimg.universalorlando.com
 0.0.0.0 osimg.universalstudioshollywood.com
 0.0.0.0 ositracker.com
+0.0.0.0 ostrichesica.com
 0.0.0.0 osur.dell.com
 0.0.0.0 ot.obi-italia.it
 0.0.0.0 ot.obi.at
@@ -9253,6 +9260,7 @@
 0.0.0.0 otrack.workday.com
 0.0.0.0 otracking.com
 0.0.0.0 otracks.workday.com
+0.0.0.0 ouc82i67pytg.www.emanualonline.com
 0.0.0.0 ouofis.socolor.ru
 0.0.0.0 ournet-analytics.com
 0.0.0.0 ourstats.de
@@ -9402,7 +9410,6 @@
 0.0.0.0 pcdstm.petbarn.com.au
 0.0.0.0 pciidk.shopee.vn
 0.0.0.0 pciokm.glamuse.com
-0.0.0.0 pcjhd5yuwpup.www.nookgaming.com
 0.0.0.0 pclicks.com
 0.0.0.0 pcspeedup.com
 0.0.0.0 pcykgc.onetravel.com
@@ -9492,6 +9499,7 @@
 0.0.0.0 ping.hashnode.com
 0.0.0.0 ping.hellobar.com
 0.0.0.0 ping.hungama.com
+0.0.0.0 ping.instantsearchplus.com
 0.0.0.0 ping.richardtaylor.dev
 0.0.0.0 ping.smyte.com
 0.0.0.0 ping.staticmoly.me
@@ -9649,6 +9657,7 @@
 0.0.0.0 plausible.kreya.app
 0.0.0.0 plausible.lesbianromantic.com
 0.0.0.0 plausible.lovesdata.com
+0.0.0.0 plausible.mangadex.org
 0.0.0.0 plausible.mattpruitt.com
 0.0.0.0 plausible.microwire.info
 0.0.0.0 plausible.moncefbelyamani.com
@@ -11274,6 +11283,7 @@
 0.0.0.0 sjremetrics.java.com
 0.0.0.0 sjv.io
 0.0.0.0 sjyskm.litres.ru
+0.0.0.0 sk02vstg6yfu.www.earthclassmail.com
 0.0.0.0 sk1n.fr
 0.0.0.0 sk8t.fr
 0.0.0.0 ski1.skiset.com
@@ -13110,6 +13120,7 @@
 0.0.0.0 stats.cremashop.eu
 0.0.0.0 stats.cremashop.se
 0.0.0.0 stats.crewebo.de
+0.0.0.0 stats.curds.io
 0.0.0.0 stats.dailyposter.com
 0.0.0.0 stats.dashbit.co
 0.0.0.0 stats.datahjaelp.net
@@ -13161,6 +13172,7 @@
 0.0.0.0 stats.fs.com
 0.0.0.0 stats.fullofwishes.co.uk
 0.0.0.0 stats.fundimmo.com
+0.0.0.0 stats.gateio.ch
 0.0.0.0 stats.geegain.com
 0.0.0.0 stats.geobox.app
 0.0.0.0 stats.getdoks.org
@@ -13405,7 +13417,6 @@
 0.0.0.0 stats.voltamediahouse.com
 0.0.0.0 stats.votemagie.com
 0.0.0.0 stats.walkiees.co.uk
-0.0.0.0 stats.wawacity.one
 0.0.0.0 stats.webs.com
 0.0.0.0 stats.webstarts.com
 0.0.0.0 stats.westswindon-pc.gov.uk
@@ -13823,6 +13834,7 @@
 0.0.0.0 tag.myplay.com
 0.0.0.0 tag.rightmessage.com
 0.0.0.0 tag.rmp.rakuten.com
+0.0.0.0 tag.search.sensefuel.live
 0.0.0.0 tag.shopping-feed.com
 0.0.0.0 tag.sonymusic.com
 0.0.0.0 tag.triboomedia.it
@@ -14139,6 +14151,7 @@
 0.0.0.0 tomonline-inc.com
 0.0.0.0 tongji.mafengwo.cn
 0.0.0.0 tongji.meizu.com
+0.0.0.0 tongji.xinmin.cn
 0.0.0.0 top-bloggers.com
 0.0.0.0 top-fwz1.mail.ru
 0.0.0.0 top-ro.ro
@@ -15115,6 +15128,7 @@
 0.0.0.0 u47.pnc.com
 0.0.0.0 u5c93.com
 0.0.0.0 u5e.com
+0.0.0.0 u7eij7sroji7.fjlaboratories.com
 0.0.0.0 u989.theweek.com
 0.0.0.0 ua.indianexpress.com
 0.0.0.0 uadx.com
@@ -15152,6 +15166,7 @@
 0.0.0.0 ulidoo.montblanc.com
 0.0.0.0 umami.wakarimasen.moe
 0.0.0.0 umbel.com
+0.0.0.0 umhadn49kldc.www.jeddd.com
 0.0.0.0 unarmedindustry.com
 0.0.0.0 unbecominghall.com
 0.0.0.0 unblockia.com
@@ -15402,7 +15417,6 @@
 0.0.0.0 vpdyyz.iqair.com
 0.0.0.0 vpf4.euskaltelofertas.com
 0.0.0.0 vphsiv.gsshop.com
-0.0.0.0 vpm4dla7q83q.fjlaboratories.com
 0.0.0.0 vpnuyy.carters.com
 0.0.0.0 vppst.iltrovatore.it
 0.0.0.0 vprza.com
@@ -15426,6 +15440,7 @@
 0.0.0.0 vybbem.womanhit.ru
 0.0.0.0 vyplzy.job-medley.com
 0.0.0.0 vzeyba.shopee.co.id
+0.0.0.0 vzpe9y8ru2e0.www.logology.co
 0.0.0.0 vzrhxp.mavi.com
 0.0.0.0 w3.flatex.at
 0.0.0.0 w3.flatex.de
@@ -16171,7 +16186,6 @@
 0.0.0.0 xzwcng.vans.com.au
 0.0.0.0 y-track.com
 0.0.0.0 y1.arte.tv
-0.0.0.0 y1d2jmz1ousj.www.logology.co
 0.0.0.0 y8hxgv9m.kobetsu.co.jp
 0.0.0.0 ya-counter.ru
 0.0.0.0 yajkhd.supersports.com
