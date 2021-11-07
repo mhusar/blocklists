@@ -1,6 +1,6 @@
-# Version: 202110310006
+# Version: 202111062355
 # Title: EasyPrivacy
-# Last modified: 31 Oct 2021 00:06 UTC
+# Last modified: 06 Nov 2021 23:55 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -23,7 +23,6 @@
 0.0.0.0 12mnkys.com
 0.0.0.0 15gifts.com
 0.0.0.0 161.35.245.96
-0.0.0.0 164fi5kesvt.www.usa-corporate.com
 0.0.0.0 168logger.com
 0.0.0.0 16ao.mathon.fr
 0.0.0.0 1796kpkzuwj.www.hawpar.com
@@ -135,6 +134,7 @@
 0.0.0.0 8147563.thekingdom.bk.com
 0.0.0.0 8147563.your-way.bk.com
 0.0.0.0 8ezc.sfr.fr
+0.0.0.0 8n8rarw7yjvy.www.cybernetman.com
 0.0.0.0 8p0kiyq5mq1d.flex.team
 0.0.0.0 9735476.sender.skyscanner.com
 0.0.0.0 9735476.sender.skyscanner.net
@@ -1311,6 +1311,7 @@
 0.0.0.0 analytic.xingcloud.com
 0.0.0.0 analytic20.detik.com
 0.0.0.0 analyticcdn.globalmailer.com
+0.0.0.0 analytics-api.dvdfab.cn
 0.0.0.0 analytics-api.samsunghealthcn.com
 0.0.0.0 analytics-cdiscount.com
 0.0.0.0 analytics-cms.whitebeard.me
@@ -1383,6 +1384,7 @@
 0.0.0.0 analytics.dev.htmedia.in
 0.0.0.0 analytics.dev.springboardvideo.com
 0.0.0.0 analytics.developer.riotgames.com
+0.0.0.0 analytics.digitalpfizer.com
 0.0.0.0 analytics.disneyinternational.com
 0.0.0.0 analytics.dogecoin.gg
 0.0.0.0 analytics.dvidshub.net
@@ -1908,6 +1910,7 @@
 0.0.0.0 b2c.com
 0.0.0.0 b5j6itccyluq.nofluffjobs.com
 0.0.0.0 b6ft.zone-turf.fr
+0.0.0.0 b7tp47v2nb3x-a.akamaihd.net
 0.0.0.0 bab.frb.io
 0.0.0.0 babator.com
 0.0.0.0 bablace.com
@@ -1958,7 +1961,6 @@
 0.0.0.0 bc.marfeelcache.com
 0.0.0.0 bc.qunar.com
 0.0.0.0 bc.semwerkt.nl
-0.0.0.0 bc0a.com
 0.0.0.0 bcanl.bca-autoveiling.nl
 0.0.0.0 bcc-ltd.actonservice.com
 0.0.0.0 bcdllh.esprit.co.uk
@@ -2102,6 +2104,7 @@
 0.0.0.0 bizo.com
 0.0.0.0 bizsolutions.strands.com
 0.0.0.0 bizspring.net
+0.0.0.0 bj5gprgxq6y7.franchiseplus.nl
 0.0.0.0 bjcathay.com
 0.0.0.0 bkrtx.com
 0.0.0.0 bkvtrack.com
@@ -2834,6 +2837,8 @@
 0.0.0.0 coll1onf.com
 0.0.0.0 coll2onf.com
 0.0.0.0 collarity.com
+0.0.0.0 collect-ap2.attraqt.io
+0.0.0.0 collect-eu.attraqt.io
 0.0.0.0 collect.alipay.com
 0.0.0.0 collect.allianz.ch
 0.0.0.0 collect.allianzcinema.ch
@@ -4689,6 +4694,7 @@
 0.0.0.0 exelator.com
 0.0.0.0 exitbee.com
 0.0.0.0 exitmonitor.com
+0.0.0.0 exorigos.com
 0.0.0.0 exovueplatform.com
 0.0.0.0 experianmarketingservices.digital
 0.0.0.0 experianmatch.info
@@ -4984,6 +4990,7 @@
 0.0.0.0 freshplum.com
 0.0.0.0 fresnel-events.vimeocdn.com
 0.0.0.0 friendbuy.com
+0.0.0.0 friendly-community.tk
 0.0.0.0 frog.wix.com
 0.0.0.0 froglytics.eventfrog.ch
 0.0.0.0 frosmo.com
@@ -5124,6 +5131,7 @@
 0.0.0.0 gaug.es
 0.0.0.0 gay-hotvideo.net
 0.0.0.0 gaz-electricitezomation.carte-gr.total.fr
+0.0.0.0 gbg22hfdkdip.www.logology.co
 0.0.0.0 gbotvisit.com
 0.0.0.0 gbtracking.finning.com
 0.0.0.0 gc.newsweek.com
@@ -5398,6 +5406,7 @@
 0.0.0.0 growthrx.in
 0.0.0.0 grtmpr.vertbaudet.fr
 0.0.0.0 grumrt.com
+0.0.0.0 grxkwphx0yk5.stoic.ai
 0.0.0.0 gsasolutionssecure.gsa.gov
 0.0.0.0 gsecondscreen.com
 0.0.0.0 gsimedia.net
@@ -5443,6 +5452,7 @@
 0.0.0.0 h.seznam.cz
 0.0.0.0 h00c.sfr.fr
 0.0.0.0 h4k5.com
+0.0.0.0 h5nmx7qrncrp.mailfloss.com
 0.0.0.0 hal.courrierinternational.com
 0.0.0.0 halldata.com
 0.0.0.0 haloscan.com
@@ -5687,7 +5697,6 @@
 0.0.0.0 i.justblinds.com
 0.0.0.0 i.pokernews.com
 0.0.0.0 i.viafoura.co
-0.0.0.0 i0gx8avj0e5r.www.cybernetman.com
 0.0.0.0 i218435.net
 0.0.0.0 i22lo.com
 0.0.0.0 i2ad.jp
@@ -6570,6 +6579,7 @@
 0.0.0.0 learn.uwindsor.ca
 0.0.0.0 learn.wow.wowforbusiness.com
 0.0.0.0 ledhenone.com
+0.0.0.0 leftliquid.com
 0.0.0.0 legenhit.com
 0.0.0.0 legolas-media.com
 0.0.0.0 leiki.com
@@ -8240,6 +8250,7 @@
 0.0.0.0 metrics.petinsurance.com
 0.0.0.0 metrics.petsmart.com
 0.0.0.0 metrics.philly.com
+0.0.0.0 metrics.pico.tools
 0.0.0.0 metrics.pinkribbonbottle.com
 0.0.0.0 metrics.plusrewards.com.au
 0.0.0.0 metrics.politico.com
@@ -8728,6 +8739,7 @@
 0.0.0.0 mzhuzu.ycmc.com
 0.0.0.0 n-analytics.io
 0.0.0.0 n.mailfire.io
+0.0.0.0 n0909.com
 0.0.0.0 n26-trusted.n26.com
 0.0.0.0 n74s9.com
 0.0.0.0 naayna.com
@@ -9185,6 +9197,7 @@
 0.0.0.0 onthe.io
 0.0.0.0 ontxgr.hofer-reisen.at
 0.0.0.0 oor.ooreka.fr
+0.0.0.0 ooyk93cxdqv8.www.usa-corporate.com
 0.0.0.0 op-drive-sto.carrefour.fr
 0.0.0.0 opbandit.com
 0.0.0.0 open.delivery.net
@@ -9320,7 +9333,6 @@
 0.0.0.0 p2poolmining.com
 0.0.0.0 p2r14.com
 0.0.0.0 p30rank.ir
-0.0.0.0 p7qebe2odmlm.franchiseplus.nl
 0.0.0.0 p9jhxqlkmn.miniso.com.gr
 0.0.0.0 pa-oa.com
 0.0.0.0 pa-stats.encore.dev
@@ -10025,6 +10037,7 @@
 0.0.0.0 r.mail.ru
 0.0.0.0 r.my.com
 0.0.0.0 r.sax.sina.com.cn
+0.0.0.0 r.skimresources.com
 0.0.0.0 r1ztni.oui.sncf
 0.0.0.0 r24-tech.com
 0.0.0.0 r2b2.io
@@ -11189,6 +11202,7 @@
 0.0.0.0 shoelace.com
 0.0.0.0 shop.iwantclips.com
 0.0.0.0 shopimind.com
+0.0.0.0 shoplytics.com
 0.0.0.0 shopmetric.rediff.com
 0.0.0.0 shopnetic.com
 0.0.0.0 shopperapproved.com
@@ -12688,7 +12702,6 @@
 0.0.0.0 spmaeu.gumtree.com.au
 0.0.0.0 spn.ee
 0.0.0.0 spock.dom.codes
-0.0.0.0 spolecznosci.net
 0.0.0.0 sponsorcounter.de
 0.0.0.0 sponsored.com
 0.0.0.0 spookysleet.com
@@ -12883,6 +12896,7 @@
 0.0.0.0 stackadapt.com
 0.0.0.0 stadig.ifeng.com
 0.0.0.0 stadsvc.com
+0.0.0.0 stakingsmile.com
 0.0.0.0 staleshow.com
 0.0.0.0 stalesummer.com
 0.0.0.0 stan.xing.com
@@ -12948,6 +12962,7 @@
 0.0.0.0 stat.laley.es
 0.0.0.0 stat.laleynext.es
 0.0.0.0 stat.lex.pl
+0.0.0.0 stat.livesportbar.net
 0.0.0.0 stat.matichon.co.th
 0.0.0.0 stat.media
 0.0.0.0 stat.mixi.media
@@ -13186,6 +13201,7 @@
 0.0.0.0 stats.gslc.utah.edu
 0.0.0.0 stats.guersanguillaume.com
 0.0.0.0 stats.handyvertrag.de
+0.0.0.0 stats.hd24.watch
 0.0.0.0 stats.hex.pm
 0.0.0.0 stats.hexdocs.pm
 0.0.0.0 stats.hey.com
@@ -13801,6 +13817,7 @@
 0.0.0.0 t.sgc.io
 0.0.0.0 t.sharethis.com
 0.0.0.0 t.signalayer.com
+0.0.0.0 t.skimresources.com
 0.0.0.0 t.smile.eu
 0.0.0.0 t.spot.im
 0.0.0.0 t.strokeawareness.com
@@ -13823,6 +13840,7 @@
 0.0.0.0 taduhy.timberland.co.uk
 0.0.0.0 tag-manager.playbuzz.com
 0.0.0.0 tag.aticdn.net
+0.0.0.0 tag.atom.gamedistribution.com
 0.0.0.0 tag.aumago.com
 0.0.0.0 tag.boulanger.fr
 0.0.0.0 tag.brandcdn.com
@@ -15086,6 +15104,7 @@
 0.0.0.0 trx3.famousfix.com
 0.0.0.0 try.abtasty.com
 0.0.0.0 trysera.com
+0.0.0.0 tryzens-analytics.com
 0.0.0.0 ts.delfi.lt
 0.0.0.0 ts.popsugar.com
 0.0.0.0 ts.tradetracker.net
@@ -15340,6 +15359,7 @@
 0.0.0.0 vidstat.taboola.com
 0.0.0.0 viewar.org
 0.0.0.0 views.cancan.ro
+0.0.0.0 views.romaniatv.net
 0.0.0.0 vihtori-analytics.fi
 0.0.0.0 vilynx.com
 0.0.0.0 vinlens.com
@@ -15440,7 +15460,6 @@
 0.0.0.0 vybbem.womanhit.ru
 0.0.0.0 vyplzy.job-medley.com
 0.0.0.0 vzeyba.shopee.co.id
-0.0.0.0 vzpe9y8ru2e0.www.logology.co
 0.0.0.0 vzrhxp.mavi.com
 0.0.0.0 w3.flatex.at
 0.0.0.0 w3.flatex.de
