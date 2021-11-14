@@ -1,11 +1,11 @@
-# Version: 202111062355
+# Version: 202111132204
 # Title: EasyPrivacy
-# Last modified: 06 Nov 2021 23:55 UTC
+# Last modified: 13 Nov 2021 22:04 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
 
-0.0.0.0 042qge73l5aw.app.polymersearch.com
+0.0.0.0 0c0l6l9v72hq.mailfloss.com
 0.0.0.0 0emm.com
 0.0.0.0 0sbm.consobaby.co.uk
 0.0.0.0 0stats.com
@@ -43,6 +43,7 @@
 0.0.0.0 1ctc.sfr.fr
 0.0.0.0 1dmp.io
 0.0.0.0 1freecounter.com
+0.0.0.0 1iy4gu0lpkp.my.gloryleague.basketball
 0.0.0.0 1kpv4njzilv.community.intersystems.com
 0.0.0.0 1l-hit.mail.ru
 0.0.0.0 1pel.com
@@ -94,9 +95,9 @@
 0.0.0.0 404tracker.com
 0.0.0.0 40nuggets.com
 0.0.0.0 45.32.105.134
-0.0.0.0 4ntug5jhu0t8.furucombo.app
 0.0.0.0 4oney.com
 0.0.0.0 4stats.de
+0.0.0.0 4tiz3b7uvzv5.app.polymersearch.com
 0.0.0.0 50bang.org
 0.0.0.0 51network.com
 0.0.0.0 51yes.com
@@ -104,6 +105,7 @@
 0.0.0.0 55labs.com
 0.0.0.0 5fm.985fm.ca
 0.0.0.0 5ijo.01net.com
+0.0.0.0 5jr6laiorl0y.www.chandlerorchards.com
 0.0.0.0 64.225.81.20
 0.0.0.0 6519114.automated.tajawal.com
 0.0.0.0 6519114.email.tajawal.com
@@ -118,6 +120,7 @@
 0.0.0.0 720-trail.co.uk
 0.0.0.0 77.162.125.199
 0.0.0.0 7701534.emails.tntdrama.com
+0.0.0.0 77mxl6z40n3u.www.cybernetman.com
 0.0.0.0 77tracking.com
 0.0.0.0 78.46.19.203
 0.0.0.0 7bpeople.com
@@ -133,9 +136,10 @@
 0.0.0.0 8147563.1954.bk.com
 0.0.0.0 8147563.thekingdom.bk.com
 0.0.0.0 8147563.your-way.bk.com
+0.0.0.0 88bs5dlqb6m5.npm-explorer.tk
 0.0.0.0 8ezc.sfr.fr
-0.0.0.0 8n8rarw7yjvy.www.cybernetman.com
 0.0.0.0 8p0kiyq5mq1d.flex.team
+0.0.0.0 8rqwuq2dtrki.www.botcomics.com
 0.0.0.0 9735476.sender.skyscanner.com
 0.0.0.0 9735476.sender.skyscanner.net
 0.0.0.0 9735476.test.skyscanner.net
@@ -1311,6 +1315,7 @@
 0.0.0.0 analytic.xingcloud.com
 0.0.0.0 analytic20.detik.com
 0.0.0.0 analyticcdn.globalmailer.com
+0.0.0.0 analytics-1.cavai.com
 0.0.0.0 analytics-api.dvdfab.cn
 0.0.0.0 analytics-api.samsunghealthcn.com
 0.0.0.0 analytics-cdiscount.com
@@ -1588,6 +1593,7 @@
 0.0.0.0 angsrvr.com
 0.0.0.0 announcement.ru
 0.0.0.0 annoyedairport.com
+0.0.0.0 annoyingacoustics.com
 0.0.0.0 annwwu.guitarcenter.com
 0.0.0.0 anon-stats.eff.org
 0.0.0.0 anormal-tracker.de
@@ -2104,7 +2110,6 @@
 0.0.0.0 bizo.com
 0.0.0.0 bizsolutions.strands.com
 0.0.0.0 bizspring.net
-0.0.0.0 bj5gprgxq6y7.franchiseplus.nl
 0.0.0.0 bjcathay.com
 0.0.0.0 bkrtx.com
 0.0.0.0 bkvtrack.com
@@ -2342,7 +2347,6 @@
 0.0.0.0 c4contexture.actonservice.com
 0.0.0.0 c4dv.copinesdevoyage.com
 0.0.0.0 c4tracking01.com
-0.0.0.0 c5ai4b502b.www.chandlerorchards.com
 0.0.0.0 ca.creditacceptance.com
 0.0.0.0 ca.mattamyhomes.com
 0.0.0.0 caanalytics.com
@@ -2863,6 +2867,7 @@
 0.0.0.0 collector.getyourguide.com
 0.0.0.0 collector.githubapp.com
 0.0.0.0 collector.mazeberry.com
+0.0.0.0 collector.megaxh.com
 0.0.0.0 collector.ozeex.com
 0.0.0.0 collector.pi.spectrum.net
 0.0.0.0 collector.prod.expedia.com
@@ -2995,6 +3000,7 @@
 0.0.0.0 consciouschairs.com
 0.0.0.0 consciouscheese.com
 0.0.0.0 consciousdirt.com
+0.0.0.0 console-telemetry.oci.oraclecloud.com
 0.0.0.0 construsoft.actonservice.com
 0.0.0.0 consult.americanexpress.com
 0.0.0.0 consulting.guidehouse.com
@@ -3083,6 +3089,7 @@
 0.0.0.0 cookie.cynch.com
 0.0.0.0 cookie.sync.usonar.jp
 0.0.0.0 cookiejar.atea.no
+0.0.0.0 cookieless-data.com
 0.0.0.0 cookies.engage.russellinvestments.com
 0.0.0.0 cookies.livepartners.com
 0.0.0.0 cookies.reedbusiness.nl
@@ -3677,6 +3684,7 @@
 0.0.0.0 dejavu.mlapps.com
 0.0.0.0 delegatediscussion.com
 0.0.0.0 delidatax.net
+0.0.0.0 delightful-development.ml
 0.0.0.0 deliv.lexpress.fr
 0.0.0.0 deliver.ptgncdn.com
 0.0.0.0 delivery.hunterycity.com
@@ -3834,6 +3842,7 @@
 0.0.0.0 discovertrail.net
 0.0.0.0 discreetfield.com
 0.0.0.0 dispatchunique.com
+0.0.0.0 dispatchvegasplus.com
 0.0.0.0 display.studio
 0.0.0.0 displaymarketplace.com
 0.0.0.0 distillery.wistia.com
@@ -3903,6 +3912,7 @@
 0.0.0.0 dojomojo.com
 0.0.0.0 dojomojo.ninja
 0.0.0.0 dollardelta.com
+0.0.0.0 dolphin.deliver.ifeng.com
 0.0.0.0 dominocounter.net
 0.0.0.0 domodomain.com
 0.0.0.0 dongesion.carte-gr.total.fr
@@ -3983,7 +3993,6 @@
 0.0.0.0 dynatracesaas.com
 0.0.0.0 dyntrk.com
 0.0.0.0 dyv1bugovvq1g.cloudfront.net
-0.0.0.0 dz0969r6p006.www.botcomics.com
 0.0.0.0 dzbrr144kh0m6.cloudfront.net
 0.0.0.0 e-click.jp
 0.0.0.0 e-contenta.com
@@ -4202,6 +4211,7 @@
 0.0.0.0 ekg.riotgames.com
 0.0.0.0 ekmpinpoint.co.uk
 0.0.0.0 ekmpinpoint.com
+0.0.0.0 ekpnog9km4am.www.word.com.au
 0.0.0.0 ela-3-tnk.com
 0.0.0.0 elastx.net
 0.0.0.0 elc1.energies.leclerc
@@ -4510,6 +4520,7 @@
 0.0.0.0 eresmas.net
 0.0.0.0 erotikcounter.org
 0.0.0.0 erp.qwic.nl
+0.0.0.0 err.ifengcloud.ifeng.com
 0.0.0.0 error-collector.ted.com
 0.0.0.0 error.fc2.com
 0.0.0.0 error.videonow.ru
@@ -4991,6 +5002,7 @@
 0.0.0.0 fresnel-events.vimeocdn.com
 0.0.0.0 friendbuy.com
 0.0.0.0 friendly-community.tk
+0.0.0.0 friendwool.com
 0.0.0.0 frog.wix.com
 0.0.0.0 froglytics.eventfrog.ch
 0.0.0.0 frosmo.com
@@ -5131,7 +5143,6 @@
 0.0.0.0 gaug.es
 0.0.0.0 gay-hotvideo.net
 0.0.0.0 gaz-electricitezomation.carte-gr.total.fr
-0.0.0.0 gbg22hfdkdip.www.logology.co
 0.0.0.0 gbotvisit.com
 0.0.0.0 gbtracking.finning.com
 0.0.0.0 gc.newsweek.com
@@ -5452,7 +5463,6 @@
 0.0.0.0 h.seznam.cz
 0.0.0.0 h00c.sfr.fr
 0.0.0.0 h4k5.com
-0.0.0.0 h5nmx7qrncrp.mailfloss.com
 0.0.0.0 hal.courrierinternational.com
 0.0.0.0 halldata.com
 0.0.0.0 haloscan.com
@@ -5494,6 +5504,7 @@
 0.0.0.0 he6e.lavieimmo.com
 0.0.0.0 healte.de
 0.0.0.0 health.interamerican.gr
+0.0.0.0 heap.drop.com
 0.0.0.0 heapanalytics.com
 0.0.0.0 hearthorn.com
 0.0.0.0 heatmap.it
@@ -6764,6 +6775,7 @@
 0.0.0.0 linkxchanger.com
 0.0.0.0 lio8.destinia.com.pa
 0.0.0.0 liosix.mtvuutiset.fi
+0.0.0.0 lis39l95rq1s.furucombo.app
 0.0.0.0 listrakbi.com
 0.0.0.0 listtop.ru
 0.0.0.0 literally-analytics.appspot.com
@@ -6967,6 +6979,7 @@
 0.0.0.0 lravwm.spa.cz
 0.0.0.0 lrgermany.wolterskluwer.com
 0.0.0.0 lritaly.wolterskluwer.com
+0.0.0.0 lrkd5qph0yt6.franchiseplus.nl
 0.0.0.0 lrpoland.wolterskluwer.com
 0.0.0.0 ls.cartecarburant.leclerc
 0.0.0.0 ls.e-cartecadeauleclerc.fr
@@ -8483,7 +8496,6 @@
 0.0.0.0 microcounter.de
 0.0.0.0 microlearning.att.com
 0.0.0.0 midas-i.com
-0.0.0.0 midas-network.com
 0.0.0.0 mieru-ca.com
 0.0.0.0 migrati.xyz
 0.0.0.0 millioncounter.com
@@ -8755,7 +8767,6 @@
 0.0.0.0 nanostats.nanopress.it
 0.0.0.0 nanovisor.io
 0.0.0.0 nappyattack.com
-0.0.0.0 narrativ.com
 0.0.0.0 natero.com
 0.0.0.0 nathetsof.com
 0.0.0.0 native.ai
@@ -9030,7 +9041,6 @@
 0.0.0.0 oimg.nbcuni.com
 0.0.0.0 ojm4.palladiumhotelgroup.com
 0.0.0.0 ojrq.net
-0.0.0.0 ok2691lw4w3g.www.word.com.au
 0.0.0.0 oklewp.bekker.kz
 0.0.0.0 okt.to
 0.0.0.0 oktagv.immobilienscout24.at
@@ -9901,6 +9911,7 @@
 0.0.0.0 pubstack.io
 0.0.0.0 pubstr.acs.org
 0.0.0.0 pubstr.acspubs.org
+0.0.0.0 pubtm.com
 0.0.0.0 pubxtag1.com
 0.0.0.0 pudalz.gismeteo.by
 0.0.0.0 puffyloss.com
@@ -10102,6 +10113,7 @@
 0.0.0.0 rdstation.com.br
 0.0.0.0 rdtcnt.laredoute.fr
 0.0.0.0 rdtdlv.laredoute.fr
+0.0.0.0 reach-id.orbit.tm-awx.com
 0.0.0.0 reach.ironmountain.com
 0.0.0.0 reach.terumo-bct.com
 0.0.0.0 reachandrich.antevenio.com
@@ -10340,6 +10352,7 @@
 0.0.0.0 rpbunq.salonydenon.pl
 0.0.0.0 rpdtrk.com
 0.0.0.0 rpfkgf.volksfreund.de
+0.0.0.0 rps-p2.rockpapershotgun.com
 0.0.0.0 rps-uk.rockpapershotgun.com
 0.0.0.0 rpt.kidsfootlocker.com
 0.0.0.0 rqbdyk.evo.com
@@ -15147,7 +15160,6 @@
 0.0.0.0 u47.pnc.com
 0.0.0.0 u5c93.com
 0.0.0.0 u5e.com
-0.0.0.0 u7eij7sroji7.fjlaboratories.com
 0.0.0.0 u989.theweek.com
 0.0.0.0 ua.indianexpress.com
 0.0.0.0 uadx.com
@@ -15174,7 +15186,6 @@
 0.0.0.0 ugdturner.com
 0.0.0.0 ugmarketing.smu.edu.sg
 0.0.0.0 uhytajrtpo-a.akamaihd.net
-0.0.0.0 uid.mavencoalition.io
 0.0.0.0 uie.data.cbc.ca
 0.0.0.0 uifesg.modulor.de
 0.0.0.0 uim.tifbs.net
@@ -16120,6 +16131,7 @@
 0.0.0.0 www91.intel.la
 0.0.0.0 www91.intel.pl
 0.0.0.0 www91.intel.ru
+0.0.0.0 wy886nacmkg2.fjlaboratories.com
 0.0.0.0 wyaopp.lacoccinelle.net
 0.0.0.0 wyelmp.vidaxl.si
 0.0.0.0 wyorba.cepo-netshop.jp
@@ -16355,6 +16367,7 @@
 0.0.0.0 zum7cc.oui.sncf
 0.0.0.0 zuyapixel.com
 0.0.0.0 zuzab.com
+0.0.0.0 zv7sm29ebr0i.www.logology.co
 0.0.0.0 zvsuhljiha-a.akamaihd.net
 0.0.0.0 zwatgf.megaknihy.cz
 0.0.0.0 zwtiif.veillon.ch
