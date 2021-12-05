@@ -1,6 +1,6 @@
-# Version: 202111271627
+# Version: 202112050016
 # Title: EasyPrivacy
-# Last modified: 27 Nov 2021 16:27 UTC
+# Last modified: 05 Dec 2021 00:16 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -2039,6 +2039,7 @@ beacon.nrholding.net
 beacon.qq.com
 beacon.riskified.com
 beacon.rum.dynapis.com
+beacon.samsclub.com
 beacon.searchspring.io
 beacon.securestudies.com
 beacon.shazam.com
@@ -3010,6 +3011,7 @@ collector.statowl.com
 collector.xhamster.com
 collector.xhamster.desi
 collector.xhamster2.com
+collector2c.zhihuishu.com
 college.business.oregonstate.edu
 collserve.com
 colorfulafterthought.com
@@ -4853,6 +4855,7 @@ eurocounter.com
 eurogamer-it.eurogamer.it
 eurogamer-pl.eurogamer.pl
 eurogamer-pt.eurogamer.pt
+eurogamer-uk.eurogamer.net
 europagerank.com
 europuls.eu
 europuls.net
@@ -5171,6 +5174,7 @@ flyingpt.com
 flyspy.co
 flznib.weblio.jp
 fn-pz.com
+fndrsp.net
 fnlvhy.wowma.jp
 foamyfood.com
 fog.pixual.co
@@ -5382,7 +5386,15 @@ g.siliconweek.es
 g.vev.io
 g.whatsapp.net.iberostar.com
 g.yccdn.com
+g11686975765.co
+g1188506010.co
+g11885060100.co
+g12083144435.co
+g12281228770.co
+g12479313105.co
 g1584674682.co
+g1782759016.co
+g1980843350.co
 g1be.swisslife-direct.fr
 g1thub.com
 g2178927685.co
@@ -5392,9 +5404,12 @@ g2773180690.co
 g2insights-cdn.azureedge.net
 g4p.redtram.com
 g792337340.co
+g792337342.co
+g792337343.co
 g8715710740.co
 g8913795075.co
 g9111879410.co
+g990421676.co
 ga-analytics.com
 ga-beacon.appspot.com
 ga.kvideo.io
@@ -5418,6 +5433,7 @@ gaug.es
 gay-hotvideo.net
 gaz-electricitezomation.carte-gr.total.fr
 gbotvisit.com
+gbqofs.com
 gbtracking.finning.com
 gc.newsweek.com
 gc.zgo.at
@@ -5554,6 +5570,7 @@ globalwebindex.net
 globase.com
 globel.co.uk
 globetrackr.com
+glookup.info
 gloriousbeef.com
 gloriouscracker.com
 glossysense.com
@@ -6153,6 +6170,7 @@ impossibleglue.com
 impossiblemove.com
 impress.vcita.com
 impression.link
+improving.wuzhuiso.com
 imprvdosrv.com
 impulsehands.com
 impulsejewel.com
@@ -6162,6 +6180,7 @@ imrworldwide.com
 imtwjwoasak.com
 in.secure.sonosite.com
 inaudium.com
+inbound-analytics.pixlee.co
 inboxtag.com
 incentivesnetwork.net
 incompetentjoke.com
@@ -6508,6 +6527,7 @@ iotechnologies.com
 iovation.com
 ip-api.com
 ip-label.net
+ip-tracker.org
 ip.cliphunter.com
 ip.pichunter.com
 ip2c.landscape.co.jp
@@ -6603,6 +6623,7 @@ izooto.com
 j.bg.adresult-sp.jp
 j.image-ad.jp
 j1.ax.xrea.com
+j927.statnews.com
 j93557g.com
 jadedjoke.com
 jadeitite.com
@@ -7217,6 +7238,7 @@ log.m.sm.cn
 log.mappy.net
 log.mediacategory.com
 log.medietall.no
+log.mgtv.com
 log.nordot.jp
 log.olark.com
 log.optimizely.com
@@ -8169,6 +8191,7 @@ metrics.beatsbydre.com
 metrics.bestrecipes.com.au
 metrics.bet.com
 metrics.beveragedaily.com
+metrics.beyondwords.io
 metrics.biaxin.com
 metrics.bighospitality.co.uk
 metrics.billmelater.com
@@ -11038,6 +11061,7 @@ s7ven.com
 sa.api.intl.miui.com
 sa.eurosport.com
 sa.flux.community
+sa.scorpion.co
 sa.sky.it
 sa.tactics.com
 saa.247sports.com
@@ -14258,6 +14282,7 @@ suddensidewalk.com
 suddensnake.com
 suddensoda.com
 suddenstructure.com
+sugar.zhihu.com
 sugarcurtain.com
 sugodeku.com
 sugs.m.sm.cn
@@ -14794,6 +14819,7 @@ thirstytwig.com
 thisisacoolthing.com
 thomastorch.com
 thor.pureelectric.se
+thoughtmetric.io
 thqjrh.elly.vn
 threat-analytics.com
 threatbook.cn
@@ -16058,6 +16084,7 @@ v.emedia.cn
 v.oui.sncf
 v.shopify.com
 v12group.com
+v1sts.me
 v3cdn.net
 va-endpoint.com
 valuedopinions.co.uk
@@ -17182,7 +17209,7 @@ zz.bdstatic.com
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2021-11-28 00:37:00.548253
+# Generated at 2021-12-05 00:39:25.535652
 
 databerries.com
 fidzup

@@ -1,6 +1,6 @@
-# Version: 202111271627
+# Version: 202112050016
 # Title: EasyPrivacy
-# Last modified: 27 Nov 2021 16:27 UTC
+# Last modified: 05 Dec 2021 00:16 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -2054,6 +2054,7 @@
 0.0.0.0 beacon.qq.com
 0.0.0.0 beacon.riskified.com
 0.0.0.0 beacon.rum.dynapis.com
+0.0.0.0 beacon.samsclub.com
 0.0.0.0 beacon.searchspring.io
 0.0.0.0 beacon.securestudies.com
 0.0.0.0 beacon.shazam.com
@@ -3025,6 +3026,7 @@
 0.0.0.0 collector.xhamster.com
 0.0.0.0 collector.xhamster.desi
 0.0.0.0 collector.xhamster2.com
+0.0.0.0 collector2c.zhihuishu.com
 0.0.0.0 college.business.oregonstate.edu
 0.0.0.0 collserve.com
 0.0.0.0 colorfulafterthought.com
@@ -4868,6 +4870,7 @@
 0.0.0.0 eurogamer-it.eurogamer.it
 0.0.0.0 eurogamer-pl.eurogamer.pl
 0.0.0.0 eurogamer-pt.eurogamer.pt
+0.0.0.0 eurogamer-uk.eurogamer.net
 0.0.0.0 europagerank.com
 0.0.0.0 europuls.eu
 0.0.0.0 europuls.net
@@ -5186,6 +5189,7 @@
 0.0.0.0 flyspy.co
 0.0.0.0 flznib.weblio.jp
 0.0.0.0 fn-pz.com
+0.0.0.0 fndrsp.net
 0.0.0.0 fnlvhy.wowma.jp
 0.0.0.0 foamyfood.com
 0.0.0.0 fog.pixual.co
@@ -5397,7 +5401,15 @@
 0.0.0.0 g.vev.io
 0.0.0.0 g.whatsapp.net.iberostar.com
 0.0.0.0 g.yccdn.com
+0.0.0.0 g11686975765.co
+0.0.0.0 g1188506010.co
+0.0.0.0 g11885060100.co
+0.0.0.0 g12083144435.co
+0.0.0.0 g12281228770.co
+0.0.0.0 g12479313105.co
 0.0.0.0 g1584674682.co
+0.0.0.0 g1782759016.co
+0.0.0.0 g1980843350.co
 0.0.0.0 g1be.swisslife-direct.fr
 0.0.0.0 g1thub.com
 0.0.0.0 g2178927685.co
@@ -5407,9 +5419,12 @@
 0.0.0.0 g2insights-cdn.azureedge.net
 0.0.0.0 g4p.redtram.com
 0.0.0.0 g792337340.co
+0.0.0.0 g792337342.co
+0.0.0.0 g792337343.co
 0.0.0.0 g8715710740.co
 0.0.0.0 g8913795075.co
 0.0.0.0 g9111879410.co
+0.0.0.0 g990421676.co
 0.0.0.0 ga-analytics.com
 0.0.0.0 ga-beacon.appspot.com
 0.0.0.0 ga.kvideo.io
@@ -5433,6 +5448,7 @@
 0.0.0.0 gay-hotvideo.net
 0.0.0.0 gaz-electricitezomation.carte-gr.total.fr
 0.0.0.0 gbotvisit.com
+0.0.0.0 gbqofs.com
 0.0.0.0 gbtracking.finning.com
 0.0.0.0 gc.newsweek.com
 0.0.0.0 gc.zgo.at
@@ -5569,6 +5585,7 @@
 0.0.0.0 globase.com
 0.0.0.0 globel.co.uk
 0.0.0.0 globetrackr.com
+0.0.0.0 glookup.info
 0.0.0.0 gloriousbeef.com
 0.0.0.0 gloriouscracker.com
 0.0.0.0 glossysense.com
@@ -6168,6 +6185,7 @@
 0.0.0.0 impossiblemove.com
 0.0.0.0 impress.vcita.com
 0.0.0.0 impression.link
+0.0.0.0 improving.wuzhuiso.com
 0.0.0.0 imprvdosrv.com
 0.0.0.0 impulsehands.com
 0.0.0.0 impulsejewel.com
@@ -6177,6 +6195,7 @@
 0.0.0.0 imtwjwoasak.com
 0.0.0.0 in.secure.sonosite.com
 0.0.0.0 inaudium.com
+0.0.0.0 inbound-analytics.pixlee.co
 0.0.0.0 inboxtag.com
 0.0.0.0 incentivesnetwork.net
 0.0.0.0 incompetentjoke.com
@@ -6523,6 +6542,7 @@
 0.0.0.0 iovation.com
 0.0.0.0 ip-api.com
 0.0.0.0 ip-label.net
+0.0.0.0 ip-tracker.org
 0.0.0.0 ip.cliphunter.com
 0.0.0.0 ip.pichunter.com
 0.0.0.0 ip2c.landscape.co.jp
@@ -6618,6 +6638,7 @@
 0.0.0.0 j.bg.adresult-sp.jp
 0.0.0.0 j.image-ad.jp
 0.0.0.0 j1.ax.xrea.com
+0.0.0.0 j927.statnews.com
 0.0.0.0 j93557g.com
 0.0.0.0 jadedjoke.com
 0.0.0.0 jadeitite.com
@@ -7232,6 +7253,7 @@
 0.0.0.0 log.mappy.net
 0.0.0.0 log.mediacategory.com
 0.0.0.0 log.medietall.no
+0.0.0.0 log.mgtv.com
 0.0.0.0 log.nordot.jp
 0.0.0.0 log.olark.com
 0.0.0.0 log.optimizely.com
@@ -8184,6 +8206,7 @@
 0.0.0.0 metrics.bestrecipes.com.au
 0.0.0.0 metrics.bet.com
 0.0.0.0 metrics.beveragedaily.com
+0.0.0.0 metrics.beyondwords.io
 0.0.0.0 metrics.biaxin.com
 0.0.0.0 metrics.bighospitality.co.uk
 0.0.0.0 metrics.billmelater.com
@@ -11053,6 +11076,7 @@
 0.0.0.0 sa.api.intl.miui.com
 0.0.0.0 sa.eurosport.com
 0.0.0.0 sa.flux.community
+0.0.0.0 sa.scorpion.co
 0.0.0.0 sa.sky.it
 0.0.0.0 sa.tactics.com
 0.0.0.0 saa.247sports.com
@@ -14273,6 +14297,7 @@
 0.0.0.0 suddensnake.com
 0.0.0.0 suddensoda.com
 0.0.0.0 suddenstructure.com
+0.0.0.0 sugar.zhihu.com
 0.0.0.0 sugarcurtain.com
 0.0.0.0 sugodeku.com
 0.0.0.0 sugs.m.sm.cn
@@ -14809,6 +14834,7 @@
 0.0.0.0 thisisacoolthing.com
 0.0.0.0 thomastorch.com
 0.0.0.0 thor.pureelectric.se
+0.0.0.0 thoughtmetric.io
 0.0.0.0 thqjrh.elly.vn
 0.0.0.0 threat-analytics.com
 0.0.0.0 threatbook.cn
@@ -16073,6 +16099,7 @@
 0.0.0.0 v.oui.sncf
 0.0.0.0 v.shopify.com
 0.0.0.0 v12group.com
+0.0.0.0 v1sts.me
 0.0.0.0 v3cdn.net
 0.0.0.0 va-endpoint.com
 0.0.0.0 valuedopinions.co.uk
@@ -17197,7 +17224,7 @@
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2021-11-28 00:37:01.578309
+# Generated at 2021-12-05 00:39:26.313903
 
 0.0.0.0 databerries.com
 0.0.0.0 fidzup
