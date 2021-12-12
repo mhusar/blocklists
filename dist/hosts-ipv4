@@ -1,11 +1,10 @@
-# Version: 202112050016
+# Version: 202112120010
 # Title: EasyPrivacy
-# Last modified: 05 Dec 2021 00:16 UTC
+# Last modified: 12 Dec 2021 00:10 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
 
-0.0.0.0 0c0l6l9v72hq.mailfloss.com
 0.0.0.0 0emm.com
 0.0.0.0 0sbm.consobaby.co.uk
 0.0.0.0 0stats.com
@@ -116,6 +115,7 @@
 0.0.0.0 6519114.loyalty.tajawal.com
 0.0.0.0 6519114.mktg.almosafer.com
 0.0.0.0 6519114.mktg.tajawal.com
+0.0.0.0 6d5a81guuve4.anydebrid.com
 0.0.0.0 6ldu6qa.com
 0.0.0.0 6pal.consobaby.com
 0.0.0.0 6sc.co
@@ -126,6 +126,7 @@
 0.0.0.0 77mxl6z40n3u.www.cybernetman.com
 0.0.0.0 77tracking.com
 0.0.0.0 78.46.19.203
+0.0.0.0 7bmfgesnryrc.stoic.ai
 0.0.0.0 7bpeople.com
 0.0.0.0 7eer.net
 0.0.0.0 7lbd4.armandthiery.fr
@@ -2947,6 +2948,7 @@
 0.0.0.0 cnt.nuvid.com
 0.0.0.0 cnt.rambler.ru
 0.0.0.0 cnt.rate.ru
+0.0.0.0 cnt.viptube.com
 0.0.0.0 cnt.vivatube.com
 0.0.0.0 cnt1.net
 0.0.0.0 cnt2.stroeerdp.de
@@ -3038,6 +3040,7 @@
 0.0.0.0 com.econa.com
 0.0.0.0 com.gardio.se
 0.0.0.0 combativedetail.com
+0.0.0.0 combbelief.com
 0.0.0.0 combbit.com
 0.0.0.0 combclover.com
 0.0.0.0 comfortablecheese.com
@@ -3836,6 +3839,7 @@
 0.0.0.0 dcs.felissimo.co.jp
 0.0.0.0 dcs.plussizetech.com
 0.0.0.0 dcs.reiseversicherung.de
+0.0.0.0 dd.auspost.com.au
 0.0.0.0 dd.lendup.com
 0.0.0.0 dd6zx4ibq538k.cloudfront.net
 0.0.0.0 ddm.io
@@ -4029,6 +4033,7 @@
 0.0.0.0 dikhsb.vividseats.com
 0.0.0.0 dimestore.com
 0.0.0.0 dimml.io
+0.0.0.0 din1j0su0u99.artwallstreet.io
 0.0.0.0 diplomahawaii.com
 0.0.0.0 dircont3.com
 0.0.0.0 direct-events-collector.spot.im
@@ -4450,7 +4455,6 @@
 0.0.0.0 ekg.riotgames.com
 0.0.0.0 ekmpinpoint.co.uk
 0.0.0.0 ekmpinpoint.com
-0.0.0.0 ekpnog9km4am.www.word.com.au
 0.0.0.0 ela-3-tnk.com
 0.0.0.0 elasticchange.com
 0.0.0.0 elastx.net
@@ -5019,6 +5023,7 @@
 0.0.0.0 f-log-test.grammarly.io
 0.0.0.0 f0nn.oney.fr
 0.0.0.0 f1tbit.com
+0.0.0.0 f5q72e2o8r5f.www.word.com.au
 0.0.0.0 f7ds.liberation.fr
 0.0.0.0 f8phvntohv.tpetry.me
 0.0.0.0 f92j5.com
@@ -5090,6 +5095,7 @@
 0.0.0.0 fbvbyi.abekker.ru
 0.0.0.0 fc.vodafone.de
 0.0.0.0 fc.webmasterpro.de
+0.0.0.0 fclog.baidu.com
 0.0.0.0 fcmatch.google.com
 0.0.0.0 fcmatch.youtube.com
 0.0.0.0 fcs.ovh
@@ -5427,6 +5433,7 @@
 0.0.0.0 g990421676.co
 0.0.0.0 ga-analytics.com
 0.0.0.0 ga-beacon.appspot.com
+0.0.0.0 ga.giuem.com
 0.0.0.0 ga.kvideo.io
 0.0.0.0 ga.nsimg.net
 0.0.0.0 ga.webdigi.co.uk
@@ -5740,7 +5747,6 @@
 0.0.0.0 growthrx.in
 0.0.0.0 grtmpr.vertbaudet.fr
 0.0.0.0 grumrt.com
-0.0.0.0 grxkwphx0yk5.stoic.ai
 0.0.0.0 gsasolutionssecure.gsa.gov
 0.0.0.0 gsecondscreen.com
 0.0.0.0 gsimedia.net
@@ -5816,6 +5822,7 @@
 0.0.0.0 hashzone.io
 0.0.0.0 hatefulrequest.com
 0.0.0.0 hauhws.asgoodasnew.de
+0.0.0.0 hauntlist.com
 0.0.0.0 havasedge.com
 0.0.0.0 haveamint.com
 0.0.0.0 haxdym.min-breeder.com
@@ -5959,6 +5966,7 @@
 0.0.0.0 hobbi.xyz
 0.0.0.0 hocgeese.com
 0.0.0.0 hockeystack.com
+0.0.0.0 hokuspokus.tarnkappe.info
 0.0.0.0 holder.com.ua
 0.0.0.0 hollowafterthought.com
 0.0.0.0 hollydeal.club
@@ -6499,7 +6507,9 @@
 0.0.0.0 intellimize.co
 0.0.0.0 intent.cmo.com.au
 0.0.0.0 intent.goodgearguide.com.au
+0.0.0.0 intent.macworld.co.uk
 0.0.0.0 intent.pcworld.idg.com.au
+0.0.0.0 intent.techadvisor.com
 0.0.0.0 interact-analytics.com
 0.0.0.0 interactive-circle.jp
 0.0.0.0 interakt.ru
@@ -8666,6 +8676,7 @@
 0.0.0.0 metrics.nrma.com.au
 0.0.0.0 metrics.nti.nl
 0.0.0.0 metrics.ntnews.com.au
+0.0.0.0 metrics.nu.nl
 0.0.0.0 metrics.nutraingredients-asia.com
 0.0.0.0 metrics.nutraingredients-usa.com
 0.0.0.0 metrics.nutraingredients.com
@@ -9675,7 +9686,6 @@
 0.0.0.0 onthe.io
 0.0.0.0 ontxgr.hofer-reisen.at
 0.0.0.0 oor.ooreka.fr
-0.0.0.0 ooyk93cxdqv8.www.usa-corporate.com
 0.0.0.0 op-drive-sto.carrefour.fr
 0.0.0.0 opbandit.com
 0.0.0.0 open.delivery.net
@@ -9918,6 +9928,7 @@
 0.0.0.0 pbstats.jpmorgan.com
 0.0.0.0 pbstck.com
 0.0.0.0 pc-agency24.de
+0.0.0.0 pcapp-data-collect.youku.com
 0.0.0.0 pcdstm.petbarn.com.au
 0.0.0.0 pciidk.shopee.vn
 0.0.0.0 pciokm.glamuse.com
@@ -10700,11 +10711,13 @@
 0.0.0.0 receptiveink.com
 0.0.0.0 receptivereaction.com
 0.0.0.0 reciteme.com
+0.0.0.0 reckoning-internet.tk
 0.0.0.0 recognified.net
 0.0.0.0 recommenddoor.com
 0.0.0.0 reconditeprison.com
 0.0.0.0 reconditerake.com
 0.0.0.0 reconditerespect.com
+0.0.0.0 recordbutter.com
 0.0.0.0 recosenselabs.com
 0.0.0.0 recoset.com
 0.0.0.0 recruitics.com
@@ -11290,6 +11303,7 @@
 0.0.0.0 sanalytics.verizonenterprise.com
 0.0.0.0 sanalytics.verizonwireless.com
 0.0.0.0 sanalytics.visible.com
+0.0.0.0 sandinsect.com
 0.0.0.0 sanl.champssports.com
 0.0.0.0 sanl.eastbay.com
 0.0.0.0 sanl.footaction.com
@@ -13092,6 +13106,7 @@
 0.0.0.0 snailsengine.com
 0.0.0.0 snakemineral.com
 0.0.0.0 snakesshop.com
+0.0.0.0 snakesstone.com
 0.0.0.0 snapdeal.biz
 0.0.0.0 snaps.vidiemi.com
 0.0.0.0 snd.tc
@@ -13343,6 +13358,7 @@
 0.0.0.0 spacehits.net
 0.0.0.0 spacepools.org
 0.0.0.0 spade.twitch.tv
+0.0.0.0 spaghetti-noodles.ml
 0.0.0.0 spain.thomsonreuters.com
 0.0.0.0 spamanalyst.com
 0.0.0.0 spanids.dictionary.com
@@ -13357,6 +13373,7 @@
 0.0.0.0 specialstat.com
 0.0.0.0 specialstatement.com
 0.0.0.0 spectate.com
+0.0.0.0 spectrum.gettyimages.com
 0.0.0.0 speed-trap.com
 0.0.0.0 speedcount.de
 0.0.0.0 speedcounter.net
@@ -13660,6 +13677,7 @@
 0.0.0.0 stat.iteye.com
 0.0.0.0 stat.jetsetter.com
 0.0.0.0 stat.juridicas.com
+0.0.0.0 stat.kununu.cz
 0.0.0.0 stat.laley.es
 0.0.0.0 stat.laleynext.es
 0.0.0.0 stat.lex.pl
@@ -14315,6 +14333,7 @@
 0.0.0.0 sunlightmetrics.b-cdn.net
 0.0.0.0 suntcontent.se
 0.0.0.0 supercounters.com
+0.0.0.0 superficialeyes.com
 0.0.0.0 superficialspring.com
 0.0.0.0 superficialsquare.com
 0.0.0.0 superstat.info
@@ -14521,6 +14540,7 @@
 0.0.0.0 t.hypers.com.cn
 0.0.0.0 t.imgur.com
 0.0.0.0 t.indeed.com
+0.0.0.0 t.irtyc.com
 0.0.0.0 t.jmusports.com
 0.0.0.0 t.jobsyn.org
 0.0.0.0 t.jossandmain.com
@@ -14611,6 +14631,7 @@
 0.0.0.0 tagdatax.com
 0.0.0.0 tagger.ope.scmp.com
 0.0.0.0 tagger.opecloud.com
+0.0.0.0 tagm.eduscho.at
 0.0.0.0 tagm.tchibo.de
 0.0.0.0 tagmanager.cn
 0.0.0.0 tagmngrs.com
@@ -15296,6 +15317,7 @@
 0.0.0.0 tr.servicesclients.canalplus.fr
 0.0.0.0 tr.servicoaocliente.younited-credit.com
 0.0.0.0 tr.smtp1.email-mediapost.fr
+0.0.0.0 tr.snapchat.com
 0.0.0.0 tr.solution.uneo.fr
 0.0.0.0 tr.souscription.floa.fr
 0.0.0.0 tr.suedkurier.de
@@ -16101,6 +16123,7 @@
 0.0.0.0 v12group.com
 0.0.0.0 v1sts.me
 0.0.0.0 v3cdn.net
+0.0.0.0 v87p9d3uxu13.fjlaboratories.com
 0.0.0.0 va-endpoint.com
 0.0.0.0 valuedopinions.co.uk
 0.0.0.0 vamaker.com
@@ -16231,6 +16254,7 @@
 0.0.0.0 vizzit.se
 0.0.0.0 vkcdnservice.com
 0.0.0.0 vkiais.brendi.pl
+0.0.0.0 vlwutxd95syk.www.usa-corporate.com
 0.0.0.0 vm5apis.com
 0.0.0.0 vmm-satellite1.com
 0.0.0.0 vmmpxl.com
@@ -16361,6 +16385,7 @@
 0.0.0.0 wearywater.com
 0.0.0.0 web-boosting.net
 0.0.0.0 web-counter.net
+0.0.0.0 web-player-tracker.biliapi.net
 0.0.0.0 web-stat.com
 0.0.0.0 web-stat.fr
 0.0.0.0 web-stat.net
@@ -16597,6 +16622,7 @@
 0.0.0.0 wpgobx.veckorevyn.com
 0.0.0.0 wph2.destinia.us
 0.0.0.0 wprixk.brocard.ua
+0.0.0.0 wpshsdk.com
 0.0.0.0 wqfflc.fupa.net
 0.0.0.0 wqfflc.gartenlexikon.de
 0.0.0.0 wrapper.lemde.fr
@@ -16968,7 +16994,6 @@
 0.0.0.0 www91.intel.la
 0.0.0.0 www91.intel.pl
 0.0.0.0 www91.intel.ru
-0.0.0.0 wy886nacmkg2.fjlaboratories.com
 0.0.0.0 wyaopp.lacoccinelle.net
 0.0.0.0 wyelmp.vidaxl.si
 0.0.0.0 wyorba.cepo-netshop.jp
@@ -17094,10 +17119,12 @@
 0.0.0.0 ykhqhe.domain.com.au
 0.0.0.0 yldr.io
 0.0.0.0 ylog.huya.com
+0.0.0.0 ym1kiez6wc40.mailfloss.com
 0.0.0.0 ymetrica1.com
 0.0.0.0 ymprove.web.de
 0.0.0.0 ynudoo.shoeby.nl
 0.0.0.0 yoc.younited-credit.com
+0.0.0.0 yodunmnmr3dc.www.cefirates.com
 0.0.0.0 yolo.phpliveregex.com
 0.0.0.0 yoochoose.net
 0.0.0.0 youbora.com
@@ -17224,7 +17251,7 @@
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2021-12-05 00:39:26.313903
+# Generated at 2021-12-12 00:39:25.074086
 
 0.0.0.0 databerries.com
 0.0.0.0 fidzup
