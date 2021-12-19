@@ -1,6 +1,6 @@
-# Version: 202112120010
+# Version: 202112190007
 # Title: EasyPrivacy
-# Last modified: 12 Dec 2021 00:10 UTC
+# Last modified: 19 Dec 2021 00:07 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -2076,6 +2076,7 @@ beaconstreetservices.com
 beadbears.com
 beagle.prod.tda.link
 beam-ws.giraffe360.com
+beam.bankrate.com
 beam.giraffe360.com
 beam.mjhlifesciences.com
 beamincrease.com
@@ -2975,7 +2976,6 @@ cohesionapps.com
 coin-have.com
 coin-hive.com
 coinerra.com
-coinhive.com
 coinhiveproxy.com
 coinminerz.com
 coinminingonline.com
@@ -3478,6 +3478,7 @@ cstats.sankakucomplex.com
 cstm.baidu.com
 csv4.ebs-paris.fr
 cszz.ru
+ct.corpusapp.com
 ct.eid.co.nz
 ct.irl.com
 ct.irlmail.org
@@ -5795,6 +5796,7 @@ h.imedia.cz
 h.seznam.cz
 h00c.sfr.fr
 h4k5.com
+h5log.zongheng.com
 h78xb.pw
 habitualhumor.com
 hal.courrierinternational.com
@@ -5827,6 +5829,7 @@ havasedge.com
 haveamint.com
 haxdym.min-breeder.com
 haymarketstat.de
+hb.vhsrv.com
 hbaazk.bukalapak.com
 hbbtv-track.prosieben.de
 hbo5.concours-pass.com
@@ -7287,6 +7290,7 @@ log.ttbc-hcm.gov.vn
 log.webnovel.com
 log.wilmaa.com
 log.worldsoft-cms.info
+log.zongheng.com
 log000.goo.ne.jp
 log1.17173.com
 log2.sina.cn
@@ -8007,6 +8011,7 @@ mediaarmor.com
 mediaforgews.com
 mediagauge.com
 mediaglacier.com
+mediago.io
 mediametrics.mpsa.com
 mediametrics.ru
 mediaplan.ru
@@ -10463,6 +10468,7 @@ puiwrs.misterspex.de
 pulleymarketing.com
 puls.lv
 pulsar.ebay.com
+pulsarback.mail.ru
 pulse.delta.com
 pulseinsights.com
 pulselog.com
@@ -11888,7 +11894,9 @@ simg.yemeksepeti.com
 simility.com
 simonsignal.com
 simple.bootify.io
+simpleanalytics.com
 simpleanalytics.io
+simpleanalyticsbadge.com
 simpleanalyticscdn.com
 simpleheatmaps.com
 simplehitcounter.com
@@ -11906,6 +11914,7 @@ singroot.com
 sinmo.chasecenter.com
 sintelligence.marykay.com
 sintelligence.marykayintouch.com
+sirdata.io
 sis8.premieremoisson.com
 sis8.sisley-paris.com
 sit-metrics.nab.com.au
@@ -13740,12 +13749,14 @@ states.neweggbusiness.com
 stathat.com
 stathound.com
 static-sb.com
+static-tracking.klaviyo.com
 static.parsely.com
 staticiv.com
 staticsfs.host
 statisfy.net
 statistic.qzone.qq.com
 statistic.takungpao.com
+statistic2.reichelt.de
 statistiche-free.com
 statistiche-web.com
 statistiche.it
@@ -17053,6 +17064,7 @@ xp.apple.com
 xplosion.de
 xqtcur.kirklands.com
 xr.shinobi.jp
+xray.mail.ru
 xrchmz.mobafire.com
 xscmzs.tenki.jp
 xslmpq.ohou.se
@@ -17251,7 +17263,7 @@ zz.bdstatic.com
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2021-12-12 00:39:24.046542
+# Generated at 2021-12-19 00:40:42.157781
 
 databerries.com
 fidzup
