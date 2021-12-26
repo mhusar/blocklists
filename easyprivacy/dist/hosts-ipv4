@@ -1,6 +1,6 @@
-# Version: 202112190007
+# Version: 202112252350
 # Title: EasyPrivacy
-# Last modified: 19 Dec 2021 00:07 UTC
+# Last modified: 25 Dec 2021 23:50 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -1323,6 +1323,7 @@
 0.0.0.0 amplifypixel.outbrain.com
 0.0.0.0 amplitude.com
 0.0.0.0 ampush.io
+0.0.0.0 ams-pageview-public.s3.amazonaws.com
 0.0.0.0 amung.us
 0.0.0.0 amunx.de
 0.0.0.0 amusementmorning.com
@@ -1358,6 +1359,7 @@
 0.0.0.0 analytics-cdiscount.com
 0.0.0.0 analytics-cms.whitebeard.me
 0.0.0.0 analytics-egain.com
+0.0.0.0 analytics-gw.games.wanmei.com
 0.0.0.0 analytics-production.hapyak.com
 0.0.0.0 analytics-proxy.springboard.com
 0.0.0.0 analytics-rhwg.rhcloud.com
@@ -3574,6 +3576,7 @@
 0.0.0.0 d10gj7yjsfriaj.cloudfront.net
 0.0.0.0 d10lpsik1i8c69.cloudfront.net
 0.0.0.0 d11a2fzhgzqe7i.cloudfront.net
+0.0.0.0 d15kdaxu5c0hfw.cloudfront.net
 0.0.0.0 d169bbxks24g2u.cloudfront.net
 0.0.0.0 d16fk4ms6rqz1v.cloudfront.net
 0.0.0.0 d17m68fovwmgxj.cloudfront.net
@@ -3898,6 +3901,7 @@
 0.0.0.0 demandmedia.s3.amazonaws.com
 0.0.0.0 demdex.net
 0.0.0.0 denakop.com
+0.0.0.0 dengage.com
 0.0.0.0 dep-x.com
 0.0.0.0 departapp.com
 0.0.0.0 dependable-s.hyster.com
@@ -3944,6 +3948,7 @@
 0.0.0.0 di-capt.com
 0.0.0.0 di.ifolor.ch
 0.0.0.0 di.ifolor.net
+0.0.0.0 di2xwvxz1jrvu.cloudfront.net
 0.0.0.0 di8n.bfmtv.com
 0.0.0.0 diagnose.igstatic.com
 0.0.0.0 dialogtech.com
@@ -4220,6 +4225,7 @@
 0.0.0.0 dwglgp.dunelm.com
 0.0.0.0 dwin1.com
 0.0.0.0 dwin2.com
+0.0.0.0 dx.mountain.com
 0.0.0.0 dx.thermofisher.com
 0.0.0.0 dxe2.heip.fr
 0.0.0.0 dxpxgy.jdsports.com
@@ -4933,6 +4939,7 @@
 0.0.0.0 events.realgravity.com
 0.0.0.0 events.reddit.com
 0.0.0.0 events.redditmedia.com
+0.0.0.0 events.release.narrativ.com
 0.0.0.0 events.santander.co.uk
 0.0.0.0 events.shareably.net
 0.0.0.0 events.sk.ht
@@ -5132,7 +5139,6 @@
 0.0.0.0 filament-stats.herokuapp.com
 0.0.0.0 filitrac.com
 0.0.0.0 filmoljupci.com
-0.0.0.0 fimg-resp.seznam.cz
 0.0.0.0 fimyxg.haberturk.com
 0.0.0.0 finalid.com
 0.0.0.0 finalizeforce.com
@@ -5505,6 +5511,7 @@
 0.0.0.0 geoip.finanzen.net
 0.0.0.0 geoip.hmageo.com
 0.0.0.0 geoip.ifunny.co
+0.0.0.0 geoip.instiengage.com
 0.0.0.0 geoip.nekudo.com
 0.0.0.0 geoip.spotpass.io
 0.0.0.0 geoip.viamichelin.com
@@ -6912,6 +6919,7 @@
 0.0.0.0 l.typesquare.com
 0.0.0.0 l2.io
 0.0.0.0 l2k30jsa.theochu.com
+0.0.0.0 l9bjkkhaycw6f8f4.soundcloud.com
 0.0.0.0 la-sync.taboola.com
 0.0.0.0 la.secure.sonosite.com
 0.0.0.0 lacinfo.motorolasolutions.com
@@ -9456,6 +9464,7 @@
 0.0.0.0 nwgo.tylertech.com
 0.0.0.0 nws.naltis.com
 0.0.0.0 nwtrih.ticket.com.br
+0.0.0.0 nwuoxwthvak3.stoic.ai
 0.0.0.0 nxakpj4ac8gkd53.info
 0.0.0.0 nxnszu.ettoday.net
 0.0.0.0 nxovay.fo-online.jp
@@ -10014,6 +10023,7 @@
 0.0.0.0 phone-analytics.com
 0.0.0.0 photographpan.com
 0.0.0.0 photorank.me
+0.0.0.0 phpstat.cntcm.com.cn
 0.0.0.0 phpstat.com
 0.0.0.0 phywi.org
 0.0.0.0 pi-stats.com
@@ -10357,6 +10367,7 @@
 0.0.0.0 pricklyplastic.com
 0.0.0.0 primary.hasegawa.jp
 0.0.0.0 primate.dmarcdigests.com
+0.0.0.0 primer.typekit.net
 0.0.0.0 printerplasma.com
 0.0.0.0 prism.app-us1.com
 0.0.0.0 prism.pandora.tv
@@ -10882,7 +10893,6 @@
 0.0.0.0 rhythmmoney.com
 0.0.0.0 riastats.com
 0.0.0.0 richard-group.com
-0.0.0.0 richaudience.com
 0.0.0.0 richmetrics.com
 0.0.0.0 richreceipt.com
 0.0.0.0 richstring.com
@@ -13664,6 +13674,7 @@
 0.0.0.0 stat.1688.com
 0.0.0.0 stat.24liveplus.com
 0.0.0.0 stat.4u.pl
+0.0.0.0 stat.5-tv.ru
 0.0.0.0 stat.acca.it
 0.0.0.0 stat.altalex.com
 0.0.0.0 stat.api.2gis.ru
@@ -14285,6 +14296,7 @@
 0.0.0.0 streamsend.com
 0.0.0.0 streamstats.prd.dlive.tv
 0.0.0.0 streem.com.au
+0.0.0.0 streetmetrics.io
 0.0.0.0 stretchsister.com
 0.0.0.0 stringsmile.com
 0.0.0.0 stripedburst.com
@@ -16447,8 +16459,6 @@
 0.0.0.0 webflowmetrics.com
 0.0.0.0 webforensics.co.uk
 0.0.0.0 webglstats.com
-0.0.0.0 webgozar.com
-0.0.0.0 webgozar.ir
 0.0.0.0 webhit.snd.no
 0.0.0.0 webhits.de
 0.0.0.0 webiqonline.com
