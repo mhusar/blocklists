@@ -1,6 +1,6 @@
-# Version: 202112190007
+# Version: 202112252350
 # Title: EasyPrivacy
-# Last modified: 19 Dec 2021 00:07 UTC
+# Last modified: 25 Dec 2021 23:50 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -1323,6 +1323,7 @@ amplify.strategic-i.com
 amplifypixel.outbrain.com
 amplitude.com
 ampush.io
+ams-pageview-public.s3.amazonaws.com
 amung.us
 amunx.de
 amusementmorning.com
@@ -1358,6 +1359,7 @@ analytics-api.samsunghealthcn.com
 analytics-cdiscount.com
 analytics-cms.whitebeard.me
 analytics-egain.com
+analytics-gw.games.wanmei.com
 analytics-production.hapyak.com
 analytics-proxy.springboard.com
 analytics-rhwg.rhcloud.com
@@ -3574,6 +3576,7 @@ d.wi-fi.ru
 d10gj7yjsfriaj.cloudfront.net
 d10lpsik1i8c69.cloudfront.net
 d11a2fzhgzqe7i.cloudfront.net
+d15kdaxu5c0hfw.cloudfront.net
 d169bbxks24g2u.cloudfront.net
 d16fk4ms6rqz1v.cloudfront.net
 d17m68fovwmgxj.cloudfront.net
@@ -3898,6 +3901,7 @@ demandbase.com
 demandmedia.s3.amazonaws.com
 demdex.net
 denakop.com
+dengage.com
 dep-x.com
 departapp.com
 dependable-s.hyster.com
@@ -3944,6 +3948,7 @@ dhplma.pontofrio.com.br
 di-capt.com
 di.ifolor.ch
 di.ifolor.net
+di2xwvxz1jrvu.cloudfront.net
 di8n.bfmtv.com
 diagnose.igstatic.com
 dialogtech.com
@@ -4220,6 +4225,7 @@ dwbotr.ssg.com
 dwglgp.dunelm.com
 dwin1.com
 dwin2.com
+dx.mountain.com
 dx.thermofisher.com
 dxe2.heip.fr
 dxpxgy.jdsports.com
@@ -4933,6 +4939,7 @@ events.privy.com
 events.realgravity.com
 events.reddit.com
 events.redditmedia.com
+events.release.narrativ.com
 events.santander.co.uk
 events.shareably.net
 events.sk.ht
@@ -5132,7 +5139,6 @@ fiksu.com
 filament-stats.herokuapp.com
 filitrac.com
 filmoljupci.com
-fimg-resp.seznam.cz
 fimyxg.haberturk.com
 finalid.com
 finalizeforce.com
@@ -5505,6 +5511,7 @@ geoip.cookieyes.com
 geoip.finanzen.net
 geoip.hmageo.com
 geoip.ifunny.co
+geoip.instiengage.com
 geoip.nekudo.com
 geoip.spotpass.io
 geoip.viamichelin.com
@@ -6912,6 +6919,7 @@ l.thumbtack.com
 l.typesquare.com
 l2.io
 l2k30jsa.theochu.com
+l9bjkkhaycw6f8f4.soundcloud.com
 la-sync.taboola.com
 la.secure.sonosite.com
 lacinfo.motorolasolutions.com
@@ -9456,6 +9464,7 @@ nuttyorganization.com
 nwgo.tylertech.com
 nws.naltis.com
 nwtrih.ticket.com.br
+nwuoxwthvak3.stoic.ai
 nxakpj4ac8gkd53.info
 nxnszu.ettoday.net
 nxovay.fo-online.jp
@@ -10014,6 +10023,7 @@ phonalytics.com
 phone-analytics.com
 photographpan.com
 photorank.me
+phpstat.cntcm.com.cn
 phpstat.com
 phywi.org
 pi-stats.com
@@ -10357,6 +10367,7 @@ pricklydebt.com
 pricklyplastic.com
 primary.hasegawa.jp
 primate.dmarcdigests.com
+primer.typekit.net
 printerplasma.com
 prism.app-us1.com
 prism.pandora.tv
@@ -10882,7 +10893,6 @@ rhymezebra.com
 rhythmmoney.com
 riastats.com
 richard-group.com
-richaudience.com
 richmetrics.com
 richreceipt.com
 richstring.com
@@ -13664,6 +13674,7 @@ stat-well.com
 stat.1688.com
 stat.24liveplus.com
 stat.4u.pl
+stat.5-tv.ru
 stat.acca.it
 stat.altalex.com
 stat.api.2gis.ru
@@ -14285,6 +14296,7 @@ streambeam.io
 streamsend.com
 streamstats.prd.dlive.tv
 streem.com.au
+streetmetrics.io
 stretchsister.com
 stringsmile.com
 stripedburst.com
@@ -16447,8 +16459,6 @@ webeyez.com
 webflowmetrics.com
 webforensics.co.uk
 webglstats.com
-webgozar.com
-webgozar.ir
 webhit.snd.no
 webhits.de
 webiqonline.com
@@ -17263,7 +17273,7 @@ zz.bdstatic.com
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2021-12-19 00:40:42.157781
+# Generated at 2021-12-26 00:40:47.051151
 
 databerries.com
 fidzup
