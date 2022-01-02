@@ -1,6 +1,6 @@
-# Version: 202112252350
+# Version: 202201020003
 # Title: EasyPrivacy
-# Last modified: 25 Dec 2021 23:50 UTC
+# Last modified: 02 Jan 2022 00:03 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -1882,6 +1882,7 @@
 0.0.0.0 auntants.com
 0.0.0.0 auriro.net
 0.0.0.0 aurora-d3.herokuapp.com
+0.0.0.0 auspiciousyard.com
 0.0.0.0 authcaptcha.com
 0.0.0.0 authedmine.eu
 0.0.0.0 authedwebmine.cz
@@ -3799,6 +3800,7 @@
 0.0.0.0 datvantage.com
 0.0.0.0 dawin.tv
 0.0.0.0 daylogs.com
+0.0.0.0 db-ip.com
 0.0.0.0 dbex-tracker-v2.driveback.ru
 0.0.0.0 dbmyvl.apartmentfinder.com
 0.0.0.0 dbpbyh.americanas.com.br
@@ -4440,6 +4442,7 @@
 0.0.0.0 education.moodybible.org
 0.0.0.0 education.seek.intel.com
 0.0.0.0 edvaor.estro.ua
+0.0.0.0 eec.crunchyroll.com
 0.0.0.0 eel.transistor.fm
 0.0.0.0 eezdvg.beyyoglu.com
 0.0.0.0 ef.futuroscope.com
@@ -5031,6 +5034,7 @@
 0.0.0.0 f-log-test.grammarly.io
 0.0.0.0 f0nn.oney.fr
 0.0.0.0 f1tbit.com
+0.0.0.0 f362.nola.com
 0.0.0.0 f5q72e2o8r5f.www.word.com.au
 0.0.0.0 f7ds.liberation.fr
 0.0.0.0 f8phvntohv.tpetry.me
@@ -5124,6 +5128,7 @@
 0.0.0.0 feedify.net
 0.0.0.0 feedjit.com
 0.0.0.0 feedperfect.com
+0.0.0.0 felix.data.tm-awx.com
 0.0.0.0 feqbqn.rent.com
 0.0.0.0 feraciumus.com
 0.0.0.0 ferank.fr
@@ -5273,7 +5278,6 @@
 0.0.0.0 fpt.microsoft.com
 0.0.0.0 fpxewa.ilmeteo.it
 0.0.0.0 fqsecure.com
-0.0.0.0 fqtag.com
 0.0.0.0 frailflock.com
 0.0.0.0 frailfruit.com
 0.0.0.0 frailoffer.com
@@ -5421,6 +5425,7 @@
 0.0.0.0 g12281228770.co
 0.0.0.0 g12479313105.co
 0.0.0.0 g1584674682.co
+0.0.0.0 g1782759015.co
 0.0.0.0 g1782759016.co
 0.0.0.0 g1980843350.co
 0.0.0.0 g1be.swisslife-direct.fr
@@ -5437,6 +5442,7 @@
 0.0.0.0 g8715710740.co
 0.0.0.0 g8913795075.co
 0.0.0.0 g9111879410.co
+0.0.0.0 g990421675.co
 0.0.0.0 g990421676.co
 0.0.0.0 ga-analytics.com
 0.0.0.0 ga-beacon.appspot.com
@@ -5824,6 +5830,7 @@
 0.0.0.0 happenhistory.com
 0.0.0.0 harborcub.com
 0.0.0.0 hardtofindmilk.com
+0.0.0.0 harpocrates.ethyca.com
 0.0.0.0 hashcoin.co
 0.0.0.0 hashing.win
 0.0.0.0 hashnest.com
@@ -6919,7 +6926,6 @@
 0.0.0.0 l.typesquare.com
 0.0.0.0 l2.io
 0.0.0.0 l2k30jsa.theochu.com
-0.0.0.0 l9bjkkhaycw6f8f4.soundcloud.com
 0.0.0.0 la-sync.taboola.com
 0.0.0.0 la.secure.sonosite.com
 0.0.0.0 lacinfo.motorolasolutions.com
@@ -9199,6 +9205,7 @@
 0.0.0.0 mypension.efscle.com
 0.0.0.0 myprofile.panasonic.eu
 0.0.0.0 myprofile.technics.eu
+0.0.0.0 mypush.online
 0.0.0.0 myquellehuileenstation.carte-gr.total.fr
 0.0.0.0 myreferer.com
 0.0.0.0 myroitracking.com
@@ -9390,6 +9397,7 @@
 0.0.0.0 nmrodam.com
 0.0.0.0 nnkkxb.nuts.com
 0.0.0.0 nnvtvx.chegg.com
+0.0.0.0 no9pldds1lmn3.soundcloud.com
 0.0.0.0 noa0.compteczam.fr
 0.0.0.0 noffreh.carte-gr.total.fr
 0.0.0.0 noflake-aggregator-http.narvar.com
@@ -9418,6 +9426,7 @@
 0.0.0.0 notify.pray.com
 0.0.0.0 notify.solutions
 0.0.0.0 notifyvisitors.com
+0.0.0.0 notix.io
 0.0.0.0 notmining.org
 0.0.0.0 noushe.zevvle.com
 0.0.0.0 nova.dice.net
@@ -10501,6 +10510,7 @@
 0.0.0.0 pushex.io
 0.0.0.0 pushible.com
 0.0.0.0 pushify.com
+0.0.0.0 pushnami.com
 0.0.0.0 pushwoosh.com
 0.0.0.0 puzzlingproperty.com
 0.0.0.0 pv.hd.sohu.com
@@ -11746,7 +11756,6 @@
 0.0.0.0 seed.bitcoinstats.com
 0.0.0.0 seed.btc.petertodd.org
 0.0.0.0 seedscissors.com
-0.0.0.0 seedtag.com
 0.0.0.0 seehits.com
 0.0.0.0 seeip.org
 0.0.0.0 seevolution.com
@@ -13620,6 +13629,7 @@
 0.0.0.0 st.mazdausa.com
 0.0.0.0 st.newyorklife.com
 0.0.0.0 st.newyorklifeinvestments.com
+0.0.0.0 st.sawlive.tv
 0.0.0.0 st.tmgrup.com.tr
 0.0.0.0 st1.lg.avendrealouer.fr
 0.0.0.0 st2.jamesdaniel.dev
@@ -14195,6 +14205,7 @@
 0.0.0.0 stats.yourdallashandyman.com
 0.0.0.0 stats.yourfone.de
 0.0.0.0 stats.zander.wtf
+0.0.0.0 stats.zone-annuaire.one
 0.0.0.0 stats.zotabox.com
 0.0.0.0 stats1.tune.pk
 0.0.0.0 stats2.algo.at
@@ -15526,6 +15537,7 @@
 0.0.0.0 tracker.thinkindot.com
 0.0.0.0 tracker.timesgroup.com
 0.0.0.0 tracker.tiu.ru
+0.0.0.0 tracker.tubecj.com
 0.0.0.0 tracker.tv.sohu.com
 0.0.0.0 tracker.unbxdapi.com
 0.0.0.0 tracker.uprinting.com
@@ -17273,7 +17285,7 @@
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2021-12-26 00:40:47.838204
+# Generated at 2022-01-02 00:41:31.717405
 
 0.0.0.0 databerries.com
 0.0.0.0 fidzup
