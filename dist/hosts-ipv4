@@ -1,6 +1,6 @@
-# Version: 202201090024
+# Version: 202201152253
 # Title: EasyPrivacy
-# Last modified: 09 Jan 2022 00:24 UTC
+# Last modified: 15 Jan 2022 22:53 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -1094,6 +1094,7 @@
 0.0.0.0 adobe-secure.cjone.com
 0.0.0.0 adobedtm.com
 0.0.0.0 adobetag.com
+0.0.0.0 adobetarget.com
 0.0.0.0 adoftheyear.com
 0.0.0.0 adop.cc
 0.0.0.0 adorableanger.com
@@ -6122,6 +6123,7 @@
 0.0.0.0 icxmlt.decathlon.ru
 0.0.0.0 id-visitors.com
 0.0.0.0 id5-sync.com
+0.0.0.0 iddu1vvb7sk8-a.akamaihd.net
 0.0.0.0 ideadevice.actonservice.com
 0.0.0.0 ideoclick.com
 0.0.0.0 idg1.idgarages.com
@@ -9373,8 +9375,6 @@
 0.0.0.0 nil.naver.com
 0.0.0.0 nimblebird.co
 0.0.0.0 nimbleswan.io
-0.0.0.0 nimiq.com
-0.0.0.0 nimiq.watch
 0.0.0.0 nimiqpool.com
 0.0.0.0 nimiqtest.net
 0.0.0.0 nimpool.io
@@ -9975,7 +9975,6 @@
 0.0.0.0 peerius.com
 0.0.0.0 pegasus.unifygroup.com
 0.0.0.0 pegasusplate.com
-0.0.0.0 pendo.io
 0.0.0.0 penspade.com
 0.0.0.0 people.mbtionline.com
 0.0.0.0 perceivequarter.com
@@ -10305,6 +10304,8 @@
 0.0.0.0 polymorphicads.jp
 0.0.0.0 ponmlsgr.carte-gr.total.fr
 0.0.0.0 ponyo.cheriefm.fr
+0.0.0.0 pool.nimiq.watch
+0.0.0.0 pool.nimiqchain.info
 0.0.0.0 pop.dmglobal.com
 0.0.0.0 popsample.com
 0.0.0.0 popt.in
@@ -17290,7 +17291,7 @@
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2022-01-09 00:41:20.236292
+# Generated at 2022-01-16 00:41:58.307236
 
 0.0.0.0 databerries.com
 0.0.0.0 fidzup
