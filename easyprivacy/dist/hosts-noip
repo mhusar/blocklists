@@ -1,6 +1,6 @@
-# Version: 202201090024
+# Version: 202201152253
 # Title: EasyPrivacy
-# Last modified: 09 Jan 2022 00:24 UTC
+# Last modified: 15 Jan 2022 22:53 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -1079,6 +1079,7 @@ adnz.co
 adobe-secure.cjone.com
 adobedtm.com
 adobetag.com
+adobetarget.com
 adoftheyear.com
 adop.cc
 adorableanger.com
@@ -6107,6 +6108,7 @@ icu.getstorybox.com
 icxmlt.decathlon.ru
 id-visitors.com
 id5-sync.com
+iddu1vvb7sk8-a.akamaihd.net
 ideadevice.actonservice.com
 ideoclick.com
 idg1.idgarages.com
@@ -9358,8 +9360,6 @@ nik.io
 nil.naver.com
 nimblebird.co
 nimbleswan.io
-nimiq.com
-nimiq.watch
 nimiqpool.com
 nimiqtest.net
 nimpool.io
@@ -9960,7 +9960,6 @@ pedropanther.com
 peerius.com
 pegasus.unifygroup.com
 pegasusplate.com
-pendo.io
 penspade.com
 people.mbtionline.com
 perceivequarter.com
@@ -10290,6 +10289,8 @@ polobook.club
 polymorphicads.jp
 ponmlsgr.carte-gr.total.fr
 ponyo.cheriefm.fr
+pool.nimiq.watch
+pool.nimiqchain.info
 pop.dmglobal.com
 popsample.com
 popt.in
