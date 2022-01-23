@@ -1,6 +1,6 @@
-# Version: 202201152253
+# Version: 202201200759
 # Title: EasyPrivacy
-# Last modified: 15 Jan 2022 22:53 UTC
+# Last modified: 20 Jan 2022 07:59 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -1244,6 +1244,7 @@
 0.0.0.0 ajaralarm.com
 0.0.0.0 ajbeqy.delfi.lt
 0.0.0.0 ak0gsh40.com
+0.0.0.0 akamaihd.net
 0.0.0.0 akanoo.com
 0.0.0.0 akatracking.esearchvision.com
 0.0.0.0 akrrbm.loloclo.ru
@@ -2440,6 +2441,7 @@
 0.0.0.0 c-c-l.actonservice.com
 0.0.0.0 c-o-u-n-t.com
 0.0.0.0 c-rings.net
+0.0.0.0 c.amazinglybrilliant.com.au
 0.0.0.0 c.atinternet-solutions.com
 0.0.0.0 c.bigmir.net
 0.0.0.0 c.gazetevatan.com
@@ -10073,6 +10075,7 @@
 0.0.0.0 piostats.gdcorner.com
 0.0.0.0 pipe-collect.ebu.io
 0.0.0.0 pipedream.wistia.com
+0.0.0.0 pipeline.rd.nl
 0.0.0.0 piper.amocrm.ru
 0.0.0.0 pipfire.com
 0.0.0.0 pippio.com
@@ -10886,6 +10889,7 @@
 0.0.0.0 revenuepilot.com
 0.0.0.0 revenuescience.com
 0.0.0.0 revenuewire.net
+0.0.0.0 revhunter.tech
 0.0.0.0 revoffers.com
 0.0.0.0 revolvermaps.com
 0.0.0.0 revprotect.com
@@ -17291,7 +17295,7 @@
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2022-01-16 00:41:58.307236
+# Generated at 2022-01-23 00:37:02.447888
 
 0.0.0.0 databerries.com
 0.0.0.0 fidzup
