@@ -1,6 +1,6 @@
-# Version: 202201200759
+# Version: 202201291138
 # Title: EasyPrivacy
-# Last modified: 20 Jan 2022 07:59 UTC
+# Last modified: 29 Jan 2022 11:38 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -1645,6 +1645,7 @@
 0.0.0.0 ans.avast.com
 0.0.0.0 ans.milb.com
 0.0.0.0 ans.mlb.com
+0.0.0.0 answerbook.com
 0.0.0.0 answers.teradata.pl
 0.0.0.0 answerscloud.com
 0.0.0.0 antblz.mediaworld.it
@@ -1652,6 +1653,7 @@
 0.0.0.0 antiblock.info
 0.0.0.0 antillephone.com
 0.0.0.0 antitracking.owncast.online
+0.0.0.0 ants.vn
 0.0.0.0 antvoice.com
 0.0.0.0 anura.io
 0.0.0.0 anxiousapples.com
@@ -2717,7 +2719,6 @@
 0.0.0.0 cityua.net
 0.0.0.0 ciyacton.ciy.com
 0.0.0.0 cjcqls.onbuy.com
-0.0.0.0 ck-cdn.com
 0.0.0.0 ck.connatix.com
 0.0.0.0 ckozwx.n11.com
 0.0.0.0 cksfgh.jaycar.com.au
@@ -5491,6 +5492,7 @@
 0.0.0.0 gemius.mgr.consensu.org
 0.0.0.0 gemius.pl
 0.0.0.0 generaltracking.de
+0.0.0.0 genesis.malwarebytes.com
 0.0.0.0 genieedmp.com
 0.0.0.0 genieessp.jp
 0.0.0.0 genieesspv.jp
@@ -6591,6 +6593,7 @@
 0.0.0.0 ipdata.co
 0.0.0.0 iper2.com
 0.0.0.0 iperceptions.com
+0.0.0.0 ipfind.com
 0.0.0.0 ipfingerprint.com
 0.0.0.0 ipfrom.com
 0.0.0.0 ipgp.net
@@ -10516,6 +10519,7 @@
 0.0.0.0 pushex.io
 0.0.0.0 pushible.com
 0.0.0.0 pushify.com
+0.0.0.0 pushmaster-cdn.xyz
 0.0.0.0 pushnami.com
 0.0.0.0 pushwoosh.com
 0.0.0.0 puzzlingproperty.com
@@ -11985,6 +11989,7 @@
 0.0.0.0 sitetraq.nl
 0.0.0.0 sitizy.network
 0.0.0.0 sixscissors.com
+0.0.0.0 sixtrk.com
 0.0.0.0 sizesidewalk.com
 0.0.0.0 sjpf.io
 0.0.0.0 sjremetrics.java.com
@@ -13901,6 +13906,7 @@
 0.0.0.0 stats.dashbit.co
 0.0.0.0 stats.datahjaelp.net
 0.0.0.0 stats.davestewart.co.uk
+0.0.0.0 stats.davidickedelivery.com
 0.0.0.0 stats.davidlms.com
 0.0.0.0 stats.de
 0.0.0.0 stats.deutschlandsim.de
@@ -15694,6 +15700,7 @@
 0.0.0.0 tracking.oe24.at
 0.0.0.0 tracking.offerteshopping.it
 0.0.0.0 tracking.oldnational.com
+0.0.0.0 tracking.olx-st.com
 0.0.0.0 tracking.omron.cz
 0.0.0.0 tracking.omron.ru
 0.0.0.0 tracking.opentable.com
@@ -15735,6 +15742,7 @@
 0.0.0.0 tracking.sharplink.us
 0.0.0.0 tracking.shl.com
 0.0.0.0 tracking.shop.verymobile.it
+0.0.0.0 tracking.shopstyle.co.uk
 0.0.0.0 tracking.shopstyle.com
 0.0.0.0 tracking.sierrawireless.com
 0.0.0.0 tracking.skyword.com
@@ -17211,6 +17219,7 @@
 0.0.0.0 z.opmnstr.com
 0.0.0.0 z0uolej1qnxzub1.info
 0.0.0.0 z444o.com
+0.0.0.0 za.zdn.vn
 0.0.0.0 zaawds.farmae.it
 0.0.0.0 zaehler.tv
 0.0.0.0 zam.nextinpact.com
@@ -17295,7 +17304,7 @@
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2022-01-23 00:37:02.447888
+# Generated at 2022-01-30 00:38:06.383648
 
 0.0.0.0 databerries.com
 0.0.0.0 fidzup

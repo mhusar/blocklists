@@ -1,6 +1,6 @@
-# Version: 202201200759
+# Version: 202201291138
 # Title: EasyPrivacy
-# Last modified: 20 Jan 2022 07:59 UTC
+# Last modified: 29 Jan 2022 11:38 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -1630,6 +1630,7 @@ anrdoezrs.net
 ans.avast.com
 ans.milb.com
 ans.mlb.com
+answerbook.com
 answers.teradata.pl
 answerscloud.com
 antblz.mediaworld.it
@@ -1637,6 +1638,7 @@ anti-cheat.info
 antiblock.info
 antillephone.com
 antitracking.owncast.online
+ants.vn
 antvoice.com
 anura.io
 anxiousapples.com
@@ -2702,7 +2704,6 @@ citypaketet.se
 cityua.net
 ciyacton.ciy.com
 cjcqls.onbuy.com
-ck-cdn.com
 ck.connatix.com
 ckozwx.n11.com
 cksfgh.jaycar.com.au
@@ -5476,6 +5477,7 @@ gekko.spiceworks.com
 gemius.mgr.consensu.org
 gemius.pl
 generaltracking.de
+genesis.malwarebytes.com
 genieedmp.com
 genieessp.jp
 genieesspv.jp
@@ -6576,6 +6578,7 @@ ipcount.net
 ipdata.co
 iper2.com
 iperceptions.com
+ipfind.com
 ipfingerprint.com
 ipfrom.com
 ipgp.net
@@ -10501,6 +10504,7 @@ pushengage.com
 pushex.io
 pushible.com
 pushify.com
+pushmaster-cdn.xyz
 pushnami.com
 pushwoosh.com
 puzzlingproperty.com
@@ -11970,6 +11974,7 @@ sitetracker.com
 sitetraq.nl
 sitizy.network
 sixscissors.com
+sixtrk.com
 sizesidewalk.com
 sjpf.io
 sjremetrics.java.com
@@ -13886,6 +13891,7 @@ stats.dailyposter.com
 stats.dashbit.co
 stats.datahjaelp.net
 stats.davestewart.co.uk
+stats.davidickedelivery.com
 stats.davidlms.com
 stats.de
 stats.deutschlandsim.de
@@ -15679,6 +15685,7 @@ tracking.oceaneering.com
 tracking.oe24.at
 tracking.offerteshopping.it
 tracking.oldnational.com
+tracking.olx-st.com
 tracking.omron.cz
 tracking.omron.ru
 tracking.opentable.com
@@ -15720,6 +15727,7 @@ tracking.sezzle.com
 tracking.sharplink.us
 tracking.shl.com
 tracking.shop.verymobile.it
+tracking.shopstyle.co.uk
 tracking.shopstyle.com
 tracking.sierrawireless.com
 tracking.skyword.com
@@ -17196,6 +17204,7 @@ z.cdp-dev.cnn.com
 z.opmnstr.com
 z0uolej1qnxzub1.info
 z444o.com
+za.zdn.vn
 zaawds.farmae.it
 zaehler.tv
 zam.nextinpact.com
@@ -17280,7 +17289,7 @@ zz.bdstatic.com
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2022-01-23 00:37:01.678882
+# Generated at 2022-01-30 00:38:05.380647
 
 databerries.com
 fidzup
