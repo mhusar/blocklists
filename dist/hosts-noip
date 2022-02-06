@@ -1,6 +1,6 @@
-# Version: 202201291138
+# Version: 202202051118
 # Title: EasyPrivacy
-# Last modified: 29 Jan 2022 11:38 UTC
+# Last modified: 05 Feb 2022 11:18 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -179,6 +179,7 @@ a.tovarro.com
 a.visitefoz.com.br
 a013.com
 a1.api.bbc.co.uk
+a10.nationalreview.com
 a10695.actonservice.com
 a11058.actonservice.com
 a11413003.actonservice.com
@@ -7235,6 +7236,7 @@ ln.ameba.jp
 lndata.com
 lngtd.com
 lntvby.banggood.com
+loader.zeroform.com
 loansales.cbre.com
 loblhp.samsonite.ru
 localbeige.club
@@ -14717,6 +14719,7 @@ tavfri.crazysales.com.au
 tawdryson.com
 tawmbg.tower-london.com
 taxel.jp
+tbcconnect.ge
 tbe.tom.ru
 tbex.ru
 tbskip.taobao.com
@@ -14869,6 +14872,7 @@ thebrighttag.com
 thecounter.com
 thefontzone.com
 thefreehitcounter.com
+thench.net
 therapeuticcars.com
 thermstats.com
 thesearchagency.net
@@ -16292,6 +16296,7 @@ vizury.com
 vizzit.se
 vkcdnservice.com
 vkiais.brendi.pl
+vlogs.deja.media
 vlwutxd95syk.www.usa-corporate.com
 vm5apis.com
 vmm-satellite1.com
@@ -16595,6 +16600,7 @@ whoseesyou.com
 whqkyq.leasingmarkt.de
 whtopb.servihabitat.com
 why3.inseec.education
+widebundle.com
 widerplanet.com
 widget.quantcast.com
 widget.trustpilot.com
@@ -17254,6 +17260,7 @@ zminer.zaloapp.com
 znctrack.net
 znq9.destinia.mx
 zoiajw.yves-rocher.cz
+zononi.com
 zontera.com
 zoomanalytics.co
 zoomflow.com
@@ -17289,7 +17296,7 @@ zz.bdstatic.com
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2022-01-30 00:38:05.380647
+# Generated at 2022-02-06 00:44:03.289404
 
 databerries.com
 fidzup
@@ -17769,6 +17776,7 @@ aktrack.pubmatic.com
 gads.pubmatic.com
 image2.pubmatic.com
 simage2.pubmatic.com
+verify.uxcam.com
 appcelerator.com
 appcelerator.net
 ad-brix.com
