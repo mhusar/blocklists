@@ -1,6 +1,6 @@
-# Version: 202201291138
+# Version: 202202051118
 # Title: EasyPrivacy
-# Last modified: 29 Jan 2022 11:38 UTC
+# Last modified: 05 Feb 2022 11:18 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -194,6 +194,7 @@
 0.0.0.0 a.visitefoz.com.br
 0.0.0.0 a013.com
 0.0.0.0 a1.api.bbc.co.uk
+0.0.0.0 a10.nationalreview.com
 0.0.0.0 a10695.actonservice.com
 0.0.0.0 a11058.actonservice.com
 0.0.0.0 a11413003.actonservice.com
@@ -7250,6 +7251,7 @@
 0.0.0.0 lndata.com
 0.0.0.0 lngtd.com
 0.0.0.0 lntvby.banggood.com
+0.0.0.0 loader.zeroform.com
 0.0.0.0 loansales.cbre.com
 0.0.0.0 loblhp.samsonite.ru
 0.0.0.0 localbeige.club
@@ -14732,6 +14734,7 @@
 0.0.0.0 tawdryson.com
 0.0.0.0 tawmbg.tower-london.com
 0.0.0.0 taxel.jp
+0.0.0.0 tbcconnect.ge
 0.0.0.0 tbe.tom.ru
 0.0.0.0 tbex.ru
 0.0.0.0 tbskip.taobao.com
@@ -14884,6 +14887,7 @@
 0.0.0.0 thecounter.com
 0.0.0.0 thefontzone.com
 0.0.0.0 thefreehitcounter.com
+0.0.0.0 thench.net
 0.0.0.0 therapeuticcars.com
 0.0.0.0 thermstats.com
 0.0.0.0 thesearchagency.net
@@ -16307,6 +16311,7 @@
 0.0.0.0 vizzit.se
 0.0.0.0 vkcdnservice.com
 0.0.0.0 vkiais.brendi.pl
+0.0.0.0 vlogs.deja.media
 0.0.0.0 vlwutxd95syk.www.usa-corporate.com
 0.0.0.0 vm5apis.com
 0.0.0.0 vmm-satellite1.com
@@ -16610,6 +16615,7 @@
 0.0.0.0 whqkyq.leasingmarkt.de
 0.0.0.0 whtopb.servihabitat.com
 0.0.0.0 why3.inseec.education
+0.0.0.0 widebundle.com
 0.0.0.0 widerplanet.com
 0.0.0.0 widget.quantcast.com
 0.0.0.0 widget.trustpilot.com
@@ -17269,6 +17275,7 @@
 0.0.0.0 znctrack.net
 0.0.0.0 znq9.destinia.mx
 0.0.0.0 zoiajw.yves-rocher.cz
+0.0.0.0 zononi.com
 0.0.0.0 zontera.com
 0.0.0.0 zoomanalytics.co
 0.0.0.0 zoomflow.com
