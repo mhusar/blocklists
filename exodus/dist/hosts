@@ -1,6 +1,6 @@
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2022-01-30 00:38:05.380647
+# Generated at 2022-02-06 00:44:03.289404
 
 databerries.com
 fidzup
@@ -480,6 +480,7 @@ aktrack.pubmatic.com
 gads.pubmatic.com
 image2.pubmatic.com
 simage2.pubmatic.com
+verify.uxcam.com
 appcelerator.com
 appcelerator.net
 ad-brix.com
