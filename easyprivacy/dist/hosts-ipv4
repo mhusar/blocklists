@@ -1,6 +1,6 @@
-# Version: 202202130020
+# Version: 202202200024
 # Title: EasyPrivacy
-# Last modified: 13 Feb 2022 00:20 UTC
+# Last modified: 20 Feb 2022 00:24 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -1067,6 +1067,7 @@
 0.0.0.0 ad7.com
 0.0.0.0 adabra.com
 0.0.0.0 adalyser.com
+0.0.0.0 adara.com
 0.0.0.0 adb-analytics.live-now.com
 0.0.0.0 adblade.com
 0.0.0.0 adblockmetrics.ru
@@ -2506,7 +2507,6 @@
 0.0.0.0 by.bollore-logistics.com
 0.0.0.0 bydst.com
 0.0.0.0 bygr2ri20e4y.li.finance
-0.0.0.0 byside.com
 0.0.0.0 bytemgdd.com
 0.0.0.0 bzclk.baidu.com
 0.0.0.0 bzqxze.remixshop.com
@@ -2548,6 +2548,7 @@
 0.0.0.0 cache.am
 0.0.0.0 cache2.delvenetworks.com
 0.0.0.0 cactusglobal.io
+0.0.0.0 cactusmedia.com
 0.0.0.0 cadreon.com
 0.0.0.0 cahf4eed.mooo.com
 0.0.0.0 calculatingcircle.com
@@ -3576,6 +3577,7 @@
 0.0.0.0 cv.shiryoku1.com
 0.0.0.0 cvhefd.ixbt.com
 0.0.0.0 cvs.kireimo.jp
+0.0.0.0 cvt1.sibnet.ru
 0.0.0.0 cvtr.io
 0.0.0.0 cws.conviva.com
 0.0.0.0 cxense.com
@@ -5545,6 +5547,7 @@
 0.0.0.0 genieedmp.com
 0.0.0.0 genieessp.jp
 0.0.0.0 genieesspv.jp
+0.0.0.0 gentian-frd.hjapi.com
 0.0.0.0 geo-targetly.com
 0.0.0.0 geo.bluedot.io
 0.0.0.0 geo.emol.cl
@@ -6942,6 +6945,7 @@
 0.0.0.0 klarnaservices.com
 0.0.0.0 klert.com
 0.0.0.0 klldabck.com
+0.0.0.0 klm-ea.jscrambler.com
 0.0.0.0 km-sea.net
 0.0.0.0 kmindex.ru
 0.0.0.0 kmtx.io
@@ -10262,6 +10266,7 @@
 0.0.0.0 pxt.daz3d.com
 0.0.0.0 pxxhbz.apamanshop.com
 0.0.0.0 pydnsv.ejobs.ro
+0.0.0.0 pylon.micstatic.com
 0.0.0.0 pymx5.com
 0.0.0.0 pyouad.autonvaraosat24.fi
 0.0.0.0 python.jacksellwood.com
@@ -14971,6 +14976,7 @@
 0.0.0.0 track.express.de
 0.0.0.0 track.ferrari.com
 0.0.0.0 track.ferraridealers.com
+0.0.0.0 track.hujiang.com
 0.0.0.0 track.juno.com
 0.0.0.0 track.kueez.com
 0.0.0.0 track.kyoads.com
@@ -15042,6 +15048,7 @@
 0.0.0.0 trackcdn.com
 0.0.0.0 trackclicks.info
 0.0.0.0 trackcmp.net
+0.0.0.0 trackcommon.hujiang.com
 0.0.0.0 trackconsole.com
 0.0.0.0 trackeame.com
 0.0.0.0 trackedlink.net
@@ -16149,6 +16156,7 @@
 0.0.0.0 webads.eu
 0.0.0.0 webassembly.stream
 0.0.0.0 webbc.fivecdm.com
+0.0.0.0 webcare.byside.com
 0.0.0.0 webclicktracker.com
 0.0.0.0 webcompteur.com
 0.0.0.0 webcounter.co.za
