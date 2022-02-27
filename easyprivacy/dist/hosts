@@ -1,6 +1,6 @@
-# Version: 202202200024
+# Version: 202202262359
 # Title: EasyPrivacy
-# Last modified: 20 Feb 2022 00:24 UTC
+# Last modified: 26 Feb 2022 23:59 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -261,6 +261,7 @@ a18886.actonservice.com
 a19537.actonservice.com
 a19609.actonservice.com
 a19612.actonservice.com
+a1webstrategy.com
 a2.avomeen.com
 a22037.actonservice.com
 a22368.actonservice.com
@@ -1602,6 +1603,7 @@ analytics.paddle.com
 analytics.pagefly.io
 analytics.performable.com
 analytics.pgatour.com
+analytics.pgncs.notion.so
 analytics.photorank.me
 analytics.piksel.com
 analytics.pinterest.com
@@ -1644,6 +1646,7 @@ analytics.staticiv.com
 analytics.stg.springboardvideo.com
 analytics.strangeloopnetworks.com
 analytics.styria.hr
+analytics.superstructure.ai
 analytics.supplyframe.com
 analytics.surfline.com
 analytics.sweep.net
@@ -1660,6 +1663,7 @@ analytics.tntdramma.com
 analytics.tooso.ai
 analytics.top10-charts.com
 analytics.tout.com
+analytics.tradedoubler.com
 analytics.traderlink.com
 analytics.tribeca.vidavee.com
 analytics.trust.page
@@ -2139,6 +2143,7 @@ beacon.nrholding.net
 beacon.qq.com
 beacon.riskified.com
 beacon.rum.dynapis.com
+beacon.s.llnwi.net
 beacon.samsclub.com
 beacon.searchspring.io
 beacon.securestudies.com
@@ -2317,7 +2322,6 @@ blziha.intimissimi.com
 bm23.com
 bm324.com
 bmages.carte-gr.total.fr
-bmcdn2.com
 bmcm.pw
 bmfeed.ru
 bmlmedia.com
@@ -2439,7 +2443,6 @@ browser.mi-img.com
 browser.pipe.aria.microsoft.com
 browsermine.com
 browserpusher.com
-browsiprod.com
 brqory.notino.sk
 brsrvr.com
 bruisebaseball.com
@@ -2563,6 +2566,7 @@ callmeasurement.com
 callousbrake.com
 callrail.com
 callreports.com
+calltouch.ru
 calltrackingmetrics.com
 calltracks.com
 calmcactus.com
@@ -2904,6 +2908,7 @@ clicks.traffictrader.net
 clicks.variis.com
 clicksagent.com
 clicksen.se
+clickserver.libero.it
 clicksgate.com
 clickshift.com
 clickstream.co.za
@@ -3756,6 +3761,7 @@ data.decathlon.de
 data.decathlon.es
 data.decathlon.fr
 data.decathlon.it
+data.digitalks.az
 data.econa.com
 data.email-discovery.cjm.adobe.com
 data.email-disney.cjm.adobe.com
@@ -4433,6 +4439,7 @@ efficaciouscactus.com
 efficiency.nl.visma.com
 efficiency.visma.com
 efgam.actonservice.com
+efreecode.com
 efuxqe.tatilbudur.com
 eggplant.cloud
 egscnq.erlich-textil.de
@@ -5394,6 +5401,7 @@ fretfulfurniture.com
 friendbuy.com
 friendwool.com
 frightenedpotato.com
+frodx.com
 frog.wix.com
 froglytics.eventfrog.ch
 fronttoad.com
@@ -6283,6 +6291,7 @@ imrk.net
 imrtrack.com
 imrworldwide.com
 imtwjwoasak.com
+imzahrwl.xyz
 in.secure.sonosite.com
 inaudium.com
 inbound-analytics.pixlee.co
@@ -7080,6 +7089,7 @@ lead-123.com
 lead-analytics.biz
 lead-converter.com
 lead.im
+leadberry.com
 leadbi.com
 leadboxer.com
 leadchampion.com
@@ -7089,6 +7099,8 @@ leadfeeder.com
 leadforce1.com
 leadforensics.com
 leadformix.com
+leadhit.io
+leadhit.ru
 leadid.com
 leadin.com
 leadinfo.net
@@ -7471,6 +7483,7 @@ logger.snackly.co
 logger.uol.com.br
 logger.yp.ca
 logging.carambo.la
+logging.je-apps.com
 logging.prefixbox.com
 logging.wilmaa.com
 loggingapi.spingo.com
@@ -9730,6 +9743,7 @@ pietexture.com
 pigspie.com
 pikzor.com
 pimpmypr.de
+ping-admin.ru
 ping-dot-acp-magento.appspot.com
 ping-fast.com
 ping.cavelab.dev
@@ -9749,6 +9763,7 @@ pingclock.net
 pingdom.net
 pingil.com
 pingjs.qq.com
+pingmeter.com
 pingomatic.com
 pings.conviva.com
 pings.vidpulse.com
@@ -9838,6 +9853,7 @@ pjatr.com
 pjbncv.ode.co.kr
 pjh7.us.chantelle.com
 pjljqp.gap.ru
+pjstat.com
 pjtlme.rozetka.com.ua
 pjtra.com
 pjtxmd.epool.ru
@@ -10606,6 +10622,7 @@ resulticks.com
 retag.xyz
 retargeter.com.br
 retargeting.biz
+retargeting.newsmanapp.com
 retargeting.vistaprint.com
 retargetly.com
 retargettracker.com
@@ -10840,6 +10857,7 @@ sa.flux.community
 sa.scorpion.co
 sa.sky.it
 sa.tactics.com
+saa.insideedition.com
 saa.paramountplus.com
 saa.poptv.com
 saa.tescomobile.com
@@ -11548,6 +11566,7 @@ smartocto.com
 smartoffer.site
 smartology.co
 smartracker.net
+smartselling.cz
 smartworksforme.actonservice.com
 smartzonessva.com
 smashshoe.com
@@ -13205,6 +13224,7 @@ stat.novinky.cz
 stat.nyheter24.se
 stat.ouedkniss.com
 stat.ovh
+stat.pet
 stat.pl
 stat.ppstream.com
 stat.pravmir.ru
@@ -13967,6 +13987,7 @@ t-analytics.com
 t-pan.triodos.com
 t-s.rituxan.com
 t-staging.powerreviews.com
+t.91syun.com
 t.9gag.com
 t.a3cloud.net
 t.ac.pandora.com
@@ -14947,6 +14968,7 @@ track-re01.com
 track-server-100.com
 track-srv.vietnamnet.vn
 track-web.net
+track.91app.io
 track.99acres.com
 track.addevent.com
 track.atgstores.com
@@ -14984,10 +15006,12 @@ track.laredoute.fr
 track.leady.cz
 track.lexico.com
 track.mailerlite.com
+track.mituo.cn
 track.mp4.center
 track.mycliplister.com
 track.netzero.net
 track.noddus.com
+track.nopaperforms.com
 track.noz.de
 track.omgpl.com
 track.pexi.nl
@@ -15079,6 +15103,7 @@ tracker.marinsoftware.com
 tracker.mrpfd.com
 tracker.mspy.com
 tracker.nbcuas.com
+tracker.nitropay.com
 tracker.providence.org
 tracker.publico.pt
 tracker.roitesting.com
@@ -15435,6 +15460,7 @@ tracks3.ferrari.com
 trackset.com
 trackset.it
 trackside.redbull.racing
+tracksmart.se
 tracksrv.zdf.de
 tracksy.com
 trackword.biz
@@ -15978,6 +16004,7 @@ vizisense.net
 vizury.com
 vizzit.se
 vjmqdx.nozhikov.ru
+vkanalytics.net
 vkcdnservice.com
 vlogs.deja.media
 vm5apis.com
