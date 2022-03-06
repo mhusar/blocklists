@@ -1,6 +1,6 @@
-# Version: 202202262359
+# Version: 202203060026
 # Title: EasyPrivacy
-# Last modified: 26 Feb 2022 23:59 UTC
+# Last modified: 06 Mar 2022 00:26 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -145,6 +145,7 @@
 99counters.com
 99stats.com
 9nl.eu
+9w2zed1szg.execute-api.us-east-1.amazonaws.com
 a-api.skz.dev
 a-calc.com
 a-calc.de
@@ -2136,6 +2137,7 @@ bdwblog.eastmoney.com
 bdzcck.stadiumgoods.com
 beacon.affil.walmart.com
 beacon.aimtell.com
+beacon.cdnma.com
 beacon.errorception.com
 beacon.flow.io
 beacon.kmi-us.com
@@ -2776,7 +2778,6 @@ cifraclub.com.br
 cijfers.tweakers.nl
 cil.isotope.com
 cimage.adobe.com
-cint.com
 cintnetworks.com
 circadence.actonservice.com
 circle.am
@@ -3082,6 +3083,7 @@ collecting.click
 collector-api.99designs.com
 collector-px0py5pczn.octopart.com
 collector.automote.co.nz
+collector.cint.com
 collector.clareity.net
 collector.contentexchange.me
 collector.getyourguide.com
@@ -3590,6 +3592,7 @@ cxrfns.gu-global.com
 cxt.ms
 cya1t.net
 cya2.net
+cybba.solutions
 cyber-pages.att.com
 cyber-tracking.att.com
 cyber.aonunited.com
@@ -5442,6 +5445,7 @@ fun-hits.com
 functionalcrown.com
 fundraising.centuryresources.com
 funneld.com
+funnelytics.io
 funnyairplane.com
 funstage.com
 furryhorses.com
@@ -5725,7 +5729,6 @@ go.emersonautomation.com
 go.federalbank.co.in
 go.foremostmedia.com
 go.fuze.com
-go.fvtc.edu
 go.getherculestires.com
 go.gpcom.com
 go.hager.com
@@ -9095,6 +9098,7 @@ nik.io
 nil.naver.com
 nimblebird.co
 nimbleswan.io
+nimiq.com
 nimiqpool.com
 nimiqtest.net
 nimpool.io
@@ -10578,6 +10582,7 @@ res.elle.fr
 res.femina.fr
 res.franc-tireur.fr
 res.francedimanche.fr
+res.paruvendu.fr
 res.programme-television.org
 res.public.fr
 res.rbl.ms
@@ -11018,6 +11023,7 @@ screechingslip.com
 screechingstove.com
 scribe.wongnai.com
 scrippscontroller.com
+script-sh.d2cdm.jp
 script.ag
 scriptil.com
 scripts.psyma.com
@@ -11420,6 +11426,7 @@ shoppers-test.instacartemail.com
 shoppers.instacartemail.com
 shopping.cellpure.co.jp
 shoppingguarantee.digicert.com
+shoptarget.com.br
 shoptimally.com
 showheroes.com
 showroomlogic.com
@@ -16030,6 +16037,7 @@ vortex.hulu.com
 votistics.com
 vpf4.euskaltelofertas.com
 vpmdiq.propertyfinder.qa
+vpn-access.site
 vpn4-238.net.zooplus.fr
 vpnuyy.carters.com
 vppst.iltrovatore.it
@@ -16317,6 +16325,7 @@ whosclickingwho.com
 whoseesyou.com
 whrsen.itemmania.com
 why3.inseec.education
+wickedreports.com
 widerplanet.com
 widget.quantcast.com
 widget.trustpilot.com
@@ -17006,6 +17015,7 @@ zebestof.com
 zedwhyex.com
 zeerat.com
 zelten.fritz-berger.de
+zenaps.com
 zeotap.com
 zero.kz
 zeronaught.com
