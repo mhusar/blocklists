@@ -1,6 +1,6 @@
-# Version: 202202262359
+# Version: 202203060026
 # Title: EasyPrivacy
-# Last modified: 26 Feb 2022 23:59 UTC
+# Last modified: 06 Mar 2022 00:26 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -145,6 +145,7 @@
 0.0.0.0 99counters.com
 0.0.0.0 99stats.com
 0.0.0.0 9nl.eu
+0.0.0.0 9w2zed1szg.execute-api.us-east-1.amazonaws.com
 0.0.0.0 a-api.skz.dev
 0.0.0.0 a-calc.com
 0.0.0.0 a-calc.de
@@ -2136,6 +2137,7 @@
 0.0.0.0 bdzcck.stadiumgoods.com
 0.0.0.0 beacon.affil.walmart.com
 0.0.0.0 beacon.aimtell.com
+0.0.0.0 beacon.cdnma.com
 0.0.0.0 beacon.errorception.com
 0.0.0.0 beacon.flow.io
 0.0.0.0 beacon.kmi-us.com
@@ -2776,7 +2778,6 @@
 0.0.0.0 cijfers.tweakers.nl
 0.0.0.0 cil.isotope.com
 0.0.0.0 cimage.adobe.com
-0.0.0.0 cint.com
 0.0.0.0 cintnetworks.com
 0.0.0.0 circadence.actonservice.com
 0.0.0.0 circle.am
@@ -3082,6 +3083,7 @@
 0.0.0.0 collector-api.99designs.com
 0.0.0.0 collector-px0py5pczn.octopart.com
 0.0.0.0 collector.automote.co.nz
+0.0.0.0 collector.cint.com
 0.0.0.0 collector.clareity.net
 0.0.0.0 collector.contentexchange.me
 0.0.0.0 collector.getyourguide.com
@@ -3590,6 +3592,7 @@
 0.0.0.0 cxt.ms
 0.0.0.0 cya1t.net
 0.0.0.0 cya2.net
+0.0.0.0 cybba.solutions
 0.0.0.0 cyber-pages.att.com
 0.0.0.0 cyber-tracking.att.com
 0.0.0.0 cyber.aonunited.com
@@ -5442,6 +5445,7 @@
 0.0.0.0 functionalcrown.com
 0.0.0.0 fundraising.centuryresources.com
 0.0.0.0 funneld.com
+0.0.0.0 funnelytics.io
 0.0.0.0 funnyairplane.com
 0.0.0.0 funstage.com
 0.0.0.0 furryhorses.com
@@ -5725,7 +5729,6 @@
 0.0.0.0 go.federalbank.co.in
 0.0.0.0 go.foremostmedia.com
 0.0.0.0 go.fuze.com
-0.0.0.0 go.fvtc.edu
 0.0.0.0 go.getherculestires.com
 0.0.0.0 go.gpcom.com
 0.0.0.0 go.hager.com
@@ -9095,6 +9098,7 @@
 0.0.0.0 nil.naver.com
 0.0.0.0 nimblebird.co
 0.0.0.0 nimbleswan.io
+0.0.0.0 nimiq.com
 0.0.0.0 nimiqpool.com
 0.0.0.0 nimiqtest.net
 0.0.0.0 nimpool.io
@@ -10578,6 +10582,7 @@
 0.0.0.0 res.femina.fr
 0.0.0.0 res.franc-tireur.fr
 0.0.0.0 res.francedimanche.fr
+0.0.0.0 res.paruvendu.fr
 0.0.0.0 res.programme-television.org
 0.0.0.0 res.public.fr
 0.0.0.0 res.rbl.ms
@@ -11018,6 +11023,7 @@
 0.0.0.0 screechingstove.com
 0.0.0.0 scribe.wongnai.com
 0.0.0.0 scrippscontroller.com
+0.0.0.0 script-sh.d2cdm.jp
 0.0.0.0 script.ag
 0.0.0.0 scriptil.com
 0.0.0.0 scripts.psyma.com
@@ -11420,6 +11426,7 @@
 0.0.0.0 shoppers.instacartemail.com
 0.0.0.0 shopping.cellpure.co.jp
 0.0.0.0 shoppingguarantee.digicert.com
+0.0.0.0 shoptarget.com.br
 0.0.0.0 shoptimally.com
 0.0.0.0 showheroes.com
 0.0.0.0 showroomlogic.com
@@ -16030,6 +16037,7 @@
 0.0.0.0 votistics.com
 0.0.0.0 vpf4.euskaltelofertas.com
 0.0.0.0 vpmdiq.propertyfinder.qa
+0.0.0.0 vpn-access.site
 0.0.0.0 vpn4-238.net.zooplus.fr
 0.0.0.0 vpnuyy.carters.com
 0.0.0.0 vppst.iltrovatore.it
@@ -16317,6 +16325,7 @@
 0.0.0.0 whoseesyou.com
 0.0.0.0 whrsen.itemmania.com
 0.0.0.0 why3.inseec.education
+0.0.0.0 wickedreports.com
 0.0.0.0 widerplanet.com
 0.0.0.0 widget.quantcast.com
 0.0.0.0 widget.trustpilot.com
@@ -17006,6 +17015,7 @@
 0.0.0.0 zedwhyex.com
 0.0.0.0 zeerat.com
 0.0.0.0 zelten.fritz-berger.de
+0.0.0.0 zenaps.com
 0.0.0.0 zeotap.com
 0.0.0.0 zero.kz
 0.0.0.0 zeronaught.com
@@ -17077,7 +17087,7 @@
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2022-02-27 00:47:07.034099
+# Generated at 2022-03-06 00:45:32.856199
 
 0.0.0.0 databerries.com
 0.0.0.0 fidzup
