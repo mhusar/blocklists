@@ -1,6 +1,6 @@
-# Version: 202203060026
+# Version: 202203122121
 # Title: EasyPrivacy
-# Last modified: 06 Mar 2022 00:26 UTC
+# Last modified: 12 Mar 2022 21:21 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -133,6 +133,7 @@
 0.0.0.0 8147563.thekingdom.bk.com
 0.0.0.0 8147563.your-way.bk.com
 0.0.0.0 82o9v830.com
+0.0.0.0 8672.site
 0.0.0.0 8ehhtsv9bo7i.monkeylearn.com
 0.0.0.0 8ezc.sfr.fr
 0.0.0.0 8p0kiyq5mq1d.flex.team
@@ -1093,6 +1094,7 @@
 0.0.0.0 adcrowd.com
 0.0.0.0 addfreestats.com
 0.0.0.0 additionant.com
+0.0.0.0 addwish.com
 0.0.0.0 adebis-52667624.wowma.jp
 0.0.0.0 adebis-morijuku.morijuku.com
 0.0.0.0 adebis-rikon.vbest.jp
@@ -1501,6 +1503,7 @@
 0.0.0.0 analytics.contents.by-fw.jp
 0.0.0.0 analytics.convertlanguage.com
 0.0.0.0 analytics.cynapse.com
+0.0.0.0 analytics.daasrv.net
 0.0.0.0 analytics.data.lloydsbankinggroup.com
 0.0.0.0 analytics.datahc.com
 0.0.0.0 analytics.designspiration.com
@@ -2436,7 +2439,9 @@
 0.0.0.0 broaddoor.com
 0.0.0.0 brominer.com
 0.0.0.0 bronto.com
+0.0.0.0 brontops.com
 0.0.0.0 brothersbucket.com
+0.0.0.0 browser-intake-datadoghq.com
 0.0.0.0 browser-statistik.de
 0.0.0.0 browser-update.org
 0.0.0.0 browser-updater.yandex.net
@@ -2590,6 +2595,7 @@
 0.0.0.0 campaign.ssab.com
 0.0.0.0 campaigncog.com
 0.0.0.0 campaigninfo.motorolasolutions.com
+0.0.0.0 campaignmonitor.com
 0.0.0.0 campaignresources.motorolasolutions.com
 0.0.0.0 campaigns.amadeus.com
 0.0.0.0 campaigns.ashfieldengage.com
@@ -2621,6 +2627,7 @@
 0.0.0.0 capture-api.ap3prod.com
 0.0.0.0 capture.condenastdigital.com
 0.0.0.0 capture.trackjs.com
+0.0.0.0 capturehighered.net
 0.0.0.0 capturemedia.network
 0.0.0.0 capturly.com
 0.0.0.0 carambo.la
@@ -3052,7 +3059,6 @@
 0.0.0.0 cognitivlabs.com
 0.0.0.0 cohesionapps.com
 0.0.0.0 coin-have.com
-0.0.0.0 coin-hive.com
 0.0.0.0 coinerra.com
 0.0.0.0 coinhiveproxy.com
 0.0.0.0 coinminerz.com
@@ -4160,6 +4166,7 @@
 0.0.0.0 dragzebra.com
 0.0.0.0 dramaticcondition.com
 0.0.0.0 dramaticdirection.com
+0.0.0.0 dratingmaject.com
 0.0.0.0 drawermice.com
 0.0.0.0 drawservant.com
 0.0.0.0 dreamcounter.de
@@ -6057,6 +6064,7 @@
 0.0.0.0 hits.eluniversal.com.mx
 0.0.0.0 hits.informer.com
 0.0.0.0 hits.io
+0.0.0.0 hits.porn.fr
 0.0.0.0 hits.zdnet.co.kr
 0.0.0.0 hits2u.com
 0.0.0.0 hitserver.ibope.com.br
@@ -6574,6 +6582,7 @@
 0.0.0.0 ingage.tech
 0.0.0.0 ingenioustech.biz
 0.0.0.0 ingest.make.rvapps.io
+0.0.0.0 ingress.linktr.ee
 0.0.0.0 inimbus.com.au
 0.0.0.0 inistrack.net
 0.0.0.0 inkubate.actonservice.com
@@ -6901,6 +6910,7 @@
 0.0.0.0 k3node.com
 0.0.0.0 k4fu.verif.com
 0.0.0.0 k54nw.pw
+0.0.0.0 k5a.io
 0.0.0.0 ka.ilius.net
 0.0.0.0 kabokc.webuy.com
 0.0.0.0 kaden.netoff.co.jp
@@ -7116,6 +7126,7 @@
 0.0.0.0 leadpages.net
 0.0.0.0 leadsius.com
 0.0.0.0 leadslabpixels.net
+0.0.0.0 leadsleap.com
 0.0.0.0 leadsmonitor.io
 0.0.0.0 leadsrx.com
 0.0.0.0 leadtracking.plumvoice.com
@@ -7679,6 +7690,7 @@
 0.0.0.0 macromill.com
 0.0.0.0 maddeningpowder.com
 0.0.0.0 madetoconnect.summit-broadband.com
+0.0.0.0 madkudu.com
 0.0.0.0 madnet.ru
 0.0.0.0 maformationofficinale.actonservice.com
 0.0.0.0 magicpixel.io
@@ -9727,6 +9739,7 @@
 0.0.0.0 phadia.thermofisher.com
 0.0.0.0 phar.gu-web.net
 0.0.0.0 phczhg.johnjohndenim.com.br
+0.0.0.0 phenompeople.com
 0.0.0.0 phgnxd.nike.com.br
 0.0.0.0 phjzsx.elevit.jp
 0.0.0.0 phonalytics.com
@@ -10488,6 +10501,7 @@
 0.0.0.0 reauthenticator.com
 0.0.0.0 rebelsubway.com
 0.0.0.0 rec.udn.com
+0.0.0.0 recapture.io
 0.0.0.0 receptivebranch.com
 0.0.0.0 receptiveink.com
 0.0.0.0 receptivereaction.com
@@ -14299,6 +14313,7 @@
 0.0.0.0 telemetry.adobe.io
 0.0.0.0 telemetry.api.playstation.com
 0.0.0.0 telemetry.jivosite.com
+0.0.0.0 telemetry.phenixrts.com
 0.0.0.0 telemetry.reembed.com
 0.0.0.0 telemetry.soundcloud.com
 0.0.0.0 telemetry.tableausoftware.com
@@ -15367,6 +15382,7 @@
 0.0.0.0 tracking.searchmarketing.com
 0.0.0.0 tracking.selective.com
 0.0.0.0 tracking.sembox.it
+0.0.0.0 tracking.sexcash.com
 0.0.0.0 tracking.sezzle.com
 0.0.0.0 tracking.sfitrucks.com
 0.0.0.0 tracking.sharplink.us
@@ -15716,6 +15732,7 @@
 0.0.0.0 ubmitt.heine.ch
 0.0.0.0 ubmups.houseofindya.com
 0.0.0.0 ubt.berlingskemedia.net
+0.0.0.0 ubuyanalytics.ubuy.com
 0.0.0.0 ubvsjh.pointtown.com
 0.0.0.0 ubxvdx.accuweather.com
 0.0.0.0 uciservice.com
