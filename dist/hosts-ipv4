@@ -1,6 +1,6 @@
-# Version: 202203122121
+# Version: 202203200031
 # Title: EasyPrivacy
-# Last modified: 12 Mar 2022 21:21 UTC
+# Last modified: 20 Mar 2022 00:31 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -1091,6 +1091,7 @@
 0.0.0.0 adchemy-content.com
 0.0.0.0 adchemy.com
 0.0.0.0 adclear.net
+0.0.0.0 adcontroll.com
 0.0.0.0 adcrowd.com
 0.0.0.0 addfreestats.com
 0.0.0.0 additionant.com
@@ -1533,6 +1534,7 @@
 0.0.0.0 analytics.footballdb.com
 0.0.0.0 analytics.foresee.com
 0.0.0.0 analytics.forgetwp.com
+0.0.0.0 analytics.formstack.com
 0.0.0.0 analytics.freespee.com
 0.0.0.0 analytics.gamedatacrunch.com
 0.0.0.0 analytics.gameforge.de
@@ -1553,6 +1555,7 @@
 0.0.0.0 analytics.humanautomation.ai
 0.0.0.0 analytics.infobae.com
 0.0.0.0 analytics.inform.com
+0.0.0.0 analytics.iraiser.eu
 0.0.0.0 analytics.ishopchangi.com
 0.0.0.0 analytics.itsnoahevans.co.uk
 0.0.0.0 analytics.joincambridge.com
@@ -2291,6 +2294,7 @@
 0.0.0.0 bldr.mkt.samsung.com
 0.0.0.0 blinks.mindoktor.se
 0.0.0.0 blip.bizrate.com
+0.0.0.0 blitz-analytics-batch-server.blitz.gg
 0.0.0.0 blockbreaker.io
 0.0.0.0 blockdetector.org
 0.0.0.0 blockmetrics.com
@@ -2651,6 +2655,7 @@
 0.0.0.0 carswellmedia.thomsonreuterscanada.ca
 0.0.0.0 carte.fleet-page.total.fr
 0.0.0.0 carts.guru
+0.0.0.0 cartstack.com
 0.0.0.0 casalemedia.com
 0.0.0.0 cascadion.thermofisher.com
 0.0.0.0 cashbeet.com
@@ -2870,6 +2875,8 @@
 0.0.0.0 click1.e.thechive.com
 0.0.0.0 click1.mail.paltalkpeople.com
 0.0.0.0 click2.email.ticketmaster.com
+0.0.0.0 click360.io
+0.0.0.0 click360v2-ingest.azurewebsites.net
 0.0.0.0 click4assistance.co.uk
 0.0.0.0 clickable.net
 0.0.0.0 clickaider.com
@@ -2958,6 +2965,7 @@
 0.0.0.0 closedcows.com
 0.0.0.0 cloud-exploration.com
 0.0.0.0 cloud-iq.com
+0.0.0.0 cloud-iq.com.au
 0.0.0.0 cloud-miner.de
 0.0.0.0 cloud-miner.eu
 0.0.0.0 cloud.aspiresys.com
@@ -2965,6 +2973,7 @@
 0.0.0.0 cloudflareinsights.com
 0.0.0.0 cloudfront-labs.amazonaws.com
 0.0.0.0 cloudfront.net
+0.0.0.0 cloudiq.com
 0.0.0.0 cloudsdestruction.com
 0.0.0.0 cloudtracer101.com
 0.0.0.0 cloudwp.io
@@ -4439,6 +4448,7 @@
 0.0.0.0 education.greatbatch.com
 0.0.0.0 education.moodybible.org
 0.0.0.0 education.seek.intel.com
+0.0.0.0 educationdynamics.com
 0.0.0.0 eec.crunchyroll.com
 0.0.0.0 eeco-net.actonservice.com
 0.0.0.0 eel.transistor.fm
@@ -4819,6 +4829,7 @@
 0.0.0.0 enticelabs.com
 0.0.0.0 entravision.com
 0.0.0.0 entryhit.wp.pl
+0.0.0.0 enviou.com.br
 0.0.0.0 enviousshape.com
 0.0.0.0 enviousthread.com
 0.0.0.0 eolcdn.com
@@ -4838,6 +4849,7 @@
 0.0.0.0 eqclicks.movember.com
 0.0.0.0 eqs.intuit.com
 0.0.0.0 eqtrack.americashomeplace.com
+0.0.0.0 eqy.link
 0.0.0.0 erate.co.il
 0.0.0.0 erb.tremblant.ca
 0.0.0.0 ereportz.com
@@ -6229,6 +6241,7 @@
 0.0.0.0 idot.cz
 0.0.0.0 idqwqm.kkday.com
 0.0.0.0 idtargeting.com
+0.0.0.0 idx.lat
 0.0.0.0 iedc.fitbit.com
 0.0.0.0 iesnare.com
 0.0.0.0 ifactz.com
@@ -7128,6 +7141,7 @@
 0.0.0.0 leadslabpixels.net
 0.0.0.0 leadsleap.com
 0.0.0.0 leadsmonitor.io
+0.0.0.0 leadspace.com
 0.0.0.0 leadsrx.com
 0.0.0.0 leadtracking.plumvoice.com
 0.0.0.0 leadvision.dotmailer.co.uk
@@ -9404,6 +9418,7 @@
 0.0.0.0 opportunity.businessbroker.net
 0.0.0.0 oppositeoperation.com
 0.0.0.0 opps.taboola.com
+0.0.0.0 oppuz.com
 0.0.0.0 oproi.com
 0.0.0.0 ops.bpost.be
 0.0.0.0 opslegacy.toolbar.net.zooplus.com
@@ -9739,7 +9754,6 @@
 0.0.0.0 phadia.thermofisher.com
 0.0.0.0 phar.gu-web.net
 0.0.0.0 phczhg.johnjohndenim.com.br
-0.0.0.0 phenompeople.com
 0.0.0.0 phgnxd.nike.com.br
 0.0.0.0 phjzsx.elevit.jp
 0.0.0.0 phonalytics.com
@@ -9758,6 +9772,7 @@
 0.0.0.0 piddme.buyma.com
 0.0.0.0 pietexture.com
 0.0.0.0 pigspie.com
+0.0.0.0 pijper.io
 0.0.0.0 pikzor.com
 0.0.0.0 pimpmypr.de
 0.0.0.0 ping-admin.ru
@@ -10003,6 +10018,7 @@
 0.0.0.0 pm14.com
 0.0.0.0 pmbox.biz
 0.0.0.0 pmetrics.performancing.com
+0.0.0.0 pmweb.com.br
 0.0.0.0 pnfkhu.hygi.de
 0.0.0.0 pnhesw.jtb.co.jp
 0.0.0.0 pnnpan.cv-library.co.uk
@@ -10410,6 +10426,7 @@
 0.0.0.0 r42tag.com
 0.0.0.0 r4nds.absorba.com
 0.0.0.0 r7ls.net
+0.0.0.0 raac33.net
 0.0.0.0 rabbitbreath.com
 0.0.0.0 rabbitrifle.com
 0.0.0.0 radar.imgsmail.ru
@@ -10505,7 +10522,6 @@
 0.0.0.0 receptivebranch.com
 0.0.0.0 receptiveink.com
 0.0.0.0 receptivereaction.com
-0.0.0.0 reciteme.com
 0.0.0.0 recognified.net
 0.0.0.0 recommenddoor.com
 0.0.0.0 reconditeprison.com
@@ -12946,6 +12962,7 @@
 0.0.0.0 spideraf.com
 0.0.0.0 spidersboats.com
 0.0.0.0 spiffymachine.com
+0.0.0.0 spinnaker-js.com
 0.0.0.0 spirebaboon.com
 0.0.0.0 spklw.com
 0.0.0.0 splitbee.io
@@ -13776,6 +13793,7 @@
 0.0.0.0 stats.yourdallashandyman.com
 0.0.0.0 stats.zander.wtf
 0.0.0.0 stats.zone-annuaire.one
+0.0.0.0 stats.zone-telechargement.click
 0.0.0.0 stats.zotabox.com
 0.0.0.0 stats1.tune.pk
 0.0.0.0 stats2.algo.at
@@ -14410,6 +14428,7 @@
 0.0.0.0 throattrees.com
 0.0.0.0 thrtle.com
 0.0.0.0 thumos.fileside.app
+0.0.0.0 thunderhead.com
 0.0.0.0 thunderingrose.com
 0.0.0.0 ticketaunt.com
 0.0.0.0 ticklesign.com
@@ -15535,6 +15554,7 @@
 0.0.0.0 traversedlp.com
 0.0.0.0 trbas.com
 0.0.0.0 trbo.com
+0.0.0.0 trc.caravas.jp
 0.0.0.0 trc.pushnami.com
 0.0.0.0 trck.bdi-services.de
 0.0.0.0 trck.rework-s.com
@@ -16346,6 +16366,7 @@
 0.0.0.0 widerplanet.com
 0.0.0.0 widget.quantcast.com
 0.0.0.0 widget.trustpilot.com
+0.0.0.0 widgetbe.com
 0.0.0.0 widgets.trustedshops.com
 0.0.0.0 wigglygeese.com
 0.0.0.0 wigglyindustry.com
@@ -17104,7 +17125,7 @@
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2022-03-13 00:44:38.192219
+# Generated at 2022-03-20 00:47:38.946447
 
 0.0.0.0 databerries.com
 0.0.0.0 fidzup

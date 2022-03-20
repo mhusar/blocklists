@@ -1,6 +1,6 @@
-# Version: 202203122121
+# Version: 202203200031
 # Title: EasyPrivacy
-# Last modified: 12 Mar 2022 21:21 UTC
+# Last modified: 20 Mar 2022 00:31 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -1078,6 +1078,7 @@ adchemix.com
 adchemy-content.com
 adchemy.com
 adclear.net
+adcontroll.com
 adcrowd.com
 addfreestats.com
 additionant.com
@@ -1520,6 +1521,7 @@ analytics.firespring.com
 analytics.footballdb.com
 analytics.foresee.com
 analytics.forgetwp.com
+analytics.formstack.com
 analytics.freespee.com
 analytics.gamedatacrunch.com
 analytics.gameforge.de
@@ -1540,6 +1542,7 @@ analytics.hotelclub.com
 analytics.humanautomation.ai
 analytics.infobae.com
 analytics.inform.com
+analytics.iraiser.eu
 analytics.ishopchangi.com
 analytics.itsnoahevans.co.uk
 analytics.joincambridge.com
@@ -2278,6 +2281,7 @@ blaick.com
 bldr.mkt.samsung.com
 blinks.mindoktor.se
 blip.bizrate.com
+blitz-analytics-batch-server.blitz.gg
 blockbreaker.io
 blockdetector.org
 blockmetrics.com
@@ -2638,6 +2642,7 @@ carscannon.com
 carswellmedia.thomsonreuterscanada.ca
 carte.fleet-page.total.fr
 carts.guru
+cartstack.com
 casalemedia.com
 cascadion.thermofisher.com
 cashbeet.com
@@ -2857,6 +2862,8 @@ click1.e.radio.com
 click1.e.thechive.com
 click1.mail.paltalkpeople.com
 click2.email.ticketmaster.com
+click360.io
+click360v2-ingest.azurewebsites.net
 click4assistance.co.uk
 clickable.net
 clickaider.com
@@ -2945,6 +2952,7 @@ cloisteredhydrant.com
 closedcows.com
 cloud-exploration.com
 cloud-iq.com
+cloud-iq.com.au
 cloud-miner.de
 cloud-miner.eu
 cloud.aspiresys.com
@@ -2952,6 +2960,7 @@ clouderrorreporting.googleapis.com
 cloudflareinsights.com
 cloudfront-labs.amazonaws.com
 cloudfront.net
+cloudiq.com
 cloudsdestruction.com
 cloudtracer101.com
 cloudwp.io
@@ -4426,6 +4435,7 @@ education.graduateprogram.org
 education.greatbatch.com
 education.moodybible.org
 education.seek.intel.com
+educationdynamics.com
 eec.crunchyroll.com
 eeco-net.actonservice.com
 eel.transistor.fm
@@ -4806,6 +4816,7 @@ enthusiasticring.com
 enticelabs.com
 entravision.com
 entryhit.wp.pl
+enviou.com.br
 enviousshape.com
 enviousthread.com
 eolcdn.com
@@ -4825,6 +4836,7 @@ eps-analyzer.de
 eqclicks.movember.com
 eqs.intuit.com
 eqtrack.americashomeplace.com
+eqy.link
 erate.co.il
 erb.tremblant.ca
 ereportz.com
@@ -6216,6 +6228,7 @@ idntfy.ru
 idot.cz
 idqwqm.kkday.com
 idtargeting.com
+idx.lat
 iedc.fitbit.com
 iesnare.com
 ifactz.com
@@ -7115,6 +7128,7 @@ leadsius.com
 leadslabpixels.net
 leadsleap.com
 leadsmonitor.io
+leadspace.com
 leadsrx.com
 leadtracking.plumvoice.com
 leadvision.dotmailer.co.uk
@@ -9391,6 +9405,7 @@ opinionsurprise.com
 opportunity.businessbroker.net
 oppositeoperation.com
 opps.taboola.com
+oppuz.com
 oproi.com
 ops.bpost.be
 opslegacy.toolbar.net.zooplus.com
@@ -9726,7 +9741,6 @@ pgt1.voyage-prive.es
 phadia.thermofisher.com
 phar.gu-web.net
 phczhg.johnjohndenim.com.br
-phenompeople.com
 phgnxd.nike.com.br
 phjzsx.elevit.jp
 phonalytics.com
@@ -9745,6 +9759,7 @@ pi.technik3d.com
 piddme.buyma.com
 pietexture.com
 pigspie.com
+pijper.io
 pikzor.com
 pimpmypr.de
 ping-admin.ru
@@ -9990,6 +10005,7 @@ pm0.net
 pm14.com
 pmbox.biz
 pmetrics.performancing.com
+pmweb.com.br
 pnfkhu.hygi.de
 pnhesw.jtb.co.jp
 pnnpan.cv-library.co.uk
@@ -10397,6 +10413,7 @@ r2b2.io
 r42tag.com
 r4nds.absorba.com
 r7ls.net
+raac33.net
 rabbitbreath.com
 rabbitrifle.com
 radar.imgsmail.ru
@@ -10492,7 +10509,6 @@ recapture.io
 receptivebranch.com
 receptiveink.com
 receptivereaction.com
-reciteme.com
 recognified.net
 recommenddoor.com
 reconditeprison.com
@@ -12933,6 +12949,7 @@ spider-mich.com
 spideraf.com
 spidersboats.com
 spiffymachine.com
+spinnaker-js.com
 spirebaboon.com
 spklw.com
 splitbee.io
@@ -13763,6 +13780,7 @@ stats.yinyuetai.com
 stats.yourdallashandyman.com
 stats.zander.wtf
 stats.zone-annuaire.one
+stats.zone-telechargement.click
 stats.zotabox.com
 stats1.tune.pk
 stats2.algo.at
@@ -14397,6 +14415,7 @@ threetruck.com
 throattrees.com
 thrtle.com
 thumos.fileside.app
+thunderhead.com
 thunderingrose.com
 ticketaunt.com
 ticklesign.com
@@ -15522,6 +15541,7 @@ travelmarketreport.actonservice.com
 traversedlp.com
 trbas.com
 trbo.com
+trc.caravas.jp
 trc.pushnami.com
 trck.bdi-services.de
 trck.rework-s.com
@@ -16333,6 +16353,7 @@ wickedreports.com
 widerplanet.com
 widget.quantcast.com
 widget.trustpilot.com
+widgetbe.com
 widgets.trustedshops.com
 wigglygeese.com
 wigglyindustry.com
@@ -17091,7 +17112,7 @@ zz.bdstatic.com
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2022-03-13 00:44:36.882551
+# Generated at 2022-03-20 00:47:37.627927
 
 databerries.com
 fidzup
