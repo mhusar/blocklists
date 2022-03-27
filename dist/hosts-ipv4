@@ -1,6 +1,6 @@
-# Version: 202203200031
+# Version: 202203262316
 # Title: EasyPrivacy
-# Last modified: 20 Mar 2022 00:31 UTC
+# Last modified: 26 Mar 2022 23:16 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -1501,6 +1501,7 @@
 0.0.0.0 analytics.competitoor.com
 0.0.0.0 analytics.comunio.de
 0.0.0.0 analytics.comunio.net
+0.0.0.0 analytics.contentexchange.me
 0.0.0.0 analytics.contents.by-fw.jp
 0.0.0.0 analytics.convertlanguage.com
 0.0.0.0 analytics.cynapse.com
@@ -2019,6 +2020,7 @@
 0.0.0.0 awesome.section.io
 0.0.0.0 awesomeagreement.com
 0.0.0.0 awesomelytics.com
+0.0.0.0 awfonts.com
 0.0.0.0 awfzfs.kwantum.nl
 0.0.0.0 awin1.com
 0.0.0.0 awogtl.1stopbedrooms.com
@@ -2667,6 +2669,7 @@
 0.0.0.0 catracking.finning.com
 0.0.0.0 cats.d20.rs
 0.0.0.0 catschickens.com
+0.0.0.0 catsys.jp
 0.0.0.0 causecherry.com
 0.0.0.0 cautiouscrate.com
 0.0.0.0 cautiouscredit.com
@@ -6077,6 +6080,7 @@
 0.0.0.0 hits.informer.com
 0.0.0.0 hits.io
 0.0.0.0 hits.porn.fr
+0.0.0.0 hits.tf.rs
 0.0.0.0 hits.zdnet.co.kr
 0.0.0.0 hits2u.com
 0.0.0.0 hitserver.ibope.com.br
@@ -8341,6 +8345,7 @@
 0.0.0.0 meet.westuc.com
 0.0.0.0 meetrics.net
 0.0.0.0 mega-stats.com
+0.0.0.0 megadata.co.kr
 0.0.0.0 megastats.net
 0.0.0.0 megavisites.com
 0.0.0.0 melodicminute.com
@@ -9710,6 +9715,7 @@
 0.0.0.0 perf.af.eficads.com
 0.0.0.0 perf.af.funneldrivers.com
 0.0.0.0 perf.dugout.com
+0.0.0.0 perf.hsforms.com
 0.0.0.0 perf.mouser.com
 0.0.0.0 perfalytics.com
 0.0.0.0 perfdrive.com
@@ -13384,6 +13390,7 @@
 0.0.0.0 stats.big-boards.com
 0.0.0.0 stats.bimbase.nl
 0.0.0.0 stats.birgun.net
+0.0.0.0 stats.bitban.com
 0.0.0.0 stats.bitgravity.com
 0.0.0.0 stats.bitpost.app
 0.0.0.0 stats.blockleviton.com
@@ -14360,6 +14367,7 @@
 0.0.0.0 test-fleet-eml.postmates.com
 0.0.0.0 test-marketing.net.zooplus.it
 0.0.0.0 test.customers.instacartemail.com
+0.0.0.0 test.vast
 0.0.0.0 testbed.net.zooplus.de
 0.0.0.0 testedtouch.com
 0.0.0.0 tester-mail.net.zooplus.it
@@ -15039,6 +15047,7 @@
 0.0.0.0 track.express.de
 0.0.0.0 track.ferrari.com
 0.0.0.0 track.ferraridealers.com
+0.0.0.0 track.hubspot.com
 0.0.0.0 track.hujiang.com
 0.0.0.0 track.juno.com
 0.0.0.0 track.kueez.com
@@ -15873,6 +15882,7 @@
 0.0.0.0 useproof.com
 0.0.0.0 user-api.com
 0.0.0.0 user-clicks.com
+0.0.0.0 user-metrics.onthemarket.com
 0.0.0.0 user-red.com
 0.0.0.0 usercycle.com
 0.0.0.0 userdive.com
@@ -17125,7 +17135,7 @@
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2022-03-20 00:47:38.946447
+# Generated at 2022-03-27 00:53:45.460829
 
 0.0.0.0 databerries.com
 0.0.0.0 fidzup
