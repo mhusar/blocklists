@@ -1,6 +1,6 @@
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2022-03-27 00:53:45.460829
+# Generated at 2022-04-03 00:55:22.563934
 
 0.0.0.0 databerries.com
 0.0.0.0 fidzup
@@ -607,3 +607,4 @@
 0.0.0.0 mktossl.com
 0.0.0.0 mktorest.com
 0.0.0.0 synerise.com
+0.0.0.0 tusdk.com
