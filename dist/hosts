@@ -1,6 +1,6 @@
-# Version: 202203262316
+# Version: 202204030033
 # Title: EasyPrivacy
-# Last modified: 26 Mar 2022 23:16 UTC
+# Last modified: 03 Apr 2022 00:33 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -3231,6 +3231,7 @@ connection.verical.com
 connectlp.keysight.com
 connectportal.netapp.com
 connecttest.arubanetworks.com
+connext-cdn.azureedge.net
 consciouschairs.com
 consciouscheese.com
 consciousdirt.com
@@ -5348,6 +5349,7 @@ fp84rw0jinz7.blanc.ru
 fpa-cdn.arstechnica.com
 fpa-events.decrypt.co
 fpaux.net
+fpaxu.net
 fpb8.esce.fr
 fpc.acponline.org
 fpc.attcenter.com
@@ -5647,6 +5649,7 @@ getpublica.com
 getpush.net
 getpushmonkey.com
 getrockerbox.com
+getsentry.com
 getsmartcontent.com
 getsmartlook.com
 getstat.net
@@ -7514,6 +7517,7 @@ logger.rm.uol.com.br
 logger.snackly.co
 logger.uol.com.br
 logger.yp.ca
+logging.api.intuit.com
 logging.carambo.la
 logging.je-apps.com
 logging.prefixbox.com
@@ -10797,6 +10801,7 @@ ru4.com
 rudderlabs.com
 ruddycast.com
 ruddywash.com
+rum.api.intuit.com
 rum.azion.com
 rum.azioncdn.net
 rum.ingress.layer0.co
@@ -17135,7 +17140,7 @@ zz.bdstatic.com
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2022-03-27 00:53:44.146080
+# Generated at 2022-04-03 00:55:21.259609
 
 databerries.com
 fidzup
@@ -17742,3 +17747,4 @@ mktoedge.com
 mktossl.com
 mktorest.com
 synerise.com
+tusdk.com

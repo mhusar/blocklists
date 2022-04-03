@@ -1,6 +1,6 @@
-# Version: 202203262316
+# Version: 202204030033
 # Title: EasyPrivacy
-# Last modified: 26 Mar 2022 23:16 UTC
+# Last modified: 03 Apr 2022 00:33 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -3231,6 +3231,7 @@
 0.0.0.0 connectlp.keysight.com
 0.0.0.0 connectportal.netapp.com
 0.0.0.0 connecttest.arubanetworks.com
+0.0.0.0 connext-cdn.azureedge.net
 0.0.0.0 consciouschairs.com
 0.0.0.0 consciouscheese.com
 0.0.0.0 consciousdirt.com
@@ -5348,6 +5349,7 @@
 0.0.0.0 fpa-cdn.arstechnica.com
 0.0.0.0 fpa-events.decrypt.co
 0.0.0.0 fpaux.net
+0.0.0.0 fpaxu.net
 0.0.0.0 fpb8.esce.fr
 0.0.0.0 fpc.acponline.org
 0.0.0.0 fpc.attcenter.com
@@ -5647,6 +5649,7 @@
 0.0.0.0 getpush.net
 0.0.0.0 getpushmonkey.com
 0.0.0.0 getrockerbox.com
+0.0.0.0 getsentry.com
 0.0.0.0 getsmartcontent.com
 0.0.0.0 getsmartlook.com
 0.0.0.0 getstat.net
@@ -7514,6 +7517,7 @@
 0.0.0.0 logger.snackly.co
 0.0.0.0 logger.uol.com.br
 0.0.0.0 logger.yp.ca
+0.0.0.0 logging.api.intuit.com
 0.0.0.0 logging.carambo.la
 0.0.0.0 logging.je-apps.com
 0.0.0.0 logging.prefixbox.com
@@ -10797,6 +10801,7 @@
 0.0.0.0 rudderlabs.com
 0.0.0.0 ruddycast.com
 0.0.0.0 ruddywash.com
+0.0.0.0 rum.api.intuit.com
 0.0.0.0 rum.azion.com
 0.0.0.0 rum.azioncdn.net
 0.0.0.0 rum.ingress.layer0.co
@@ -17135,7 +17140,7 @@
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2022-03-27 00:53:45.460829
+# Generated at 2022-04-03 00:55:22.563934
 
 0.0.0.0 databerries.com
 0.0.0.0 fidzup
@@ -17742,3 +17747,4 @@
 0.0.0.0 mktossl.com
 0.0.0.0 mktorest.com
 0.0.0.0 synerise.com
+0.0.0.0 tusdk.com
