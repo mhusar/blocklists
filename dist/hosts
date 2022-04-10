@@ -1,6 +1,6 @@
-# Version: 202204030033
+# Version: 202204092334
 # Title: EasyPrivacy
-# Last modified: 03 Apr 2022 00:33 UTC
+# Last modified: 09 Apr 2022 23:34 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -1461,6 +1461,7 @@ analytics.adonisjs.com
 analytics.ae.com
 analytics.agoda.com
 analytics.aimtell.com
+analytics.aita.gov.vn
 analytics.allovoisins.com
 analytics.amakings.com
 analytics.anvato.net
@@ -4238,6 +4239,7 @@ dxwgpw0lkcum5.cloudfront.net
 dy2xcjk8s1dbz.cloudfront.net
 dymlo6ffhj97l.cloudfront.net
 dynameex.com
+dynatrace-managed.com
 dynatrace.com
 dynatracesaas.com
 dyntrk.com
@@ -5943,6 +5945,7 @@ gyvcwd.cdiscount.com
 gzimdi.soloautos.mx
 gzlxvg.papy.co.jp
 h-bid.com
+h-cast.jp
 h.imedia.cz
 h.seznam.cz
 h00c.sfr.fr
@@ -7715,6 +7718,7 @@ madetoconnect.summit-broadband.com
 madkudu.com
 madnet.ru
 maformationofficinale.actonservice.com
+maggieeatstheangel.com
 magicpixel.io
 magiq.com
 magnetairport.com
@@ -9753,7 +9757,6 @@ pesaea.autoesa.cz
 petametrics.com
 petiteumbrella.com
 pevftg.shopee.sg
-pexa.realestate.com.au
 pezxux.footlocker.co.uk
 pf.newegg.com
 pfuyhr.schutz.com.br
@@ -10615,6 +10618,7 @@ reports.pagesuite-professional.co.uk
 reportsk.web.sdo.com
 representativeray.com
 reprocautious.com
+reproio.com
 repvwz.panchemodan.ru
 requestmetrics.com
 res-x.com
@@ -14032,7 +14036,6 @@ syqhvv.vivense.com
 sysomos.com
 systemizecoat.com
 systemmonitoring.badgeville.com
-syteapi.com
 szkbyo.zkai.co.jp
 t-analytics.com
 t-pan.triodos.com
@@ -15144,6 +15147,7 @@ tracker.bestshopping.com
 tracker.bt.uol.com.br
 tracker.cauly.co.kr
 tracker.cdnbye.com
+tracker.comagic.ru
 tracker.data-vp.com
 tracker.digitalcamp.co.kr
 tracker.downdetector.com
@@ -15478,6 +15482,7 @@ tracking.visma.no
 tracking.visma.se
 tracking.vismaraet.nl
 tracking.vodafone.com
+tracking.voordeeluitjes.nl
 tracking.warehouseautomation.com
 tracking.waterfrontmedia.com
 tracking.webtradecenter.com
@@ -15701,6 +15706,7 @@ trust.titanhq.com
 trusted-web-seal.cybertrust.ne.jp
 trustiseverything.de
 trustmeiamapro.de
+trx-hub.com
 trx3.famousfix.com
 try.abtasty.com
 trysera.com
@@ -15975,6 +15981,7 @@ vertster.com
 verypopularwebsite.com
 vet0.carrefour-banque.fr
 veta.naver.com
+vfd2dyn.vodafone.de
 vfo.voyage-prive.co.uk
 vgo.vegaoo.de
 vgo.vegaoo.es
@@ -16033,6 +16040,7 @@ visit.webhosting.yahoo.com
 visite.scambi.org
 visitor-analytics.io
 visitor-analytics.net
+visitor-microservice.ext.p-a.im
 visitor-stats.de
 visitor-track.com
 visitorglobe.com
@@ -17140,7 +17148,7 @@ zz.bdstatic.com
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2022-04-03 00:55:21.259609
+# Generated at 2022-04-10 00:54:37.850703
 
 databerries.com
 fidzup

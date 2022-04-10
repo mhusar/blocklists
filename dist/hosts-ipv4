@@ -1,6 +1,6 @@
-# Version: 202204030033
+# Version: 202204092334
 # Title: EasyPrivacy
-# Last modified: 03 Apr 2022 00:33 UTC
+# Last modified: 09 Apr 2022 23:34 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -1461,6 +1461,7 @@
 0.0.0.0 analytics.ae.com
 0.0.0.0 analytics.agoda.com
 0.0.0.0 analytics.aimtell.com
+0.0.0.0 analytics.aita.gov.vn
 0.0.0.0 analytics.allovoisins.com
 0.0.0.0 analytics.amakings.com
 0.0.0.0 analytics.anvato.net
@@ -4238,6 +4239,7 @@
 0.0.0.0 dy2xcjk8s1dbz.cloudfront.net
 0.0.0.0 dymlo6ffhj97l.cloudfront.net
 0.0.0.0 dynameex.com
+0.0.0.0 dynatrace-managed.com
 0.0.0.0 dynatrace.com
 0.0.0.0 dynatracesaas.com
 0.0.0.0 dyntrk.com
@@ -5943,6 +5945,7 @@
 0.0.0.0 gzimdi.soloautos.mx
 0.0.0.0 gzlxvg.papy.co.jp
 0.0.0.0 h-bid.com
+0.0.0.0 h-cast.jp
 0.0.0.0 h.imedia.cz
 0.0.0.0 h.seznam.cz
 0.0.0.0 h00c.sfr.fr
@@ -7715,6 +7718,7 @@
 0.0.0.0 madkudu.com
 0.0.0.0 madnet.ru
 0.0.0.0 maformationofficinale.actonservice.com
+0.0.0.0 maggieeatstheangel.com
 0.0.0.0 magicpixel.io
 0.0.0.0 magiq.com
 0.0.0.0 magnetairport.com
@@ -9753,7 +9757,6 @@
 0.0.0.0 petametrics.com
 0.0.0.0 petiteumbrella.com
 0.0.0.0 pevftg.shopee.sg
-0.0.0.0 pexa.realestate.com.au
 0.0.0.0 pezxux.footlocker.co.uk
 0.0.0.0 pf.newegg.com
 0.0.0.0 pfuyhr.schutz.com.br
@@ -10615,6 +10618,7 @@
 0.0.0.0 reportsk.web.sdo.com
 0.0.0.0 representativeray.com
 0.0.0.0 reprocautious.com
+0.0.0.0 reproio.com
 0.0.0.0 repvwz.panchemodan.ru
 0.0.0.0 requestmetrics.com
 0.0.0.0 res-x.com
@@ -14032,7 +14036,6 @@
 0.0.0.0 sysomos.com
 0.0.0.0 systemizecoat.com
 0.0.0.0 systemmonitoring.badgeville.com
-0.0.0.0 syteapi.com
 0.0.0.0 szkbyo.zkai.co.jp
 0.0.0.0 t-analytics.com
 0.0.0.0 t-pan.triodos.com
@@ -15144,6 +15147,7 @@
 0.0.0.0 tracker.bt.uol.com.br
 0.0.0.0 tracker.cauly.co.kr
 0.0.0.0 tracker.cdnbye.com
+0.0.0.0 tracker.comagic.ru
 0.0.0.0 tracker.data-vp.com
 0.0.0.0 tracker.digitalcamp.co.kr
 0.0.0.0 tracker.downdetector.com
@@ -15478,6 +15482,7 @@
 0.0.0.0 tracking.visma.se
 0.0.0.0 tracking.vismaraet.nl
 0.0.0.0 tracking.vodafone.com
+0.0.0.0 tracking.voordeeluitjes.nl
 0.0.0.0 tracking.warehouseautomation.com
 0.0.0.0 tracking.waterfrontmedia.com
 0.0.0.0 tracking.webtradecenter.com
@@ -15701,6 +15706,7 @@
 0.0.0.0 trusted-web-seal.cybertrust.ne.jp
 0.0.0.0 trustiseverything.de
 0.0.0.0 trustmeiamapro.de
+0.0.0.0 trx-hub.com
 0.0.0.0 trx3.famousfix.com
 0.0.0.0 try.abtasty.com
 0.0.0.0 trysera.com
@@ -15975,6 +15981,7 @@
 0.0.0.0 verypopularwebsite.com
 0.0.0.0 vet0.carrefour-banque.fr
 0.0.0.0 veta.naver.com
+0.0.0.0 vfd2dyn.vodafone.de
 0.0.0.0 vfo.voyage-prive.co.uk
 0.0.0.0 vgo.vegaoo.de
 0.0.0.0 vgo.vegaoo.es
@@ -16033,6 +16040,7 @@
 0.0.0.0 visite.scambi.org
 0.0.0.0 visitor-analytics.io
 0.0.0.0 visitor-analytics.net
+0.0.0.0 visitor-microservice.ext.p-a.im
 0.0.0.0 visitor-stats.de
 0.0.0.0 visitor-track.com
 0.0.0.0 visitorglobe.com
@@ -17140,7 +17148,7 @@
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2022-04-03 00:55:22.563934
+# Generated at 2022-04-10 00:54:39.188961
 
 0.0.0.0 databerries.com
 0.0.0.0 fidzup
