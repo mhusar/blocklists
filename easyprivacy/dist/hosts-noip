@@ -1,6 +1,6 @@
-# Version: 202204092334
+# Version: 202204162237
 # Title: EasyPrivacy
-# Last modified: 09 Apr 2022 23:34 UTC
+# Last modified: 16 Apr 2022 22:37 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -155,6 +155,7 @@ a.evergage.com
 a.fdmedia.io
 a.gedidigital.it
 a.getaawp.com
+a.getflowbox.com
 a.hellonext.co
 a.hibbett.com
 a.hrewards.com
@@ -1358,6 +1359,7 @@ als-svc.nytimes.com
 alsgaj.chosun.com
 altabold1.com
 altastat.com
+altmetric.com
 altopd.com
 altpool.pro
 alvenda.com
@@ -1588,6 +1590,7 @@ analytics.ncaa.com
 analytics.newscred.com
 analytics.nike.com
 analytics.oceanengine.com
+analytics.okazii.ro
 analytics.oneplus.cn
 analytics.onlyonlinemarketing.com
 analytics.ooyala.com
@@ -1879,7 +1882,6 @@ as.mirapodo.de
 as.mytoys.de
 as.otto.de
 as.payback.it
-as.saechsische.de
 as.yomonda.de
 asadcdn.com
 asamgd.rossmann.de
@@ -2849,6 +2851,7 @@ click.kataweb.it
 click.mail.carousell.com
 click.mail.thecarousell.com
 click.marketing.carousell.com
+click.nudevista.com
 click.official.nike.com
 click.oneplus.cn
 click.oneplus.com
@@ -2942,7 +2945,6 @@ clixgalore.com
 clixpy.com
 clk.boulanger.com
 clk.ubi.com
-cllctr.roistat.com
 clnbze.dzienniklodzki.pl
 clnbze.dziennikzachodni.pl
 clnbze.expressilustrowany.pl
@@ -3100,7 +3102,6 @@ collector.ozeex.com
 collector.pi.spectrum.net
 collector.prod.expedia.com
 collector.rn.de
-collector.roistat.com
 collector.schibsted.io
 collector.sspinc.io
 collector.statowl.com
@@ -3974,6 +3975,7 @@ dfvdkx.gismeteo.ua
 dfw.bakerbroto.emergeinteractive.com
 dg.irco.com
 dgbftl.luckyvitamin.com
+dgcollector.evidon.com
 dgxjcl.radiantstar.tw
 dgynnj.koctas.com.tr
 dhlsupplychain.dhl.com
@@ -4032,6 +4034,7 @@ digitaltarget.ru
 digitalworkplace.ricoh.fr
 digitru.st
 dignow.org
+dimensions.ai
 dimensions.mappy.com
 dimestore.com
 dimml.io
@@ -4157,6 +4160,7 @@ download.dnvgl.com
 downpayment.fernsby.com
 downtowndirection.com
 dp.shoprunner.com
+dp64mxip2za0c.cloudfront.net
 dpbolvw.net
 dps-reach.com
 dq95d35.com
@@ -5107,6 +5111,7 @@ eyzubm.gooutdoors.co.uk
 ezakus.net
 ezec.co.uk
 ezodn.com
+ezstat.ru
 ezytrack.com
 f-counter.jp
 f-counter.net
@@ -6153,6 +6158,7 @@ hs-analytics.net
 hsadspixel.net
 hscta.net
 hsdn.org
+hsleadflows.net
 hspbotdetection.azurewebsites.net
 hstrck.com
 htm1.ch
@@ -6789,6 +6795,7 @@ ivcbrasil.org.br
 ivitrack.com
 ivstracker.net
 ivwbox.de
+ivx.lacompagnie.com
 ivykiosk.com
 iwa.iplsc.com
 iwantglobal.actonservice.com
@@ -8774,6 +8781,7 @@ mlmswk.janpara.co.jp
 mlno6.com
 mlstat.com
 mlweb.dmlab.hu
+mm-api.agency
 mm.melia.com
 mm7.net
 mmccint.com
@@ -9120,6 +9128,7 @@ niematego.tk
 niftyhospital.com
 niftyjelly.com
 niftymaps.com
+nigelmidnightrappers.com
 nik.io
 nil.naver.com
 nimblebird.co
@@ -9575,6 +9584,7 @@ pa.opqr.co
 pa.travelwhiz.app
 pabgey.siepomaga.pl
 pabxoe.olx.ua
+pac.thesun.co.uk
 paddleangle.com
 page-events-ustats.udemy.com
 page-hit.de
@@ -10509,6 +10519,7 @@ realeducation.kangan.edu.au
 realist.gen.tr
 realizerecess.com
 realizevacation.com
+reallyfreegeoip.org
 realm.hearst3pcc.com
 realtimewebstats.net
 realtracker.com
@@ -10740,6 +10751,7 @@ roi-rocket.net
 roia.biz
 roiservice.com
 roispy.com
+roistat.com
 roitesting.com
 rollbar.com
 rollercoin.com
@@ -12664,7 +12676,6 @@ snowplow.swm.digital
 snowsignal.com
 snprxx.wwfmarket.com
 snr4.canalplus.com
-snrbox.com
 snwhfq.texel.net
 snzuiy.mustang-jeans.com
 so.boh.com
@@ -12824,6 +12835,8 @@ soxnwz.lg.com
 soxpbl.oka.com
 sp.app.com
 sp.argusleader.com
+sp.aviasales.com
+sp.aviasales.ru
 sp.azcentral.com
 sp.battlecreekenquirer.com
 sp.baxterbulletin.com
@@ -13460,6 +13473,7 @@ stats.dnaindia.com
 stats.dominikmayer.com
 stats.doors.live
 stats.dreamsub.cc
+stats.dreamsub.me
 stats.drewbolles.com
 stats.drgomesp.dev
 stats.dsgn.link
@@ -14504,6 +14518,7 @@ tklyfe.esthetic-nails.ru
 tkqlhce.com
 tkvied.levi.com.my
 tkvxdj.cars.com
+tkx.mp.lura.live
 tl.tradetracker.net
 tl813.com
 tls.thelibrarystore.com
@@ -15798,6 +15813,7 @@ umdlbn.globetrotter.de
 unarmedindustry.com
 unbecominghall.com
 unblockia.com
+unbounce.com
 uncn.jp
 uncoveredcircle.com
 uncoveredexpert.com
@@ -16097,6 +16113,7 @@ vrzmfy.fool.com
 vsfius.aranzulla.it
 vsgwsk.bergzeit.at
 vsqyaz.sweetwater.com
+vst.sibnet.ru
 vtf2f.banque-casino.fr
 vtracker.net
 vtracy.de
@@ -16999,6 +17016,7 @@ ykktwv.titivate.jp
 yldr.io
 ylog.huya.com
 ymetrica1.com
+ymprove.gmx.net
 ymprove.web.de
 ynagqs.vidaxl.pl
 yoc.younited-credit.com
