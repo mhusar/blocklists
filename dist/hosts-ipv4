@@ -1,6 +1,6 @@
-# Version: 202204302213
+# Version: 202205071936
 # Title: EasyPrivacy
-# Last modified: 30 Apr 2022 22:13 UTC
+# Last modified: 07 May 2022 19:36 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -1412,6 +1412,7 @@
 0.0.0.0 amplify.strategic-i.com
 0.0.0.0 amplifypixel.outbrain.com
 0.0.0.0 amplitude.com
+0.0.0.0 ampltd.top.gg
 0.0.0.0 ampush.io
 0.0.0.0 ams-pageview-public.s3.amazonaws.com
 0.0.0.0 amung.us
@@ -2176,6 +2177,7 @@
 0.0.0.0 beacon.statful.com
 0.0.0.0 beacon.thred.woven.com
 0.0.0.0 beacon.tingyun.com
+0.0.0.0 beacon.vertebrae-axis.com
 0.0.0.0 beacon.viewlift.com
 0.0.0.0 beacon.walmart.com
 0.0.0.0 beacon.watch.impress.co.jp
@@ -3718,6 +3720,7 @@
 0.0.0.0 d2wy8f7a9ursnm.cloudfront.net
 0.0.0.0 d2zjlj1vewrxcj.cloudfront.net
 0.0.0.0 d31qbv1cthcecs.cloudfront.net
+0.0.0.0 d31y97ze264gaa.cloudfront.net
 0.0.0.0 d32hwlnfiv2gyn.cloudfront.net
 0.0.0.0 d34ko97cxuv4p7.cloudfront.net
 0.0.0.0 d34qb8suadcc4g.cloudfront.net
@@ -3770,6 +3773,7 @@
 0.0.0.0 dampdock.com
 0.0.0.0 dancemistake.com
 0.0.0.0 danorenius.com
+0.0.0.0 danv01ao0kdr2.cloudfront.net
 0.0.0.0 dapperdiscussion.com
 0.0.0.0 dapperfloor.com
 0.0.0.0 dapxl.com
@@ -4995,6 +4999,7 @@
 0.0.0.0 event.getblue.io
 0.0.0.0 event.instiengage.com
 0.0.0.0 event.jma.or.jp
+0.0.0.0 event.mrtnsvr.com
 0.0.0.0 event.syndigo.cloud
 0.0.0.0 event.webcollage.net
 0.0.0.0 event1.thermofisher.com
@@ -9601,6 +9606,7 @@
 0.0.0.0 p.neil.gg
 0.0.0.0 p.nqueue.io
 0.0.0.0 p.pagesjaunes.fr
+0.0.0.0 p.placed.com
 0.0.0.0 p.pmu.fr
 0.0.0.0 p.raasnet.com
 0.0.0.0 p.ryanhalliday.com
@@ -9899,6 +9905,7 @@
 0.0.0.0 pixel.convertize.io
 0.0.0.0 pixel.cpex.cz
 0.0.0.0 pixel.digitalspy.co.uk
+0.0.0.0 pixel.dugwood.com
 0.0.0.0 pixel.europapress.net
 0.0.0.0 pixel.facebook.com
 0.0.0.0 pixel.homebook.pl
@@ -9906,6 +9913,7 @@
 0.0.0.0 pixel.inforsea.com
 0.0.0.0 pixel.ionos.fr
 0.0.0.0 pixel.kknews.cc
+0.0.0.0 pixel.locker2.com
 0.0.0.0 pixel.mintigo.com
 0.0.0.0 pixel.mtrcs.samba.tv
 0.0.0.0 pixel.newscred.com
@@ -13327,6 +13335,7 @@
 0.0.0.0 stat.mixi.media
 0.0.0.0 stat.moevideo.net
 0.0.0.0 stat.mtv3.fi
+0.0.0.0 stat.mydaddy.cc
 0.0.0.0 stat.novinky.cz
 0.0.0.0 stat.nyheter24.se
 0.0.0.0 stat.ouedkniss.com
@@ -17222,7 +17231,7 @@
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2022-05-01 01:13:49.125450
+# Generated at 2022-05-08 00:56:53.473014
 
 0.0.0.0 databerries.com
 0.0.0.0 fidzup

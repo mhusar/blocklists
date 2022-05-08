@@ -1,6 +1,6 @@
-# Version: 202204302213
+# Version: 202205071936
 # Title: EasyPrivacy
-# Last modified: 30 Apr 2022 22:13 UTC
+# Last modified: 07 May 2022 19:36 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -1412,6 +1412,7 @@ amplify.outbrain.com
 amplify.strategic-i.com
 amplifypixel.outbrain.com
 amplitude.com
+ampltd.top.gg
 ampush.io
 ams-pageview-public.s3.amazonaws.com
 amung.us
@@ -2176,6 +2177,7 @@ beacon.squixa.net
 beacon.statful.com
 beacon.thred.woven.com
 beacon.tingyun.com
+beacon.vertebrae-axis.com
 beacon.viewlift.com
 beacon.walmart.com
 beacon.watch.impress.co.jp
@@ -3718,6 +3720,7 @@ d2wu036mkcz52n.cloudfront.net
 d2wy8f7a9ursnm.cloudfront.net
 d2zjlj1vewrxcj.cloudfront.net
 d31qbv1cthcecs.cloudfront.net
+d31y97ze264gaa.cloudfront.net
 d32hwlnfiv2gyn.cloudfront.net
 d34ko97cxuv4p7.cloudfront.net
 d34qb8suadcc4g.cloudfront.net
@@ -3770,6 +3773,7 @@ damdoor.com
 dampdock.com
 dancemistake.com
 danorenius.com
+danv01ao0kdr2.cloudfront.net
 dapperdiscussion.com
 dapperfloor.com
 dapxl.com
@@ -4995,6 +4999,7 @@ event.evtm.53.com
 event.getblue.io
 event.instiengage.com
 event.jma.or.jp
+event.mrtnsvr.com
 event.syndigo.cloud
 event.webcollage.net
 event1.thermofisher.com
@@ -9601,6 +9606,7 @@ p.milliyet.com.tr
 p.neil.gg
 p.nqueue.io
 p.pagesjaunes.fr
+p.placed.com
 p.pmu.fr
 p.raasnet.com
 p.ryanhalliday.com
@@ -9899,6 +9905,7 @@ pixel.condenastdigital.com
 pixel.convertize.io
 pixel.cpex.cz
 pixel.digitalspy.co.uk
+pixel.dugwood.com
 pixel.europapress.net
 pixel.facebook.com
 pixel.homebook.pl
@@ -9906,6 +9913,7 @@ pixel.honestjohn.co.uk
 pixel.inforsea.com
 pixel.ionos.fr
 pixel.kknews.cc
+pixel.locker2.com
 pixel.mintigo.com
 pixel.mtrcs.samba.tv
 pixel.newscred.com
@@ -13327,6 +13335,7 @@ stat.media
 stat.mixi.media
 stat.moevideo.net
 stat.mtv3.fi
+stat.mydaddy.cc
 stat.novinky.cz
 stat.nyheter24.se
 stat.ouedkniss.com
@@ -17222,7 +17231,7 @@ zz.bdstatic.com
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2022-05-01 01:13:48.103394
+# Generated at 2022-05-08 00:56:52.658277
 
 databerries.com
 fidzup
