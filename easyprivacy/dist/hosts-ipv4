@@ -1,6 +1,6 @@
-# Version: 202205071936
+# Version: 202205142156
 # Title: EasyPrivacy
-# Last modified: 07 May 2022 19:36 UTC
+# Last modified: 14 May 2022 21:56 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -1533,6 +1533,7 @@
 0.0.0.0 analytics.elx.cloud
 0.0.0.0 analytics.erepublic.com
 0.0.0.0 analytics.explained-from-first-principles.com
+0.0.0.0 analytics.fabricators.ltd
 0.0.0.0 analytics.facebook.com
 0.0.0.0 analytics.faceitanalytics.com
 0.0.0.0 analytics.fatalparadox.com
@@ -3876,6 +3877,7 @@
 0.0.0.0 db-ip.com
 0.0.0.0 dbex-tracker-v2.driveback.ru
 0.0.0.0 dbpbyh.americanas.com.br
+0.0.0.0 dbv0r7a702yve.cloudfront.net
 0.0.0.0 dbzpek.nike.com
 0.0.0.0 dc-storm.com
 0.0.0.0 dc.banggood.com
@@ -4901,6 +4903,7 @@
 0.0.0.0 eservices.lubetech.com
 0.0.0.0 esm1.net
 0.0.0.0 esomniture.com
+0.0.0.0 esputnik.com
 0.0.0.0 estadisticas.lanacion.com.ar
 0.0.0.0 estadisticasgratis.com
 0.0.0.0 estadisticasgratis.es
@@ -7438,7 +7441,6 @@
 0.0.0.0 literally-analytics.appspot.com
 0.0.0.0 literatelight.com
 0.0.0.0 litix.io
-0.0.0.0 live-trace.bilibili.com
 0.0.0.0 live.alljobs.co.il
 0.0.0.0 live.cxo.name
 0.0.0.0 live.ec2.cxo.name
@@ -7519,6 +7521,7 @@
 0.0.0.0 log.mediacategory.com
 0.0.0.0 log.medietall.no
 0.0.0.0 log.mgtv.com
+0.0.0.0 log.mix.sina.com.cn
 0.0.0.0 log.nordot.jp
 0.0.0.0 log.olark.com
 0.0.0.0 log.optimizely.com
@@ -8845,6 +8848,7 @@
 0.0.0.0 mnxlyo.kinoteatr.ru
 0.0.0.0 mobalyzer.net
 0.0.0.0 mobee.xyz
+0.0.0.0 mobtop.az
 0.0.0.0 mobylog.jp
 0.0.0.0 mochibot.com
 0.0.0.0 mockingfish.com
@@ -10161,7 +10165,6 @@
 0.0.0.0 pr-chart.de
 0.0.0.0 pr-linktausch.de
 0.0.0.0 pr-sunshine.de
-0.0.0.0 pr.ameba.jp
 0.0.0.0 pr.blogflux.com
 0.0.0.0 pr0gram.org
 0.0.0.0 prairiedog.hashnode.com
@@ -10503,6 +10506,7 @@
 0.0.0.0 rail.bankofamerica.com
 0.0.0.0 railwayrainstorm.com
 0.0.0.0 railwayreason.com
+0.0.0.0 rainbownine.net
 0.0.0.0 raintwig.com
 0.0.0.0 rainydirt.com
 0.0.0.0 rainyhand.com
@@ -10865,6 +10869,7 @@
 0.0.0.0 rum.api.intuit.com
 0.0.0.0 rum.azion.com
 0.0.0.0 rum.azioncdn.net
+0.0.0.0 rum.condenastdigital.com
 0.0.0.0 rum.ingress.layer0.co
 0.0.0.0 rum.kobo.com
 0.0.0.0 rum.layer0.co
@@ -11052,6 +11057,7 @@
 0.0.0.0 sayyac.com
 0.0.0.0 sayyac.net
 0.0.0.0 sbbanalytics.com
+0.0.0.0 sbeacon.sina.com.cn
 0.0.0.0 sbgsodufuosmmvsdf.info
 0.0.0.0 sblftg.com
 0.0.0.0 sbttlj.togetter.com
@@ -11489,6 +11495,7 @@
 0.0.0.0 sexystat.com
 0.0.0.0 seyfwl.interia.pl
 0.0.0.0 sf14g.com
+0.0.0.0 sfp.safe.baidu.com
 0.0.0.0 sfp7.eco-conscient.com
 0.0.0.0 sftrack.searchforce.net
 0.0.0.0 sg3.notarize.com
@@ -12754,6 +12761,7 @@
 0.0.0.0 socketviking.net
 0.0.0.0 socsi.in
 0.0.0.0 sodoit.com
+0.0.0.0 sofire.bdstatic.com
 0.0.0.0 soflopxl.com
 0.0.0.0 soft-com.biz
 0.0.0.0 softonic-analytics.net
@@ -15220,7 +15228,6 @@
 0.0.0.0 tracker.data-vp.com
 0.0.0.0 tracker.digitalcamp.co.kr
 0.0.0.0 tracker.downdetector.com
-0.0.0.0 tracker.esputnik.com
 0.0.0.0 tracker.euroweb.net
 0.0.0.0 tracker.financialcontent.com
 0.0.0.0 tracker.icerocket.com
@@ -16211,6 +16218,8 @@
 0.0.0.0 w7.weihnachteninberlin.de
 0.0.0.0 w740.newstimes.com
 0.0.0.0 wa.gmx.ch
+0.0.0.0 wa.gmx.co.uk
+0.0.0.0 wa.gmx.net
 0.0.0.0 wa.metro.co.uk
 0.0.0.0 wa.planet-wissen.de
 0.0.0.0 wa.quarks.de
@@ -16219,6 +16228,7 @@
 0.0.0.0 wa.ui-portal.de
 0.0.0.0 wa.wdr.de
 0.0.0.0 wa.wdrmaus.de
+0.0.0.0 wa.web.de
 0.0.0.0 waaf.medion.com
 0.0.0.0 waaf1.aldilife.com
 0.0.0.0 waaf1.alditalk.de
@@ -16977,6 +16987,7 @@
 0.0.0.0 x-stat.de
 0.0.0.0 x-traceur.com
 0.0.0.0 x.allabout.co.jp
+0.0.0.0 x.babe.today
 0.0.0.0 x.bloggurat.net
 0.0.0.0 x.disq.us
 0.0.0.0 x.weather.com

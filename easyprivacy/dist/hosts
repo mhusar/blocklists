@@ -1,6 +1,6 @@
-# Version: 202205071936
+# Version: 202205142156
 # Title: EasyPrivacy
-# Last modified: 07 May 2022 19:36 UTC
+# Last modified: 14 May 2022 21:56 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -1533,6 +1533,7 @@ analytics.eggoffer.com
 analytics.elx.cloud
 analytics.erepublic.com
 analytics.explained-from-first-principles.com
+analytics.fabricators.ltd
 analytics.facebook.com
 analytics.faceitanalytics.com
 analytics.fatalparadox.com
@@ -3876,6 +3877,7 @@ daylogs.com
 db-ip.com
 dbex-tracker-v2.driveback.ru
 dbpbyh.americanas.com.br
+dbv0r7a702yve.cloudfront.net
 dbzpek.nike.com
 dc-storm.com
 dc.banggood.com
@@ -4901,6 +4903,7 @@ esearchvision.com
 eservices.lubetech.com
 esm1.net
 esomniture.com
+esputnik.com
 estadisticas.lanacion.com.ar
 estadisticasgratis.com
 estadisticasgratis.es
@@ -7438,7 +7441,6 @@ listtop.ru
 literally-analytics.appspot.com
 literatelight.com
 litix.io
-live-trace.bilibili.com
 live.alljobs.co.il
 live.cxo.name
 live.ec2.cxo.name
@@ -7519,6 +7521,7 @@ log.mappy.net
 log.mediacategory.com
 log.medietall.no
 log.mgtv.com
+log.mix.sina.com.cn
 log.nordot.jp
 log.olark.com
 log.optimizely.com
@@ -8845,6 +8848,7 @@ mnrddc.journeys.com
 mnxlyo.kinoteatr.ru
 mobalyzer.net
 mobee.xyz
+mobtop.az
 mobylog.jp
 mochibot.com
 mockingfish.com
@@ -10161,7 +10165,6 @@ pr-chart.com
 pr-chart.de
 pr-linktausch.de
 pr-sunshine.de
-pr.ameba.jp
 pr.blogflux.com
 pr0gram.org
 prairiedog.hashnode.com
@@ -10503,6 +10506,7 @@ radiateb2b.com
 rail.bankofamerica.com
 railwayrainstorm.com
 railwayreason.com
+rainbownine.net
 raintwig.com
 rainydirt.com
 rainyhand.com
@@ -10865,6 +10869,7 @@ ruddywash.com
 rum.api.intuit.com
 rum.azion.com
 rum.azioncdn.net
+rum.condenastdigital.com
 rum.ingress.layer0.co
 rum.kobo.com
 rum.layer0.co
@@ -11052,6 +11057,7 @@ sayutracking.co.uk
 sayyac.com
 sayyac.net
 sbbanalytics.com
+sbeacon.sina.com.cn
 sbgsodufuosmmvsdf.info
 sblftg.com
 sbttlj.togetter.com
@@ -11489,6 +11495,7 @@ sexcounter.com
 sexystat.com
 seyfwl.interia.pl
 sf14g.com
+sfp.safe.baidu.com
 sfp7.eco-conscient.com
 sftrack.searchforce.net
 sg3.notarize.com
@@ -12754,6 +12761,7 @@ sociaplus.com
 socketviking.net
 socsi.in
 sodoit.com
+sofire.bdstatic.com
 soflopxl.com
 soft-com.biz
 softonic-analytics.net
@@ -15220,7 +15228,6 @@ tracker.comagic.ru
 tracker.data-vp.com
 tracker.digitalcamp.co.kr
 tracker.downdetector.com
-tracker.esputnik.com
 tracker.euroweb.net
 tracker.financialcontent.com
 tracker.icerocket.com
@@ -16211,6 +16218,8 @@ w7.berlin.de
 w7.weihnachteninberlin.de
 w740.newstimes.com
 wa.gmx.ch
+wa.gmx.co.uk
+wa.gmx.net
 wa.metro.co.uk
 wa.planet-wissen.de
 wa.quarks.de
@@ -16219,6 +16228,7 @@ wa.sportschau.de
 wa.ui-portal.de
 wa.wdr.de
 wa.wdrmaus.de
+wa.web.de
 waaf.medion.com
 waaf1.aldilife.com
 waaf1.alditalk.de
@@ -16977,6 +16987,7 @@ wzyjup.patch.com
 x-stat.de
 x-traceur.com
 x.allabout.co.jp
+x.babe.today
 x.bloggurat.net
 x.disq.us
 x.weather.com
