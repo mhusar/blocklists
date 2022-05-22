@@ -1,6 +1,6 @@
-# Version: 202205142156
+# Version: 202205220031
 # Title: EasyPrivacy
-# Last modified: 14 May 2022 21:56 UTC
+# Last modified: 22 May 2022 00:31 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -1080,6 +1080,7 @@ adb-analytics.live-now.com
 adblade.com
 adblockmetrics.ru
 adblockrelief.com
+adbp.online
 adbq.bk.mufg.jp
 adbsmetrics.ep.hmc.co.kr
 adbsmetrics.genesis.com
@@ -1295,6 +1296,7 @@ agentanalytics.com
 agentinteractive.com
 aghtag.tech
 agilecrm.com
+agilesrv.com
 agillic.eu
 agilone.com
 agkn.com
@@ -2194,6 +2196,7 @@ beam.giraffe360.com
 beam.mjhlifesciences.com
 beamincrease.com
 beampulse.com
+beanscattering.jp
 beanstalkdata.com
 beanstock.com
 beastbeef.com
@@ -2700,6 +2703,7 @@ ccaas.avaya.com
 cccpmo.com
 ccexperimentsstatic.oracleoutsourcing.com
 ccgateway.net
+ccm19.de
 ccmd.coveredca.com
 ccpa.psg.nexstardigital.net
 ccrtvi.com
@@ -3104,6 +3108,7 @@ collarity.com
 collect-ap2.attraqt.io
 collect-eu.attraqt.io
 collect.alipay.com
+collect.cloudsponge.com
 collect.f5.com
 collect.helsana.ch
 collect.igodigital.com
@@ -3121,6 +3126,7 @@ collector.cint.com
 collector.clareity.net
 collector.contentexchange.me
 collector.getyourguide.com
+collector.github.com
 collector.githubapp.com
 collector.mazeberry.com
 collector.megaxh.com
@@ -3919,6 +3925,7 @@ de.bca-news.com
 de.inform.janssenpro.eu
 de.secure.sonosite.com
 de17a.com
+de5v6rb80m4j1.cloudfront.net
 deadpantruck.com
 deafeningdock.com
 dealercontent.homehardware.ca
@@ -4357,6 +4364,7 @@ ea.voyage-prive.co.uk
 ea.voyage-prive.es
 ea.voyage-prive.it
 ea.warnerbros.fr
+ea.youmaker.com
 eacla.com
 eagle.kudzu.com
 eanalyzer.de
@@ -4995,6 +5003,7 @@ event-api.contactatonce.com.au
 event-api.rdstation.com.br
 event-api.reverb.com
 event-listener.air.tv
+event-stream.spot.im
 event.api.drift.com
 event.csdn.net
 event.edb.gov.sg
@@ -5048,6 +5057,7 @@ events.onet.pl
 events.practo.com
 events.privy.com
 events.realgravity.com
+events.reclamefolder.nl
 events.reddit.com
 events.redditmedia.com
 events.regis.edu
@@ -5178,6 +5188,7 @@ fadedsnow.com
 fadewaves.com
 faibl.org
 faintflag.com
+fairdatacenter.de
 faktor.io
 fallaciousfifth.com
 fallingfalcon.com
@@ -5318,12 +5329,14 @@ flexpod.ynsecureserver.net
 flimsycircle.com
 flimsythought.com
 flixfacts.co.uk
+flixgvid.flix360.io
 flixsyndication.net
 flockflame.com
 flocktory.com
 flog.pressplay.cc
 floodprincipal.com
 floorforce.actonservice.com
+flowerstreatment.com
 floweryoperation.com
 fluencymedia.com
 fluidsurveys.com
@@ -5412,6 +5425,7 @@ fpjs.io
 fprnt.com
 fpt.microsoft.com
 fpwtsp.xxxlutz.de
+fpxau.net
 fqsecure.com
 fr.sharpmarketing.eu
 frailflock.com
@@ -5665,6 +5679,7 @@ georiot.com
 geoservice.curse.com
 geotargetly-1a441.appspot.com
 geotargetly.co
+geotrust.com
 geovisite.ovh
 get.anthem.com
 get.diamanti.com
@@ -5852,7 +5867,6 @@ goadservices.com
 goatcounter.com
 goazlf.mytoys.de
 gocertiport.pearsonvue.com
-gocp.stroeermediabrands.de
 godhat.com
 godlygeese.com
 goingup.com
@@ -6926,7 +6940,6 @@ jprbql.jdsports.fr
 jpush.cn
 jquery-cdn.download
 js-agent.newrelic.com
-js.stroeermediabrands.de
 js.trendmd.com
 jscdndel.com
 jscoinminer.com
@@ -9837,7 +9850,6 @@ pi.technik3d.com
 piddme.buyma.com
 pietexture.com
 pigspie.com
-pijper.io
 pikzor.com
 pimpmypr.de
 ping-admin.ru
@@ -10336,6 +10348,7 @@ push-ad.com
 push-free.com
 push-house.net
 push4site.com
+push7.jp
 pushalert.co
 pushauction.com
 pushbird.com
@@ -10486,6 +10499,7 @@ r.bbci.co.uk
 r.blidz.com
 r.blidzdeal.com
 r.jakuli.com
+r.kleertjes.com
 r.mail.ru
 r.my.com
 r.sax.sina.com.cn
@@ -13596,7 +13610,6 @@ stats.glassmountains.co.uk
 stats.glyphs.fyi
 stats.goldsguide.com
 stats.graphql-api.com
-stats.gruporeforma.com
 stats.gslc.utah.edu
 stats.guersanguillaume.com
 stats.hanmaker.com
@@ -14348,6 +14361,7 @@ tda.io
 tdbsoc.thegivingmovement.com
 tdep.bunzlonline.nl
 tdep.growwwdigital.com
+tdep.kvk.nl
 tdep.mijnurgentie.nl
 tdep.sdim.nl
 tdep.suncamp.be
@@ -14531,6 +14545,7 @@ tidningsnatet.se
 tilanalytics.timesinternet.in
 tilt.bankofamerica.com
 tim.nextinpact.com
+timber.sendtonews.com
 timeterritory.com
 timetwig.com
 tinb.net
@@ -15149,6 +15164,21 @@ track.noddus.com
 track.nopaperforms.com
 track.noz.de
 track.omgpl.com
+track.opentable.ae
+track.opentable.ca
+track.opentable.co.th
+track.opentable.co.uk
+track.opentable.com
+track.opentable.com.au
+track.opentable.com.mx
+track.opentable.de
+track.opentable.es
+track.opentable.hk
+track.opentable.ie
+track.opentable.it
+track.opentable.jp
+track.opentable.nl
+track.opentable.sg
 track.pexi.nl
 track.pnicnik.live
 track.pokestats.gg
@@ -15244,6 +15274,7 @@ tracker.publico.pt
 tracker.roitesting.com
 tracker.shopclues.com
 tracker.softcube.com
+tracker.ssl0d.com
 tracker.stats.in.th
 tracker.stileo.it
 tracker.swedish.org
@@ -15281,9 +15312,12 @@ tracking.alphacard.com
 tracking.americaneagle.com
 tracking.americas.business.samsung.com
 tracking.apac.business.samsung.com
+tracking.asialadies.de
 tracking.athlon.com
 tracking.au.adp.com
 tracking.aupairinamerica.com
+tracking.avladies.de
+tracking.badeladies.de
 tracking.badgeville.com
 tracking.bankofalbuquerque.com
 tracking.bankofoklahoma.com
@@ -15291,7 +15325,9 @@ tracking.bankoftexas.com
 tracking.barcodesinc.com
 tracking.base.de
 tracking.bd4travel.com
+tracking.behaarteladies.de
 tracking.bettingexpert.com
+tracking.bizarrladies.de
 tracking.bnppre.fr
 tracking.bokfinancial.com
 tracking.bonava.de
@@ -15304,6 +15340,7 @@ tracking.bonava.se
 tracking.bradyid.com
 tracking.brandmentions.com
 tracking.build.com
+tracking.busenladies.de
 tracking.business.comcast.com
 tracking.businessdirect.bt.com
 tracking.buygoods.com
@@ -15324,9 +15361,12 @@ tracking.crystaltravel.co.uk
 tracking.culturalinsurance.com
 tracking.customerly.io
 tracking.dataloen.dk
+tracking.deutscheladies.de
 tracking.dev2.pepsicopartners.com
+tracking.devoteladies.de
 tracking.dfinsolutions.com
 tracking.direxion.com
+tracking.dominanteladies.de
 tracking.donnemagazine.it
 tracking.drivercenter.eu
 tracking.drsfostersmith.com
@@ -15344,9 +15384,12 @@ tracking.emsmobile.de
 tracking.engineering.cloud.seek.com.au
 tracking.epicgames.com
 tracking.epsilon.com
+tracking.erfahreneladies.de
+tracking.escorts24.de
 tracking.europe.business.samsung.com
 tracking.evanta.com
 tracking.evergy.com
+tracking.exklusivladies.de
 tracking.experiencescottsdale.com
 tracking.fanbridge.com
 tracking.faucet.com
@@ -15355,6 +15398,7 @@ tracking.fdm.dk
 tracking.feedperfect.com
 tracking.finanzen.net
 tracking.fits.me
+tracking.fkk24.de
 tracking.flukecal.com
 tracking.foodblog.it
 tracking.fullsail.edu
@@ -15371,6 +15415,7 @@ tracking.godatafeed.com
 tracking.gpm-rtv.ru
 tracking.granular.ag
 tracking.graphly.io
+tracking.grosseladies.de
 tracking.gruppo.mps.it
 tracking.guidehouse.com
 tracking.handlesets.com
@@ -15382,6 +15427,7 @@ tracking.hello.global.ntt
 tracking.hi-pi.com
 tracking.hibu.com
 tracking.hivecloud.net
+tracking.hobbyladies.de
 tracking.hsn.com
 tracking.hyros.com
 tracking.idsuperstore.com
@@ -15396,13 +15442,16 @@ tracking.interweave.com
 tracking.janssenmedicalcloud.de
 tracking.janssenmedicalcloud.ru
 tracking.jotform.com
+tracking.jungeladies.de
 tracking.kdata.fr
 tracking.kegerator.com
 tracking.keywee.co
 tracking.krone.at
 tracking.kubota.ca
+tracking.kussladies.de
 tracking.ladies.de
 tracking.laredoute.fr
+tracking.latinaladies.de
 tracking.leadingauthorities.com
 tracking.leadlander.com
 tracking.legacyoffers.com
@@ -15422,6 +15471,7 @@ tracking.mail.ti.com.cn
 tracking.mail.tij.co.jp
 tracking.mammemagazine.it
 tracking.markethero.io
+tracking.massierendeladies.de
 tracking.mathworks.com
 tracking.max-stg.co.il
 tracking.max.co.il
@@ -15431,6 +15481,7 @@ tracking.mindshare.de
 tracking.miui.com
 tracking.mizuhogroup.com
 tracking.mkt-email.samsungsds.com
+tracking.mollyladies.de
 tracking.monsido.com
 tracking.motorimagazine.it
 tracking.motorolasolutions.com
@@ -15447,6 +15498,8 @@ tracking.noen.at
 tracking.nokai.jp
 tracking.notizie.it
 tracking.novem.pl
+tracking.nsladies.de
+tracking.nymphomaneladies.de
 tracking.oceaneering.com
 tracking.oe24.at
 tracking.offerteshopping.it
@@ -15456,6 +15509,8 @@ tracking.omron.it
 tracking.omron.ru
 tracking.opentable.com
 tracking.oppd.com
+tracking.orientladies.de
+tracking.osteuropaladies.de
 tracking.pacharge.com
 tracking.pella.com
 tracking.pennmedicine.princetonhcs.org
@@ -15463,6 +15518,7 @@ tracking.pepsicopartners.com
 tracking.petrelocation.com
 tracking.pgi.com
 tracking.pharmanewsintel.com
+tracking.piercingladies.de
 tracking.pirelli.com
 tracking.plattformad.com
 tracking.plinga.de
@@ -15478,6 +15534,7 @@ tracking.puustelli.com
 tracking.quillion.com
 tracking.quisma.com
 tracking.rapidape.com
+tracking.rasierteladies.de
 tracking.regus.com
 tracking.retailrocket.net
 tracking.revcycleintelligence.com
@@ -15491,6 +15548,7 @@ tracking.sailgp.com
 tracking.sailpoint.com
 tracking.scenepass.com
 tracking.schneider.com
+tracking.schokoladies.de
 tracking.scoresandodds.com
 tracking.seakeeper.com
 tracking.searchmarketing.com
@@ -15529,6 +15587,7 @@ tracking.stihl.de
 tracking.style24.it
 tracking.synthasite.net
 tracking.target2sell.com
+tracking.tattooladies.de
 tracking.tchibo.com.tr
 tracking.tchibo.de
 tracking.tdk.com
@@ -15539,6 +15598,7 @@ tracking.tij.co.jp
 tracking.trinet.com
 tracking.trovaprezzi.it
 tracking.trutv.com
+tracking.tsladies.de
 tracking.tuobenessere.it
 tracking.umbrella.com
 tracking.unisabana.edu.co
@@ -15568,6 +15628,8 @@ tracking.winecoolerdirect.com
 tracking.wlscripts.net
 tracking.yealink.com
 tracking.yealink.com.cn
+tracking.zaertlicheladies.de
+tracking.zierlicheladies.de
 tracking1.brandmentions.com
 tracking1.questdiagnostics.com
 tracking1.tena.com
