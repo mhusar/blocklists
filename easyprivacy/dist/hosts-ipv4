@@ -1,6 +1,6 @@
-# Version: 202205220031
+# Version: 202205282308
 # Title: EasyPrivacy
-# Last modified: 22 May 2022 00:31 UTC
+# Last modified: 28 May 2022 23:08 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -52,6 +52,7 @@
 0.0.0.0 204st.us
 0.0.0.0 206solutions.com
 0.0.0.0 212.95.32.75
+0.0.0.0 2222.ro
 0.0.0.0 247-inc.com
 0.0.0.0 247-inc.net
 0.0.0.0 247ilabs.com
@@ -75,6 +76,7 @@
 0.0.0.0 2smt6mfgo.de
 0.0.0.0 2tty.overstappen.nl
 0.0.0.0 2znp09oa.com
+0.0.0.0 31daa5lnq.de
 0.0.0.0 3347.wolf-gordon.com
 0.0.0.0 35.194.26.233
 0.0.0.0 35.239.57.233
@@ -1011,6 +1013,7 @@
 0.0.0.0 acrosspf.com
 0.0.0.0 acs86.com
 0.0.0.0 acsbap.com
+0.0.0.0 acsbapp.com
 0.0.0.0 acstat.com
 0.0.0.0 act-on-marketing.advancedsolutionsplm.com
 0.0.0.0 act-on.ioactive.com
@@ -1382,6 +1385,7 @@
 0.0.0.0 altastat.com
 0.0.0.0 altopd.com
 0.0.0.0 altpool.pro
+0.0.0.0 altruja.de
 0.0.0.0 alvenda.com
 0.0.0.0 alwayscare.starmountlife.com
 0.0.0.0 alzexa.com
@@ -1717,6 +1721,7 @@
 0.0.0.0 analytics.wpsermons.com
 0.0.0.0 analytics.yahoo.com
 0.0.0.0 analytics.yext-static.com
+0.0.0.0 analytics.ynap.biz
 0.0.0.0 analytics.yola.net
 0.0.0.0 analytics.yolacdn.net
 0.0.0.0 analytics.yomedia.vn
@@ -1914,6 +1919,7 @@
 0.0.0.0 ascassociation.actonservice.com
 0.0.0.0 ascbdj.knivesandtools.de
 0.0.0.0 ascend.ai
+0.0.0.0 ascpqnj-oam.global.ssl.fastly.net
 0.0.0.0 ask.legalsolutions.thomsonreuters.info
 0.0.0.0 aspiringattempt.com
 0.0.0.0 aspservice.jp
@@ -2277,6 +2283,7 @@
 0.0.0.0 bidr.io
 0.0.0.0 bidsimulator.com
 0.0.0.0 bidswitch.net
+0.0.0.0 bigbrain.me
 0.0.0.0 bigcattracks.com
 0.0.0.0 bigdata.ssp.samsung.com
 0.0.0.0 bigmining.com
@@ -2408,6 +2415,7 @@
 0.0.0.0 bpeml.mlb.com
 0.0.0.0 bpmonline.com
 0.0.0.0 bqhkix.mosmexa.ru
+0.0.0.0 bqstreamer.com
 0.0.0.0 bqvndd.ifood.com.br
 0.0.0.0 br.ac.ebookers.com
 0.0.0.0 br.ac.ebookers.de
@@ -3107,6 +3115,7 @@
 0.0.0.0 collarity.com
 0.0.0.0 collect-ap2.attraqt.io
 0.0.0.0 collect-eu.attraqt.io
+0.0.0.0 collect.adplogger.no
 0.0.0.0 collect.alipay.com
 0.0.0.0 collect.cloudsponge.com
 0.0.0.0 collect.f5.com
@@ -3758,6 +3767,7 @@
 0.0.0.0 d41.co
 0.0.0.0 d4ax0r5detcsu.cloudfront.net
 0.0.0.0 d6jkenny8w8yo.cloudfront.net
+0.0.0.0 d761erxl2qywg.cloudfront.net
 0.0.0.0 d810.mysanantonio.com
 0.0.0.0 d81mfvml8p5ml.cloudfront.net
 0.0.0.0 da.hornbach.at
@@ -3882,6 +3892,7 @@
 0.0.0.0 daylogs.com
 0.0.0.0 db-ip.com
 0.0.0.0 dbex-tracker-v2.driveback.ru
+0.0.0.0 dbfocus.jp
 0.0.0.0 dbpbyh.americanas.com.br
 0.0.0.0 dbv0r7a702yve.cloudfront.net
 0.0.0.0 dbzpek.nike.com
@@ -4136,6 +4147,7 @@
 0.0.0.0 dlesjf.jutarnji.hr
 0.0.0.0 dloeloqua.danskespil.dk
 0.0.0.0 dlswbr.baidu.com
+0.0.0.0 dlxpix.net
 0.0.0.0 dm-event.net
 0.0.0.0 dmanalytics1.com
 0.0.0.0 dmclick.cn
@@ -4525,6 +4537,7 @@
 0.0.0.0 elderlyinsect.com
 0.0.0.0 elderlyscissors.com
 0.0.0.0 elderlytown.com
+0.0.0.0 ele26126.jscrambler.com
 0.0.0.0 election-sandwich-en-stationi.carte-gr.total.fr
 0.0.0.0 electrifai.actonservice.com
 0.0.0.0 elephantqueue.com
@@ -5399,6 +5412,7 @@
 0.0.0.0 fpa-cdn.arstechnica.com
 0.0.0.0 fpa-events.decrypt.co
 0.0.0.0 fpaux.net
+0.0.0.0 fpavx.net
 0.0.0.0 fpaxu.net
 0.0.0.0 fpb8.esce.fr
 0.0.0.0 fpc.acponline.org
@@ -6828,9 +6842,11 @@
 0.0.0.0 irurng.wondershare.jp
 0.0.0.0 iryazan.ru
 0.0.0.0 isbamic.actonservice.com
+0.0.0.0 isc-tracking.eventim.com
 0.0.0.0 isebis.takamiclinic.or.jp
 0.0.0.0 isebis.yutoriform.com
 0.0.0.0 iseuaa.olx.pl
+0.0.0.0 ish.tumedia.no
 0.0.0.0 ishainsight.actonservice.com
 0.0.0.0 isharemetric.rediff.com
 0.0.0.0 ismatlab.com
@@ -6890,6 +6906,7 @@
 0.0.0.0 jbezdi.ilsole24ore.com
 0.0.0.0 jciiix.dogeat.ru
 0.0.0.0 jcm.jd.com
+0.0.0.0 jcpclick.com
 0.0.0.0 jcr3.onlyyouhotels.com
 0.0.0.0 jdgtgb.desired.de
 0.0.0.0 jdgtgb.express.de
@@ -7609,6 +7626,7 @@
 0.0.0.0 logs.spilgames.com
 0.0.0.0 logs.thebloggernetwork.com
 0.0.0.0 logs.viadata.store
+0.0.0.0 logs.viavideo.digital
 0.0.0.0 logs.vmixcore.com
 0.0.0.0 logsbin.dantri.com.vn
 0.0.0.0 logservice.hicloud.com
@@ -7765,6 +7783,7 @@
 0.0.0.0 ma.preciofishbone.se
 0.0.0.0 ma.redhat.com
 0.0.0.0 ma.register.it
+0.0.0.0 ma.tarnkappe.info
 0.0.0.0 mabaya.com
 0.0.0.0 mabipa.com
 0.0.0.0 machieved.com
@@ -8633,6 +8652,7 @@
 0.0.0.0 metrics.jp.sonystyle.com
 0.0.0.0 metrics.key.com
 0.0.0.0 metrics.kgw.com
+0.0.0.0 metrics.kmsmep.com
 0.0.0.0 metrics.knowyourhdl.com
 0.0.0.0 metrics.knowyourtrigs.com
 0.0.0.0 metrics.ktvb.com
@@ -9693,6 +9713,7 @@
 0.0.0.0 pamelarandom.com
 0.0.0.0 pampopholf.com
 0.0.0.0 pan.render.com
+0.0.0.0 panda.kasika.io
 0.0.0.0 panelsave.com
 0.0.0.0 panickycurtain.com
 0.0.0.0 panickypancake.com
@@ -10402,6 +10423,7 @@
 0.0.0.0 pyouad.autonvaraosat24.fi
 0.0.0.0 python.jacksellwood.com
 0.0.0.0 pytxsn.najlacnejsisport.sk
+0.0.0.0 pzd.rakuten.co.jp
 0.0.0.0 pzpevk.newbalance.ru
 0.0.0.0 pzz.events
 0.0.0.0 q-counter.com
@@ -10825,6 +10847,7 @@
 0.0.0.0 roi-pro.com
 0.0.0.0 roi-rocket.net
 0.0.0.0 roia.biz
+0.0.0.0 roirevolution.com
 0.0.0.0 roiservice.com
 0.0.0.0 roispy.com
 0.0.0.0 roistat.com
@@ -14436,6 +14459,7 @@
 0.0.0.0 telemetrics.klaviyo.com
 0.0.0.0 telemetry.adobe.io
 0.0.0.0 telemetry.api.playstation.com
+0.0.0.0 telemetry.firez.one
 0.0.0.0 telemetry.jivosite.com
 0.0.0.0 telemetry.phenixrts.com
 0.0.0.0 telemetry.reembed.com
@@ -14447,7 +14471,6 @@
 0.0.0.0 tellapart.com
 0.0.0.0 tellaparts.com
 0.0.0.0 temnos.com
-0.0.0.0 temptation.ad.nl
 0.0.0.0 tempttalk.com
 0.0.0.0 tendersugar.com
 0.0.0.0 tendertest.com
@@ -15116,6 +15139,7 @@
 0.0.0.0 track-re01.com
 0.0.0.0 track-server-100.com
 0.0.0.0 track-srv.vietnamnet.vn
+0.0.0.0 track-visit.monday.com
 0.0.0.0 track-web.net
 0.0.0.0 track.91app.io
 0.0.0.0 track.99acres.com
@@ -15130,6 +15154,7 @@
 0.0.0.0 track.clubcar.com
 0.0.0.0 track.contently.com
 0.0.0.0 track.cordial.io
+0.0.0.0 track.custora.com
 0.0.0.0 track.dictionary.com
 0.0.0.0 track.digitalriver.com
 0.0.0.0 track.docusign.co.uk
@@ -15215,6 +15240,7 @@
 0.0.0.0 track.tomwx.net
 0.0.0.0 track.totalav.com
 0.0.0.0 track.uc.cn
+0.0.0.0 track.ultimate-guitar.com
 0.0.0.0 track.untd.com
 0.0.0.0 track.vdo.ai
 0.0.0.0 track.veedio.it
@@ -15268,6 +15294,7 @@
 0.0.0.0 tracker.mrpfd.com
 0.0.0.0 tracker.mspy.com
 0.0.0.0 tracker.nbcuas.com
+0.0.0.0 tracker.netklix.com
 0.0.0.0 tracker.nitropay.com
 0.0.0.0 tracker.providence.org
 0.0.0.0 tracker.publico.pt
@@ -16100,6 +16127,7 @@
 0.0.0.0 vendri.io
 0.0.0.0 ventivmedia.com
 0.0.0.0 venusgloria.com
+0.0.0.0 venusrevival.com
 0.0.0.0 vepxl1.net
 0.0.0.0 veqvek.cp24.com
 0.0.0.0 verbolia.com
@@ -16317,6 +16345,7 @@
 0.0.0.0 waust.at
 0.0.0.0 wavzlt.michaelstars.com
 0.0.0.0 way2traffic.com
+0.0.0.0 wazimo.com
 0.0.0.0 wbdx.fr
 0.0.0.0 wblt.oui.sncf
 0.0.0.0 wbmwss.beetv.net
