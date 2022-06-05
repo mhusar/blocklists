@@ -1,6 +1,6 @@
-# Version: 202205282308
+# Version: 202206050038
 # Title: EasyPrivacy
-# Last modified: 28 May 2022 23:08 UTC
+# Last modified: 05 Jun 2022 00:38 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -39,6 +39,7 @@
 0.0.0.0 193.197.158.209
 0.0.0.0 199.116.177.156
 0.0.0.0 1bva.societegenerale.fr
+0.0.0.0 1cros.net
 0.0.0.0 1ctc.sfr.fr
 0.0.0.0 1dmp.io
 0.0.0.0 1freecounter.com
@@ -1056,10 +1057,12 @@
 0.0.0.0 ad-beacon-v01.uliza.jp
 0.0.0.0 ad-ebis.bookpass.auone.jp
 0.0.0.0 ad-ebis.mynavi-job20s.jp
+0.0.0.0 ad-fam.com
 0.0.0.0 ad-log.dable.io
 0.0.0.0 ad-score.com
 0.0.0.0 ad-shield.io
 0.0.0.0 ad-srv-track.com
+0.0.0.0 ad-track.jp
 0.0.0.0 ad-track.paravi.jp
 0.0.0.0 ad.aloodo.com
 0.0.0.0 ad.aucfan.com
@@ -1271,6 +1274,7 @@
 0.0.0.0 affilae.com
 0.0.0.0 affilate.hh.ru
 0.0.0.0 affilbox.cz
+0.0.0.0 affiliate.gearbest.com
 0.0.0.0 affiliate.rakuten.co.jp
 0.0.0.0 affiliateedge.eu
 0.0.0.0 affiliates.mgmmirage.com
@@ -1587,6 +1591,7 @@
 0.0.0.0 analytics.lendio.com
 0.0.0.0 analytics.live.com
 0.0.0.0 analytics.liveact.cri-mw.jp
+0.0.0.0 analytics.livesense.marketing
 0.0.0.0 analytics.livestream.com
 0.0.0.0 analytics.logsss.com
 0.0.0.0 analytics.loop-cloud.de
@@ -1802,6 +1807,7 @@
 0.0.0.0 apextag.com
 0.0.0.0 apextwo.com
 0.0.0.0 api-location-prd.pelcro.com
+0.0.0.0 api.all-internet.jp
 0.0.0.0 api.autopilothq.com
 0.0.0.0 api.bunzlaucastle.com
 0.0.0.0 api.carrottrack.io
@@ -2216,6 +2222,7 @@
 0.0.0.0 beemrdwn.com
 0.0.0.0 beencounter.com
 0.0.0.0 bees.beesbeesbeesbees.com
+0.0.0.0 beginnerpancake.com
 0.0.0.0 begintrain.com
 0.0.0.0 behave.sn.at
 0.0.0.0 behavioralengine.com
@@ -2642,6 +2649,7 @@
 0.0.0.0 canalstat.com
 0.0.0.0 canddi.com
 0.0.0.0 candid.zone
+0.0.0.0 canem-auris.com
 0.0.0.0 canlytics.com
 0.0.0.0 cannonjudo.com
 0.0.0.0 cannontwin.com
@@ -3716,6 +3724,7 @@
 0.0.0.0 d28g9g3vb08y70.cloudfront.net
 0.0.0.0 d2as12kgjg8gw5.cloudfront.net
 0.0.0.0 d2axgrpnciinw7.cloudfront.net
+0.0.0.0 d2c.ne.jp
 0.0.0.0 d2cpw6kwpff7n5.cloudfront.net
 0.0.0.0 d2gbtcuv3w9qyv.cloudfront.net
 0.0.0.0 d2ibu2ug0mt5qp.cloudfront.net
@@ -3745,6 +3754,7 @@
 0.0.0.0 d36upaw912d02q.cloudfront.net
 0.0.0.0 d39yds8oe4n4jq.cloudfront.net
 0.0.0.0 d3bj8nkfly20uo.cloudfront.net
+0.0.0.0 d3bo67muzbfgtl.cloudfront.net
 0.0.0.0 d3cgm8py10hi0z.cloudfront.net
 0.0.0.0 d3cxv97fi8q177.cloudfront.net
 0.0.0.0 d3iouejux1os58.cloudfront.net
@@ -5050,6 +5060,7 @@
 0.0.0.0 events.demoup.com
 0.0.0.0 events.engage.cebglobal.com
 0.0.0.0 events.enigen.co.uk
+0.0.0.0 events.framer.com
 0.0.0.0 events.georgiancollege.ca
 0.0.0.0 events.gogoair.com
 0.0.0.0 events.il.fi
@@ -5910,6 +5921,7 @@
 0.0.0.0 gostats.ro
 0.0.0.0 gostats.ru
 0.0.0.0 gostats.vn
+0.0.0.0 gotie.tunein.com
 0.0.0.0 goto.benchmarkeducation.com
 0.0.0.0 goto.dresslily.com
 0.0.0.0 goto.rosegal.com
@@ -6191,6 +6203,7 @@
 0.0.0.0 hockeystack.com
 0.0.0.0 hokuspokus.tarnkappe.info
 0.0.0.0 holder.com.ua
+0.0.0.0 holdonstranger.com
 0.0.0.0 hollowafterthought.com
 0.0.0.0 hollydeal.club
 0.0.0.0 home.usg.com
@@ -7776,6 +7789,7 @@
 0.0.0.0 ma.axiomatics.com
 0.0.0.0 ma.birkocorp.com
 0.0.0.0 ma.hmhco.com
+0.0.0.0 ma.logsss.com
 0.0.0.0 ma.meritmind.se
 0.0.0.0 ma.mvr.se
 0.0.0.0 ma.mw-ind.com
@@ -9917,6 +9931,7 @@
 0.0.0.0 pix.airbusgroup.com
 0.0.0.0 pix.eads.com
 0.0.0.0 pix.hyj.mobi
+0.0.0.0 pix.pub
 0.0.0.0 pix.revjet.com
 0.0.0.0 pix.speedbit.com
 0.0.0.0 pix.spot.im
@@ -10711,6 +10726,7 @@
 0.0.0.0 reports-api.sqreen.io
 0.0.0.0 reports.pagesuite-professional.co.uk
 0.0.0.0 reports.sdiapi.com
+0.0.0.0 reports.tunein.com
 0.0.0.0 reportsk.web.sdo.com
 0.0.0.0 representativeray.com
 0.0.0.0 reprocautious.com
@@ -10961,6 +10977,7 @@
 0.0.0.0 s.infogram.com
 0.0.0.0 s.insidehalton.com
 0.0.0.0 s.insideottawavalley.com
+0.0.0.0 s.logsss.com
 0.0.0.0 s.mannes.tech
 0.0.0.0 s.maxrozen.com
 0.0.0.0 s.mississauga.com
@@ -11519,6 +11536,7 @@
 0.0.0.0 servestats.com
 0.0.0.0 service-stat.tbn.ru
 0.0.0.0 service.frankwatching.com
+0.0.0.0 service.trustpid.com
 0.0.0.0 serviceos.comcast.net
 0.0.0.0 services.bdc.ca
 0.0.0.0 services.cmacgm-group.com
@@ -13162,6 +13180,9 @@
 0.0.0.0 srqponmd.carte-gr.total.fr
 0.0.0.0 srtb.msn.com
 0.0.0.0 sruk.srglobal.com
+0.0.0.0 ss.photospecialist.at
+0.0.0.0 ss.photospecialist.co.uk
+0.0.0.0 ss.photospecialist.de
 0.0.0.0 ssa.asianfoodnetwork.com
 0.0.0.0 ssa.cookingchanneltv.com
 0.0.0.0 ssa.discovery.com
@@ -13449,6 +13470,7 @@
 0.0.0.0 statistiche.it
 0.0.0.0 statistiche.ws
 0.0.0.0 statistichegratis.net
+0.0.0.0 statistics.csob.cz
 0.0.0.0 statistics.csweapons.com
 0.0.0.0 statistics.daktilo.com
 0.0.0.0 statistics.fppressa.ru
@@ -14019,6 +14041,7 @@
 0.0.0.0 sts.eccmp.com
 0.0.0.0 sts.papyrs.com
 0.0.0.0 sts.ssl.net.zooplus.es
+0.0.0.0 studiostack.com
 0.0.0.0 stupendousselection.com
 0.0.0.0 stupendoussleet.com
 0.0.0.0 stupendoussnow.com
@@ -15089,6 +15112,7 @@
 0.0.0.0 tr.servicesclients.canalplus.fr
 0.0.0.0 tr.servicoaocliente.younited-credit.com
 0.0.0.0 tr.silvera-contact.fr
+0.0.0.0 tr.slvrbullet.com
 0.0.0.0 tr.smtp1.email-mediapost.fr
 0.0.0.0 tr.snapchat.com
 0.0.0.0 tr.solution.uneo.fr
@@ -17319,6 +17343,8 @@
 0.0.0.0 ztcadx.com
 0.0.0.0 ztqnls.lojasrenner.com.br
 0.0.0.0 ztsrv.com
+0.0.0.0 zucks.net
+0.0.0.0 zucks.net.zimg.jp
 0.0.0.0 zudver.matsmart.se
 0.0.0.0 zug.sbb.ch
 0.0.0.0 zum7cc.oui.sncf
