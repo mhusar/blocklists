@@ -1,6 +1,6 @@
-# Version: 202205282308
+# Version: 202206050038
 # Title: EasyPrivacy
-# Last modified: 28 May 2022 23:08 UTC
+# Last modified: 05 Jun 2022 00:38 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -39,6 +39,7 @@
 193.197.158.209
 199.116.177.156
 1bva.societegenerale.fr
+1cros.net
 1ctc.sfr.fr
 1dmp.io
 1freecounter.com
@@ -1056,10 +1057,12 @@ acxiomapac.com
 ad-beacon-v01.uliza.jp
 ad-ebis.bookpass.auone.jp
 ad-ebis.mynavi-job20s.jp
+ad-fam.com
 ad-log.dable.io
 ad-score.com
 ad-shield.io
 ad-srv-track.com
+ad-track.jp
 ad-track.paravi.jp
 ad.aloodo.com
 ad.aucfan.com
@@ -1271,6 +1274,7 @@ affex.org
 affilae.com
 affilate.hh.ru
 affilbox.cz
+affiliate.gearbest.com
 affiliate.rakuten.co.jp
 affiliateedge.eu
 affiliates.mgmmirage.com
@@ -1587,6 +1591,7 @@ analytics.laregione.ch
 analytics.lendio.com
 analytics.live.com
 analytics.liveact.cri-mw.jp
+analytics.livesense.marketing
 analytics.livestream.com
 analytics.logsss.com
 analytics.loop-cloud.de
@@ -1802,6 +1807,7 @@ apexstats.com
 apextag.com
 apextwo.com
 api-location-prd.pelcro.com
+api.all-internet.jp
 api.autopilothq.com
 api.bunzlaucastle.com
 api.carrottrack.io
@@ -2216,6 +2222,7 @@ beemray.com
 beemrdwn.com
 beencounter.com
 bees.beesbeesbeesbees.com
+beginnerpancake.com
 begintrain.com
 behave.sn.at
 behavioralengine.com
@@ -2642,6 +2649,7 @@ campaigns.rockwellautomation.com
 canalstat.com
 canddi.com
 candid.zone
+canem-auris.com
 canlytics.com
 cannonjudo.com
 cannontwin.com
@@ -3716,6 +3724,7 @@ d276.ourmidland.com
 d28g9g3vb08y70.cloudfront.net
 d2as12kgjg8gw5.cloudfront.net
 d2axgrpnciinw7.cloudfront.net
+d2c.ne.jp
 d2cpw6kwpff7n5.cloudfront.net
 d2gbtcuv3w9qyv.cloudfront.net
 d2ibu2ug0mt5qp.cloudfront.net
@@ -3745,6 +3754,7 @@ d36u3psykfwy91.cloudfront.net
 d36upaw912d02q.cloudfront.net
 d39yds8oe4n4jq.cloudfront.net
 d3bj8nkfly20uo.cloudfront.net
+d3bo67muzbfgtl.cloudfront.net
 d3cgm8py10hi0z.cloudfront.net
 d3cxv97fi8q177.cloudfront.net
 d3iouejux1os58.cloudfront.net
@@ -5050,6 +5060,7 @@ events.chaordicsystems.com
 events.demoup.com
 events.engage.cebglobal.com
 events.enigen.co.uk
+events.framer.com
 events.georgiancollege.ca
 events.gogoair.com
 events.il.fi
@@ -5910,6 +5921,7 @@ gostats.pl
 gostats.ro
 gostats.ru
 gostats.vn
+gotie.tunein.com
 goto.benchmarkeducation.com
 goto.dresslily.com
 goto.rosegal.com
@@ -6191,6 +6203,7 @@ hocgeese.com
 hockeystack.com
 hokuspokus.tarnkappe.info
 holder.com.ua
+holdonstranger.com
 hollowafterthought.com
 hollydeal.club
 home.usg.com
@@ -7776,6 +7789,7 @@ m6r.eu
 ma.axiomatics.com
 ma.birkocorp.com
 ma.hmhco.com
+ma.logsss.com
 ma.meritmind.se
 ma.mvr.se
 ma.mw-ind.com
@@ -9917,6 +9931,7 @@ piwik.pro
 pix.airbusgroup.com
 pix.eads.com
 pix.hyj.mobi
+pix.pub
 pix.revjet.com
 pix.speedbit.com
 pix.spot.im
@@ -10711,6 +10726,7 @@ reporting.singlefeed.com
 reports-api.sqreen.io
 reports.pagesuite-professional.co.uk
 reports.sdiapi.com
+reports.tunein.com
 reportsk.web.sdo.com
 representativeray.com
 reprocautious.com
@@ -10961,6 +10977,7 @@ s.hdsupplysolutions.com
 s.infogram.com
 s.insidehalton.com
 s.insideottawavalley.com
+s.logsss.com
 s.mannes.tech
 s.maxrozen.com
 s.mississauga.com
@@ -11519,6 +11536,7 @@ server3.dev1.na.sandbox.gwsweb.net.zooplus.de
 servestats.com
 service-stat.tbn.ru
 service.frankwatching.com
+service.trustpid.com
 serviceos.comcast.net
 services.bdc.ca
 services.cmacgm-group.com
@@ -13162,6 +13180,9 @@ srqpoim.carte-gr.total.fr
 srqponmd.carte-gr.total.fr
 srtb.msn.com
 sruk.srglobal.com
+ss.photospecialist.at
+ss.photospecialist.co.uk
+ss.photospecialist.de
 ssa.asianfoodnetwork.com
 ssa.cookingchanneltv.com
 ssa.discovery.com
@@ -13449,6 +13470,7 @@ statistiche-web.com
 statistiche.it
 statistiche.ws
 statistichegratis.net
+statistics.csob.cz
 statistics.csweapons.com
 statistics.daktilo.com
 statistics.fppressa.ru
@@ -14019,6 +14041,7 @@ structurerod.com
 sts.eccmp.com
 sts.papyrs.com
 sts.ssl.net.zooplus.es
+studiostack.com
 stupendousselection.com
 stupendoussleet.com
 stupendoussnow.com
@@ -15089,6 +15112,7 @@ tr.services.caradisiac.com
 tr.servicesclients.canalplus.fr
 tr.servicoaocliente.younited-credit.com
 tr.silvera-contact.fr
+tr.slvrbullet.com
 tr.smtp1.email-mediapost.fr
 tr.snapchat.com
 tr.solution.uneo.fr
@@ -17319,6 +17343,8 @@ zsi7.destinia.do
 ztcadx.com
 ztqnls.lojasrenner.com.br
 ztsrv.com
+zucks.net
+zucks.net.zimg.jp
 zudver.matsmart.se
 zug.sbb.ch
 zum7cc.oui.sncf
@@ -17333,7 +17359,7 @@ zz.bdstatic.com
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2022-05-29 01:02:36.980862
+# Generated at 2022-06-05 01:03:47.209750
 
 databerries.com
 fidzup
