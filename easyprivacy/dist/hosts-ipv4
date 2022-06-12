@@ -1,6 +1,6 @@
-# Version: 202206050038
+# Version: 202206120005
 # Title: EasyPrivacy
-# Last modified: 05 Jun 2022 00:38 UTC
+# Last modified: 12 Jun 2022 00:05 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -786,6 +786,7 @@
 0.0.0.0 aa.maxblue.de
 0.0.0.0 aa.norisbank.de
 0.0.0.0 aa.postbank.de
+0.0.0.0 aa.tweakers.nl
 0.0.0.0 aaaa.gakkikaitori.co.jp
 0.0.0.0 aad.actonservice.com
 0.0.0.0 aadata.april-international.com
@@ -1376,6 +1377,7 @@
 0.0.0.0 allo-media.net
 0.0.0.0 allowmailbox.com
 0.0.0.0 alltracked.com
+0.0.0.0 allvideometrika.com
 0.0.0.0 alocdn.com
 0.0.0.0 aloofmetal.com
 0.0.0.0 aloofvest.com
@@ -2160,6 +2162,7 @@
 0.0.0.0 bc.marfeelcache.com
 0.0.0.0 bc.qunar.com
 0.0.0.0 bc.semwerkt.nl
+0.0.0.0 bc34.wijnvoordeel.nl
 0.0.0.0 bcanl.bca-autoveiling.nl
 0.0.0.0 bcc-ltd.actonhymebiz.com
 0.0.0.0 bcsjcj.nasdaq.com
@@ -2216,6 +2219,7 @@
 0.0.0.0 bebj.com
 0.0.0.0 becanium.com
 0.0.0.0 bedsberry.com
+0.0.0.0 bee.tc.easebar.com
 0.0.0.0 beeftransmission.com
 0.0.0.0 beeline.beeline-tire.co.jp
 0.0.0.0 beemray.com
@@ -2746,7 +2750,6 @@
 0.0.0.0 cdntrf.de
 0.0.0.0 ce.lijit.com
 0.0.0.0 cedexis.com
-0.0.0.0 cedexis.net
 0.0.0.0 celebros-analytics.com
 0.0.0.0 celebrus.com
 0.0.0.0 celigo.actonservice.com
@@ -2812,6 +2815,7 @@
 0.0.0.0 chihiro.nostalgie.fr
 0.0.0.0 childlikecook.com
 0.0.0.0 childlikeform.com
+0.0.0.0 chingovernment.com
 0.0.0.0 chinsnakes.com
 0.0.0.0 chmproxy.bid
 0.0.0.0 choose.nu.edu
@@ -3630,6 +3634,7 @@
 0.0.0.0 customer.io
 0.0.0.0 customerconversio.com
 0.0.0.0 customerlabs.co
+0.0.0.0 customfingerprints.bablosoft.com
 0.0.0.0 cutecalculator.com
 0.0.0.0 cutechin.com
 0.0.0.0 cutecushion.com
@@ -3689,6 +3694,7 @@
 0.0.0.0 d17m68fovwmgxj.cloudfront.net
 0.0.0.0 d18p8z0ptb8qab.cloudfront.net
 0.0.0.0 d191y0yd6d0jy4.cloudfront.net
+0.0.0.0 d196fri2z18sm.cloudfront.net
 0.0.0.0 d1af033869koo7.cloudfront.net
 0.0.0.0 d1cdnlzf6usiff.cloudfront.net
 0.0.0.0 d1clfvuu2240eh.cloudfront.net
@@ -3707,6 +3713,7 @@
 0.0.0.0 d1t9uctetvi0tu.cloudfront.net
 0.0.0.0 d1uanozc5el74n.cloudfront.net
 0.0.0.0 d1wirc5qsdb1y5.cloudfront.net
+0.0.0.0 d1wix2gc2cgqis.cloudfront.net
 0.0.0.0 d1xfq2052q7thw.cloudfront.net
 0.0.0.0 d1yu67rmchodpo.cloudfront.net
 0.0.0.0 d1z2jf7jlzjs58.cloudfront.net
@@ -3891,6 +3898,7 @@
 0.0.0.0 datasecu.download
 0.0.0.0 datasign.co
 0.0.0.0 datasteam.io
+0.0.0.0 datatechonert.com
 0.0.0.0 dataunlocker.com
 0.0.0.0 dataxpand.com
 0.0.0.0 datayi.cn
@@ -5347,6 +5355,7 @@
 0.0.0.0 flashstats.libsyn.com
 0.0.0.0 flcounter.com
 0.0.0.0 fleet-eml.postmates.com
+0.0.0.0 fleraprt.com
 0.0.0.0 flexibleplan.actonservice.com
 0.0.0.0 flexlinkspro.com
 0.0.0.0 flexpod.ynsecureserver.net
@@ -5361,6 +5370,7 @@
 0.0.0.0 floodprincipal.com
 0.0.0.0 floorforce.actonservice.com
 0.0.0.0 flowerstreatment.com
+0.0.0.0 floweryflavor.com
 0.0.0.0 floweryoperation.com
 0.0.0.0 fluencymedia.com
 0.0.0.0 fluidsurveys.com
@@ -7565,6 +7575,7 @@
 0.0.0.0 log.medietall.no
 0.0.0.0 log.mgtv.com
 0.0.0.0 log.mix.sina.com.cn
+0.0.0.0 log.mofa.go.kr
 0.0.0.0 log.nordot.jp
 0.0.0.0 log.olark.com
 0.0.0.0 log.optimizely.com
@@ -7652,6 +7663,7 @@
 0.0.0.0 logx.optimizely.com
 0.0.0.0 logxp.ru
 0.0.0.0 logz.ru
+0.0.0.0 lokalleads-cci.com
 0.0.0.0 loloclicks.biz
 0.0.0.0 lomeldeer.club
 0.0.0.0 longinglettuce.com
@@ -10845,6 +10857,7 @@
 0.0.0.0 rlets.com
 0.0.0.0 rlinks.one.in
 0.0.0.0 rlog.popin.cc
+0.0.0.0 rmgdapfnccsharpprd.azurewebsites.net
 0.0.0.0 rmtag.com
 0.0.0.0 rndntpmgnj-a.akamaihd.net
 0.0.0.0 rnengage.com
@@ -14120,6 +14133,7 @@
 0.0.0.0 survicate.com
 0.0.0.0 sushipool.com
 0.0.0.0 suspendseed.com
+0.0.0.0 sv.aq.qq.com
 0.0.0.0 svarcom.actonservice.com
 0.0.0.0 svoywu.autoscout24.de
 0.0.0.0 svtrd.com
@@ -14592,6 +14606,7 @@
 0.0.0.0 tilt.bankofamerica.com
 0.0.0.0 tim.nextinpact.com
 0.0.0.0 timber.sendtonews.com
+0.0.0.0 timejs.game.163.com
 0.0.0.0 timeterritory.com
 0.0.0.0 timetwig.com
 0.0.0.0 tinb.net
@@ -15940,8 +15955,10 @@
 0.0.0.0 tyxo.bg
 0.0.0.0 tyxo.com
 0.0.0.0 tz284.com
+0.0.0.0 tzegilo.com
 0.0.0.0 tzwaw.pw
 0.0.0.0 u-on.eu
+0.0.0.0 u299.libelle-lekker.be
 0.0.0.0 u47.pnc.com
 0.0.0.0 u5e.com
 0.0.0.0 u652.myplainview.com
@@ -16103,6 +16120,7 @@
 0.0.0.0 usivbt.qoo10.com
 0.0.0.0 usmetric.rediff.com
 0.0.0.0 usrkrz.zdravcity.ru
+0.0.0.0 ustat.info
 0.0.0.0 usuarios-online.com
 0.0.0.0 utexas.actonservice.com
 0.0.0.0 utle.tech426.com
