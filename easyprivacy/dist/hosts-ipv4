@@ -1,6 +1,6 @@
-# Version: 202206120005
+# Version: 202206190027
 # Title: EasyPrivacy
-# Last modified: 12 Jun 2022 00:05 UTC
+# Last modified: 19 Jun 2022 00:27 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -63,6 +63,7 @@
 0.0.0.0 24log.de
 0.0.0.0 24log.es
 0.0.0.0 24log.fr
+0.0.0.0 24log.it
 0.0.0.0 24log.ru
 0.0.0.0 24smi.info
 0.0.0.0 24smi.net
@@ -95,6 +96,7 @@
 0.0.0.0 40nuggets.com
 0.0.0.0 4399stat.5054399.com
 0.0.0.0 45.32.105.134
+0.0.0.0 4e4356b68404a5138d2d-33393516977f9ca8dc54af2141da2a28.ssl.cf1.rackcdn.com
 0.0.0.0 4jnzhl0d0.com
 0.0.0.0 4oney.com
 0.0.0.0 4stats.de
@@ -2092,6 +2094,7 @@
 0.0.0.0 b.mynewplace.com
 0.0.0.0 b.prod1.youroffers.dominos.ca
 0.0.0.0 b.rwjf.org
+0.0.0.0 b.sli-spark.com
 0.0.0.0 b.your.offers.dominos.com
 0.0.0.0 b0e8.com
 0.0.0.0 b1img.com
@@ -2382,6 +2385,7 @@
 0.0.0.0 bnr.alza.cz
 0.0.0.0 bntech.io
 0.0.0.0 bnvsjg.hometogo.de
+0.0.0.0 bob-recs.com
 0.0.0.0 bob.gitclear.com
 0.0.0.0 boewzj.meiji-jisho.com
 0.0.0.0 bogglecool.club
@@ -2501,6 +2505,7 @@
 0.0.0.0 bstn-14-ma.com
 0.0.0.0 btbuckets.com
 0.0.0.0 btez8.xyz
+0.0.0.0 btg360.com.br
 0.0.0.0 btkbei.courir.com
 0.0.0.0 btloader.com
 0.0.0.0 btncdn.com
@@ -2744,6 +2749,7 @@
 0.0.0.0 cdn1.pebx.pl
 0.0.0.0 cdn7.baunetz.de
 0.0.0.0 cdnanalytics.xyz
+0.0.0.0 cdnhst.xyz
 0.0.0.0 cdnmaster.cn
 0.0.0.0 cdnmaster.com
 0.0.0.0 cdnopw.com
@@ -2814,6 +2820,7 @@
 0.0.0.0 chiefexecutive.actonservice.com
 0.0.0.0 chihiro.nostalgie.fr
 0.0.0.0 childlikecook.com
+0.0.0.0 childlikecrowd.com
 0.0.0.0 childlikeform.com
 0.0.0.0 chingovernment.com
 0.0.0.0 chinsnakes.com
@@ -3579,6 +3586,7 @@
 0.0.0.0 csbew.com
 0.0.0.0 csdata1.com
 0.0.0.0 cse3.chausport.com
+0.0.0.0 cshield.io
 0.0.0.0 csi.gstatic.com
 0.0.0.0 csp-collector.appspot.com
 0.0.0.0 csp-reporting.cloudflare.com
@@ -3646,6 +3654,7 @@
 0.0.0.0 cv.online.ysroad.co.jp
 0.0.0.0 cv.shiryoku1.com
 0.0.0.0 cvhefd.ixbt.com
+0.0.0.0 cvlb.dev
 0.0.0.0 cvs.kireimo.jp
 0.0.0.0 cvt1.sibnet.ru
 0.0.0.0 cvtr.io
@@ -3736,6 +3745,7 @@
 0.0.0.0 d2gbtcuv3w9qyv.cloudfront.net
 0.0.0.0 d2ibu2ug0mt5qp.cloudfront.net
 0.0.0.0 d2j1fszo1axgmp.cloudfront.net
+0.0.0.0 d2j74sjmqqyf26.cloudfront.net
 0.0.0.0 d2kdl5wcwrtj90.cloudfront.net
 0.0.0.0 d2nxi61n77zqpl.cloudfront.net
 0.0.0.0 d2o67tzzxkqap2.cloudfront.net
@@ -4180,6 +4190,7 @@
 0.0.0.0 dmtracker.com
 0.0.0.0 dmtry.com
 0.0.0.0 dmxleo.com
+0.0.0.0 dn0qt3r0xannq.cloudfront.net
 0.0.0.0 dn34cbtcv9mef.cloudfront.net
 0.0.0.0 dna.uol.com.br
 0.0.0.0 dnab.info
@@ -4343,6 +4354,7 @@
 0.0.0.0 ea.dcshoes-europe.com
 0.0.0.0 ea.deguisetoi.fr
 0.0.0.0 ea.diamant-unique.com
+0.0.0.0 ea.epochbase.com
 0.0.0.0 ea.evaway.com
 0.0.0.0 ea.fleurancenature.fr
 0.0.0.0 ea.francoisesaget.com
@@ -6051,6 +6063,7 @@
 0.0.0.0 hanaana.socialblade.com
 0.0.0.0 handleteeth.com
 0.0.0.0 handsomeindustry.com
+0.0.0.0 handsomelyhealth.com
 0.0.0.0 handyfield.com
 0.0.0.0 handyfireman.com
 0.0.0.0 haostat.qihoo.com
@@ -9606,6 +9619,7 @@
 0.0.0.0 outal.origo.hu
 0.0.0.0 outbid.io
 0.0.0.0 outboundlink.me
+0.0.0.0 outfunnel.com
 0.0.0.0 outreach.crossref.org
 0.0.0.0 outreach.semaconnect.com
 0.0.0.0 outreach.teex.info
@@ -9910,7 +9924,6 @@
 0.0.0.0 ping.instantsearchplus.com
 0.0.0.0 ping.richardtaylor.dev
 0.0.0.0 ping.smyte.com
-0.0.0.0 ping.staticmoly.me
 0.0.0.0 pingagenow.com
 0.0.0.0 pingback.giphy.com
 0.0.0.0 pingback.issuu.com
@@ -9961,6 +9974,7 @@
 0.0.0.0 pixel.archivecaslytosk.onion
 0.0.0.0 pixel.archiveiya74codqgiixo33q62qlrqtkgmcitqx5u2oeqnmn5bpcbiyd.onion
 0.0.0.0 pixel.augsburger-allgemeine.de
+0.0.0.0 pixel.biano.cz
 0.0.0.0 pixel.biano.ro
 0.0.0.0 pixel.blivenyc.com
 0.0.0.0 pixel.cdnwidget.com
@@ -10149,6 +10163,7 @@
 0.0.0.0 pmbox.biz
 0.0.0.0 pmetrics.performancing.com
 0.0.0.0 pmweb.com.br
+0.0.0.0 pn.vg
 0.0.0.0 pnfkhu.hygi.de
 0.0.0.0 pnhesw.jtb.co.jp
 0.0.0.0 pnnpan.cv-library.co.uk
@@ -10283,6 +10298,7 @@
 0.0.0.0 pro6e.com
 0.0.0.0 processor.asccommunications.com
 0.0.0.0 proclivitysystems.com
+0.0.0.0 procroanalytics.com
 0.0.0.0 prod.ew.srp.navigacloud.com
 0.0.0.0 proditor.sparda.de
 0.0.0.0 producecopy.com
@@ -10408,6 +10424,8 @@
 0.0.0.0 pushify.com
 0.0.0.0 pushmaster-cdn.xyz
 0.0.0.0 pushnami.com
+0.0.0.0 pushprofit.ru
+0.0.0.0 pushpushgo.com
 0.0.0.0 pushwoosh.com
 0.0.0.0 puzzlingproperty.com
 0.0.0.0 pv.hd.sohu.com
@@ -10430,6 +10448,7 @@
 0.0.0.0 px.effirst.com
 0.0.0.0 px.excitedigitalmedia.com
 0.0.0.0 px.marchex.io
+0.0.0.0 px.mountain.com
 0.0.0.0 px.owneriq.net
 0.0.0.0 px.pandora.com
 0.0.0.0 px.spiceworks.com
@@ -11519,6 +11538,7 @@
 0.0.0.0 seniorliving.mrcaff.org
 0.0.0.0 sensic.net
 0.0.0.0 sensor.org.ua
+0.0.0.0 sensorsdata.cn
 0.0.0.0 sentry-cdn.com
 0.0.0.0 sentry.arc.io
 0.0.0.0 sentry.io
@@ -11736,7 +11756,6 @@
 0.0.0.0 smadex.com
 0.0.0.0 smallbeginner.com
 0.0.0.0 smallseotools.com
-0.0.0.0 smart-bdash.com
 0.0.0.0 smart-counter.net
 0.0.0.0 smart-digital-solutions.com
 0.0.0.0 smart-dmp.com
@@ -13159,6 +13178,7 @@
 0.0.0.0 spywords.com
 0.0.0.0 sqate.io
 0.0.0.0 sqdljj.kijiji.ca
+0.0.0.0 sqs.quoka.de
 0.0.0.0 sqtivj.vidaxl.hr
 0.0.0.0 squashfriction.com
 0.0.0.0 squeakzinc.com
@@ -13973,6 +13993,7 @@
 0.0.0.0 statsbox.nl
 0.0.0.0 statsd.zmags.com
 0.0.0.0 statsforever.com
+0.0.0.0 statsig.com
 0.0.0.0 statsinsight.com
 0.0.0.0 statsit.com
 0.0.0.0 statsmachine.com
@@ -15307,6 +15328,7 @@
 0.0.0.0 trackeame.com
 0.0.0.0 trackedlink.net
 0.0.0.0 trackedweb.net
+0.0.0.0 tracker-rec.smart-bdash.com
 0.0.0.0 tracker.520call.me
 0.0.0.0 tracker.adbinead.com
 0.0.0.0 tracker.affiliate.iqoption.com
@@ -15326,6 +15348,7 @@
 0.0.0.0 tracker.euroweb.net
 0.0.0.0 tracker.financialcontent.com
 0.0.0.0 tracker.icerocket.com
+0.0.0.0 tracker.idocdn.com
 0.0.0.0 tracker.iltrovatore.it
 0.0.0.0 tracker.jawcloud.co
 0.0.0.0 tracker.keywordintent.com
@@ -15504,6 +15527,7 @@
 0.0.0.0 tracking.info.methodisthealthsystem.org
 0.0.0.0 tracking.info.rcgt.com
 0.0.0.0 tracking.insperity.com
+0.0.0.0 tracking.intentsify.io
 0.0.0.0 tracking.interweave.com
 0.0.0.0 tracking.janssenmedicalcloud.de
 0.0.0.0 tracking.janssenmedicalcloud.ru
@@ -15830,6 +15854,7 @@
 0.0.0.0 trk.business.westernunion.it
 0.0.0.0 trk.business.westernunion.pl
 0.0.0.0 trk.channelfutures.com
+0.0.0.0 trk.clinch.co
 0.0.0.0 trk.contentmarketinginstitute.com
 0.0.0.0 trk.coteriefashionevents.com
 0.0.0.0 trk.darkreading.com

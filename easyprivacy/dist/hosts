@@ -1,6 +1,6 @@
-# Version: 202206120005
+# Version: 202206190027
 # Title: EasyPrivacy
-# Last modified: 12 Jun 2022 00:05 UTC
+# Last modified: 19 Jun 2022 00:27 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -63,6 +63,7 @@
 24log.de
 24log.es
 24log.fr
+24log.it
 24log.ru
 24smi.info
 24smi.net
@@ -95,6 +96,7 @@
 40nuggets.com
 4399stat.5054399.com
 45.32.105.134
+4e4356b68404a5138d2d-33393516977f9ca8dc54af2141da2a28.ssl.cf1.rackcdn.com
 4jnzhl0d0.com
 4oney.com
 4stats.de
@@ -2092,6 +2094,7 @@ b.lyst.com
 b.mynewplace.com
 b.prod1.youroffers.dominos.ca
 b.rwjf.org
+b.sli-spark.com
 b.your.offers.dominos.com
 b0e8.com
 b1img.com
@@ -2382,6 +2385,7 @@ bnqt.com
 bnr.alza.cz
 bntech.io
 bnvsjg.hometogo.de
+bob-recs.com
 bob.gitclear.com
 boewzj.meiji-jisho.com
 bogglecool.club
@@ -2501,6 +2505,7 @@ bs.yandex.ru
 bstn-14-ma.com
 btbuckets.com
 btez8.xyz
+btg360.com.br
 btkbei.courir.com
 btloader.com
 btncdn.com
@@ -2744,6 +2749,7 @@ cdn.usefathom.com
 cdn1.pebx.pl
 cdn7.baunetz.de
 cdnanalytics.xyz
+cdnhst.xyz
 cdnmaster.cn
 cdnmaster.com
 cdnopw.com
@@ -2814,6 +2820,7 @@ chicoryapp.com
 chiefexecutive.actonservice.com
 chihiro.nostalgie.fr
 childlikecook.com
+childlikecrowd.com
 childlikeform.com
 chingovernment.com
 chinsnakes.com
@@ -3579,6 +3586,7 @@ cs.nexttv.co.il
 csbew.com
 csdata1.com
 cse3.chausport.com
+cshield.io
 csi.gstatic.com
 csp-collector.appspot.com
 csp-reporting.cloudflare.com
@@ -3646,6 +3654,7 @@ cv.drive-hikari.net
 cv.online.ysroad.co.jp
 cv.shiryoku1.com
 cvhefd.ixbt.com
+cvlb.dev
 cvs.kireimo.jp
 cvt1.sibnet.ru
 cvtr.io
@@ -3736,6 +3745,7 @@ d2cpw6kwpff7n5.cloudfront.net
 d2gbtcuv3w9qyv.cloudfront.net
 d2ibu2ug0mt5qp.cloudfront.net
 d2j1fszo1axgmp.cloudfront.net
+d2j74sjmqqyf26.cloudfront.net
 d2kdl5wcwrtj90.cloudfront.net
 d2nxi61n77zqpl.cloudfront.net
 d2o67tzzxkqap2.cloudfront.net
@@ -4180,6 +4190,7 @@ dmtgo.upc.biz
 dmtracker.com
 dmtry.com
 dmxleo.com
+dn0qt3r0xannq.cloudfront.net
 dn34cbtcv9mef.cloudfront.net
 dna.uol.com.br
 dnab.info
@@ -4343,6 +4354,7 @@ ea.coffrefortplus.com
 ea.dcshoes-europe.com
 ea.deguisetoi.fr
 ea.diamant-unique.com
+ea.epochbase.com
 ea.evaway.com
 ea.fleurancenature.fr
 ea.francoisesaget.com
@@ -6051,6 +6063,7 @@ hammerhearing.com
 hanaana.socialblade.com
 handleteeth.com
 handsomeindustry.com
+handsomelyhealth.com
 handyfield.com
 handyfireman.com
 haostat.qihoo.com
@@ -9606,6 +9619,7 @@ ourstats.de
 outal.origo.hu
 outbid.io
 outboundlink.me
+outfunnel.com
 outreach.crossref.org
 outreach.semaconnect.com
 outreach.teex.info
@@ -9910,7 +9924,6 @@ ping.hungama.com
 ping.instantsearchplus.com
 ping.richardtaylor.dev
 ping.smyte.com
-ping.staticmoly.me
 pingagenow.com
 pingback.giphy.com
 pingback.issuu.com
@@ -9961,6 +9974,7 @@ pixel.archive.vn
 pixel.archivecaslytosk.onion
 pixel.archiveiya74codqgiixo33q62qlrqtkgmcitqx5u2oeqnmn5bpcbiyd.onion
 pixel.augsburger-allgemeine.de
+pixel.biano.cz
 pixel.biano.ro
 pixel.blivenyc.com
 pixel.cdnwidget.com
@@ -10149,6 +10163,7 @@ pm14.com
 pmbox.biz
 pmetrics.performancing.com
 pmweb.com.br
+pn.vg
 pnfkhu.hygi.de
 pnhesw.jtb.co.jp
 pnnpan.cv-library.co.uk
@@ -10283,6 +10298,7 @@ prnx.net
 pro6e.com
 processor.asccommunications.com
 proclivitysystems.com
+procroanalytics.com
 prod.ew.srp.navigacloud.com
 proditor.sparda.de
 producecopy.com
@@ -10408,6 +10424,8 @@ pushible.com
 pushify.com
 pushmaster-cdn.xyz
 pushnami.com
+pushprofit.ru
+pushpushgo.com
 pushwoosh.com
 puzzlingproperty.com
 pv.hd.sohu.com
@@ -10430,6 +10448,7 @@ px.derstandard.at
 px.effirst.com
 px.excitedigitalmedia.com
 px.marchex.io
+px.mountain.com
 px.owneriq.net
 px.pandora.com
 px.spiceworks.com
@@ -11519,6 +11538,7 @@ seniorliving.maryswoods.org
 seniorliving.mrcaff.org
 sensic.net
 sensor.org.ua
+sensorsdata.cn
 sentry-cdn.com
 sentry.arc.io
 sentry.io
@@ -11736,7 +11756,6 @@ sm.edweek.org
 smadex.com
 smallbeginner.com
 smallseotools.com
-smart-bdash.com
 smart-counter.net
 smart-digital-solutions.com
 smart-dmp.com
@@ -13159,6 +13178,7 @@ spysubstance.com
 spywords.com
 sqate.io
 sqdljj.kijiji.ca
+sqs.quoka.de
 sqtivj.vidaxl.hr
 squashfriction.com
 squeakzinc.com
@@ -13973,6 +13993,7 @@ statsapi.screen9.com
 statsbox.nl
 statsd.zmags.com
 statsforever.com
+statsig.com
 statsinsight.com
 statsit.com
 statsmachine.com
@@ -15307,6 +15328,7 @@ trackconsole.com
 trackeame.com
 trackedlink.net
 trackedweb.net
+tracker-rec.smart-bdash.com
 tracker.520call.me
 tracker.adbinead.com
 tracker.affiliate.iqoption.com
@@ -15326,6 +15348,7 @@ tracker.downdetector.com
 tracker.euroweb.net
 tracker.financialcontent.com
 tracker.icerocket.com
+tracker.idocdn.com
 tracker.iltrovatore.it
 tracker.jawcloud.co
 tracker.keywordintent.com
@@ -15504,6 +15527,7 @@ tracking.info.ivanti.com
 tracking.info.methodisthealthsystem.org
 tracking.info.rcgt.com
 tracking.insperity.com
+tracking.intentsify.io
 tracking.interweave.com
 tracking.janssenmedicalcloud.de
 tracking.janssenmedicalcloud.ru
@@ -15830,6 +15854,7 @@ trk.business.westernunion.fr
 trk.business.westernunion.it
 trk.business.westernunion.pl
 trk.channelfutures.com
+trk.clinch.co
 trk.contentmarketinginstitute.com
 trk.coteriefashionevents.com
 trk.darkreading.com
