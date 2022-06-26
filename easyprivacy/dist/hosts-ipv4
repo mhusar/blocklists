@@ -1,6 +1,6 @@
-# Version: 202206190027
+# Version: 202206252358
 # Title: EasyPrivacy
-# Last modified: 19 Jun 2022 00:27 UTC
+# Last modified: 25 Jun 2022 23:58 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -1078,6 +1078,7 @@
 0.0.0.0 ad.tempstaff.co.jp
 0.0.0.0 ad.udition.jp
 0.0.0.0 ad1.tone.ne.jp
+0.0.0.0 ad1x.com
 0.0.0.0 ad4m.at
 0.0.0.0 ad5track.com
 0.0.0.0 ad7.bigmir.net
@@ -1241,6 +1242,7 @@
 0.0.0.0 adtraxx.de
 0.0.0.0 adtriba.com
 0.0.0.0 adultblogtoplist.com
+0.0.0.0 adultium.com
 0.0.0.0 adunity.com
 0.0.0.0 adv-sv-stat.focus.cn
 0.0.0.0 adv.drtuber.com
@@ -2728,7 +2730,6 @@
 0.0.0.0 cccpmo.com
 0.0.0.0 ccexperimentsstatic.oracleoutsourcing.com
 0.0.0.0 ccgateway.net
-0.0.0.0 ccm19.de
 0.0.0.0 ccmd.coveredca.com
 0.0.0.0 ccpa.psg.nexstardigital.net
 0.0.0.0 ccrtvi.com
@@ -3134,6 +3135,7 @@
 0.0.0.0 collarity.com
 0.0.0.0 collect-ap2.attraqt.io
 0.0.0.0 collect-eu.attraqt.io
+0.0.0.0 collect-v6.51.la
 0.0.0.0 collect.adplogger.no
 0.0.0.0 collect.alipay.com
 0.0.0.0 collect.cloudsponge.com
@@ -3412,6 +3414,7 @@
 0.0.0.0 cosmosjackson.com
 0.0.0.0 cost1action.com
 0.0.0.0 count.asnetworks.de
+0.0.0.0 count.candou.com
 0.0.0.0 count.carrierzone.com
 0.0.0.0 count.channeladvisor.com
 0.0.0.0 count.fr
@@ -3902,6 +3905,7 @@
 0.0.0.0 datag.polo.com
 0.0.0.0 datam.com
 0.0.0.0 datamaster.com.cn
+0.0.0.0 datamilk.app
 0.0.0.0 datamind.ru
 0.0.0.0 datanoticias.prisasd.com
 0.0.0.0 dataperforma.com
@@ -5093,6 +5097,7 @@
 0.0.0.0 events.mapbox.com
 0.0.0.0 events.matterport.com
 0.0.0.0 events.medio.com
+0.0.0.0 events.mercadolibre.com
 0.0.0.0 events.mywd.com
 0.0.0.0 events.newsroom.bi
 0.0.0.0 events.newyorklifeinvestments.com
@@ -5638,6 +5643,7 @@
 0.0.0.0 g990421676.co
 0.0.0.0 ga-analytics.com
 0.0.0.0 ga-beacon.appspot.com
+0.0.0.0 ga.dx.com
 0.0.0.0 ga.giuem.com
 0.0.0.0 ga.kvideo.io
 0.0.0.0 ga.nsimg.net
@@ -7548,6 +7554,7 @@
 0.0.0.0 lntvby.banggood.com
 0.0.0.0 lnvguu.lifood.jp
 0.0.0.0 lnxfgm.party-calendar.net
+0.0.0.0 loader-cdn.azureedge.net
 0.0.0.0 loader.zeroform.com
 0.0.0.0 localbeige.club
 0.0.0.0 localytics.com
@@ -7654,6 +7661,7 @@
 0.0.0.0 logrocket.io
 0.0.0.0 logs-api.shoprunner.com
 0.0.0.0 logs.51cto.com
+0.0.0.0 logs.animaapp.com
 0.0.0.0 logs.datadoghq.com
 0.0.0.0 logs.datadoghq.eu
 0.0.0.0 logs.gaana.com
@@ -9263,7 +9271,6 @@
 0.0.0.0 ninja.akamaized.net
 0.0.0.0 ninja.onap.io
 0.0.0.0 ninjacat.io
-0.0.0.0 nitropay.com
 0.0.0.0 nlbukc.babyworld.se
 0.0.0.0 nlf6.vente-unique.pl
 0.0.0.0 nlgzhd.yoox.com
@@ -9951,6 +9958,7 @@
 0.0.0.0 piquantprice.com
 0.0.0.0 piquantstove.com
 0.0.0.0 piratepx.com
+0.0.0.0 pirsch.io
 0.0.0.0 piti.bplaced.net
 0.0.0.0 piwik.pro
 0.0.0.0 pix.airbusgroup.com
@@ -10216,6 +10224,7 @@
 0.0.0.0 postclickmarketing.com
 0.0.0.0 postgraduate.smu.edu.sg
 0.0.0.0 postgraduate2.smu.edu.sg
+0.0.0.0 posthog.com
 0.0.0.0 postuler.bpost.be
 0.0.0.0 powderprofit.com
 0.0.0.0 powercount.com
@@ -13485,6 +13494,7 @@
 0.0.0.0 statcounterfree.com
 0.0.0.0 statdb.pressflex.com
 0.0.0.0 statdynamic.com
+0.0.0.0 stated.io
 0.0.0.0 statementsweater.com
 0.0.0.0 states.neweggbusiness.com
 0.0.0.0 stathat.com
@@ -13975,8 +13985,6 @@
 0.0.0.0 stats.yinyuetai.com
 0.0.0.0 stats.yourdallashandyman.com
 0.0.0.0 stats.zander.wtf
-0.0.0.0 stats.zone-annuaire.one
-0.0.0.0 stats.zone-telechargement.click
 0.0.0.0 stats.zotabox.com
 0.0.0.0 stats1.tune.pk
 0.0.0.0 stats2.algo.at
@@ -14378,6 +14386,7 @@
 0.0.0.0 tags.cdn.circlesix.co
 0.0.0.0 tags.clickagy.com
 0.0.0.0 tags.creativille.co.uk
+0.0.0.0 tags.fullcontact.com
 0.0.0.0 tags.globo.com
 0.0.0.0 tags.johnlewis.com
 0.0.0.0 tags.master-perf-tools.com
@@ -16370,6 +16379,7 @@
 0.0.0.0 w3.flatex.nl
 0.0.0.0 w3.vitrade.de
 0.0.0.0 w3counter.com
+0.0.0.0 w4o7aea80ss3-a.akamaihd.net
 0.0.0.0 w55c.net
 0.0.0.0 w7.berlin.de
 0.0.0.0 w7.weihnachteninberlin.de
@@ -16658,6 +16668,7 @@
 0.0.0.0 wkdspy.locondo.jp
 0.0.0.0 wknd.ai
 0.0.0.0 wknvmj.cocooncenter.com
+0.0.0.0 wl-analytics.tsp.li
 0.0.0.0 wl.jd.com
 0.0.0.0 wl.spotify.com
 0.0.0.0 wlkojk.orange.ro
@@ -16705,6 +16716,7 @@
 0.0.0.0 wryfinger.com
 0.0.0.0 ws.audioeye.com
 0.0.0.0 ws.sharethis.com
+0.0.0.0 wsmcdn.audioeye.com
 0.0.0.0 wspeed.qq.com
 0.0.0.0 wssgmstats.vibbo.com
 0.0.0.0 wsstats.coches.net
