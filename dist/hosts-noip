@@ -1,6 +1,6 @@
-# Version: 202206190027
+# Version: 202206252358
 # Title: EasyPrivacy
-# Last modified: 19 Jun 2022 00:27 UTC
+# Last modified: 25 Jun 2022 23:58 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -1064,6 +1064,7 @@ ad.takasu.co.jp
 ad.tempstaff.co.jp
 ad.udition.jp
 ad1.tone.ne.jp
+ad1x.com
 ad4m.at
 ad5track.com
 ad7.bigmir.net
@@ -1227,6 +1228,7 @@ adtrackers.net
 adtraxx.de
 adtriba.com
 adultblogtoplist.com
+adultium.com
 adunity.com
 adv-sv-stat.focus.cn
 adv.drtuber.com
@@ -2714,7 +2716,6 @@ ccaas.avaya.com
 cccpmo.com
 ccexperimentsstatic.oracleoutsourcing.com
 ccgateway.net
-ccm19.de
 ccmd.coveredca.com
 ccpa.psg.nexstardigital.net
 ccrtvi.com
@@ -3120,6 +3121,7 @@ coll2onf.com
 collarity.com
 collect-ap2.attraqt.io
 collect-eu.attraqt.io
+collect-v6.51.la
 collect.adplogger.no
 collect.alipay.com
 collect.cloudsponge.com
@@ -3398,6 +3400,7 @@ cosmi.io
 cosmosjackson.com
 cost1action.com
 count.asnetworks.de
+count.candou.com
 count.carrierzone.com
 count.channeladvisor.com
 count.fr
@@ -3888,6 +3891,7 @@ datafront.co
 datag.polo.com
 datam.com
 datamaster.com.cn
+datamilk.app
 datamind.ru
 datanoticias.prisasd.com
 dataperforma.com
@@ -5079,6 +5083,7 @@ events.launchdarkly.com
 events.mapbox.com
 events.matterport.com
 events.medio.com
+events.mercadolibre.com
 events.mywd.com
 events.newsroom.bi
 events.newyorklifeinvestments.com
@@ -5624,6 +5629,7 @@ g990421675.co
 g990421676.co
 ga-analytics.com
 ga-beacon.appspot.com
+ga.dx.com
 ga.giuem.com
 ga.kvideo.io
 ga.nsimg.net
@@ -7534,6 +7540,7 @@ lngtd.com
 lntvby.banggood.com
 lnvguu.lifood.jp
 lnxfgm.party-calendar.net
+loader-cdn.azureedge.net
 loader.zeroform.com
 localbeige.club
 localytics.com
@@ -7640,6 +7647,7 @@ logrocket.com
 logrocket.io
 logs-api.shoprunner.com
 logs.51cto.com
+logs.animaapp.com
 logs.datadoghq.com
 logs.datadoghq.eu
 logs.gaana.com
@@ -9249,7 +9257,6 @@ ninestats.com
 ninja.akamaized.net
 ninja.onap.io
 ninjacat.io
-nitropay.com
 nlbukc.babyworld.se
 nlf6.vente-unique.pl
 nlgzhd.yoox.com
@@ -9937,6 +9944,7 @@ piquantpigs.com
 piquantprice.com
 piquantstove.com
 piratepx.com
+pirsch.io
 piti.bplaced.net
 piwik.pro
 pix.airbusgroup.com
@@ -10202,6 +10210,7 @@ postaffiliatepro.com
 postclickmarketing.com
 postgraduate.smu.edu.sg
 postgraduate2.smu.edu.sg
+posthog.com
 postuler.bpost.be
 powderprofit.com
 powercount.com
@@ -13471,6 +13480,7 @@ statcounter.com
 statcounterfree.com
 statdb.pressflex.com
 statdynamic.com
+stated.io
 statementsweater.com
 states.neweggbusiness.com
 stathat.com
@@ -13961,8 +13971,6 @@ stats.xn--drivation-b4a.fr
 stats.yinyuetai.com
 stats.yourdallashandyman.com
 stats.zander.wtf
-stats.zone-annuaire.one
-stats.zone-telechargement.click
 stats.zotabox.com
 stats1.tune.pk
 stats2.algo.at
@@ -14364,6 +14372,7 @@ tags.catapultx.com
 tags.cdn.circlesix.co
 tags.clickagy.com
 tags.creativille.co.uk
+tags.fullcontact.com
 tags.globo.com
 tags.johnlewis.com
 tags.master-perf-tools.com
@@ -16356,6 +16365,7 @@ w3.flatex.de
 w3.flatex.nl
 w3.vitrade.de
 w3counter.com
+w4o7aea80ss3-a.akamaihd.net
 w55c.net
 w7.berlin.de
 w7.weihnachteninberlin.de
@@ -16644,6 +16654,7 @@ wkctj.baidu.com
 wkdspy.locondo.jp
 wknd.ai
 wknvmj.cocooncenter.com
+wl-analytics.tsp.li
 wl.jd.com
 wl.spotify.com
 wlkojk.orange.ro
@@ -16691,6 +16702,7 @@ wrvueo.mollis.ru
 wryfinger.com
 ws.audioeye.com
 ws.sharethis.com
+wsmcdn.audioeye.com
 wspeed.qq.com
 wssgmstats.vibbo.com
 wsstats.coches.net
@@ -17388,7 +17400,7 @@ zz.bdstatic.com
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2022-06-19 01:01:49.746500
+# Generated at 2022-06-26 01:05:54.138619
 
 databerries.com
 fidzup
