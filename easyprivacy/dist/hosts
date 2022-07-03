@@ -1,6 +1,6 @@
-# Version: 202206252358
+# Version: 202207022349
 # Title: EasyPrivacy
-# Last modified: 25 Jun 2022 23:58 UTC
+# Last modified: 02 Jul 2022 23:49 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -177,6 +177,7 @@ a.fdmedia.io
 a.gedidigital.it
 a.getaawp.com
 a.getflowbox.com
+a.hcaptcha.com
 a.hellonext.co
 a.hibbett.com
 a.hrewards.com
@@ -1003,6 +1004,7 @@ acecounter.com
 acendas.actonservice.com
 acetrk.com
 acexedge.com
+achieverknee.com
 acidpigs.com
 acint.net
 acousticairplane.com
@@ -1516,6 +1518,7 @@ analytics.chegg.com
 analytics.churchthemes.com
 analytics.cincopa.com
 analytics.clickpathmedia.com
+analytics.cloud.coveo.com
 analytics.cmn.com
 analytics.cnd-motionmedia.de
 analytics.cocolog-nifty.com
@@ -2671,6 +2674,7 @@ capablecows.com
 capablecup.com
 capriciouscorn.com
 capsquirrel.com
+captcha-display.com
 captify.co.uk
 captivate.ai
 captora.com
@@ -3027,6 +3031,7 @@ cloudsdestruction.com
 cloudtracer101.com
 cloudwp.io
 clp-mms.cloudpro.co.uk
+clrt.ai
 cls7.theushuaiaexperience.com
 clshkv.labirint.ru
 cltgtstor001.blob.core.windows.net
@@ -3350,6 +3355,7 @@ contents2.00110.citi.com
 contentsfeed.com
 contentspread.net
 contentsquare.net
+contiamo.com
 contineljs.com
 continue.com
 control.cityofcairns.com
@@ -3714,6 +3720,7 @@ d1cr9zxt7u0sgu.cloudfront.net
 d1gp8joe0evc8s.cloudfront.net
 d1iazwv1n1tsyi.cloudfront.net
 d1igp3oop3iho5.cloudfront.net
+d1k8sb4xbepqao.cloudfront.net
 d1m6l9dfulcyw7.cloudfront.net
 d1n00d49gkbray.cloudfront.net
 d1qpxk1wfeh8v1.cloudfront.net
@@ -4266,6 +4273,7 @@ driv-analytics.com
 driverequest.com
 drivingdirt.com
 drlimmode9ddd.cloudfront.net
+dropboxfingerprintjs.com
 drvive.lamoda.ru
 drydrum.com
 ds-aksb-a.akamaihd.net
@@ -5807,6 +5815,7 @@ globalwebindex.net
 globase.com
 globel.co.uk
 globetrackr.com
+glomex.com
 glookup.info
 gloriousbeef.com
 gloriouscracker.com
@@ -7260,7 +7269,6 @@ leadium.com
 leadlab.click
 leadlife.com
 leadmanagerfx.com
-leadpages.net
 leadsius.com
 leadslabpixels.net
 leadsleap.com
@@ -8908,6 +8916,7 @@ mlclick.com
 mlfolu.nabava.net
 mlhtmc.macnificos.com
 mlinks.fluz.app
+mlm-tracking-service.meinestadt.de
 mlmswk.janpara.co.jp
 mlno6.com
 mlstat.com
@@ -9141,6 +9150,7 @@ namrinfo.motorolasolutions.com
 nanostats.nanopress.it
 nanovisor.io
 nappyattack.com
+nasi.etherscan.com
 natero.com
 nathetsof.com
 native.ai
@@ -9149,6 +9159,7 @@ natpal.com
 naturaltracking.com
 nautilus.net.zooplus.de
 navdmp.com
+navigation-timing.meinestadt.de
 navigator.io
 navilytics.com
 navrcholu.cz
@@ -9543,6 +9554,7 @@ opel.net.zooplus.com
 open.delivery.net
 open.oneplus.net
 openclick.com
+openfpcdn.io
 openguid.org
 openhit.com
 openlog.in
@@ -10188,6 +10200,7 @@ pocketsonic.com
 podfdch.com
 podiumpresto.com
 pointillist.com
+pointlesspocket.com
 pointlessrifle.com
 pointmediatracker.com
 pointomatic.com
@@ -10301,6 +10314,7 @@ privacy-policy.truste.com
 privacy.outdoorsg.com
 privacyfriendly.netlify.app
 private.roche.com
+privymktg.com
 prjslxhtx003.top
 prnetwork.de
 prnx.net
@@ -10854,6 +10868,7 @@ rfr-69.com
 rgiixp.sperry.com
 rh5i.tradingsat.com
 rhetoricalloss.com
+rhetoricalveil.com
 rhinoseo.com
 rhoxnc.studentuniverse.com
 rhymezebra.com
@@ -13009,6 +13024,7 @@ sp.baxterbulletin.com
 sp.bucyrustelegraphforum.com
 sp.burlingtonfreepress.com
 sp.caller.com
+sp.cargurus.co.uk
 sp.chillicothegazette.com
 sp.cincinnati.com
 sp.citizen-times.com
@@ -13549,6 +13565,7 @@ stats.4travel.jp
 stats.acadevor.com
 stats.administrarweb.es
 stats.adultswim.com
+stats.aerotime.aero
 stats.airfarewatchdog.co.uk
 stats.aixbrain.de
 stats.allaboutberlin.com
@@ -14140,6 +14157,7 @@ supercounters.com
 superficialeyes.com
 superficialspring.com
 superficialsquare.com
+superpointlesshamsters.com
 superstat.info
 superstats.com
 supert.ag
@@ -14324,6 +14342,7 @@ t.sharethis.com
 t.signalayer.com
 t.skimresources.com
 t.smile.eu
+t.splicky.com
 t.spot.im
 t.toxbuddy.com
 t.tulsahurricane.com
@@ -14426,6 +14445,7 @@ tarttendency.com
 taskanalytics.com
 tastefulsongs.com
 tastelesstrees.com
+tastelesstrucks.com
 tatehj.nylaarp.com
 tatpek.com
 tawdryson.com
@@ -16604,6 +16624,7 @@ webvisor.ru
 webxmr.com
 wecantrack.com
 wecount4u.com
+wellgroomedapparel.com
 wellgroomedbat.com
 wellmadefrog.com
 welt-der-links.de
@@ -17227,6 +17248,7 @@ y900.greenwichtime.com
 ya-counter.ru
 yamanoha.com
 yandexadexchange.net
+yardianalytics.com
 yast.rutube.ru
 yaudience.com
 ybotvisit.com
