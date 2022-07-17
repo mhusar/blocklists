@@ -1,6 +1,6 @@
-# Version: 202207100045
+# Version: 202207170045
 # Title: EasyPrivacy
-# Last modified: 10 Jul 2022 00:45 UTC
+# Last modified: 17 Jul 2022 00:45 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -1461,6 +1461,7 @@
 0.0.0.0 analytic.surfline.com
 0.0.0.0 analytic.xingcloud.com
 0.0.0.0 analytic20.detik.com
+0.0.0.0 analytically.net
 0.0.0.0 analyticcdn.globalmailer.com
 0.0.0.0 analytics-1.cavai.com
 0.0.0.0 analytics-api.dvdfab.cn
@@ -1501,6 +1502,7 @@
 0.0.0.0 analytics.avanser.com.au
 0.0.0.0 analytics.aweber.com
 0.0.0.0 analytics.belgacom.be
+0.0.0.0 analytics.bestreviews.com
 0.0.0.0 analytics.betterplaces.nl
 0.0.0.0 analytics.bigcommerce.com
 0.0.0.0 analytics.bitrix.info
@@ -1918,6 +1920,7 @@
 0.0.0.0 arpxs.com
 0.0.0.0 arrayasolutions.actonservice.com
 0.0.0.0 arrietty.nrj.fr
+0.0.0.0 arrivalist.com
 0.0.0.0 arrowpushengine.com
 0.0.0.0 arsdev.net
 0.0.0.0 artefact.is
@@ -3059,6 +3062,9 @@
 0.0.0.0 cmp.dreamlab.pl
 0.0.0.0 cmp.finn.no
 0.0.0.0 cmp.huffingtonpost.fr
+0.0.0.0 cmp.lavie.fr
+0.0.0.0 cmp.lemonde.fr
+0.0.0.0 cmp.lepoint.fr
 0.0.0.0 cmp.netzwelt.de
 0.0.0.0 cmp.nouvelobs.com
 0.0.0.0 cmp.tech426.com
@@ -3266,6 +3272,7 @@
 0.0.0.0 connect.flowroute.com
 0.0.0.0 connect.frontier.com
 0.0.0.0 connect.ftpresents.com
+0.0.0.0 connect.idocdn.com
 0.0.0.0 connect.imam-us.org
 0.0.0.0 connect.intel.com
 0.0.0.0 connect.lightriver.com
@@ -3587,6 +3594,7 @@
 0.0.0.0 crta.dailymail.co.uk
 0.0.0.0 crta.metro.co.uk
 0.0.0.0 crtx.info
+0.0.0.0 crumbs.robinhood.com
 0.0.0.0 crwdcntrl.net
 0.0.0.0 cryptaloot.pro
 0.0.0.0 crypto-coins.club
@@ -3772,7 +3780,6 @@
 0.0.0.0 d2nxi61n77zqpl.cloudfront.net
 0.0.0.0 d2o67tzzxkqap2.cloudfront.net
 0.0.0.0 d2oh4tlt9mrke9.cloudfront.net
-0.0.0.0 d2r1yp2w7bby2u.cloudfront.net
 0.0.0.0 d2r7bmv6l6bnd1.cloudfront.net
 0.0.0.0 d2rnkf2kqy5m6h.cloudfront.net
 0.0.0.0 d2ry9vue95px0b.cloudfront.net
@@ -4007,6 +4014,7 @@
 0.0.0.0 decoroustitle.com
 0.0.0.0 decoycreation.com
 0.0.0.0 dedola.actonservice.com
+0.0.0.0 deep-content.io
 0.0.0.0 deep.bi
 0.0.0.0 deepattention.com
 0.0.0.0 deepc.cc
@@ -5819,6 +5827,7 @@
 0.0.0.0 glbtracker.com
 0.0.0.0 gleam.io
 0.0.0.0 gleamingtrade.com
+0.0.0.0 glia.com
 0.0.0.0 glimr.io
 0.0.0.0 glisteningguide.com
 0.0.0.0 glisteningsign.com
@@ -7538,6 +7547,7 @@
 0.0.0.0 liosix.mtvuutiset.fi
 0.0.0.0 listrakbi.com
 0.0.0.0 listtop.ru
+0.0.0.0 lite-cdn.com
 0.0.0.0 literally-analytics.appspot.com
 0.0.0.0 literatelight.com
 0.0.0.0 litix.io
@@ -9180,6 +9190,7 @@
 0.0.0.0 nasi.etherscan.com
 0.0.0.0 natero.com
 0.0.0.0 nathetsof.com
+0.0.0.0 native-track.com
 0.0.0.0 native.ai
 0.0.0.0 nativesubscribe.pro
 0.0.0.0 natpal.com
@@ -9582,7 +9593,6 @@
 0.0.0.0 open.delivery.net
 0.0.0.0 open.oneplus.net
 0.0.0.0 openclick.com
-0.0.0.0 openfpcdn.io
 0.0.0.0 openguid.org
 0.0.0.0 openhit.com
 0.0.0.0 openlog.in
@@ -10042,6 +10052,7 @@
 0.0.0.0 pixel.inforsea.com
 0.0.0.0 pixel.ionos.fr
 0.0.0.0 pixel.kknews.cc
+0.0.0.0 pixel.lilystyle.ai
 0.0.0.0 pixel.locker2.com
 0.0.0.0 pixel.mintigo.com
 0.0.0.0 pixel.mtrcs.samba.tv
@@ -10461,6 +10472,7 @@
 0.0.0.0 pulseinsights.com
 0.0.0.0 pulselog.com
 0.0.0.0 pulsemaps.com
+0.0.0.0 pumpkin.abine.com
 0.0.0.0 punyplant.com
 0.0.0.0 purchasesuggestion.com
 0.0.0.0 pureairhits.com
@@ -10483,6 +10495,7 @@
 0.0.0.0 pushnami.com
 0.0.0.0 pushprofit.ru
 0.0.0.0 pushpushgo.com
+0.0.0.0 pushspring.com
 0.0.0.0 pushwoosh.com
 0.0.0.0 puzzlingproperty.com
 0.0.0.0 pv.hd.sohu.com
@@ -10902,6 +10915,7 @@
 0.0.0.0 rfk.biglots.com
 0.0.0.0 rflrlt.divano.ru
 0.0.0.0 rfr-69.com
+0.0.0.0 rftslb.com
 0.0.0.0 rgiixp.sperry.com
 0.0.0.0 rh5i.tradingsat.com
 0.0.0.0 rhetoricalloss.com
@@ -10927,6 +10941,7 @@
 0.0.0.0 ringsrecord.com
 0.0.0.0 ripost.services
 0.0.0.0 risk.clearbit.com
+0.0.0.0 riskid.security
 0.0.0.0 ritecounter.com
 0.0.0.0 ritzykey.com
 0.0.0.0 ritzyveil.com
@@ -12936,6 +12951,7 @@
 0.0.0.0 solutions.desertfinancial.com
 0.0.0.0 solutions.equifax.co.uk
 0.0.0.0 solutions.healthlinx.com
+0.0.0.0 solutions.invocacdn.com
 0.0.0.0 solutions.peco-energy.com
 0.0.0.0 solutions.refinitiv.com
 0.0.0.0 solutions.risk.lexisnexis.com
@@ -13782,6 +13798,7 @@
 0.0.0.0 stats.huysmanbouw.be
 0.0.0.0 stats.iamzero.dev
 0.0.0.0 stats.ibtimes.co.in
+0.0.0.0 stats.ibtimes.sg
 0.0.0.0 stats.igevia.com
 0.0.0.0 stats.immunefi.com
 0.0.0.0 stats.inergizedigitalmedia.com
@@ -14225,7 +14242,6 @@
 0.0.0.0 survicate.com
 0.0.0.0 sushipool.com
 0.0.0.0 suspendseed.com
-0.0.0.0 sv.aq.qq.com
 0.0.0.0 svarcom.actonservice.com
 0.0.0.0 svoywu.autoscout24.de
 0.0.0.0 svtrd.com
@@ -16186,6 +16202,7 @@
 0.0.0.0 url9576.oneshift.com
 0.0.0.0 url9609.account.experience-muse.com
 0.0.0.0 urlbrief.com
+0.0.0.0 urldefense.com
 0.0.0.0 urlself.com
 0.0.0.0 urs.metacritic.com
 0.0.0.0 urstats.de
@@ -16713,7 +16730,6 @@
 0.0.0.0 wickedreports.com
 0.0.0.0 widerplanet.com
 0.0.0.0 widget.quantcast.com
-0.0.0.0 widget.trustpilot.com
 0.0.0.0 widgetbe.com
 0.0.0.0 widgets.trustedshops.com
 0.0.0.0 wigglygeese.com
@@ -17418,6 +17434,7 @@
 0.0.0.0 zeotap.com
 0.0.0.0 zero.kz
 0.0.0.0 zeronaught.com
+0.0.0.0 zerostats.com
 0.0.0.0 zesep.com
 0.0.0.0 zestycrime.com
 0.0.0.0 zeustechnology.com
@@ -17483,6 +17500,7 @@
 0.0.0.0 zuzab.com
 0.0.0.0 zvfzqw.cotta.jp
 0.0.0.0 zvsuhljiha-a.akamaihd.net
+0.0.0.0 zx-adnet.com
 0.0.0.0 zxvttq.goldapple.ru
 0.0.0.0 zybveu.swappie.com
 0.0.0.0 zyq2.destinia.sk
