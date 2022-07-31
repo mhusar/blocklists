@@ -1,6 +1,6 @@
-# Version: 202207240055
+# Version: 202207301140
 # Title: EasyPrivacy
-# Last modified: 24 Jul 2022 00:55 UTC
+# Last modified: 30 Jul 2022 11:40 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -1292,6 +1292,8 @@ affiliates.treasureisland.com
 affiliates.vpn.ht
 affiliation.planethoster.info
 affiliatly.com
+affilimate.com
+affilimate.io
 affilired.com
 affilizr.com
 affinesystems.com
@@ -1610,6 +1612,7 @@ analytics.livestream.com
 analytics.logsss.com
 analytics.loop-cloud.de
 analytics.lunge.de
+analytics.m7g.twitch.tv
 analytics.mail-corp.com
 analytics.mailmunch.co
 analytics.mambaui.com
@@ -2009,6 +2012,7 @@ audio.sex
 audioarctic.com
 audit.303br.net
 audit.median.hu
+audit.qiuwen.wiki
 audit.shaa.it
 audrte.com
 audsoa.narumiya-online.jp
@@ -4134,12 +4138,12 @@ didna.io
 die-rankliste.com
 difficultfog.com
 diffusion-tracker.com
+dig.lianjia.com
 dig.ultimedia.com
 digidip.net
 digital-engineering.de
 digital-metric.com
 digital.anicom-sompo.co.jp
-digital.att.com
 digital.opsbase.com
 digitaladvisor.dk
 digitaloptout.com
@@ -6177,7 +6181,6 @@ hetchi.com
 hexagon-analytics.com
 heyhelga.net
 heylink.com
-heyloyalty.com
 heymatic.com
 heystaks.com
 hfc195b.com
@@ -7702,6 +7705,7 @@ logql.yahoo.co.jp
 logrocket.com
 logrocket.io
 logs-api.shoprunner.com
+logs-partners.coupang.com
 logs.51cto.com
 logs.animaapp.com
 logs.datadoghq.com
@@ -9770,6 +9774,7 @@ pa-stats.encore.dev
 pa.opqr.co
 pa.travelwhiz.app
 pabgey.siepomaga.pl
+pabidding.io
 pabxoe.olx.ua
 pac.thesun.co.uk
 paddleangle.com
@@ -10917,6 +10922,7 @@ rezync.com
 rfihub.com
 rfk.biglots.com
 rflrlt.divano.ru
+rfpx1.com
 rfr-69.com
 rftslb.com
 rgiixp.sperry.com
@@ -13207,6 +13213,7 @@ speed-trap.com
 speedcount.de
 speedcounter.net
 speedcurve.com
+speedhq.net
 speedtracker.de
 speedtrap.shopdirect.com
 speedyfox.io
@@ -14432,6 +14439,7 @@ t9h2.ricardocuisine.com
 t9k3a.jeanpaulfortin.com
 ta.sanook.com
 tag-manager.playbuzz.com
+tag.agrvt.com
 tag.aticdn.net
 tag.atom.gamedistribution.com
 tag.aumago.com
@@ -14806,6 +14814,7 @@ tms.fmm.io
 tmvtp.com
 tmy8.madeindesign.ch
 tnative.ru
+tncid.app
 tnctrx.com
 tns-counter.ru
 tns-cs.net
