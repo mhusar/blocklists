@@ -1,6 +1,6 @@
-# Version: 202208070056
+# Version: 202208140044
 # Title: EasyPrivacy
-# Last modified: 07 Aug 2022 00:56 UTC
+# Last modified: 14 Aug 2022 00:44 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -997,6 +997,7 @@
 0.0.0.0 accutrain.actonservice.com
 0.0.0.0 accuzip.actonservice.com
 0.0.0.0 acecounter.com
+0.0.0.0 acelogger.heraldcorp.com
 0.0.0.0 acendas.actonservice.com
 0.0.0.0 acetrk.com
 0.0.0.0 acexedge.com
@@ -1227,6 +1228,7 @@
 0.0.0.0 adtd.douglas.de
 0.0.0.0 adtd.douglas.nl
 0.0.0.0 adtd.douglas.pl
+0.0.0.0 adtech-events.bookmyshow.com
 0.0.0.0 adtector.com
 0.0.0.0 adtelligence.de
 0.0.0.0 adten.eu
@@ -2791,7 +2793,6 @@
 0.0.0.0 chevalierusa.actonservice.com
 0.0.0.0 chewcoat.com
 0.0.0.0 chickensstation.com
-0.0.0.0 chicoryapp.com
 0.0.0.0 chiefexecutive.actonservice.com
 0.0.0.0 chihiro.nostalgie.fr
 0.0.0.0 childlikecook.com
@@ -2959,6 +2960,7 @@
 0.0.0.0 clickzzs.nl
 0.0.0.0 client-analytics.braintreegateway.com
 0.0.0.0 client-log.box.com
+0.0.0.0 client-metrics.chess.com
 0.0.0.0 client.tahono.com
 0.0.0.0 clientgear.com
 0.0.0.0 clientservice.alphasimplex.com
@@ -3109,6 +3111,7 @@
 0.0.0.0 collect-v6.51.la
 0.0.0.0 collect.adplogger.no
 0.0.0.0 collect.alipay.com
+0.0.0.0 collect.banggood.com
 0.0.0.0 collect.cloudsponge.com
 0.0.0.0 collect.helsana.ch
 0.0.0.0 collect.iteam-dress.com
@@ -3720,6 +3723,7 @@
 0.0.0.0 d2nxi61n77zqpl.cloudfront.net
 0.0.0.0 d2o67tzzxkqap2.cloudfront.net
 0.0.0.0 d2oh4tlt9mrke9.cloudfront.net
+0.0.0.0 d2r1yp2w7bby2u.cloudfront.net
 0.0.0.0 d2rnkf2kqy5m6h.cloudfront.net
 0.0.0.0 d2ry9vue95px0b.cloudfront.net
 0.0.0.0 d2san7t27xb2pn.cloudfront.net
@@ -4238,6 +4242,7 @@
 0.0.0.0 dsparking.com
 0.0.0.0 dsply.com
 0.0.0.0 dt.nrjmobile.fr
+0.0.0.0 dtag.breadfinancial.com
 0.0.0.0 dtc-v6t.com
 0.0.0.0 dti-ranker.com
 0.0.0.0 dttrk.com
@@ -5070,6 +5075,7 @@
 0.0.0.0 events.splash-screen.net
 0.0.0.0 events.split.io
 0.0.0.0 events.splunk.com
+0.0.0.0 events.statsigapi.net
 0.0.0.0 events.strategic-i.com
 0.0.0.0 events.tubecup.org
 0.0.0.0 events.turbosquid.com
@@ -5635,6 +5641,7 @@
 0.0.0.0 gemius.pl
 0.0.0.0 generaltracking.de
 0.0.0.0 genesis.malwarebytes.com
+0.0.0.0 geniee.jp
 0.0.0.0 genieedmp.com
 0.0.0.0 genieessp.jp
 0.0.0.0 genieesspv.jp
@@ -6728,6 +6735,7 @@
 0.0.0.0 intelligence.marykay.com
 0.0.0.0 intelligence.marykayintouch.com
 0.0.0.0 intelligencefocus.com
+0.0.0.0 intelligenceretarget.com
 0.0.0.0 intelligentscissors.com
 0.0.0.0 intellimize.co
 0.0.0.0 intelpartneralliance.intel.com
@@ -7190,6 +7198,7 @@
 0.0.0.0 leadchampion.com
 0.0.0.0 leaddyno.com
 0.0.0.0 leadelephant.com
+0.0.0.0 leadfamly.com
 0.0.0.0 leadfeeder.com
 0.0.0.0 leadforce1.com
 0.0.0.0 leadforensics.com
@@ -7571,6 +7580,7 @@
 0.0.0.0 logdy.com
 0.0.0.0 logentries.com
 0.0.0.0 logg.kiwi.com
+0.0.0.0 logger.bzu.kr
 0.0.0.0 logger.co.kr
 0.0.0.0 logger.kataweb.it
 0.0.0.0 logger.nerdwallet.com
@@ -9956,6 +9966,7 @@
 0.0.0.0 pixelpop.co
 0.0.0.0 pixelrevenue.com
 0.0.0.0 pixels.afcdn.com
+0.0.0.0 pixels.ai
 0.0.0.0 pixels.boxberry.ru
 0.0.0.0 pixelzirkus.gameforge.com
 0.0.0.0 pixfuture.com
@@ -10115,6 +10126,7 @@
 0.0.0.0 po.ponant.com
 0.0.0.0 pocitadlo.cz
 0.0.0.0 pocitadlo.sk
+0.0.0.0 pocketfaucet.com
 0.0.0.0 pocketsonic.com
 0.0.0.0 podfdch.com
 0.0.0.0 podiumpresto.com
@@ -10151,7 +10163,6 @@
 0.0.0.0 possibleboats.com
 0.0.0.0 posst.co
 0.0.0.0 postaffiliatepro.com
-0.0.0.0 postclickmarketing.com
 0.0.0.0 postgraduate.smu.edu.sg
 0.0.0.0 postgraduate2.smu.edu.sg
 0.0.0.0 posthog.com
@@ -10461,6 +10472,7 @@
 0.0.0.0 qkhhjm.autoscout24.nl
 0.0.0.0 qlitics.com
 0.0.0.0 qljiop.allabout.co.jp
+0.0.0.0 qm.redbull.com
 0.0.0.0 qmiiln.tower.jp
 0.0.0.0 qmlzcm.petshop.ru
 0.0.0.0 qmoyfh.xcite.com.sa
@@ -13048,6 +13060,7 @@
 0.0.0.0 spacehits.net
 0.0.0.0 spacepools.org
 0.0.0.0 spade.twitch.tv
+0.0.0.0 spadelocket.com
 0.0.0.0 spamanalyst.com
 0.0.0.0 spanids.dictionary.com
 0.0.0.0 spanids.thesaurus.com
@@ -13991,6 +14004,7 @@
 0.0.0.0 stormyachiever.com
 0.0.0.0 storygize.net
 0.0.0.0 stoveseashore.com
+0.0.0.0 stpmgo.com
 0.0.0.0 str1kee.com
 0.0.0.0 strack.debenhams.com
 0.0.0.0 straightnest.com
@@ -14095,6 +14109,7 @@
 0.0.0.0 sushipool.com
 0.0.0.0 suspendseed.com
 0.0.0.0 svarcom.actonservice.com
+0.0.0.0 svibeacon.onezapp.com
 0.0.0.0 svoywu.autoscout24.de
 0.0.0.0 svtrd.com
 0.0.0.0 swa.and.co.uk
@@ -15117,6 +15132,7 @@
 0.0.0.0 tr.welcome.odalys-vacances.com
 0.0.0.0 tr.welcome.thelist-emirates.fr
 0.0.0.0 tr.welcome.vipmag.fr
+0.0.0.0 tr.www.cloudflare.com
 0.0.0.0 tr1.citroen-ipsos.com
 0.0.0.0 tr1.mailperf.com
 0.0.0.0 tr1.mailperformance.com
@@ -15145,6 +15161,7 @@
 0.0.0.0 track.atgstores.com
 0.0.0.0 track.auckland.ac.nz
 0.0.0.0 track.bannedcelebs.com
+0.0.0.0 track.buyma.com
 0.0.0.0 track.byzon.swelen.net
 0.0.0.0 track.cafu.com
 0.0.0.0 track.cedsdigital.it
@@ -17334,7 +17351,7 @@
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2022-08-07 01:10:39.486508
+# Generated at 2022-08-14 01:05:49.325237
 
 0.0.0.0 databerries.com
 0.0.0.0 fidzup
