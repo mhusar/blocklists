@@ -1,6 +1,6 @@
-# Version: 202208140044
+# Version: 202208202239
 # Title: EasyPrivacy
-# Last modified: 14 Aug 2022 00:44 UTC
+# Last modified: 20 Aug 2022 22:39 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -69,6 +69,7 @@
 2cnt.net
 2efj.up.coop
 2ip.ua
+2l6ddsmnm.de
 2o7.net
 2parale.ro
 2performant.com
@@ -1305,6 +1306,7 @@ afoykb.ebook.de
 afraidlanguage.com
 afsanalytics.com
 agcs-knowledge.allianz.com
+agent.contentsanalyst.com
 agentanalytics.com
 agentinteractive.com
 aghtag.tech
@@ -1424,6 +1426,7 @@ aminks.underarmour.com.tr
 amnet.tw
 amoad.com
 amp-error-reporting.appspot.com
+amp.vg
 amplify.outbrain.com
 amplify.strategic-i.com
 amplifypixel.outbrain.com
@@ -1465,6 +1468,7 @@ analytics-api.dvdfab.cn
 analytics-api.samsunghealthcn.com
 analytics-cdiscount.com
 analytics-cms.whitebeard.me
+analytics-coletor-site.ojc.com.br
 analytics-gw.games.wanmei.com
 analytics-production.hapyak.com
 analytics-proxy.springboard.com
@@ -1637,10 +1641,12 @@ analytics.ostr.io
 analytics.ovh.com
 analytics.paddle.com
 analytics.pagefly.io
+analytics.partcommunity.com
 analytics.pgatour.com
 analytics.pgncs.notion.so
 analytics.piksel.com
 analytics.pinterest.com
+analytics.pixels.ai
 analytics.plex.tv
 analytics.pointdrive.linkedin.com
 analytics.pop2watch.com
@@ -1695,6 +1701,7 @@ analytics.tiktok.com
 analytics.tio.ch
 analytics.tntdramma.com
 analytics.top10-charts.com
+analytics.touchnote.io
 analytics.tout.com
 analytics.tradedoubler.com
 analytics.traderlink.com
@@ -1912,6 +1919,7 @@ arrivalist.com
 arrowpushengine.com
 arsdev.net
 artefact.is
+artemis-cdn.ocdn.eu
 artfut.com
 artistchristinacarmel.ericksonbuilt.com
 as.mirapodo.de
@@ -2021,6 +2029,7 @@ automate.opex.com
 automaticairplane.com
 automaticflock.com
 automaticside.com
+automizely-analytics.com
 autozone.actonservice.com
 av6fm8zw2cvz.furucombo.app
 avalonalbum.com
@@ -2053,6 +2062,7 @@ awin1.com
 awogtl.1stopbedrooms.com
 awstrack.me
 awzbijw.com
+ax.babe.today
 ax.idg.se
 axacqy.henderson.ru
 axf8.net
@@ -2587,6 +2597,7 @@ cache2.delvenetworks.com
 cactusglobal.io
 cactusmedia.com
 cadreon.com
+cadsuta.net
 cahf4eed.mooo.com
 calculatingcircle.com
 calculatingtoothbrush.com
@@ -2722,6 +2733,7 @@ cdn-sitegainer.com
 cdn.arcstudiopro.com
 cdn.c-i.as
 cdn.hiido.cn
+cdn.stroeerdigitalgroup.de
 cdn.trafficexchangelist.com
 cdn.usefathom.com
 cdn1.pebx.pl
@@ -5007,6 +5019,7 @@ event-api.contactatonce.com
 event-api.rdstation.com.br
 event-api.reverb.com
 event-listener.air.tv
+event-service.letslinc.com
 event-stream.spot.im
 event.api.drift.com
 event.csdn.net
@@ -5301,6 +5314,7 @@ financialeducation-info.uchicago.edu
 financialservices.teranet.ca
 find-ip-address.org
 finderlocator.com
+fingerprinter-production.herokuapp.com
 finley.finleyusa.com
 fiowtf.hyggee.com
 fipsta.clasen-bio.de
@@ -5497,6 +5511,7 @@ frog.wix.com
 frog.yuanfudao.com
 froglytics.eventfrog.ch
 fronttoad.com
+froomle.com
 frosmo.com
 fruitflan.com
 frztrk.netmums.com
@@ -5766,6 +5781,7 @@ globalwebindex.net
 globase.com
 globel.co.uk
 globetrackr.com
+globo-ab.globo.com
 glomex.com
 glookup.info
 gloriousbeef.com
@@ -6007,7 +6023,6 @@ gzlxvg.papy.co.jp
 h-bid.com
 h-cast.jp
 h.imedia.cz
-h.seznam.cz
 h00c.sfr.fr
 h353.ncadvertiser.com
 h4k5.com
@@ -7498,6 +7513,7 @@ llkdiu.chacos.com
 lloogg.com
 lltrck.com
 lmavci.eloquii.com
+lmepbq.com
 lmgvur.scbt.com
 lmiutil.com
 lmnqof.littletoncoin.com
@@ -8221,10 +8237,10 @@ mc.webvisor.org
 mc.yandex.com
 mc.yandex.ru
 mcad.mods-clinic.com
+mcangelus.com
 mcdmetric.aaa.com
 mcdmetrics.aaa.com
 mcloudglobal.com
-mcs-va.tiktok.com
 mcs-va.tiktokv.com
 mczpco.darty.com
 md-nx.com
@@ -8446,6 +8462,7 @@ messyoranges.com
 met.jasperforge.org
 met.vgwort.de
 metalyzer.com
+metaversn.site
 meteorsolutions.com
 meter.bref.sh
 metering.pagesuite.com
@@ -8905,6 +8922,7 @@ monitor.channel4.com
 monitor.music.qq.com
 monitus.net
 monkeytracker.cz
+monsido.com
 monstat.com
 montpalatin.handicap.fr
 monu.delivery
@@ -8951,6 +8969,7 @@ mqs.ioam.de
 mqvyob.vidaxl.fi
 mr-rank.de
 mrksmm.yumegazai.com
+mrpdata.net
 mrpjcd.tensunits.com
 mrqpcy.biggreensmile.nl
 ms-trackingapi.phenompeople.com
@@ -9966,7 +9985,6 @@ pixelinteractivemedia.com
 pixelpop.co
 pixelrevenue.com
 pixels.afcdn.com
-pixels.ai
 pixels.boxberry.ru
 pixelzirkus.gameforge.com
 pixfuture.com
@@ -10107,6 +10125,7 @@ pluckypocket.com
 pluckytaste.com
 plugin.ws
 pluto.r.powuta.com
+pm.boostintegrated.com
 pm.dailykos.com
 pm.redbull.com
 pm0.net
@@ -10494,6 +10513,7 @@ quarterbean.com
 quartic.pl
 qubitanalytics.appspot.com
 qubitproducts.com
+quesid.com
 questintegrity.actonservice.com
 questionpro.com
 questions.theanswerco.com
@@ -10710,6 +10730,7 @@ report.novinky.cz
 reporting.cdndex.io
 reporting.singlefeed.com
 reports-api.sqreen.io
+reports-tsi.tangerine.io
 reports.pagesuite-professional.co.uk
 reports.sdiapi.com
 reports.tunein.com
@@ -10736,6 +10757,7 @@ research.gartner.com
 researchintel.com
 researchnow.co.uk
 reseau-pub.com
+resetdigital.co
 reshin.de
 residenz.net.zooplus.de
 resolutekey.com
@@ -10767,6 +10789,7 @@ ressources.promoneuve.fr
 rest.wildstar-online.com
 resulticks.com
 retag.xyz
+retailads.net
 retargeter.com.br
 retargeting.biz
 retargeting.newsmanapp.com
@@ -10817,6 +10840,7 @@ rightfulfall.com
 rightmoveanalytics.co.uk
 rightstats.com
 rigidrobin.com
+rigill.com
 riluwt.voxcinemas.com
 rimxqx.slickdeals.net
 ringplant.com
@@ -10897,6 +10921,7 @@ rta.dailymail.co.uk
 rta2.inews.co.uk
 rta2.metro.co.uk
 rta2.newzit.com
+rtactivate.com
 rtb-seller.com
 rtb123.com
 rtbiq.com
@@ -11478,6 +11503,7 @@ sellebrity.com
 sellpoint.net
 sellpoints.com
 sellsy.com
+selphiu.com
 sem.triboomedia.it
 semantic-finder.com
 semanticverses.com
@@ -14032,6 +14058,7 @@ studiostack.com
 stupendousselection.com
 stupendoussleet.com
 stupendoussnow.com
+stupidscene.com
 stupidsnake.com
 su.addthis.com
 sub.booksdream-mypage.com
@@ -15182,6 +15209,7 @@ track.docusign.mx
 track.dws.de
 track.e7r.com.br
 track.eadv.it
+track.emerse.com
 track.emeza.ch
 track.emeza.com
 track.express.de
@@ -15229,6 +15257,7 @@ track.qoof.com
 track.ra.icast.cn
 track.realtimeboard.com
 track.recreativ.ru
+track.rheinpfalz.de
 track.roomster.com
 track.rundschau-online.de
 track.searchignite.com
@@ -15325,6 +15354,7 @@ tracker.thinkermail.com
 tracker.thinkindot.com
 tracker.timesgroup.com
 tracker.tiu.ru
+tracker.tolvnow.com
 tracker.tubecj.com
 tracker.tv.sohu.com
 tracker.unbxdapi.com
@@ -15332,6 +15362,7 @@ tracker.uprinting.com
 tracker.wigzopush.com
 tracker.winload.de
 tracker.wpserveur.net
+tracker.xgen.dev
 trackerapi.truste.com
 trackertest.org
 trackfeed.com
@@ -15523,7 +15554,6 @@ tracking.miui.com
 tracking.mizuhogroup.com
 tracking.mkt-email.samsungsds.com
 tracking.mollyladies.de
-tracking.monsido.com
 tracking.motorimagazine.it
 tracking.motorolasolutions.com
 tracking.musixmatch.com
@@ -16210,6 +16240,7 @@ visilabs.net
 visioncriticalpanels.com
 visionsage.com
 visistat.com
+visit-prod-us.occa.ocs.oraclecloud.com
 visit.go.tuv.com
 visit.hypertherm.com
 visit.lifeblood.com.au
@@ -17212,6 +17243,7 @@ ynagqs.vidaxl.pl
 yoc.younited-credit.com
 yolo.phpliveregex.com
 yoochoose.net
+yottlyscript.com
 youbora.com
 youborafds01.com
 youboranqs01.com
