@@ -1,6 +1,6 @@
-# Version: 202208202239
+# Version: 202208272338
 # Title: EasyPrivacy
-# Last modified: 20 Aug 2022 22:39 UTC
+# Last modified: 27 Aug 2022 23:38 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -1109,6 +1109,8 @@
 0.0.0.0 adcrowd.com
 0.0.0.0 addfreestats.com
 0.0.0.0 additionant.com
+0.0.0.0 addthis.com
+0.0.0.0 addthiscdn.com
 0.0.0.0 addwish.com
 0.0.0.0 adebis-52667624.wowma.jp
 0.0.0.0 adebis-morijuku.morijuku.com
@@ -1584,6 +1586,7 @@
 0.0.0.0 analytics.hiome.com
 0.0.0.0 analytics.hotelclub.com
 0.0.0.0 analytics.humanautomation.ai
+0.0.0.0 analytics.ikyu.com
 0.0.0.0 analytics.infobae.com
 0.0.0.0 analytics.inform.com
 0.0.0.0 analytics.iraiser.eu
@@ -2263,6 +2266,7 @@
 0.0.0.0 besucherzahlen.com
 0.0.0.0 betarget.com
 0.0.0.0 betarget.de
+0.0.0.0 bettermeter.com
 0.0.0.0 bettermetrics.co
 0.0.0.0 beuniquelyinsured.selective.com
 0.0.0.0 beusable.net
@@ -2356,6 +2360,7 @@
 0.0.0.0 bluecore.com
 0.0.0.0 bluecounter.de
 0.0.0.0 bluekai.com
+0.0.0.0 blueknow.com
 0.0.0.0 bluemarblepayroll.actonservice.com
 0.0.0.0 blushingbeast.com
 0.0.0.0 blushingboundary.com
@@ -2744,6 +2749,7 @@
 0.0.0.0 cdnmaster.com
 0.0.0.0 cdnopw.com
 0.0.0.0 cdntrf.de
+0.0.0.0 cdtm.cdiscount.com
 0.0.0.0 ce.lijit.com
 0.0.0.0 cedexis.com
 0.0.0.0 celebros-analytics.com
@@ -2850,6 +2856,7 @@
 0.0.0.0 clarity.ms
 0.0.0.0 claritytag.com
 0.0.0.0 clarium.global.ssl.fastly.net
+0.0.0.0 clarium.io
 0.0.0.0 clarivoy.com
 0.0.0.0 cleananalytics.com
 0.0.0.0 clearbitjs.com
@@ -3549,6 +3556,7 @@
 0.0.0.0 crowdtwist.com
 0.0.0.0 crs.actonservice.com
 0.0.0.0 crsspxl.com
+0.0.0.0 crta.and.co.uk
 0.0.0.0 crta.dailymail.co.uk
 0.0.0.0 crta.metro.co.uk
 0.0.0.0 crtx.info
@@ -4871,6 +4879,7 @@
 0.0.0.0 engine212.com
 0.0.0.0 engine64.com
 0.0.0.0 enhance.com
+0.0.0.0 enhencer.com
 0.0.0.0 enlightenment.secureshoppingbasket.com
 0.0.0.0 enormousearth.com
 0.0.0.0 enquisite.com
@@ -5019,6 +5028,7 @@
 0.0.0.0 event-api.rdstation.com.br
 0.0.0.0 event-api.reverb.com
 0.0.0.0 event-listener.air.tv
+0.0.0.0 event-logger.tagboard.com
 0.0.0.0 event-service.letslinc.com
 0.0.0.0 event-stream.spot.im
 0.0.0.0 event.api.drift.com
@@ -5040,6 +5050,7 @@
 0.0.0.0 eventlog.inspsearchapi.com
 0.0.0.0 eventlog.jackpot.de
 0.0.0.0 eventos.usj.es
+0.0.0.0 events-logs.doctolib.com
 0.0.0.0 events-prod.autolist.com
 0.0.0.0 events-service.coinbase.com
 0.0.0.0 events-tracker.deliveroo.net
@@ -5423,6 +5434,7 @@
 0.0.0.0 fp84rw0jinz7.blanc.ru
 0.0.0.0 fpa-cdn.arstechnica.com
 0.0.0.0 fpa-events.decrypt.co
+0.0.0.0 fpapi.io
 0.0.0.0 fpaux.net
 0.0.0.0 fpavx.net
 0.0.0.0 fpaxu.net
@@ -6114,6 +6126,7 @@
 0.0.0.0 heystaks.com
 0.0.0.0 hfc195b.com
 0.0.0.0 hfd.bridgetowermedia.com
+0.0.0.0 hfp.intuit.com
 0.0.0.0 hgf4.zanzicar.fr
 0.0.0.0 hh.ru/analytics
 0.0.0.0 hhytrace.sogoucdn.com
@@ -6707,6 +6720,7 @@
 0.0.0.0 insight.fonecta.fi
 0.0.0.0 insight.lcp.uk.com
 0.0.0.0 insight.mintel.com
+0.0.0.0 insight.olx.ba
 0.0.0.0 insight.rapid7.com
 0.0.0.0 insight.wittkieffer.com
 0.0.0.0 insightera.com
@@ -7573,6 +7587,7 @@
 0.0.0.0 log.quora.com
 0.0.0.0 log.reformal.ru
 0.0.0.0 log.ren.tv
+0.0.0.0 log.rutube.ru
 0.0.0.0 log.seekda.com
 0.0.0.0 log.sina.cn
 0.0.0.0 log.snapdeal.com
@@ -8518,6 +8533,7 @@
 0.0.0.0 metrics.api.drift.com
 0.0.0.0 metrics.apple.com
 0.0.0.0 metrics.asdafinance.com
+0.0.0.0 metrics.audius.co
 0.0.0.0 metrics.autobytel.com
 0.0.0.0 metrics.automobilemag.com
 0.0.0.0 metrics.aviasales.ru
@@ -8922,6 +8938,7 @@
 0.0.0.0 monitor.music.qq.com
 0.0.0.0 monitus.net
 0.0.0.0 monkeytracker.cz
+0.0.0.0 monorail-edge.shopifysvc.com
 0.0.0.0 monsido.com
 0.0.0.0 monstat.com
 0.0.0.0 montpalatin.handicap.fr
@@ -9758,7 +9775,6 @@
 0.0.0.0 pastepot.com
 0.0.0.0 pastoralcorn.com
 0.0.0.0 pastoralroad.com
-0.0.0.0 pathful.com
 0.0.0.0 paupud.meillandrichardier.com
 0.0.0.0 payangopn.ingenioustech.biz
 0.0.0.0 payments.americanexpress.com
@@ -10049,6 +10065,7 @@
 0.0.0.0 plausible.benscarblog.com
 0.0.0.0 plausible.bernheisel.com
 0.0.0.0 plausible.bostad.shop
+0.0.0.0 plausible.bots.gg
 0.0.0.0 plausible.conveyal.com
 0.0.0.0 plausible.corbettbarr.com
 0.0.0.0 plausible.deploymentfromscratch.com
@@ -16004,6 +16021,7 @@
 0.0.0.0 uhm26jyr11zv.www.freecodecamp.org
 0.0.0.0 uhn9.up-france.fr
 0.0.0.0 uhytajrtpo-a.akamaihd.net
+0.0.0.0 uid.mediacorp.sg
 0.0.0.0 uie.data.cbc.ca
 0.0.0.0 uim.tifbs.net
 0.0.0.0 ujvpma.infinitytools.com
@@ -16469,6 +16487,7 @@
 0.0.0.0 web.zoominfo.com
 0.0.0.0 web1.51.la
 0.0.0.0 webads.eu
+0.0.0.0 webanalysis.dev
 0.0.0.0 webassembly.stream
 0.0.0.0 webbc.fivecdm.com
 0.0.0.0 webcare.byside.com
@@ -16540,6 +16559,7 @@
 0.0.0.0 webt.eu.teac-audio.com
 0.0.0.0 webt.pure.com
 0.0.0.0 webtalking.ru
+0.0.0.0 webtemsilcisi.com
 0.0.0.0 webtrack.biz
 0.0.0.0 webtracker.apicasystem.com
 0.0.0.0 webtracker.jp
