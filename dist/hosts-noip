@@ -1,6 +1,6 @@
-# Version: 202208272338
+# Version: 202209032255
 # Title: EasyPrivacy
-# Last modified: 27 Aug 2022 23:38 UTC
+# Last modified: 03 Sep 2022 22:55 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -2054,6 +2054,7 @@ awzbijw.com
 ax.babe.today
 ax.idg.se
 axacqy.henderson.ru
+axept.io
 axf8.net
 axikfy.dicksmith.com.au
 axiomaticalley.com
@@ -3116,6 +3117,7 @@ collect-eu.attraqt.io
 collect-v6.51.la
 collect.adplogger.no
 collect.alipay.com
+collect.asics.com
 collect.banggood.com
 collect.cloudsponge.com
 collect.helsana.ch
@@ -3918,6 +3920,7 @@ dc.stenalinetravel.com
 dc.tremormedia.com
 dc8na2hxrj29i.cloudfront.net
 dc8xl0ndzn2cb.cloudfront.net
+dcbpm.suning.cn
 dccfog.petco.com
 dcclaa.bunte.de
 dcclaa.daskochrezept.de
@@ -13218,6 +13221,7 @@ ssa.foodnetwork.com
 ssa.hgtv.com
 ssa.stepstone.com
 ssa.tlc.com
+ssac.suning.com
 ssc.api.bbc.com
 ssc.bellator.com
 ssc.bet.plus
@@ -14494,6 +14498,7 @@ techprovider.intel.com
 techssl.net.zooplus.de
 ted.dailymail.co.uk
 tedioustooth.com
+tedo-stats.de
 teenytinycellar.com
 teenytinyshirt.com
 teenytinytongue.com
@@ -16344,6 +16349,7 @@ vzeyba.shopee.co.id
 vzhjnw.officedepot.com
 vzlmcd.spellbinderspaperarts.com
 w-profiling.cibc.com
+w-profiling.simplii.com
 w3-reporting.reddit.com
 w3.aktionaersbank.de
 w3.flatex.at
@@ -17389,7 +17395,7 @@ zz.bdstatic.com
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2022-08-28 01:10:37.894448
+# Generated at 2022-09-04 01:10:17.061702
 
 databerries.com
 fidzup
