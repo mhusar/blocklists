@@ -1,6 +1,6 @@
-# Version: 202208272338
+# Version: 202209032255
 # Title: EasyPrivacy
-# Last modified: 27 Aug 2022 23:38 UTC
+# Last modified: 03 Sep 2022 22:55 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -2068,6 +2068,7 @@
 0.0.0.0 ax.babe.today
 0.0.0.0 ax.idg.se
 0.0.0.0 axacqy.henderson.ru
+0.0.0.0 axept.io
 0.0.0.0 axf8.net
 0.0.0.0 axikfy.dicksmith.com.au
 0.0.0.0 axiomaticalley.com
@@ -3130,6 +3131,7 @@
 0.0.0.0 collect-v6.51.la
 0.0.0.0 collect.adplogger.no
 0.0.0.0 collect.alipay.com
+0.0.0.0 collect.asics.com
 0.0.0.0 collect.banggood.com
 0.0.0.0 collect.cloudsponge.com
 0.0.0.0 collect.helsana.ch
@@ -3932,6 +3934,7 @@
 0.0.0.0 dc.tremormedia.com
 0.0.0.0 dc8na2hxrj29i.cloudfront.net
 0.0.0.0 dc8xl0ndzn2cb.cloudfront.net
+0.0.0.0 dcbpm.suning.cn
 0.0.0.0 dccfog.petco.com
 0.0.0.0 dcclaa.bunte.de
 0.0.0.0 dcclaa.daskochrezept.de
@@ -13232,6 +13235,7 @@
 0.0.0.0 ssa.hgtv.com
 0.0.0.0 ssa.stepstone.com
 0.0.0.0 ssa.tlc.com
+0.0.0.0 ssac.suning.com
 0.0.0.0 ssc.api.bbc.com
 0.0.0.0 ssc.bellator.com
 0.0.0.0 ssc.bet.plus
@@ -14508,6 +14512,7 @@
 0.0.0.0 techssl.net.zooplus.de
 0.0.0.0 ted.dailymail.co.uk
 0.0.0.0 tedioustooth.com
+0.0.0.0 tedo-stats.de
 0.0.0.0 teenytinycellar.com
 0.0.0.0 teenytinyshirt.com
 0.0.0.0 teenytinytongue.com
@@ -16358,6 +16363,7 @@
 0.0.0.0 vzhjnw.officedepot.com
 0.0.0.0 vzlmcd.spellbinderspaperarts.com
 0.0.0.0 w-profiling.cibc.com
+0.0.0.0 w-profiling.simplii.com
 0.0.0.0 w3-reporting.reddit.com
 0.0.0.0 w3.aktionaersbank.de
 0.0.0.0 w3.flatex.at
