@@ -1,6 +1,6 @@
-# Version: 202209241153
+# Version: 202210012023
 # Title: EasyPrivacy
-# Last modified: 24 Sep 2022 11:53 UTC
+# Last modified: 01 Oct 2022 20:23 UTC
 # Expires: 6 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -2475,6 +2475,7 @@ analytics-scripts.cablelabs.com
 analytics-secure.dollargeneral.com
 analytics-sg.tiktok.com
 analytics-static.ugc.bazaarvoice.com
+analytics-zone-1.api.leadfamly.com
 analytics.126.net
 analytics.163.com
 analytics.30m.com
@@ -5003,6 +5004,7 @@ d.m-net.de
 d.nativendo.de
 d.omsnative.de
 d.rcmd.jp
+d.rp-online.de
 d.shareaholic.com
 d.skk.moe
 d.sourcepoint.capitalfm.com
@@ -5704,7 +5706,6 @@ dmtgo.upc.biz
 dmtracker.com
 dmtry.com
 dmxleo.com
-dn0qt3r0xannq.cloudfront.net
 dn34cbtcv9mef.cloudfront.net
 dna.uol.com.br
 dnab.info
@@ -6775,6 +6776,7 @@ ferank.fr
 fernomius.com
 fetchback.com
 fezoua.carfixer.co.kr
+ffbbbdc6d3c353211fe2ba39c9f744cd.com
 ffrmwn.musinsa.com
 fgfukd.sakazen.co.jp
 fgjfwz.legami.com
@@ -7504,6 +7506,7 @@ happen.spkt.io
 happenhistory.com
 harborcub.com
 hardtofindmilk.com
+hariken.co
 harlan.actonservice.com
 harpocrates.ethyca.com
 hashcoin.co
@@ -8158,6 +8161,7 @@ intergid.ru
 intergient.com
 interhits.de
 intermundomedia.com
+internal-analytics.odoo.com
 internalsink.com
 interstateanalytics.com
 intervigil.com
@@ -8180,6 +8184,7 @@ invoc.us
 invoca.net
 invoca.solutions
 io1g.net
+ioam.de
 iocnt.net
 iogous.com
 iokhsx.unionmonthly.jp
@@ -8626,7 +8631,6 @@ leadcertain.actonservice.com
 leadchampion.com
 leaddyno.com
 leadelephant.com
-leadfamly.com
 leadfeeder.com
 leadforce1.com
 leadforensics.com
@@ -9011,6 +9015,7 @@ logger.uol.com.br
 logger.yp.ca
 logging.api.intuit.com
 logging.carambo.la
+logging.cmp-resources.link
 logging.je-apps.com
 logging.prefixbox.com
 logging.wilmaa.com
@@ -9944,6 +9949,7 @@ metrics.maxizoo.be
 metrics.maxizoo.fr
 metrics.maxizoo.ie
 metrics.maxizoo.pl
+metrics.mdstrm.com
 metrics.medical.roche.de
 metrics.meiers-weltreisen.de
 metrics.mein-dertour.de
@@ -10261,6 +10267,7 @@ mollnia.com
 momently.com
 momotaro.craigmod.com
 momotaro.walkkumano.com
+mon-pagerank.com
 mon.domdog.io
 mon.ingservices.nl
 mon.us.tiktokv.com
@@ -10317,7 +10324,6 @@ mppapi.io
 mps-gba.de
 mpstat.us
 mpwe.net
-mqs.ioam.de
 mqsicr.smiggle.co.uk
 mqvyob.vidaxl.fi
 mr-rank.de
@@ -10500,7 +10506,6 @@ netagent.cz
 netapplications.com
 netbiscuits.net
 netc.sfr.fr
-netcentric.biz
 netclickstats.com
 netcore.co.in
 netcoresmartech.com
@@ -11173,6 +11178,7 @@ peerius.com
 pegasus.unifygroup.com
 pegasusplate.com
 pemskb.unitedcinemas.jp
+pendo.io
 penspade.com
 people.mbtionline.com
 perceivequarter.com
@@ -11511,6 +11517,7 @@ pmbox.biz
 pmetrics.performancing.com
 pmweb.com.br
 pn.vg
+pnekru6pxrum-a.akamaihd.net
 pnhesw.jtb.co.jp
 pnovfl.karaca.com
 pnstat.com
@@ -11686,6 +11693,7 @@ pto-slb-09.com
 ptracker.nurturehq.com
 ptrk-wn.com
 ptsc.shoplocal.com
+pub.servidoresge.com
 pub.sheknows.com
 pubdream.com
 pubexchange.com
@@ -12185,7 +12193,6 @@ rloddo.olx.bg
 rlog.popin.cc
 rmgdapfnccsharpprd.azurewebsites.net
 rmtag.com
-rndntpmgnj-a.akamaihd.net
 rnengage.com
 rnet.plus
 rnffgv.wemakeprice.com
@@ -13196,6 +13203,7 @@ seg.sharethis.com
 segment.com
 segment.io
 segmentify.com
+segmentor.snowfox-ai.com
 segments.adap.tv
 segmetrics.io
 segra.actonservice.com
@@ -13296,7 +13304,6 @@ sfpc.changehealthcare.com
 sftrack.searchforce.net
 sg.promo.skf.com
 sg3.notarize.com
-sgphctileh-a.akamaihd.net
 sgw-analytics.panasonic.com
 shaggytank.com
 shakegoldfish.com
@@ -16184,6 +16191,7 @@ tags.aljazeera.net
 tags.catapultx.com
 tags.cdn.circlesix.co
 tags.clickagy.com
+tags.cmp.tail.digital
 tags.creativille.co.uk
 tags.esri.rw
 tags.fullcontact.com
@@ -16416,6 +16424,7 @@ test.vast
 testbed2labrepositorysystem01.lax.repobrandfw.lab2.net.zooplus.de
 testedtouch.com
 testin.cn
+testingmetriksbre.ru
 teststocking.com
 tetigi.com
 tetoolbox.com
@@ -17979,7 +17988,6 @@ ugdturner.com
 ugmarketing.smu.edu.sg
 uhm26jyr11zv.www.freecodecamp.org
 uhn9.up-france.fr
-uhytajrtpo-a.akamaihd.net
 uid.mediacorp.sg
 uie.data.cbc.ca
 uijciz.gunze.jp
@@ -18236,6 +18244,7 @@ vidigital.ru
 vidstat.taboola.com
 viewar.org
 views.arabnews.com
+views.b1tv.ro
 views.cancan.ro
 views.emikajewelry.com
 views.romaniatv.net
@@ -19435,7 +19444,6 @@ zug.sbb.ch
 zum7cc.oui.sncf
 zuyapixel.com
 zuzab.com
-zvsuhljiha-a.akamaihd.net
 zvvpcz.puravita.ch
 zvvsvr.kettner-edelmetalle.de
 zwatgf.megaknihy.cz
