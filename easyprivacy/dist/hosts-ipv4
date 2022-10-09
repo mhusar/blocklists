@@ -1,6 +1,6 @@
-# Version: 202210012023
+# Version: 202210082009
 # Title: EasyPrivacy
-# Last modified: 01 Oct 2022 20:23 UTC
+# Last modified: 08 Oct 2022 20:09 UTC
 # Expires: 6 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -1313,6 +1313,7 @@
 0.0.0.0 aa.dyson.se
 0.0.0.0 aa.dysoncanada.ca
 0.0.0.0 aa.gamespot.com
+0.0.0.0 aa.hwigroup.com
 0.0.0.0 aa.last.fm
 0.0.0.0 aa.maxblue.de
 0.0.0.0 aa.mclaren.com
@@ -1354,6 +1355,7 @@
 0.0.0.0 aax-eu-dub.amazon.com
 0.0.0.0 aax-us-iad.amazon.com
 0.0.0.0 aaxdetect.com
+0.0.0.0 aaxwall.com
 0.0.0.0 aazfby.auto.de
 0.0.0.0 ab-machine.forbes.com
 0.0.0.0 ab.fanatical.com
@@ -1664,6 +1666,7 @@
 0.0.0.0 acstat.com
 0.0.0.0 act-on.ioactive.com
 0.0.0.0 act-on.up.edu.pe
+0.0.0.0 act-server-prod.7swnm9dm8q.eu-west-1.elasticbeanstalk.com
 0.0.0.0 act.boxerproperty.com
 0.0.0.0 act.cwsglobal.org
 0.0.0.0 act.lanap.com
@@ -2632,6 +2635,7 @@
 0.0.0.0 analytics.greenmountainenergy.com
 0.0.0.0 analytics.greensender.pl
 0.0.0.0 analytics.groupe-seb.com
+0.0.0.0 analytics.growthphysics.com
 0.0.0.0 analytics.gvim.mobi
 0.0.0.0 analytics.hashnode.com
 0.0.0.0 analytics.haworth.com
@@ -4617,6 +4621,7 @@
 0.0.0.0 content.verint.com
 0.0.0.0 content.wacom.com
 0.0.0.0 content.xpublisher.com
+0.0.0.0 content22.bmoharris.com
 0.0.0.0 contentexchange.me
 0.0.0.0 contentinsights.com
 0.0.0.0 contents-tracking.beop.io
@@ -5298,6 +5303,7 @@
 0.0.0.0 datadog-service.mvfglobal.com
 0.0.0.0 datadoghq-browser-agent.com
 0.0.0.0 datadome.co
+0.0.0.0 datadome.patreon.com
 0.0.0.0 datadsk.com
 0.0.0.0 datafeedfile.com
 0.0.0.0 datafront.co
@@ -8502,6 +8508,7 @@
 0.0.0.0 killerwebstats.com
 0.0.0.0 kilometrix.de
 0.0.0.0 kimkgj.bibloo.pl
+0.0.0.0 kinesis.eu-west-1.amazonaws.com
 0.0.0.0 kinoprofi.org
 0.0.0.0 kiqwal.autoscout24.es
 0.0.0.0 kissmetrics.com
@@ -9008,6 +9015,7 @@
 0.0.0.0 log.webnovel.com
 0.0.0.0 log.wilmaa.com
 0.0.0.0 log.worldsoft-cms.info
+0.0.0.0 log.zdnet.co.kr
 0.0.0.0 log.zongheng.com
 0.0.0.0 log000.goo.ne.jp
 0.0.0.0 log1.17173.com
@@ -9068,6 +9076,7 @@
 0.0.0.0 logsbin.dantri.com.vn
 0.0.0.0 logservice.hicloud.com
 0.0.0.0 logservice1.hicloud.com
+0.0.0.0 logstash-3.radio-canada.ca
 0.0.0.0 logstat.caixin.com
 0.0.0.0 logtake.weidian.com
 0.0.0.0 logua.com
@@ -9640,6 +9649,7 @@
 0.0.0.0 mc.yandex.ru
 0.0.0.0 mcad.mods-clinic.com
 0.0.0.0 mcangelus.com
+0.0.0.0 mcc-tags.cisco.com
 0.0.0.0 mcdmetrics.aaa.com
 0.0.0.0 mcloudglobal.com
 0.0.0.0 mcs-va.tiktokv.com
@@ -10021,6 +10031,7 @@
 0.0.0.0 metrics.reallymoving.com
 0.0.0.0 metrics.realsimple.com
 0.0.0.0 metrics.recunia.de
+0.0.0.0 metrics.redgifs.com
 0.0.0.0 metrics.refinitiv.com
 0.0.0.0 metrics.regions.com
 0.0.0.0 metrics.restockit.com
@@ -10234,6 +10245,7 @@
 0.0.0.0 mkt51.net
 0.0.0.0 mkt6333.com
 0.0.0.0 mkt941.com
+0.0.0.0 mktcs.cloudapps.cisco.com
 0.0.0.0 mktg.aa.f5.com
 0.0.0.0 mktg.aicipc.com
 0.0.0.0 mktg.jeffersonhealth.org
@@ -11779,6 +11791,7 @@
 0.0.0.0 px.mountain.com
 0.0.0.0 px.owneriq.net
 0.0.0.0 px.pandora.com
+0.0.0.0 px.redgifs.com
 0.0.0.0 px.spiceworks.com
 0.0.0.0 px.staticfiles.at
 0.0.0.0 px.wp.pl
@@ -15153,6 +15166,7 @@
 0.0.0.0 stat.tomdebruijn.com
 0.0.0.0 stat.turb.pw
 0.0.0.0 stat.tvigle.ru
+0.0.0.0 stat.u.sb
 0.0.0.0 stat.umsu.de
 0.0.0.0 stat.ustore.bz
 0.0.0.0 stat.uuu9.com
@@ -17463,6 +17477,7 @@
 0.0.0.0 track.thesaurus.com
 0.0.0.0 track.tiara.daum.net
 0.0.0.0 track.tiara.kakao.com
+0.0.0.0 track.tom.com
 0.0.0.0 track.tomwx.net
 0.0.0.0 track.totalav.com
 0.0.0.0 track.uc.cn
@@ -17917,7 +17932,6 @@
 0.0.0.0 tsj0.madeindesign.com
 0.0.0.0 tsk4.com
 0.0.0.0 tsk5.com
-0.0.0.0 tspmagic.tumblr.com
 0.0.0.0 tsppvi.amara.com
 0.0.0.0 tt.natwest.com
 0.0.0.0 tt.pluralsight.com
@@ -18803,6 +18817,7 @@
 0.0.0.0 wttd.madeleine.gr
 0.0.0.0 wundercounter.com
 0.0.0.0 wunderloop.net
+0.0.0.0 wup-content23.bmoharris.com
 0.0.0.0 wvvw.france24.com
 0.0.0.0 wvvw.francemediasmonde.com
 0.0.0.0 wvvw.infomigrants.net

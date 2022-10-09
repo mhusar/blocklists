@@ -1,6 +1,6 @@
-# Version: 202210012023
+# Version: 202210082009
 # Title: EasyPrivacy
-# Last modified: 01 Oct 2022 20:23 UTC
+# Last modified: 08 Oct 2022 20:09 UTC
 # Expires: 6 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -1313,6 +1313,7 @@ aa.dyson.pt
 aa.dyson.se
 aa.dysoncanada.ca
 aa.gamespot.com
+aa.hwigroup.com
 aa.last.fm
 aa.maxblue.de
 aa.mclaren.com
@@ -1354,6 +1355,7 @@ aaucna.casasbahia.com.br
 aax-eu-dub.amazon.com
 aax-us-iad.amazon.com
 aaxdetect.com
+aaxwall.com
 aazfby.auto.de
 ab-machine.forbes.com
 ab.fanatical.com
@@ -1664,6 +1666,7 @@ acsbapp.com
 acstat.com
 act-on.ioactive.com
 act-on.up.edu.pe
+act-server-prod.7swnm9dm8q.eu-west-1.elasticbeanstalk.com
 act.boxerproperty.com
 act.cwsglobal.org
 act.lanap.com
@@ -2632,6 +2635,7 @@ analytics.google.com
 analytics.greenmountainenergy.com
 analytics.greensender.pl
 analytics.groupe-seb.com
+analytics.growthphysics.com
 analytics.gvim.mobi
 analytics.hashnode.com
 analytics.haworth.com
@@ -4617,6 +4621,7 @@ content.tatatelebusiness.com
 content.verint.com
 content.wacom.com
 content.xpublisher.com
+content22.bmoharris.com
 contentexchange.me
 contentinsights.com
 contents-tracking.beop.io
@@ -5298,6 +5303,7 @@ datado.me
 datadog-service.mvfglobal.com
 datadoghq-browser-agent.com
 datadome.co
+datadome.patreon.com
 datadsk.com
 datafeedfile.com
 datafront.co
@@ -8502,6 +8508,7 @@ kiks.auto.ru
 killerwebstats.com
 kilometrix.de
 kimkgj.bibloo.pl
+kinesis.eu-west-1.amazonaws.com
 kinoprofi.org
 kiqwal.autoscout24.es
 kissmetrics.com
@@ -9008,6 +9015,7 @@ log.ttbc-hcm.gov.vn
 log.webnovel.com
 log.wilmaa.com
 log.worldsoft-cms.info
+log.zdnet.co.kr
 log.zongheng.com
 log000.goo.ne.jp
 log1.17173.com
@@ -9068,6 +9076,7 @@ logs1257.at.pagesjaunes.fr
 logsbin.dantri.com.vn
 logservice.hicloud.com
 logservice1.hicloud.com
+logstash-3.radio-canada.ca
 logstat.caixin.com
 logtake.weidian.com
 logua.com
@@ -9640,6 +9649,7 @@ mc.yandex.com
 mc.yandex.ru
 mcad.mods-clinic.com
 mcangelus.com
+mcc-tags.cisco.com
 mcdmetrics.aaa.com
 mcloudglobal.com
 mcs-va.tiktokv.com
@@ -10021,6 +10031,7 @@ metrics.readme.io
 metrics.reallymoving.com
 metrics.realsimple.com
 metrics.recunia.de
+metrics.redgifs.com
 metrics.refinitiv.com
 metrics.regions.com
 metrics.restockit.com
@@ -10234,6 +10245,7 @@ mkt3261.com
 mkt51.net
 mkt6333.com
 mkt941.com
+mktcs.cloudapps.cisco.com
 mktg.aa.f5.com
 mktg.aicipc.com
 mktg.jeffersonhealth.org
@@ -11779,6 +11791,7 @@ px.marchex.io
 px.mountain.com
 px.owneriq.net
 px.pandora.com
+px.redgifs.com
 px.spiceworks.com
 px.staticfiles.at
 px.wp.pl
@@ -15153,6 +15166,7 @@ stat.tildacdn.com
 stat.tomdebruijn.com
 stat.turb.pw
 stat.tvigle.ru
+stat.u.sb
 stat.umsu.de
 stat.ustore.bz
 stat.uuu9.com
@@ -17463,6 +17477,7 @@ track.thebase.in
 track.thesaurus.com
 track.tiara.daum.net
 track.tiara.kakao.com
+track.tom.com
 track.tomwx.net
 track.totalav.com
 track.uc.cn
@@ -17917,7 +17932,6 @@ tshuxi.bbqguys.com
 tsj0.madeindesign.com
 tsk4.com
 tsk5.com
-tspmagic.tumblr.com
 tsppvi.amara.com
 tt.natwest.com
 tt.pluralsight.com
@@ -18803,6 +18817,7 @@ wttd.madeleine.fr
 wttd.madeleine.gr
 wundercounter.com
 wunderloop.net
+wup-content23.bmoharris.com
 wvvw.france24.com
 wvvw.francemediasmonde.com
 wvvw.infomigrants.net
