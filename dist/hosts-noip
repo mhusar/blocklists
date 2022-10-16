@@ -1,6 +1,6 @@
-# Version: 202210082009
+# Version: 202210160054
 # Title: EasyPrivacy
-# Last modified: 08 Oct 2022 20:09 UTC
+# Last modified: 16 Oct 2022 00:54 UTC
 # Expires: 6 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -3378,6 +3378,7 @@ be.secure.sonosite.com
 beacon.affil.walmart.com
 beacon.aimtell.com
 beacon.cdnma.com
+beacon.dropbox.com
 beacon.errorception.com
 beacon.flow.io
 beacon.kmi-us.com
@@ -4809,6 +4810,7 @@ cracataum.com
 crafthenry.com
 craftkeys.com
 craktraffic.com
+crashchance.com
 cratecamera.com
 crawlclocks.com
 crayfish.thingelstad.com
@@ -7441,6 +7443,7 @@ grumrt.com
 grxsaq.tagheuer.com
 gsbygc.clarks.eu
 gsecondscreen.com
+gsght.com
 gsimedia.net
 gsp1.baidu.com
 gsspat.jp
@@ -7503,6 +7506,7 @@ haltinggold.com
 hammerhearing.com
 hanaana.socialblade.com
 handleteeth.com
+handsomehose.com
 handsomeindustry.com
 handsomelyhealth.com
 handyfield.com
@@ -7639,6 +7643,7 @@ hits.eluniversal.com.mx
 hits.guardian.co.uk
 hits.informer.com
 hits.io
+hits.letras.mus.br
 hits.porn.fr
 hits.tf.rs
 hits.zdnet.co.kr
@@ -10915,6 +10920,7 @@ opbandit.com
 open.delivery.net
 open.oneplus.net
 openclick.com
+openfpcdn.io
 openguid.org
 openhit.com
 openlog.in
@@ -12132,6 +12138,7 @@ resulticks.com
 retag.xyz
 retailads.net
 retarget.gites-de-france.com
+retargetapp.com
 retargeter.com.br
 retargeting.biz
 retargeting.newsmanapp.com
@@ -12417,6 +12424,7 @@ s4.parkeren-haarlem.nl
 s4.parkeren-utrecht.nl
 s4e8.cascades.com
 s4s51f00a3o7.www.eldorado.gg
+s5.charliehebdo.fr
 s7target.ru
 s7ven.com
 sa.adidas.com
@@ -13325,7 +13333,6 @@ shakysurprise.com
 shakytaste.com
 shallowblade.com
 shallowsmile.com
-shalltry.com
 shareasale.com
 shared.65twenty.com
 sharedid.org
@@ -13472,6 +13479,7 @@ skillfulsock.com
 skyglue.com
 skylog.kz
 sl-ct5.com
+slackb.com
 slaunch.shopcanopy.com
 slaunch.spectrumtherapeutics.com
 slaysweater.com
@@ -14928,6 +14936,7 @@ srnzdl.morhipo.com
 sroork.mrmarvis.nl
 srpx.net
 srtb.msn.com
+srv.plesk.com
 ss.photospecialist.at
 ss.photospecialist.co.uk
 ss.photospecialist.de
@@ -15510,7 +15519,6 @@ stats.nddmed.com
 stats.nebula.fi
 stats.nerdbusiness.com
 stats.netbopdev.co.uk
-stats.netdna-storage.com
 stats.nicolabricot.com
 stats.nrcaknights.com
 stats.nytecomics.com
@@ -16712,7 +16720,6 @@ topstat.cn
 topstat.com
 toptracker.ru
 torbit.com
-torimochi.line-apps.com
 torpidtongue.com
 torpidtoothpaste.com
 torropinto.viessmann.es
@@ -17513,6 +17520,7 @@ tracker.digitalcamp.co.kr
 tracker.downdetector.com
 tracker.euroweb.net
 tracker.financialcontent.com
+tracker.gleanview.com
 tracker.icerocket.com
 tracker.idocdn.com
 tracker.iltrovatore.it
@@ -17604,6 +17612,7 @@ tracking.cspire.com
 tracking.customerly.io
 tracking.deutscheladies.de
 tracking.devoteladies.de
+tracking.digitalocean.com
 tracking.dominanteladies.de
 tracking.donnemagazine.it
 tracking.drsfostersmith.com
@@ -17876,6 +17885,7 @@ trklink.luisaviaroma.com
 trkme.net
 trkn.us
 trkpzz.dcinside.com
+trkr.shoppingminds.net
 trmads.eu
 troubledtail.com
 trovus.co.uk
@@ -19473,7 +19483,7 @@ zzsqqx.shopjapan.co.jp
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2022-10-09 01:17:03.342512
+# Generated at 2022-10-16 01:27:18.312200
 
 databerries.com
 fidzup
