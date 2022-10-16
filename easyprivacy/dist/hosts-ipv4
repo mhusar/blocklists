@@ -1,6 +1,6 @@
-# Version: 202210082009
+# Version: 202210160054
 # Title: EasyPrivacy
-# Last modified: 08 Oct 2022 20:09 UTC
+# Last modified: 16 Oct 2022 00:54 UTC
 # Expires: 6 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -3392,6 +3392,7 @@
 0.0.0.0 beacon.affil.walmart.com
 0.0.0.0 beacon.aimtell.com
 0.0.0.0 beacon.cdnma.com
+0.0.0.0 beacon.dropbox.com
 0.0.0.0 beacon.errorception.com
 0.0.0.0 beacon.flow.io
 0.0.0.0 beacon.kmi-us.com
@@ -4823,6 +4824,7 @@
 0.0.0.0 crafthenry.com
 0.0.0.0 craftkeys.com
 0.0.0.0 craktraffic.com
+0.0.0.0 crashchance.com
 0.0.0.0 cratecamera.com
 0.0.0.0 crawlclocks.com
 0.0.0.0 crayfish.thingelstad.com
@@ -7455,6 +7457,7 @@
 0.0.0.0 grxsaq.tagheuer.com
 0.0.0.0 gsbygc.clarks.eu
 0.0.0.0 gsecondscreen.com
+0.0.0.0 gsght.com
 0.0.0.0 gsimedia.net
 0.0.0.0 gsp1.baidu.com
 0.0.0.0 gsspat.jp
@@ -7517,6 +7520,7 @@
 0.0.0.0 hammerhearing.com
 0.0.0.0 hanaana.socialblade.com
 0.0.0.0 handleteeth.com
+0.0.0.0 handsomehose.com
 0.0.0.0 handsomeindustry.com
 0.0.0.0 handsomelyhealth.com
 0.0.0.0 handyfield.com
@@ -7653,6 +7657,7 @@
 0.0.0.0 hits.guardian.co.uk
 0.0.0.0 hits.informer.com
 0.0.0.0 hits.io
+0.0.0.0 hits.letras.mus.br
 0.0.0.0 hits.porn.fr
 0.0.0.0 hits.tf.rs
 0.0.0.0 hits.zdnet.co.kr
@@ -10929,6 +10934,7 @@
 0.0.0.0 open.delivery.net
 0.0.0.0 open.oneplus.net
 0.0.0.0 openclick.com
+0.0.0.0 openfpcdn.io
 0.0.0.0 openguid.org
 0.0.0.0 openhit.com
 0.0.0.0 openlog.in
@@ -12146,6 +12152,7 @@
 0.0.0.0 retag.xyz
 0.0.0.0 retailads.net
 0.0.0.0 retarget.gites-de-france.com
+0.0.0.0 retargetapp.com
 0.0.0.0 retargeter.com.br
 0.0.0.0 retargeting.biz
 0.0.0.0 retargeting.newsmanapp.com
@@ -12431,6 +12438,7 @@
 0.0.0.0 s4.parkeren-utrecht.nl
 0.0.0.0 s4e8.cascades.com
 0.0.0.0 s4s51f00a3o7.www.eldorado.gg
+0.0.0.0 s5.charliehebdo.fr
 0.0.0.0 s7target.ru
 0.0.0.0 s7ven.com
 0.0.0.0 sa.adidas.com
@@ -13339,7 +13347,6 @@
 0.0.0.0 shakytaste.com
 0.0.0.0 shallowblade.com
 0.0.0.0 shallowsmile.com
-0.0.0.0 shalltry.com
 0.0.0.0 shareasale.com
 0.0.0.0 shared.65twenty.com
 0.0.0.0 sharedid.org
@@ -13486,6 +13493,7 @@
 0.0.0.0 skyglue.com
 0.0.0.0 skylog.kz
 0.0.0.0 sl-ct5.com
+0.0.0.0 slackb.com
 0.0.0.0 slaunch.shopcanopy.com
 0.0.0.0 slaunch.spectrumtherapeutics.com
 0.0.0.0 slaysweater.com
@@ -14942,6 +14950,7 @@
 0.0.0.0 sroork.mrmarvis.nl
 0.0.0.0 srpx.net
 0.0.0.0 srtb.msn.com
+0.0.0.0 srv.plesk.com
 0.0.0.0 ss.photospecialist.at
 0.0.0.0 ss.photospecialist.co.uk
 0.0.0.0 ss.photospecialist.de
@@ -15524,7 +15533,6 @@
 0.0.0.0 stats.nebula.fi
 0.0.0.0 stats.nerdbusiness.com
 0.0.0.0 stats.netbopdev.co.uk
-0.0.0.0 stats.netdna-storage.com
 0.0.0.0 stats.nicolabricot.com
 0.0.0.0 stats.nrcaknights.com
 0.0.0.0 stats.nytecomics.com
@@ -16726,7 +16734,6 @@
 0.0.0.0 topstat.com
 0.0.0.0 toptracker.ru
 0.0.0.0 torbit.com
-0.0.0.0 torimochi.line-apps.com
 0.0.0.0 torpidtongue.com
 0.0.0.0 torpidtoothpaste.com
 0.0.0.0 torropinto.viessmann.es
@@ -17527,6 +17534,7 @@
 0.0.0.0 tracker.downdetector.com
 0.0.0.0 tracker.euroweb.net
 0.0.0.0 tracker.financialcontent.com
+0.0.0.0 tracker.gleanview.com
 0.0.0.0 tracker.icerocket.com
 0.0.0.0 tracker.idocdn.com
 0.0.0.0 tracker.iltrovatore.it
@@ -17618,6 +17626,7 @@
 0.0.0.0 tracking.customerly.io
 0.0.0.0 tracking.deutscheladies.de
 0.0.0.0 tracking.devoteladies.de
+0.0.0.0 tracking.digitalocean.com
 0.0.0.0 tracking.dominanteladies.de
 0.0.0.0 tracking.donnemagazine.it
 0.0.0.0 tracking.drsfostersmith.com
@@ -17890,6 +17899,7 @@
 0.0.0.0 trkme.net
 0.0.0.0 trkn.us
 0.0.0.0 trkpzz.dcinside.com
+0.0.0.0 trkr.shoppingminds.net
 0.0.0.0 trmads.eu
 0.0.0.0 troubledtail.com
 0.0.0.0 trovus.co.uk
