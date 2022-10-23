@@ -1,6 +1,6 @@
-# Version: 202210160054
+# Version: 202210222313
 # Title: EasyPrivacy
-# Last modified: 16 Oct 2022 00:54 UTC
+# Last modified: 22 Oct 2022 23:13 UTC
 # Expires: 6 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -1700,6 +1700,7 @@ activemeter.com
 activeornorthamerica.tomcatactivemarketing.net.zooplus.it
 activeprospects.com
 activity.asce.org
+activity.fiverr.com
 actnx.com
 acton.iriworldwide.com
 acton.simpleviewinc.com
@@ -2492,6 +2493,7 @@ analytics-scripts.cablelabs.com
 analytics-secure.dollargeneral.com
 analytics-sg.tiktok.com
 analytics-static.ugc.bazaarvoice.com
+analytics-tracking.meetup.com
 analytics-zone-1.api.leadfamly.com
 analytics.126.net
 analytics.163.com
@@ -2606,6 +2608,7 @@ analytics.elx.cloud
 analytics.erepublic.com
 analytics.esporteinterativo.com.br
 analytics.eventbrite.com
+analytics.evolution-x.org
 analytics.ewz.ch
 analytics.explained-from-first-principles.com
 analytics.fabricators.ltd
@@ -2725,6 +2728,7 @@ analytics.optilead.co.uk
 analytics.orenshmu.com
 analytics.ostr.io
 analytics.ovh.com
+analytics.oyorooms.com
 analytics.paddle.com
 analytics.pagefly.io
 analytics.partcommunity.com
@@ -2877,6 +2881,7 @@ analytics.yomedia.vn
 analytics.yourbankcard.com
 analytics.ziftsolutions.com
 analytics00.meride.tv
+analytics2-meride-tv.akamaized.net
 analyticschecker.com
 analyticsip.net
 analyticson.com
@@ -3130,6 +3135,7 @@ aspiringattempt.com
 aspservice.jp
 assets.garron.blog
 assets.garron.me
+assets.instacart.com
 assets.webmanufaktur.ch
 assoctrac.com
 astat.nikkei.com
@@ -3166,6 +3172,7 @@ atsfi.de
 atsmetrics.adobe.com
 atsptp.com
 attorney.findlaw.com
+attr-2p.com
 attracta.com
 attractionbanana.com
 attractiveafternoon.com
@@ -4102,12 +4109,14 @@ cityua.net
 cjbdme.conquer.org
 cjcqls.onbuy.com
 ck.connatix.com
+ckies.net
 ckozwx.n11.com
 ckpxtt.justfly.com
 cl.canva.com
 cl.promo.skf.com
 clamcelery.com
 clammytree.com
+clarice.streema.com
 clarity.ms
 claritytag.com
 clarium.global.ssl.fastly.net
@@ -4412,6 +4421,7 @@ collect.allianzdriveincinema.ch
 collect.asics.com
 collect.banggood.com
 collect.cap.ch
+collect.chaordicsystems.com
 collect.cloudsponge.com
 collect.elvia.ch
 collect.helsana-preprod.ch
@@ -4431,6 +4441,7 @@ collector.automote.co.nz
 collector.cint.com
 collector.clareity.net
 collector.contentexchange.me
+collector.fiverr.com
 collector.getyourguide.com
 collector.github.com
 collector.githubapp.com
@@ -4745,6 +4756,7 @@ counter.powweb.com
 counter.pr-cy.ru
 counter.proxycrawl.com
 counter.rambler.ru
+counter.reddigital.ru
 counter.scribblelive.com
 counter.sibnet.ru
 counter.snackly.co
@@ -4854,6 +4866,7 @@ crtx.info
 crumbs.robinhood.com
 cruntn.receno.com
 crwdcntrl.net
+cryo.socialblade.com
 cryptaloot.pro
 crypto-coins.club
 crypto-coins.com
@@ -4944,6 +4957,7 @@ curvedsquirrel.com
 curvycry.com
 cushionpig.com
 custom.plausible.io
+customer.homedepot.com
 customer.io
 customerconversio.com
 customerlabs.co
@@ -5702,6 +5716,7 @@ dkupaw9ae63a8.cloudfront.net
 dl-stage.zola.com
 dl.benefits.express-scripts.com
 dl.correspondence.evernorth.com
+dl.episerver.net
 dl.health-programs.express-scripts.com
 dl.mail.express-scripts.com
 dl.orders.express-scripts.com
@@ -6434,7 +6449,6 @@ ep4p.com
 eperfectdata.com
 epilot.com
 epiodata.com
-episerver.net
 epitrack.com
 epl.paypal-communication.com
 epm.mailperformance.com
@@ -6443,6 +6457,7 @@ eproof.com
 eproof.drudgereport.com
 eps-analyzer.de
 epwa.europarl.europa.eu
+eq.userneeds.com
 eqkwat.histoiredor.com
 eqy.link
 erate.co.il
@@ -6551,6 +6566,7 @@ event-api.contactatonce.co.uk
 event-api.contactatonce.com
 event-api.rdstation.com.br
 event-api.reverb.com
+event-collector.moviesanywhere.com
 event-listener.air.tv
 event-logger.tagboard.com
 event-service.letslinc.com
@@ -6992,6 +7008,7 @@ fresh.inlinkz.com
 freshcounter.com
 freshmarketer.com
 freshplum.com
+freshrelevance.com
 fresnel-events.vimeocdn.com
 fretfulfurniture.com
 friendbuy.com
@@ -7118,6 +7135,7 @@ g792337343.co
 g8715710740.co
 g8913795075.co
 g9111879410.co
+g9508048080.co
 g9706132415.co
 g990421675.co
 g990421676.co
@@ -8290,6 +8308,7 @@ it.conres.com
 it.promo.skf.com
 it.sharpmarketing.eu
 italianadirectory.com
+iterable.com
 iterable.convoy.com
 ithinkthereforeiam.net
 itkdlu.howrse.si
@@ -8694,6 +8713,7 @@ legenhit.com
 legolas-media.com
 leiki.com
 lem.nouvelobs.com
+lemnisk.co
 lentainform.com
 leo1.leon-de-bruxelles.fr
 leokross.com
@@ -8990,6 +9010,7 @@ log.hypebeast.com
 log.idnes.cz
 log.invodo.com
 log.kibboko.com
+log.kslogs.ru
 log.kuwo.cn
 log.m.sm.cn
 log.mappy.net
@@ -9230,6 +9251,7 @@ maling.dn.no
 mandrillapp.zola.com
 mango.seloger.com
 maniacalappliance.com
+mantisadnetwork.com
 maploco.com
 mapmyuser.com
 mapp.ewm.co.uk
@@ -9623,6 +9645,7 @@ masterstats.com
 mastertag.effiliation.com
 mastertag.kpcustomer.de
 mastertag.q-sis.de
+masterworks.digital
 materialexample.com
 materialisticfan.com
 materialisticmark.com
@@ -10016,6 +10039,7 @@ metrics.nutropin.com
 metrics.nvidia.com
 metrics.octanner.com
 metrics.omniture.com
+metrics.onshape.com
 metrics.optum.com
 metrics.outsourcing-pharma.com
 metrics.parcelforce.com
@@ -10115,6 +10139,7 @@ metrics.uhc.com
 metrics.uol.com.br
 metrics.ups.com
 metrics.us.playstation.com
+metrics.userguiding.com
 metrics.usopen.org
 metrics.valuecityfurniture.com
 metrics.vans.com.au
@@ -11389,6 +11414,7 @@ pixelzirkus.gameforge.com
 pixfuture.com
 pixiedust.buzzfeed.com
 piximedia.com
+pixmg.com
 pixrealm.com
 pizzasnut.com
 pjatr.com
@@ -11479,6 +11505,7 @@ plausible.haltakov.net
 plausible.hellpancake.com
 plausible.help.exploreandcreate.com
 plausible.inflex.io
+plausible.io
 plausible.joinself.com
 plausible.kabaret.no
 plausible.kreya.app
@@ -11725,6 +11752,7 @@ pto-slb-09.com
 ptracker.nurturehq.com
 ptrk-wn.com
 ptsc.shoplocal.com
+ptztvpremium.com
 pub.servidoresge.com
 pub.sheknows.com
 pubdream.com
@@ -11799,6 +11827,7 @@ px.owneriq.net
 px.pandora.com
 px.redgifs.com
 px.spiceworks.com
+px.srvcs.tumblr.com
 px.staticfiles.at
 px.wp.pl
 pxaction.com
@@ -12878,6 +12907,7 @@ scratchsofa.com
 screechingfurniture.com
 screechingslip.com
 screechingstove.com
+screen13.com
 scribe.wongnai.com
 scrippscontroller.com
 script-sh.d2cdm.jp
@@ -13303,6 +13333,7 @@ serv1swork.com
 servcliente.marathon-sports-ec.com
 servebom.com
 servedby.o2.co.uk
+serveipqs.com
 server.japanbyrivercruise.com
 server.olliehorn.com
 servestats.com
@@ -14839,6 +14870,7 @@ sp.vcstar.com
 sp.visaliatimesdelta.com
 sp.vtex.com
 sp.wausaudailyherald.com
+sp.welcometothejungle.com
 sp.wisconsinrapidstribune.com
 sp.ydr.com
 sp.yorkdispatch.com
@@ -15134,6 +15166,7 @@ stat.clichehosting.de
 stat.cncenter.cz
 stat.dbschenker.com
 stat.eagleplatform.com
+stat.flytechb.com
 stat.funshion.net
 stat.glaze.ai
 stat.guiasjuridicas.es
@@ -15525,6 +15558,7 @@ stats.mmazzarolo.com
 stats.mos.ru
 stats.motion-effect.com
 stats.motorcyclepartsireland.ie
+stats.mpthemes.net
 stats.muasamcong.gov.vn
 stats.muchbetteradventures.com
 stats.myangular.life
@@ -16188,6 +16222,7 @@ t8.mailperformance.com
 t9h2.ricardocuisine.com
 t9k3a.jeanpaulfortin.com
 ta.sanook.com
+ta.sbird.xyz
 taduhy.timberland.co.uk
 tag-manager.playbuzz.com
 tag.agrvt.com
@@ -16331,6 +16366,7 @@ tcimg.com
 tck.photobox.com
 tcsayn.okkane.co.kr
 tctm.co
+td.airdroid.com
 td.ecomms.originenergy.com.au
 td.testbnc.originenergy.com.au
 td573.com
@@ -16407,6 +16443,7 @@ teenyvolcano.com
 teethfan.com
 teijgy.herveleger.com
 teijs.alcampo.es
+telem.sre.gopuff.com
 telemetric.dk
 telemetrics.klaviyo.com
 telemetry.adobe.io
@@ -17987,7 +18024,6 @@ tyvuwf.lameteoagricole.net
 tyxo.bg
 tyxo.com
 tz284.com
-tzegilo.com
 tzwaw.pw
 u-on.eu
 u0crsrah75fy.camberlion.com
@@ -18046,7 +18082,6 @@ unarmedindustry.com
 unative.com
 unbecomingbikes.com
 unbecominghall.com
-unblockia.com
 uncn.jp
 uncoveredcircle.com
 uncoveredexpert.com
@@ -18162,12 +18197,12 @@ user-api.com
 user-clicks.com
 user-metrics.onthemarket.com
 user-red.com
+user.userguiding.com
 usercycle.com
 userdive.com
 userexperience.thehut.net
 userfly.com
 userlook.com
-userneeds.com
 userneeds.dk
 userreplay.net
 userreport.com
@@ -18362,6 +18397,7 @@ vortex.data.microsoft.com
 vortex.hulu.com
 votistics.com
 voyagepotato.com
+vpdcp.com
 vpf4.euskaltelofertas.com
 vpl.voyage-prive.pl
 vpn-access.site
