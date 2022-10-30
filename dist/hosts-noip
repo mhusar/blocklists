@@ -1,6 +1,6 @@
-# Version: 202210222313
+# Version: 202210300025
 # Title: EasyPrivacy
-# Last modified: 22 Oct 2022 23:13 UTC
+# Last modified: 30 Oct 2022 00:25 UTC
 # Expires: 6 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -1041,6 +1041,7 @@ a8.webist-cri.com
 a8.wifi-tokyo-rentalshop.com
 a8.yanoman.com
 a8.yuzen-official.com
+a8723.com
 a8780.actonservice.com
 a8aspconv.itx-home-router.com
 a8aspconv.ns-softbank-hikari.com
@@ -2495,6 +2496,7 @@ analytics.ae.com
 analytics.agoda.com
 analytics.aimtell.com
 analytics.aita.gov.vn
+analytics.algolia.com
 analytics.allovoisins.com
 analytics.amakings.com
 analytics.americanfunds.com
@@ -3132,6 +3134,7 @@ aswpsdkeu.com
 aswpsdkus.com
 at-cddc.actu-juridique.fr
 at-o.net
+at.360.audion.fm
 at.badische-zeitung.de
 at.deutsche-bank.de
 at.mclaren.com
@@ -4620,6 +4623,7 @@ content.verint.com
 content.wacom.com
 content.xpublisher.com
 content22.bmoharris.com
+content22.citibank.com.sg
 contentexchange.me
 contentinsights.com
 contents-tracking.beop.io
@@ -4690,6 +4694,7 @@ cosmi.io
 cosmosjackson.com
 cost1action.com
 counmg.greatvaluevacations.com
+count-server.sharethis.com
 count.asnetworks.de
 count.bank99.at
 count.candou.com
@@ -6801,6 +6806,7 @@ fernomius.com
 fetchback.com
 fezoua.carfixer.co.kr
 ffbbbdc6d3c353211fe2ba39c9f744cd.com
+ffe390afd658c19dcbf707e0597b846d.de
 ffrmwn.musinsa.com
 fgfukd.sakazen.co.jp
 fgjfwz.legami.com
@@ -6941,6 +6947,7 @@ fpptmv.mrmarvis.co.uk
 fprfvt.recambioscoches.es
 fprnt.com
 fpt.microsoft.com
+fptls.com
 fpxau.net
 fpxewa.ilmeteo.it
 fq9vy0muyqi3.www.madrigalmaps.com
@@ -8923,6 +8930,7 @@ linkxchanger.com
 lio8.destinia.com.pa
 liosix.mtvuutiset.fi
 listrakbi.com
+lists.ccmbg.com
 listtop.ru
 lite-cdn.com
 literally-analytics.appspot.com
@@ -9180,6 +9188,7 @@ m.addthisedge.com
 m.delltechnologies.com
 m.irl.com
 m.photoshelter.com
+m.stripe.com
 m.trb.com
 m.vistaresourcegroup.com
 m0mentum.net
@@ -10438,6 +10447,7 @@ mx.promo.skf.com
 mxapis.com
 mxcdn.net
 mxhunv.kurz-mal-weg.de
+mxpl.9gag.com
 mxpnl.com
 mxptint.net
 my-ranking.de
@@ -10775,6 +10785,7 @@ oei1.gq
 oek7.april-moto.com
 oevery.com
 oewabox.at
+offer-go.com
 offer.slgnt.eu
 offermatica.com
 offerpoint.net
@@ -10807,6 +10818,7 @@ ojvxtz.junonline.jp
 okt.to
 oktagv.immobilienscout24.at
 oktopost.com
+olacontent.schwab.com
 olgtex.com
 olklgn.jh-profishop.de
 olspyo.laredoute.co.uk
@@ -11942,6 +11954,7 @@ r.mail.ru
 r.my.com
 r.sax.sina.com.cn
 r.skimresources.com
+r.stripe.com
 r1ztni.oui.sncf
 r24-tech.com
 r42tag.com
@@ -12625,7 +12638,6 @@ salemove.com
 sales.avis.com
 sales.disneylandparis.com
 salesgenius.com
-salesmanago.pl
 salesviewer.com
 salesviewer.org
 saletrack.co.uk
@@ -15156,6 +15168,7 @@ stat.flytechb.com
 stat.funshion.net
 stat.glaze.ai
 stat.guiasjuridicas.es
+stat.i3.dmm.com
 stat.ipsoa.it
 stat.iteye.com
 stat.kununu.cz
@@ -16102,6 +16115,7 @@ t-s.allergicasthma.com
 t-s.gene.com
 t-s.xolairhcp.com
 t.10er-tagesticket.de
+t.360.audion.fm
 t.91syun.com
 t.9gag.com
 t.a3cloud.net
@@ -17786,6 +17800,7 @@ tracking1.brandmentions.com
 tracking1.filemoon.sx
 tracking2.channeladvisor.com
 tracking202.com
+tracking3.vnncdn.net
 trackingaa.hitachienergy.com
 trackingapi.cloudapp.net
 trackingca.com
@@ -18757,6 +18772,7 @@ wishloop.com
 wissen.sage.de
 wisteria-js.excite.co.jp
 wistfulflight.com
+withcabin.com
 withcubed.com
 wiz.ghostbed.com
 wiz.sncf-connect.com
@@ -19519,7 +19535,7 @@ zzsqqx.shopjapan.co.jp
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2022-10-23 01:20:17.390266
+# Generated at 2022-10-30 01:18:31.631949
 
 databerries.com
 fidzup
