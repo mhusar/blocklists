@@ -1,6 +1,6 @@
-# Version: 202211060045
+# Version: 202211130016
 # Title: EasyPrivacy
-# Last modified: 06 Nov 2022 00:45 UTC
+# Last modified: 13 Nov 2022 00:16 UTC
 # Expires: 6 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -1881,6 +1881,7 @@
 0.0.0.0 adjust.com
 0.0.0.0 adku.co
 0.0.0.0 adku.com
+0.0.0.0 adl.bankofthewest.com
 0.0.0.0 adless.io
 0.0.0.0 adlog.com.com
 0.0.0.0 adm-mail.net.zooplus.es
@@ -2203,6 +2204,7 @@
 0.0.0.0 adsettings.com
 0.0.0.0 adsixmedia.fr
 0.0.0.0 adskom.com
+0.0.0.0 adsmatcher.com
 0.0.0.0 adspsp.com
 0.0.0.0 adsrvr.org
 0.0.0.0 adstat.4u.pl
@@ -2457,6 +2459,7 @@
 0.0.0.0 analitits.com
 0.0.0.0 analitycs.net
 0.0.0.0 analoganalytics.com
+0.0.0.0 analys.live
 0.0.0.0 analyse.bcovery.com
 0.0.0.0 analyse.hinemos.info
 0.0.0.0 analyselog.dx.com
@@ -4244,6 +4247,7 @@
 0.0.0.0 clickzs.com
 0.0.0.0 clickzzs.nl
 0.0.0.0 client-analytics.braintreegateway.com
+0.0.0.0 client-analytics.mts.ru
 0.0.0.0 client-log.box.com
 0.0.0.0 client-metrics.chess.com
 0.0.0.0 client.tahono.com
@@ -4364,6 +4368,7 @@
 0.0.0.0 cnt.vivatube.com
 0.0.0.0 cnt1.net
 0.0.0.0 cnt2.stroeerdp.de
+0.0.0.0 cntxtfl.com
 0.0.0.0 cnwebperformance.biz
 0.0.0.0 cnxweb.com
 0.0.0.0 cnzz.com
@@ -4622,11 +4627,12 @@
 0.0.0.0 content.wacom.com
 0.0.0.0 content.xpublisher.com
 0.0.0.0 content22.bmoharris.com
+0.0.0.0 content22.citi.eu
 0.0.0.0 content22.citibank.com.sg
+0.0.0.0 content22.online.citi.com
 0.0.0.0 contentexchange.me
 0.0.0.0 contentinsights.com
 0.0.0.0 contents-tracking.beop.io
-0.0.0.0 contents2.00110.citi.com
 0.0.0.0 contentsfeed.com
 0.0.0.0 contentspread.net
 0.0.0.0 contentsquare.net
@@ -4636,6 +4642,7 @@
 0.0.0.0 continuenow.miami.edu
 0.0.0.0 control.cityofcairns.com
 0.0.0.0 controlswim.com
+0.0.0.0 convead.io
 0.0.0.0 convergetrack.com
 0.0.0.0 conversion.pl
 0.0.0.0 conversionfly.com
@@ -4915,6 +4922,7 @@
 0.0.0.0 cts.vresp.com
 0.0.0.0 cttracking02.com
 0.0.0.0 ctwqxs.autoscout24.at
+0.0.0.0 ctx.citiservi.es
 0.0.0.0 ctyjsf.cellphones.com.vn
 0.0.0.0 cubchannel.com
 0.0.0.0 cuberoot.co
@@ -6494,6 +6502,7 @@
 0.0.0.0 ethn.io
 0.0.0.0 ethnio.com
 0.0.0.0 ethtrader.de
+0.0.0.0 etop.ro
 0.0.0.0 etp-prod.com
 0.0.0.0 etracker.com
 0.0.0.0 etracker.de
@@ -6922,6 +6931,7 @@
 0.0.0.0 fp.measure.office.com
 0.0.0.0 fp84rw0jinz7.blanc.ru
 0.0.0.0 fpa-cdn.arstechnica.com
+0.0.0.0 fpa-cdn.decrypt.co
 0.0.0.0 fpa-events.decrypt.co
 0.0.0.0 fpapi.io
 0.0.0.0 fpaux.net
@@ -7225,6 +7235,7 @@
 0.0.0.0 getdrip.com
 0.0.0.0 getfreebl.com
 0.0.0.0 getmln.penti.com.ro
+0.0.0.0 getnotix.co
 0.0.0.0 getpublica.com
 0.0.0.0 getpush.net
 0.0.0.0 getpushmonkey.com
@@ -7406,7 +7417,6 @@
 0.0.0.0 gotoexp.dresslily.com
 0.0.0.0 gotpiu.regenbogen.com
 0.0.0.0 gotrk.net
-0.0.0.0 goutee.top
 0.0.0.0 govmetric.com
 0.0.0.0 gpiljd.thetiebar.com
 0.0.0.0 gpiyhj.leopalace21.com
@@ -7945,9 +7955,11 @@
 0.0.0.0 indextools.com
 0.0.0.0 indicative.com
 0.0.0.0 indicia.com
+0.0.0.0 indigitall.com
 0.0.0.0 individuad.net
 0.0.0.0 indmetric.rediff.com
 0.0.0.0 industry.promo.skf.com
+0.0.0.0 ineed2s.ro
 0.0.0.0 ineedhits.com
 0.0.0.0 inencr.woodhouseclothing.com
 0.0.0.0 infamousstream.com
@@ -8330,6 +8342,7 @@
 0.0.0.0 jailbulb.com
 0.0.0.0 jambwe.transsibinfo.com
 0.0.0.0 jamexistence.com
+0.0.0.0 jams.wiki
 0.0.0.0 janrain.xyz
 0.0.0.0 jaomlf.giftmall.co.jp
 0.0.0.0 jas.indeednps.com
@@ -9620,6 +9633,7 @@
 0.0.0.0 mastertag.kpcustomer.de
 0.0.0.0 mastertag.q-sis.de
 0.0.0.0 masterworks.digital
+0.0.0.0 mat.socy.es
 0.0.0.0 materialexample.com
 0.0.0.0 materialisticfan.com
 0.0.0.0 materialisticmark.com
@@ -9630,6 +9644,7 @@
 0.0.0.0 matomo.cloud
 0.0.0.0 matrix.hbo.com
 0.0.0.0 matrix42.actonservice.com
+0.0.0.0 matt.mercadolivre.com.br
 0.0.0.0 matterlytics.com
 0.0.0.0 maxtracker.net
 0.0.0.0 maxtraffic.com
@@ -10374,6 +10389,7 @@
 0.0.0.0 msparktrk.com
 0.0.0.0 msr.p-antiaging.com
 0.0.0.0 mstat.ga
+0.0.0.0 mstm.motorsport.com
 0.0.0.0 mstrlytcs.com
 0.0.0.0 msufcu.actonservice.com
 0.0.0.0 msz3.destinia.cn
@@ -10588,6 +10604,7 @@
 0.0.0.0 newssuite.sony.net
 0.0.0.0 nex.163.com
 0.0.0.0 nextstat.com
+0.0.0.0 nexxtv-events.servicebus.windows.net
 0.0.0.0 nffxqi.jorgebischoff.com.br
 0.0.0.0 nfused.eobuv.com.ua
 0.0.0.0 nfwebminer.com
@@ -10665,6 +10682,8 @@
 0.0.0.0 notify.pray.com
 0.0.0.0 notify.solutions
 0.0.0.0 notifyvisitors.com
+0.0.0.0 notiks.io
+0.0.0.0 notiksio.com
 0.0.0.0 notix.io
 0.0.0.0 notmining.org
 0.0.0.0 noushe.zevvle.com
@@ -11509,6 +11528,7 @@
 0.0.0.0 plausible.redchamp.net
 0.0.0.0 plausible.regex.help
 0.0.0.0 plausible.riok.ch
+0.0.0.0 plausible.safing.io
 0.0.0.0 plausible.simplelogin.io
 0.0.0.0 plausible.slope.io
 0.0.0.0 plausible.staging.sketch.com
@@ -11695,6 +11715,7 @@
 0.0.0.0 prophet.heise.de
 0.0.0.0 props.id
 0.0.0.0 prospecteye.com
+0.0.0.0 protecmedia.com
 0.0.0.0 protectcrev.com
 0.0.0.0 protectsubrev.com
 0.0.0.0 protestcopy.com
@@ -13238,6 +13259,7 @@
 0.0.0.0 seg.sharethis.com
 0.0.0.0 segment.com
 0.0.0.0 segment.io
+0.0.0.0 segmenthub.com
 0.0.0.0 segmentify.com
 0.0.0.0 segmentor.snowfox-ai.com
 0.0.0.0 segments.adap.tv
@@ -14473,6 +14495,7 @@
 0.0.0.0 smetrics.radiole.com
 0.0.0.0 smetrics.ragsdaleair.com
 0.0.0.0 smetrics.ralphlauren.co.kr
+0.0.0.0 smetrics.ralphlauren.com
 0.0.0.0 smetrics.ralphlauren.com.au
 0.0.0.0 smetrics.ralphlauren.global
 0.0.0.0 smetrics.ralphlauren.nl
@@ -17992,7 +18015,7 @@
 0.0.0.0 u-on.eu
 0.0.0.0 u0crsrah75fy.camberlion.com
 0.0.0.0 u299.libelle-lekker.be
-0.0.0.0 u47.pnc.com
+0.0.0.0 u44.pnc.com
 0.0.0.0 u5e.com
 0.0.0.0 u652.myplainview.com
 0.0.0.0 u927.sfgate.com
@@ -18233,6 +18256,7 @@
 0.0.0.0 veinteractive.com
 0.0.0.0 velaro.com
 0.0.0.0 vendri.io
+0.0.0.0 vengefulgrass.com
 0.0.0.0 ventivmedia.com
 0.0.0.0 venusgloria.com
 0.0.0.0 venusrevival.com
