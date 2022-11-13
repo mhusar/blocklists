@@ -1,6 +1,6 @@
-# Version: 202211060045
+# Version: 202211130016
 # Title: EasyPrivacy
-# Last modified: 06 Nov 2022 00:45 UTC
+# Last modified: 13 Nov 2022 00:16 UTC
 # Expires: 6 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -1867,6 +1867,7 @@ adinte.jp
 adjust.com
 adku.co
 adku.com
+adl.bankofthewest.com
 adless.io
 adlog.com.com
 adm-mail.net.zooplus.es
@@ -2189,6 +2190,7 @@ adsensedetective.com
 adsettings.com
 adsixmedia.fr
 adskom.com
+adsmatcher.com
 adspsp.com
 adsrvr.org
 adstat.4u.pl
@@ -2443,6 +2445,7 @@ analitica.webrpp.com
 analitits.com
 analitycs.net
 analoganalytics.com
+analys.live
 analyse.bcovery.com
 analyse.hinemos.info
 analyselog.dx.com
@@ -4230,6 +4233,7 @@ clickyab.com
 clickzs.com
 clickzzs.nl
 client-analytics.braintreegateway.com
+client-analytics.mts.ru
 client-log.box.com
 client-metrics.chess.com
 client.tahono.com
@@ -4350,6 +4354,7 @@ cnt.viptube.com
 cnt.vivatube.com
 cnt1.net
 cnt2.stroeerdp.de
+cntxtfl.com
 cnwebperformance.biz
 cnxweb.com
 cnzz.com
@@ -4608,11 +4613,12 @@ content.verint.com
 content.wacom.com
 content.xpublisher.com
 content22.bmoharris.com
+content22.citi.eu
 content22.citibank.com.sg
+content22.online.citi.com
 contentexchange.me
 contentinsights.com
 contents-tracking.beop.io
-contents2.00110.citi.com
 contentsfeed.com
 contentspread.net
 contentsquare.net
@@ -4622,6 +4628,7 @@ continue.com
 continuenow.miami.edu
 control.cityofcairns.com
 controlswim.com
+convead.io
 convergetrack.com
 conversion.pl
 conversionfly.com
@@ -4901,6 +4908,7 @@ cts.businesswire.com
 cts.vresp.com
 cttracking02.com
 ctwqxs.autoscout24.at
+ctx.citiservi.es
 ctyjsf.cellphones.com.vn
 cubchannel.com
 cuberoot.co
@@ -6480,6 +6488,7 @@ ethereum-pocket.eu
 ethn.io
 ethnio.com
 ethtrader.de
+etop.ro
 etp-prod.com
 etracker.com
 etracker.de
@@ -6908,6 +6917,7 @@ fp-cdn.azureedge.net
 fp.measure.office.com
 fp84rw0jinz7.blanc.ru
 fpa-cdn.arstechnica.com
+fpa-cdn.decrypt.co
 fpa-events.decrypt.co
 fpapi.io
 fpaux.net
@@ -7211,6 +7221,7 @@ getconversion.net
 getdrip.com
 getfreebl.com
 getmln.penti.com.ro
+getnotix.co
 getpublica.com
 getpush.net
 getpushmonkey.com
@@ -7392,7 +7403,6 @@ gotoedm.whereyogi.com
 gotoexp.dresslily.com
 gotpiu.regenbogen.com
 gotrk.net
-goutee.top
 govmetric.com
 gpiljd.thetiebar.com
 gpiyhj.leopalace21.com
@@ -7931,9 +7941,11 @@ indexstats.com
 indextools.com
 indicative.com
 indicia.com
+indigitall.com
 individuad.net
 indmetric.rediff.com
 industry.promo.skf.com
+ineed2s.ro
 ineedhits.com
 inencr.woodhouseclothing.com
 infamousstream.com
@@ -8316,6 +8328,7 @@ jadeitite.com
 jailbulb.com
 jambwe.transsibinfo.com
 jamexistence.com
+jams.wiki
 janrain.xyz
 jaomlf.giftmall.co.jp
 jas.indeednps.com
@@ -9606,6 +9619,7 @@ mastertag.effiliation.com
 mastertag.kpcustomer.de
 mastertag.q-sis.de
 masterworks.digital
+mat.socy.es
 materialexample.com
 materialisticfan.com
 materialisticmark.com
@@ -9616,6 +9630,7 @@ mathtag.com
 matomo.cloud
 matrix.hbo.com
 matrix42.actonservice.com
+matt.mercadolivre.com.br
 matterlytics.com
 maxtracker.net
 maxtraffic.com
@@ -10360,6 +10375,7 @@ msgtag.com
 msparktrk.com
 msr.p-antiaging.com
 mstat.ga
+mstm.motorsport.com
 mstrlytcs.com
 msufcu.actonservice.com
 msz3.destinia.cn
@@ -10574,6 +10590,7 @@ newsletters.nationalgeographic.com
 newssuite.sony.net
 nex.163.com
 nextstat.com
+nexxtv-events.servicebus.windows.net
 nffxqi.jorgebischoff.com.br
 nfused.eobuv.com.ua
 nfwebminer.com
@@ -10651,6 +10668,8 @@ notifpush.com
 notify.pray.com
 notify.solutions
 notifyvisitors.com
+notiks.io
+notiksio.com
 notix.io
 notmining.org
 noushe.zevvle.com
@@ -11495,6 +11514,7 @@ plausible.reactpreview.com
 plausible.redchamp.net
 plausible.regex.help
 plausible.riok.ch
+plausible.safing.io
 plausible.simplelogin.io
 plausible.slope.io
 plausible.staging.sketch.com
@@ -11681,6 +11701,7 @@ propertypotato.com
 prophet.heise.de
 props.id
 prospecteye.com
+protecmedia.com
 protectcrev.com
 protectsubrev.com
 protestcopy.com
@@ -13224,6 +13245,7 @@ seewhy.com
 seg.sharethis.com
 segment.com
 segment.io
+segmenthub.com
 segmentify.com
 segmentor.snowfox-ai.com
 segments.adap.tv
@@ -14459,6 +14481,7 @@ smetrics.radioactiva.cl
 smetrics.radiole.com
 smetrics.ragsdaleair.com
 smetrics.ralphlauren.co.kr
+smetrics.ralphlauren.com
 smetrics.ralphlauren.com.au
 smetrics.ralphlauren.global
 smetrics.ralphlauren.nl
@@ -17978,7 +18001,7 @@ tzwaw.pw
 u-on.eu
 u0crsrah75fy.camberlion.com
 u299.libelle-lekker.be
-u47.pnc.com
+u44.pnc.com
 u5e.com
 u652.myplainview.com
 u927.sfgate.com
@@ -18219,6 +18242,7 @@ veille-referencement.com
 veinteractive.com
 velaro.com
 vendri.io
+vengefulgrass.com
 ventivmedia.com
 venusgloria.com
 venusrevival.com
@@ -19476,7 +19500,7 @@ zzsqqx.shopjapan.co.jp
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2022-11-06 01:08:37.428027
+# Generated at 2022-11-13 01:06:04.454074
 
 databerries.com
 fidzup
