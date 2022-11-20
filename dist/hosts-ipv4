@@ -1,6 +1,6 @@
-# Version: 202211130016
+# Version: 202211192347
 # Title: EasyPrivacy
-# Last modified: 13 Nov 2022 00:16 UTC
+# Last modified: 19 Nov 2022 23:47 UTC
 # Expires: 6 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -1701,6 +1701,7 @@
 0.0.0.0 activeprospects.com
 0.0.0.0 activity.asce.org
 0.0.0.0 activity.fiverr.com
+0.0.0.0 activity.wisepops.com
 0.0.0.0 actnx.com
 0.0.0.0 acton.iriworldwide.com
 0.0.0.0 acton.simpleviewinc.com
@@ -4300,6 +4301,7 @@
 0.0.0.0 cm-exchange.toast.com
 0.0.0.0 cm-mms.coachmag.co.uk
 0.0.0.0 cm.bilibili.com
+0.0.0.0 cm.nordvpn.com
 0.0.0.0 cmass.massmedian.co.jp
 0.0.0.0 cmcore.com
 0.0.0.0 cmhmpr.lolaliza.com
@@ -4799,6 +4801,8 @@
 0.0.0.0 countyou.de
 0.0.0.0 countz.com
 0.0.0.0 coverapparatus.com
+0.0.0.0 cp.official-coupons.com
+0.0.0.0 cp.official-deals.co.uk
 0.0.0.0 cpaevent.ru
 0.0.0.0 cpcmanager.com
 0.0.0.0 cpgo.avatacar.com
@@ -5044,6 +5048,7 @@
 0.0.0.0 d10gj7yjsfriaj.cloudfront.net
 0.0.0.0 d10lpsik1i8c69.cloudfront.net
 0.0.0.0 d11a2fzhgzqe7i.cloudfront.net
+0.0.0.0 d12m6l63zd9etp.cloudfront.net
 0.0.0.0 d15kdaxu5c0hfw.cloudfront.net
 0.0.0.0 d169bbxks24g2u.cloudfront.net
 0.0.0.0 d16fk4ms6rqz1v.cloudfront.net
@@ -5659,6 +5664,7 @@
 0.0.0.0 direct-events-collector.spot.im
 0.0.0.0 direct.colfondos.co
 0.0.0.0 direct.t-mobile.com
+0.0.0.0 directavenue.tech
 0.0.0.0 directcounter.de
 0.0.0.0 directcrm.ru
 0.0.0.0 directprimal.com
@@ -6550,6 +6556,7 @@
 0.0.0.0 europagerank.com
 0.0.0.0 europuls.eu
 0.0.0.0 europuls.net
+0.0.0.0 ev.stellarlabs.ai
 0.0.0.0 ev.tpocdm.com
 0.0.0.0 evaluateend.com
 0.0.0.0 evanescentedge.com
@@ -6814,6 +6821,7 @@
 0.0.0.0 fhngty.vetsecurite.com
 0.0.0.0 fiawmk.empik.com
 0.0.0.0 fifthborder.com
+0.0.0.0 figpii.com
 0.0.0.0 fiksu.com
 0.0.0.0 filament-stats.herokuapp.com
 0.0.0.0 files.urlinsgroup.com
@@ -7105,6 +7113,7 @@
 0.0.0.0 g.pcmag.com
 0.0.0.0 g.siliconweek.es
 0.0.0.0 g.yccdn.com
+0.0.0.0 g10300385420.co
 0.0.0.0 g11686975765.co
 0.0.0.0 g1188506010.co
 0.0.0.0 g11885060100.co
@@ -8170,6 +8179,7 @@
 0.0.0.0 intelimet.com
 0.0.0.0 intelli-direct.com
 0.0.0.0 intelliad.de
+0.0.0.0 intelligems.io
 0.0.0.0 intelligence.officialwesthamstore.com
 0.0.0.0 intelligencefocus.com
 0.0.0.0 intelligenceretarget.com
@@ -12042,6 +12052,7 @@
 0.0.0.0 realizevacation.com
 0.0.0.0 reallyfreegeoip.org
 0.0.0.0 realm.hearst3pcc.com
+0.0.0.0 realtimely.io
 0.0.0.0 realtimewebstats.net
 0.0.0.0 realtracker.com
 0.0.0.0 realytics.io
@@ -12197,6 +12208,7 @@
 0.0.0.0 revenuescience.com
 0.0.0.0 revenuewire.net
 0.0.0.0 revhunter.tech
+0.0.0.0 revlifter.io
 0.0.0.0 revoffers.com
 0.0.0.0 revolvermaps.com
 0.0.0.0 revprotect.com
@@ -14924,6 +14936,7 @@
 0.0.0.0 sponsorcounter.de
 0.0.0.0 sponsored.com
 0.0.0.0 spookyexchange.com
+0.0.0.0 spookyskate.com
 0.0.0.0 spookysleet.com
 0.0.0.0 spookyslope.com
 0.0.0.0 spoonsilk.com
@@ -16125,6 +16138,7 @@
 0.0.0.0 t.birchlane.com
 0.0.0.0 t.blablacar.com
 0.0.0.0 t.brand-server.com
+0.0.0.0 t.buyist.app
 0.0.0.0 t.c4tw.net
 0.0.0.0 t.castle.io
 0.0.0.0 t.cfjump.com
@@ -16423,6 +16437,7 @@
 0.0.0.0 technical-service.net
 0.0.0.0 technical.kyzen.com
 0.0.0.0 ted.dailymail.co.uk
+0.0.0.0 tediousticket.com
 0.0.0.0 tedioustooth.com
 0.0.0.0 tedo-stats.de
 0.0.0.0 teenytinycellar.com
@@ -16666,6 +16681,7 @@
 0.0.0.0 tm.vendemore.com
 0.0.0.0 tmetrics.hdfcbank.com
 0.0.0.0 tmetrics.webex.com
+0.0.0.0 tmetrix.my.chick-fil-a.com
 0.0.0.0 tmmp.io
 0.0.0.0 tmrhpl.nurse-agent.com
 0.0.0.0 tms-st.cdn.ngenix.net
@@ -17782,6 +17798,7 @@
 0.0.0.0 tracking.wao-corp.com
 0.0.0.0 tracking.waterfrontmedia.com
 0.0.0.0 tracking.webtradecenter.com
+0.0.0.0 tracking.wisepops.com
 0.0.0.0 tracking.wlscripts.net
 0.0.0.0 tracking.zaertlicheladies.de
 0.0.0.0 tracking.zierlicheladies.de
@@ -18381,6 +18398,7 @@
 0.0.0.0 vortex.data.microsoft.com
 0.0.0.0 vortex.hulu.com
 0.0.0.0 votistics.com
+0.0.0.0 voxus.com.br
 0.0.0.0 voyagepotato.com
 0.0.0.0 vpdcp.com
 0.0.0.0 vpf4.euskaltelofertas.com
@@ -19514,7 +19532,7 @@
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2022-11-13 01:06:05.216111
+# Generated at 2022-11-20 01:07:50.439172
 
 0.0.0.0 databerries.com
 0.0.0.0 fidzup
