@@ -1,9 +1,7 @@
-# Version: 202211192347
+# Version: 202211262300
 # Title: EasyPrivacy
-# Last modified: 19 Nov 2022 23:47 UTC
+# Last modified: 26 Nov 2022 23:00 UTC
 # Expires: 6 days (update frequency)
-# Homepage: https://easylist.to/
-# Licence: https://easylist.to/pages/licence.html
 
 0-owazo4.net.zooplus.de
 0.0.0.1
@@ -3268,6 +3266,7 @@ awzbijw.com
 ax.babe.today
 ax.idg.se
 axf8.net
+axiom.co
 axiomaticalley.com
 axislogger.appspot.com
 axjfkc.kobayashi.co.jp
@@ -4631,10 +4630,10 @@ content.xpublisher.com
 content22.bmoharris.com
 content22.citi.eu
 content22.citibank.com.sg
-content22.online.citi.com
 contentexchange.me
 contentinsights.com
 contents-tracking.beop.io
+contents2.00110.citi.com
 contentsfeed.com
 contentspread.net
 contentsquare.net
@@ -5346,6 +5345,7 @@ dayyfq.rapidonline.com
 db-ip.com
 dbex-tracker-v2.driveback.ru
 dbfocus.jp
+dbhsejcg-meetup-com.cdnjs.network
 dbpbyh.americanas.com.br
 dbv0r7a702yve.cloudfront.net
 dbzgtg.infostrada.it
@@ -10535,6 +10535,7 @@ ncaudienceexchange.com
 ncc.nip-col.jp
 nccer.actonservice.com
 ncom.dk
+nct.ui-portal.de
 nctrk.abmail.com.br
 ncx2.voyage-prive.it
 ndf81.com
@@ -11807,6 +11808,7 @@ pushible.com
 pushify.com
 pushmaster-cdn.xyz
 pushnami.com
+pushowl.com
 pushprofit.ru
 pushpushgo.com
 pushspring.com
@@ -15714,6 +15716,7 @@ stats.united-domains.de
 stats.unox.com
 stats.urban-media.com
 stats.urbanfinn.com
+stats.uscreen.io
 stats.v4.agirpourlenvironnement.org
 stats.vanityprojects.com
 stats.varrando.com
@@ -16181,6 +16184,7 @@ t.newsletter.thetimes.co.uk
 t.nusports.com
 t.nypost.com
 t.ofsys.com
+t.pagesix.com
 t.paydirekt.de
 t.paypal.com
 t.perigold.com
@@ -16522,6 +16526,9 @@ tglyr.co
 tgt.maep.ibm.com
 tgtag.io
 tgtgzo.otelz.com
+tgw.gmx.ch
+tgw.gmx.net
+tgw.web.de
 thaqyl.mediamarkt.nl
 the-ozone-project.com
 theactivetag.com
@@ -18028,11 +18035,13 @@ tyvjyt.rivers.com.au
 tyvuwf.lameteoagricole.net
 tyxo.bg
 tyxo.com
+tzegilo.com
 tzwaw.pw
 u-on.eu
 u0crsrah75fy.camberlion.com
 u299.libelle-lekker.be
 u44.pnc.com
+u47.pnc.com
 u5e.com
 u652.myplainview.com
 u927.sfgate.com
@@ -18538,6 +18547,7 @@ web-stat.fr
 web-stat.net
 web-t.9gag.com
 web-trace.ksapisrv.com
+web-tracker.smsbump.com
 web-visor.com
 web.autobodytoolmart.com
 web.bankofscotland.de
@@ -19532,7 +19542,7 @@ zzsqqx.shopjapan.co.jp
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2022-11-20 01:07:49.660504
+# Generated at 2022-11-27 01:03:01.644637
 
 databerries.com
 fidzup
