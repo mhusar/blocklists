@@ -1,9 +1,7 @@
-# Version: 202211192347
+# Version: 202211262300
 # Title: EasyPrivacy
-# Last modified: 19 Nov 2022 23:47 UTC
+# Last modified: 26 Nov 2022 23:00 UTC
 # Expires: 6 days (update frequency)
-# Homepage: https://easylist.to/
-# Licence: https://easylist.to/pages/licence.html
 
 0.0.0.0 0-owazo4.net.zooplus.de
 0.0.0.0 0.0.0.1
@@ -3268,6 +3266,7 @@
 0.0.0.0 ax.babe.today
 0.0.0.0 ax.idg.se
 0.0.0.0 axf8.net
+0.0.0.0 axiom.co
 0.0.0.0 axiomaticalley.com
 0.0.0.0 axislogger.appspot.com
 0.0.0.0 axjfkc.kobayashi.co.jp
@@ -4631,10 +4630,10 @@
 0.0.0.0 content22.bmoharris.com
 0.0.0.0 content22.citi.eu
 0.0.0.0 content22.citibank.com.sg
-0.0.0.0 content22.online.citi.com
 0.0.0.0 contentexchange.me
 0.0.0.0 contentinsights.com
 0.0.0.0 contents-tracking.beop.io
+0.0.0.0 contents2.00110.citi.com
 0.0.0.0 contentsfeed.com
 0.0.0.0 contentspread.net
 0.0.0.0 contentsquare.net
@@ -5346,6 +5345,7 @@
 0.0.0.0 db-ip.com
 0.0.0.0 dbex-tracker-v2.driveback.ru
 0.0.0.0 dbfocus.jp
+0.0.0.0 dbhsejcg-meetup-com.cdnjs.network
 0.0.0.0 dbpbyh.americanas.com.br
 0.0.0.0 dbv0r7a702yve.cloudfront.net
 0.0.0.0 dbzgtg.infostrada.it
@@ -10535,6 +10535,7 @@
 0.0.0.0 ncc.nip-col.jp
 0.0.0.0 nccer.actonservice.com
 0.0.0.0 ncom.dk
+0.0.0.0 nct.ui-portal.de
 0.0.0.0 nctrk.abmail.com.br
 0.0.0.0 ncx2.voyage-prive.it
 0.0.0.0 ndf81.com
@@ -11807,6 +11808,7 @@
 0.0.0.0 pushify.com
 0.0.0.0 pushmaster-cdn.xyz
 0.0.0.0 pushnami.com
+0.0.0.0 pushowl.com
 0.0.0.0 pushprofit.ru
 0.0.0.0 pushpushgo.com
 0.0.0.0 pushspring.com
@@ -15714,6 +15716,7 @@
 0.0.0.0 stats.unox.com
 0.0.0.0 stats.urban-media.com
 0.0.0.0 stats.urbanfinn.com
+0.0.0.0 stats.uscreen.io
 0.0.0.0 stats.v4.agirpourlenvironnement.org
 0.0.0.0 stats.vanityprojects.com
 0.0.0.0 stats.varrando.com
@@ -16181,6 +16184,7 @@
 0.0.0.0 t.nusports.com
 0.0.0.0 t.nypost.com
 0.0.0.0 t.ofsys.com
+0.0.0.0 t.pagesix.com
 0.0.0.0 t.paydirekt.de
 0.0.0.0 t.paypal.com
 0.0.0.0 t.perigold.com
@@ -16522,6 +16526,9 @@
 0.0.0.0 tgt.maep.ibm.com
 0.0.0.0 tgtag.io
 0.0.0.0 tgtgzo.otelz.com
+0.0.0.0 tgw.gmx.ch
+0.0.0.0 tgw.gmx.net
+0.0.0.0 tgw.web.de
 0.0.0.0 thaqyl.mediamarkt.nl
 0.0.0.0 the-ozone-project.com
 0.0.0.0 theactivetag.com
@@ -18028,11 +18035,13 @@
 0.0.0.0 tyvuwf.lameteoagricole.net
 0.0.0.0 tyxo.bg
 0.0.0.0 tyxo.com
+0.0.0.0 tzegilo.com
 0.0.0.0 tzwaw.pw
 0.0.0.0 u-on.eu
 0.0.0.0 u0crsrah75fy.camberlion.com
 0.0.0.0 u299.libelle-lekker.be
 0.0.0.0 u44.pnc.com
+0.0.0.0 u47.pnc.com
 0.0.0.0 u5e.com
 0.0.0.0 u652.myplainview.com
 0.0.0.0 u927.sfgate.com
@@ -18538,6 +18547,7 @@
 0.0.0.0 web-stat.net
 0.0.0.0 web-t.9gag.com
 0.0.0.0 web-trace.ksapisrv.com
+0.0.0.0 web-tracker.smsbump.com
 0.0.0.0 web-visor.com
 0.0.0.0 web.autobodytoolmart.com
 0.0.0.0 web.bankofscotland.de
