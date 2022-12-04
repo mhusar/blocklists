@@ -1,6 +1,6 @@
-# Version: 202211262300
+# Version: 202212040016
 # Title: EasyPrivacy
-# Last modified: 26 Nov 2022 23:00 UTC
+# Last modified: 04 Dec 2022 00:16 UTC
 # Expires: 6 days (update frequency)
 
 0-owazo4.net.zooplus.de
@@ -9,6 +9,7 @@
 0.net.zooplus.nl
 00d1n000002btifuae.net.zooplus.com
 00da0000000ya3ymag.net.zooplus.com
+00px.net
 01-csr31.net.zooplus.de
 01-csr41.net.zooplus.de
 01.2lab.net.zooplus.de
@@ -2482,7 +2483,6 @@ analytic20.detik.com
 analytically.net
 analyticcdn.globalmailer.com
 analytics-1.cavai.com
-analytics-api.dvdfab.cn
 analytics-api.samsunghealthcn.com
 analytics-cdiscount.com
 analytics-cms.whitebeard.me
@@ -2634,6 +2634,7 @@ analytics.getshogun.com
 analytics.givealittle.co
 analytics.global.sky.com
 analytics.google.com
+analytics.googlepeer.cloud
 analytics.greenmountainenergy.com
 analytics.greensender.pl
 analytics.groupe-seb.com
@@ -2677,6 +2678,7 @@ analytics.m7g.twitch.tv
 analytics.macklin.me
 analytics.mail-corp.com
 analytics.mailmunch.co
+analytics.makeitmeme.com
 analytics.mambaui.com
 analytics.matchbin.com
 analytics.mbga.jp
@@ -2878,8 +2880,10 @@ analytics.yola.net
 analytics.yolacdn.net
 analytics.yomedia.vn
 analytics.yourbankcard.com
+analytics.yugen.to
 analytics.ziftsolutions.com
 analytics00.meride.tv
+analytics2-3-meride-tv.akamaized.net
 analytics2-meride-tv.akamaized.net
 analyticschecker.com
 analyticsip.net
@@ -2932,6 +2936,7 @@ antvoice.com
 antwort.hager.de
 anura.io
 anxiousapples.com
+anyelse.com/stat
 anytrack.io
 anz7.allianz-voyage.fr
 ao-freegeoip.herokuapp.com
@@ -3433,6 +3438,7 @@ beampulse.com
 beanstalkdata.com
 beanstock.com
 beastbeef.com
+beat.yourtv.jp
 beaumont.actonservice.com
 beautifulhobbies.com
 bebj.com
@@ -4382,7 +4388,6 @@ cod.bitrec.com
 codata.ru
 code.randomhouse.com
 cody-stats.coupa.engineering
-coefficy.com
 coffeycomm.actonservice.com
 cogmatch.net
 cognativex.com
@@ -4421,6 +4426,7 @@ collect.cloudsponge.com
 collect.elvia.ch
 collect.helsana-preprod.ch
 collect.helsana.ch
+collect.igodigital.com
 collect.iteam-dress.com
 collect.meilleurtaux.com
 collect.rewardstyle.com
@@ -5025,6 +5031,9 @@ czx5eyk0exbhwp43ya.biz
 d-1.co
 d-bi.fr
 d-kint.d-kintetsu.co.jp
+d-log.asahi.co.jp
+d-log.bs-asahi.tv
+d-log.tv-asahi.co.jp
 d-markets.net
 d-stats.com
 d.adlpo.com
@@ -5041,6 +5050,7 @@ d.rp-online.de
 d.shareaholic.com
 d.skk.moe
 d.sourcepoint.capitalfm.com
+d.tv-asahi.co.jp
 d.uni-medias.com
 d.wi-fi.ru
 d0f.le-dauphin.com
@@ -5385,6 +5395,7 @@ dcclaa.elle.de
 dcclaa.harpersbazaar.de
 dcclaa.instyle.de
 dcclaa.slowlyveggie.de
+dcinfos-cache.abtasty.com
 dckquo.holzprofi24.de
 dcmn.com
 dcmn.io
@@ -6924,6 +6935,7 @@ forms.accc-cancer.org
 forms.testoil.com
 formulawire.com
 forter.com
+fortunatemark.com
 fortvision.com
 fouanalytics.com
 foundry42.com
@@ -8179,7 +8191,6 @@ intake-analytics.wikimedia.org
 intelimet.com
 intelli-direct.com
 intelliad.de
-intelligems.io
 intelligence.officialwesthamstore.com
 intelligencefocus.com
 intelligenceretarget.com
@@ -10557,6 +10568,7 @@ nero.live
 nerohut.com
 nervoussummer.com
 net-filter.com
+net-tracker.notolytix.com
 net.haier.com
 net1.netski.com
 netaffiliation.com
@@ -11795,6 +11807,7 @@ purevideo.com
 push-ad.com
 push-free.com
 push-house.net
+push-sdk.net
 push4site.com
 push7.jp
 pushalert.co
@@ -12075,6 +12088,8 @@ recordbutter.com
 recosenselabs.com
 recoset.com
 recruitics.com
+recv-entry.tbs.co.jp
+recv-jnn.tbs.co.jp
 redcounter.net
 reddwarf.till-sanders.de
 redfastlabs.com
@@ -12164,6 +12179,7 @@ research.de.com
 research.insidesales.com
 researchintel.com
 researchnow.co.uk
+researchnow.com
 reseau-pub.com
 resetdigital.co
 reshin.de
@@ -13239,6 +13255,7 @@ securedata.mijnspar.be
 securedata.monspar.be
 securedata.solucious.be
 securedata.unsw.edu.au
+securedvisit.com
 securemetrics.apple.com
 securemetrics.athletawell.com
 securemetrics.blackrock.com
@@ -13555,6 +13572,7 @@ smadex.com
 smallbeginner.com
 smallseotools.com
 smart-counter.net
+smart-data-systems.com
 smart-digital-solutions.com
 smart-dmp.com
 smart-ip.net
@@ -15519,6 +15537,7 @@ stats.koehrer.de
 stats.kongressen.com
 stats.krauss.io
 stats.kryptoslogic.com
+stats.ksearchnet.com
 stats.larsroettig.dev
 stats.lastfm.matthiasloibl.com
 stats.laxallstars.com
@@ -17478,6 +17497,7 @@ track.mituo.cn
 track.mp4.center
 track.mrgugu.com
 track.mycliplister.com
+track.myli.io
 track.netzero.net
 track.noddus.com
 track.nopaperforms.com
@@ -17514,7 +17534,6 @@ track.roomster.com
 track.rundschau-online.de
 track.searchignite.com
 track.searchiq.co
-track.securedvisit.com
 track.shop2market.com
 track.sitetag.us
 track.slickinbox.com
@@ -17730,6 +17749,7 @@ tracking.lg.com
 tracking.listhub.net
 tracking.live.wetter.at
 tracking.livingsocial.com
+tracking.lqm.io
 tracking.magnetmail.net
 tracking.mammemagazine.it
 tracking.markethero.io
@@ -18326,6 +18346,7 @@ videostat.index.hu
 videostats.kakao.com
 vidigital.ru
 vidstat.taboola.com
+view.fujitv.co.jp
 viewar.org
 views.arabnews.com
 views.b1tv.ro
@@ -18505,7 +18526,6 @@ watg.xxxlutz.com
 waudit.cz
 waust.at
 way2traffic.com
-wazimo.com
 wbdx.fr
 wblt.oui.sncf
 wbmwss.beetv.net
@@ -18761,6 +18781,7 @@ whoseesyou.com
 why3.inseec.education
 wiar9wff0ma9.ping.t3.gg
 wickedreports.com
+wideangle.co
 widerplanet.com
 widget-pixels.outbrain.com
 widget.quantcast.com
@@ -18785,6 +18806,7 @@ wisteria-js.excite.co.jp
 wistfulflight.com
 withcabin.com
 withcubed.com
+witt-weiden.de
 wiz.ghostbed.com
 wiz.sncf-connect.com
 wizaly.com
@@ -18806,6 +18828,7 @@ woodpeckerlog.com
 woopra-ns.com
 woopra.com
 wootric.com
+wordmonetize.com
 workableachiever.com
 workoperation.com
 workwonders.hallstar.com
