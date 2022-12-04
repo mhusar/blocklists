@@ -1,6 +1,6 @@
-# Version: 202211262300
+# Version: 202212040016
 # Title: EasyPrivacy
-# Last modified: 26 Nov 2022 23:00 UTC
+# Last modified: 04 Dec 2022 00:16 UTC
 # Expires: 6 days (update frequency)
 
 0.0.0.0 0-owazo4.net.zooplus.de
@@ -9,6 +9,7 @@
 0.0.0.0 0.net.zooplus.nl
 0.0.0.0 00d1n000002btifuae.net.zooplus.com
 0.0.0.0 00da0000000ya3ymag.net.zooplus.com
+0.0.0.0 00px.net
 0.0.0.0 01-csr31.net.zooplus.de
 0.0.0.0 01-csr41.net.zooplus.de
 0.0.0.0 01.2lab.net.zooplus.de
@@ -2482,7 +2483,6 @@
 0.0.0.0 analytically.net
 0.0.0.0 analyticcdn.globalmailer.com
 0.0.0.0 analytics-1.cavai.com
-0.0.0.0 analytics-api.dvdfab.cn
 0.0.0.0 analytics-api.samsunghealthcn.com
 0.0.0.0 analytics-cdiscount.com
 0.0.0.0 analytics-cms.whitebeard.me
@@ -2634,6 +2634,7 @@
 0.0.0.0 analytics.givealittle.co
 0.0.0.0 analytics.global.sky.com
 0.0.0.0 analytics.google.com
+0.0.0.0 analytics.googlepeer.cloud
 0.0.0.0 analytics.greenmountainenergy.com
 0.0.0.0 analytics.greensender.pl
 0.0.0.0 analytics.groupe-seb.com
@@ -2677,6 +2678,7 @@
 0.0.0.0 analytics.macklin.me
 0.0.0.0 analytics.mail-corp.com
 0.0.0.0 analytics.mailmunch.co
+0.0.0.0 analytics.makeitmeme.com
 0.0.0.0 analytics.mambaui.com
 0.0.0.0 analytics.matchbin.com
 0.0.0.0 analytics.mbga.jp
@@ -2878,8 +2880,10 @@
 0.0.0.0 analytics.yolacdn.net
 0.0.0.0 analytics.yomedia.vn
 0.0.0.0 analytics.yourbankcard.com
+0.0.0.0 analytics.yugen.to
 0.0.0.0 analytics.ziftsolutions.com
 0.0.0.0 analytics00.meride.tv
+0.0.0.0 analytics2-3-meride-tv.akamaized.net
 0.0.0.0 analytics2-meride-tv.akamaized.net
 0.0.0.0 analyticschecker.com
 0.0.0.0 analyticsip.net
@@ -2932,6 +2936,7 @@
 0.0.0.0 antwort.hager.de
 0.0.0.0 anura.io
 0.0.0.0 anxiousapples.com
+0.0.0.0 anyelse.com/stat
 0.0.0.0 anytrack.io
 0.0.0.0 anz7.allianz-voyage.fr
 0.0.0.0 ao-freegeoip.herokuapp.com
@@ -3433,6 +3438,7 @@
 0.0.0.0 beanstalkdata.com
 0.0.0.0 beanstock.com
 0.0.0.0 beastbeef.com
+0.0.0.0 beat.yourtv.jp
 0.0.0.0 beaumont.actonservice.com
 0.0.0.0 beautifulhobbies.com
 0.0.0.0 bebj.com
@@ -4382,7 +4388,6 @@
 0.0.0.0 codata.ru
 0.0.0.0 code.randomhouse.com
 0.0.0.0 cody-stats.coupa.engineering
-0.0.0.0 coefficy.com
 0.0.0.0 coffeycomm.actonservice.com
 0.0.0.0 cogmatch.net
 0.0.0.0 cognativex.com
@@ -4421,6 +4426,7 @@
 0.0.0.0 collect.elvia.ch
 0.0.0.0 collect.helsana-preprod.ch
 0.0.0.0 collect.helsana.ch
+0.0.0.0 collect.igodigital.com
 0.0.0.0 collect.iteam-dress.com
 0.0.0.0 collect.meilleurtaux.com
 0.0.0.0 collect.rewardstyle.com
@@ -5025,6 +5031,9 @@
 0.0.0.0 d-1.co
 0.0.0.0 d-bi.fr
 0.0.0.0 d-kint.d-kintetsu.co.jp
+0.0.0.0 d-log.asahi.co.jp
+0.0.0.0 d-log.bs-asahi.tv
+0.0.0.0 d-log.tv-asahi.co.jp
 0.0.0.0 d-markets.net
 0.0.0.0 d-stats.com
 0.0.0.0 d.adlpo.com
@@ -5041,6 +5050,7 @@
 0.0.0.0 d.shareaholic.com
 0.0.0.0 d.skk.moe
 0.0.0.0 d.sourcepoint.capitalfm.com
+0.0.0.0 d.tv-asahi.co.jp
 0.0.0.0 d.uni-medias.com
 0.0.0.0 d.wi-fi.ru
 0.0.0.0 d0f.le-dauphin.com
@@ -5385,6 +5395,7 @@
 0.0.0.0 dcclaa.harpersbazaar.de
 0.0.0.0 dcclaa.instyle.de
 0.0.0.0 dcclaa.slowlyveggie.de
+0.0.0.0 dcinfos-cache.abtasty.com
 0.0.0.0 dckquo.holzprofi24.de
 0.0.0.0 dcmn.com
 0.0.0.0 dcmn.io
@@ -6924,6 +6935,7 @@
 0.0.0.0 forms.testoil.com
 0.0.0.0 formulawire.com
 0.0.0.0 forter.com
+0.0.0.0 fortunatemark.com
 0.0.0.0 fortvision.com
 0.0.0.0 fouanalytics.com
 0.0.0.0 foundry42.com
@@ -8179,7 +8191,6 @@
 0.0.0.0 intelimet.com
 0.0.0.0 intelli-direct.com
 0.0.0.0 intelliad.de
-0.0.0.0 intelligems.io
 0.0.0.0 intelligence.officialwesthamstore.com
 0.0.0.0 intelligencefocus.com
 0.0.0.0 intelligenceretarget.com
@@ -10557,6 +10568,7 @@
 0.0.0.0 nerohut.com
 0.0.0.0 nervoussummer.com
 0.0.0.0 net-filter.com
+0.0.0.0 net-tracker.notolytix.com
 0.0.0.0 net.haier.com
 0.0.0.0 net1.netski.com
 0.0.0.0 netaffiliation.com
@@ -11795,6 +11807,7 @@
 0.0.0.0 push-ad.com
 0.0.0.0 push-free.com
 0.0.0.0 push-house.net
+0.0.0.0 push-sdk.net
 0.0.0.0 push4site.com
 0.0.0.0 push7.jp
 0.0.0.0 pushalert.co
@@ -12075,6 +12088,8 @@
 0.0.0.0 recosenselabs.com
 0.0.0.0 recoset.com
 0.0.0.0 recruitics.com
+0.0.0.0 recv-entry.tbs.co.jp
+0.0.0.0 recv-jnn.tbs.co.jp
 0.0.0.0 redcounter.net
 0.0.0.0 reddwarf.till-sanders.de
 0.0.0.0 redfastlabs.com
@@ -12164,6 +12179,7 @@
 0.0.0.0 research.insidesales.com
 0.0.0.0 researchintel.com
 0.0.0.0 researchnow.co.uk
+0.0.0.0 researchnow.com
 0.0.0.0 reseau-pub.com
 0.0.0.0 resetdigital.co
 0.0.0.0 reshin.de
@@ -13239,6 +13255,7 @@
 0.0.0.0 securedata.monspar.be
 0.0.0.0 securedata.solucious.be
 0.0.0.0 securedata.unsw.edu.au
+0.0.0.0 securedvisit.com
 0.0.0.0 securemetrics.apple.com
 0.0.0.0 securemetrics.athletawell.com
 0.0.0.0 securemetrics.blackrock.com
@@ -13555,6 +13572,7 @@
 0.0.0.0 smallbeginner.com
 0.0.0.0 smallseotools.com
 0.0.0.0 smart-counter.net
+0.0.0.0 smart-data-systems.com
 0.0.0.0 smart-digital-solutions.com
 0.0.0.0 smart-dmp.com
 0.0.0.0 smart-ip.net
@@ -15519,6 +15537,7 @@
 0.0.0.0 stats.kongressen.com
 0.0.0.0 stats.krauss.io
 0.0.0.0 stats.kryptoslogic.com
+0.0.0.0 stats.ksearchnet.com
 0.0.0.0 stats.larsroettig.dev
 0.0.0.0 stats.lastfm.matthiasloibl.com
 0.0.0.0 stats.laxallstars.com
@@ -17478,6 +17497,7 @@
 0.0.0.0 track.mp4.center
 0.0.0.0 track.mrgugu.com
 0.0.0.0 track.mycliplister.com
+0.0.0.0 track.myli.io
 0.0.0.0 track.netzero.net
 0.0.0.0 track.noddus.com
 0.0.0.0 track.nopaperforms.com
@@ -17514,7 +17534,6 @@
 0.0.0.0 track.rundschau-online.de
 0.0.0.0 track.searchignite.com
 0.0.0.0 track.searchiq.co
-0.0.0.0 track.securedvisit.com
 0.0.0.0 track.shop2market.com
 0.0.0.0 track.sitetag.us
 0.0.0.0 track.slickinbox.com
@@ -17730,6 +17749,7 @@
 0.0.0.0 tracking.listhub.net
 0.0.0.0 tracking.live.wetter.at
 0.0.0.0 tracking.livingsocial.com
+0.0.0.0 tracking.lqm.io
 0.0.0.0 tracking.magnetmail.net
 0.0.0.0 tracking.mammemagazine.it
 0.0.0.0 tracking.markethero.io
@@ -18326,6 +18346,7 @@
 0.0.0.0 videostats.kakao.com
 0.0.0.0 vidigital.ru
 0.0.0.0 vidstat.taboola.com
+0.0.0.0 view.fujitv.co.jp
 0.0.0.0 viewar.org
 0.0.0.0 views.arabnews.com
 0.0.0.0 views.b1tv.ro
@@ -18505,7 +18526,6 @@
 0.0.0.0 waudit.cz
 0.0.0.0 waust.at
 0.0.0.0 way2traffic.com
-0.0.0.0 wazimo.com
 0.0.0.0 wbdx.fr
 0.0.0.0 wblt.oui.sncf
 0.0.0.0 wbmwss.beetv.net
@@ -18761,6 +18781,7 @@
 0.0.0.0 why3.inseec.education
 0.0.0.0 wiar9wff0ma9.ping.t3.gg
 0.0.0.0 wickedreports.com
+0.0.0.0 wideangle.co
 0.0.0.0 widerplanet.com
 0.0.0.0 widget-pixels.outbrain.com
 0.0.0.0 widget.quantcast.com
@@ -18785,6 +18806,7 @@
 0.0.0.0 wistfulflight.com
 0.0.0.0 withcabin.com
 0.0.0.0 withcubed.com
+0.0.0.0 witt-weiden.de
 0.0.0.0 wiz.ghostbed.com
 0.0.0.0 wiz.sncf-connect.com
 0.0.0.0 wizaly.com
@@ -18806,6 +18828,7 @@
 0.0.0.0 woopra-ns.com
 0.0.0.0 woopra.com
 0.0.0.0 wootric.com
+0.0.0.0 wordmonetize.com
 0.0.0.0 workableachiever.com
 0.0.0.0 workoperation.com
 0.0.0.0 workwonders.hallstar.com
@@ -19542,7 +19565,7 @@
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2022-11-27 01:03:02.415439
+# Generated at 2022-12-04 00:55:45.674536
 
 0.0.0.0 databerries.com
 0.0.0.0 fidzup
