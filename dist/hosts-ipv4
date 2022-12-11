@@ -1,6 +1,6 @@
-# Version: 202212040016
+# Version: 202212101247
 # Title: EasyPrivacy
-# Last modified: 04 Dec 2022 00:16 UTC
+# Last modified: 10 Dec 2022 12:47 UTC
 # Expires: 6 days (update frequency)
 
 0.0.0.0 0-owazo4.net.zooplus.de
@@ -93,6 +93,7 @@
 0.0.0.0 12mnkys.com
 0.0.0.0 13js1lbtbj3.sparkloop.app
 0.0.0.0 150.net.zooplus.fr
+0.0.0.0 1558334541.rsc.cdn77.org
 0.0.0.0 15gifts.com
 0.0.0.0 16ao.mathon.fr
 0.0.0.0 16i6nuuc2ej.koelewijn.nl
@@ -2635,6 +2636,7 @@
 0.0.0.0 analytics.global.sky.com
 0.0.0.0 analytics.google.com
 0.0.0.0 analytics.googlepeer.cloud
+0.0.0.0 analytics.gooogol.com
 0.0.0.0 analytics.greenmountainenergy.com
 0.0.0.0 analytics.greensender.pl
 0.0.0.0 analytics.groupe-seb.com
@@ -2696,6 +2698,7 @@
 0.0.0.0 analytics.metro.ua
 0.0.0.0 analytics.mhpod.gov.au
 0.0.0.0 analytics.midwesternmac.com
+0.0.0.0 analytics.ml.homedepot.ca
 0.0.0.0 analytics.mlstatic.com
 0.0.0.0 analytics.mobile.yandex.net
 0.0.0.0 analytics.mondotv.jp
@@ -2959,6 +2962,7 @@
 0.0.0.0 apexstats.com
 0.0.0.0 apextag.com
 0.0.0.0 apextwo.com
+0.0.0.0 api-js.mixpanel.com
 0.0.0.0 api-location-prd.pelcro.com
 0.0.0.0 api.all-internet.jp
 0.0.0.0 api.autopilothq.com
@@ -3266,6 +3270,7 @@
 0.0.0.0 awggij.wplay.co
 0.0.0.0 awin1.com
 0.0.0.0 awowwo.forever21.com
+0.0.0.0 awstats.cloud
 0.0.0.0 awstrack.me
 0.0.0.0 awzbijw.com
 0.0.0.0 ax.babe.today
@@ -4027,6 +4032,7 @@
 0.0.0.0 cetlog.jp
 0.0.0.0 cetrk.com
 0.0.0.0 cf.overblog.com
+0.0.0.0 cfa.fidelity.com
 0.0.0.0 cformanalytics.com
 0.0.0.0 cfpwood.actonservice.com
 0.0.0.0 cfsaze.retailmenot.com
@@ -4431,6 +4437,7 @@
 0.0.0.0 collect.meilleurtaux.com
 0.0.0.0 collect.rewardstyle.com
 0.0.0.0 collect.state.centrum24.pl
+0.0.0.0 collect.thunder-io.com
 0.0.0.0 collect.tianya.cn
 0.0.0.0 collect.usefathom.com
 0.0.0.0 collect.vans.com.cn
@@ -4635,6 +4642,7 @@
 0.0.0.0 content.xpublisher.com
 0.0.0.0 content22.bmoharris.com
 0.0.0.0 content22.citi.eu
+0.0.0.0 content22.citibank.com.au
 0.0.0.0 content22.citibank.com.sg
 0.0.0.0 contentexchange.me
 0.0.0.0 contentinsights.com
@@ -5021,6 +5029,7 @@
 0.0.0.0 cybba.solutions
 0.0.0.0 cyber-pages.att.com
 0.0.0.0 cyber-tracking.att.com
+0.0.0.0 cyberanalytics.nl
 0.0.0.0 cybermonitor.com
 0.0.0.0 cyohmj.catawiki.com
 0.0.0.0 cytoclause.com
@@ -5120,6 +5129,7 @@
 0.0.0.0 d2tcg4i9q4js4a.cloudfront.net
 0.0.0.0 d2tgfbvjf3q6hn.cloudfront.net
 0.0.0.0 d2u.dauphinquebec.com
+0.0.0.0 d2wa5sea6guof0.cloudfront.net
 0.0.0.0 d2wu036mkcz52n.cloudfront.net
 0.0.0.0 d2wy8f7a9ursnm.cloudfront.net
 0.0.0.0 d2zjlj1vewrxcj.cloudfront.net
@@ -5842,6 +5852,7 @@
 0.0.0.0 ds-aksb-a.akamaihd.net
 0.0.0.0 ds.haaretz.co.il
 0.0.0.0 ds2.independer.nl
+0.0.0.0 dsail-tech.com
 0.0.0.0 dsbahmgppc0j4.cloudfront.net
 0.0.0.0 dsg.interia.pl
 0.0.0.0 dsmmadvantage.com
@@ -5911,6 +5922,7 @@
 0.0.0.0 e.beckmancoulter.com
 0.0.0.0 e.e.themighty.com
 0.0.0.0 e.kc-education.com
+0.0.0.0 e.metarouter.io
 0.0.0.0 e.passfolio.us
 0.0.0.0 e.shop.app
 0.0.0.0 e.synchronybank.com
@@ -6140,6 +6152,7 @@
 0.0.0.0 edeals.rbp.com
 0.0.0.0 edge.adobedc.net
 0.0.0.0 edge.bredg.com
+0.0.0.0 edge.staging.fullstory.com
 0.0.0.0 edgeadx.net
 0.0.0.0 edigitalsurvey.com
 0.0.0.0 edmi.nextinpact.com
@@ -7026,6 +7039,7 @@
 0.0.0.0 friendwool.com
 0.0.0.0 frightenedpotato.com
 0.0.0.0 frodx.com
+0.0.0.0 frog.editorx.com
 0.0.0.0 frog.wix.com
 0.0.0.0 frog.yuanfudao.com
 0.0.0.0 froglytics.eventfrog.ch
@@ -7275,6 +7289,7 @@
 0.0.0.0 gfgywe.abril.com.br
 0.0.0.0 gfn1.ugap.fr
 0.0.0.0 gfnokk.natro.com
+0.0.0.0 gfp.intuit.com
 0.0.0.0 gft2.de
 0.0.0.0 gfv4.destinia.co.za
 0.0.0.0 gglscr.online
@@ -7679,6 +7694,7 @@
 0.0.0.0 hitmir.ru
 0.0.0.0 hits-secure.guardian.co.uk
 0.0.0.0 hits.antena3.com
+0.0.0.0 hits.cyberdrop.me
 0.0.0.0 hits.dealer.com
 0.0.0.0 hits.eluniversal.com.mx
 0.0.0.0 hits.guardian.co.uk
@@ -7878,6 +7894,7 @@
 0.0.0.0 idntfy.ru
 0.0.0.0 idot.cz
 0.0.0.0 idqwqm.kkday.com
+0.0.0.0 idstatus.sky.com
 0.0.0.0 idtargeting.com
 0.0.0.0 idx.lat
 0.0.0.0 iedc.fitbit.com
@@ -7930,6 +7947,7 @@
 0.0.0.0 img.bwin.it
 0.0.0.0 img.foodspring.dk
 0.0.0.0 img.foodspring.se
+0.0.0.0 imgs.signifyd.com
 0.0.0.0 imgstat.ameba.jp
 0.0.0.0 imgstat.baidu.com
 0.0.0.0 imhd.io
@@ -10394,6 +10412,8 @@
 0.0.0.0 mqsicr.smiggle.co.uk
 0.0.0.0 mqvyob.vidaxl.fi
 0.0.0.0 mr-rank.de
+0.0.0.0 mr.homedepot.ca
+0.0.0.0 mradx.net
 0.0.0.0 mrpdata.net
 0.0.0.0 ms-trackingapi.phenompeople.com
 0.0.0.0 ms.topschooljobs.org
@@ -10789,6 +10809,7 @@
 0.0.0.0 obscenesidewalk.com
 0.0.0.0 observantice.com
 0.0.0.0 observare.de
+0.0.0.0 observe.metarouter.io
 0.0.0.0 observer.ip-label.net
 0.0.0.0 observerapp.com
 0.0.0.0 obtfhl.bellemaison.jp
@@ -12030,6 +12051,7 @@
 0.0.0.0 ravelin.click
 0.0.0.0 ravelin.net
 0.0.0.0 rays-counter.com
+0.0.0.0 rba-screen.healthsafe-id.com
 0.0.0.0 rbc.magna.ru
 0.0.0.0 rc.vtex.com.br
 0.0.0.0 rcbsrm.fivefoxes.co.jp
@@ -16719,6 +16741,7 @@
 0.0.0.0 tms.hft.greenchef.com
 0.0.0.0 tms.hft.hellofresh.com
 0.0.0.0 tmvtp.com
+0.0.0.0 tmx.td.com
 0.0.0.0 tmy8.madeindesign.ch
 0.0.0.0 tnative.ru
 0.0.0.0 tncid.app
@@ -18852,6 +18875,7 @@
 0.0.0.0 wryfinger.com
 0.0.0.0 ws.audioeye.com
 0.0.0.0 ws.sharethis.com
+0.0.0.0 ws3.smartp.com
 0.0.0.0 wsmcdn.audioeye.com
 0.0.0.0 wspeed.qq.com
 0.0.0.0 wssgmstats.vibbo.com
@@ -19383,6 +19407,7 @@
 0.0.0.0 xplosion.de
 0.0.0.0 xray.mail.ru
 0.0.0.0 xstats.evoload.io
+0.0.0.0 xstats.net
 0.0.0.0 xtgreat.com
 0.0.0.0 xtractor.no
 0.0.0.0 xtraffstat.com
@@ -19410,7 +19435,6 @@
 0.0.0.0 yellowbrix.com
 0.0.0.0 yext-pixel.com
 0.0.0.0 yf5.voyage-prive.at
-0.0.0.0 yfp.intuit.com
 0.0.0.0 ygsm.com
 0.0.0.0 ygsoeu.size.co.uk
 0.0.0.0 yh6u.dealeusedevoyages.com
@@ -19565,7 +19589,7 @@
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2022-12-04 00:55:45.674536
+# Generated at 2022-12-11 01:00:19.918628
 
 0.0.0.0 databerries.com
 0.0.0.0 fidzup
