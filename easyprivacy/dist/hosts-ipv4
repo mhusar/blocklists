@@ -1,7 +1,9 @@
-# Version: 202212101247
+# Version: 202212171925
 # Title: EasyPrivacy
-# Last modified: 10 Dec 2022 12:47 UTC
+# Last modified: 17 Dec 2022 19:25 UTC
 # Expires: 6 days (update frequency)
+# Homepage: https://easylist.to/
+# Licence: https://easylist.to/pages/licence.html
 
 0.0.0.0 0-owazo4.net.zooplus.de
 0.0.0.0 0.0.0.1
@@ -1738,7 +1740,6 @@
 0.0.0.0 ad.udition.jp
 0.0.0.0 ad1.tone.ne.jp
 0.0.0.0 ad1x.com
-0.0.0.0 ad4m.at
 0.0.0.0 ad5track.com
 0.0.0.0 ad7.bigmir.net
 0.0.0.0 ad7.com
@@ -2303,6 +2304,7 @@
 0.0.0.0 africa.promo.skf.com
 0.0.0.0 africafr.promo.skf.com
 0.0.0.0 afsanalytics.com
+0.0.0.0 afterclick.co
 0.0.0.0 agcmtb.nameit.com
 0.0.0.0 agent.contentsanalyst.com
 0.0.0.0 agentanalytics.com
@@ -2905,6 +2907,7 @@
 0.0.0.0 analyzer.fc2.com
 0.0.0.0 analyzer2.fc2.com
 0.0.0.0 analyzer51.fc2.com
+0.0.0.0 analyzz.com
 0.0.0.0 anametrix.com
 0.0.0.0 anametrix.net
 0.0.0.0 ancientact.com
@@ -3785,6 +3788,7 @@
 0.0.0.0 bumlam.com
 0.0.0.0 bunchance.com
 0.0.0.0 bunchbox.co
+0.0.0.0 bup.bankofamerica.com
 0.0.0.0 burgerbrush.com
 0.0.0.0 burnbubble.com
 0.0.0.0 burpee.xyz
@@ -4529,6 +4533,7 @@
 0.0.0.0 conf.optum.com
 0.0.0.0 confesschairs.com
 0.0.0.0 confiant-integrations.global.ssl.fastly.net
+0.0.0.0 confiant-integrations.net
 0.0.0.0 confiant.msn.com
 0.0.0.0 config.parsely.com
 0.0.0.0 confirmational.com
@@ -4591,6 +4596,7 @@
 0.0.0.0 consciousdirt.com
 0.0.0.0 consistpotato.com
 0.0.0.0 console-telemetry.oci.oraclecloud.com
+0.0.0.0 console.uxlens.com
 0.0.0.0 contact-us.adp.ca
 0.0.0.0 contact.adaptavist.com
 0.0.0.0 contact.coface.com
@@ -5859,6 +5865,7 @@
 0.0.0.0 dsoxjxin5jji.controlconceptsusa.com
 0.0.0.0 dsparking.com
 0.0.0.0 dsply.com
+0.0.0.0 dspx.tv
 0.0.0.0 dtag.breadfinancial.com
 0.0.0.0 dtc-v6t.com
 0.0.0.0 dti-ranker.com
@@ -5869,7 +5876,6 @@
 0.0.0.0 du4rq1xqh3i1k.cloudfront.net
 0.0.0.0 du8783wkf05yr.cloudfront.net
 0.0.0.0 duckdns.org
-0.0.0.0 dull.bankofamerica.com
 0.0.0.0 dumpster.cam4.com
 0.0.0.0 dup.baidustatic.com
 0.0.0.0 durationmedia.net
@@ -7043,6 +7049,7 @@
 0.0.0.0 frog.wix.com
 0.0.0.0 frog.yuanfudao.com
 0.0.0.0 froglytics.eventfrog.ch
+0.0.0.0 frogtray.com
 0.0.0.0 fronttoad.com
 0.0.0.0 froomle.com
 0.0.0.0 frosmo.com
@@ -7797,6 +7804,7 @@
 0.0.0.0 hpxsci.miista.com
 0.0.0.0 hqmetrics.sony.com
 0.0.0.0 hra.nyp.org
+0.0.0.0 hrbpark.bid
 0.0.0.0 hrclat.kijiji.it
 0.0.0.0 hruyiq.auction.co.kr
 0.0.0.0 hs-analytics.net
@@ -8608,6 +8616,7 @@
 0.0.0.0 kqchxa.denizbutik.com
 0.0.0.0 kqscrl.bonprix.nl
 0.0.0.0 kr.promo.skf.com
+0.0.0.0 kraken.rambler.ru
 0.0.0.0 krfxvi.iconbydesign.com.au
 0.0.0.0 kristechwire.actonservice.com
 0.0.0.0 kropka.onet.pl
@@ -9021,6 +9030,7 @@
 0.0.0.0 log.china.cn
 0.0.0.0 log.cizion.com
 0.0.0.0 log.codemarketing.cloud
+0.0.0.0 log.cookieyes.com
 0.0.0.0 log.cpex.cz
 0.0.0.0 log.ctrl.blog
 0.0.0.0 log.ecgh.dk
@@ -10413,7 +10423,6 @@
 0.0.0.0 mqvyob.vidaxl.fi
 0.0.0.0 mr-rank.de
 0.0.0.0 mr.homedepot.ca
-0.0.0.0 mradx.net
 0.0.0.0 mrpdata.net
 0.0.0.0 ms-trackingapi.phenompeople.com
 0.0.0.0 ms.topschooljobs.org
@@ -10603,6 +10612,7 @@
 0.0.0.0 netdebit-counter.de
 0.0.0.0 netflame.cc
 0.0.0.0 netgraviton.net
+0.0.0.0 netmera-web.com
 0.0.0.0 netminers.dk
 0.0.0.0 netmining.com
 0.0.0.0 netmng.com
@@ -11829,6 +11839,7 @@
 0.0.0.0 push-free.com
 0.0.0.0 push-house.net
 0.0.0.0 push-sdk.net
+0.0.0.0 push.delivery
 0.0.0.0 push4site.com
 0.0.0.0 push7.jp
 0.0.0.0 pushalert.co
@@ -14712,6 +14723,7 @@
 0.0.0.0 so.blueplus.ch
 0.0.0.0 so.boh.com
 0.0.0.0 so.sunrise.ch
+0.0.0.0 soapfighters.com
 0.0.0.0 soaprange.com
 0.0.0.0 socdm.com
 0.0.0.0 social-sb.com
@@ -14723,6 +14735,7 @@
 0.0.0.0 socketviking.net
 0.0.0.0 socsi.in
 0.0.0.0 sodoit.com
+0.0.0.0 sofa.bankofamerica.com
 0.0.0.0 sofire.bdstatic.com
 0.0.0.0 soflopxl.com
 0.0.0.0 soft-com.biz
@@ -16623,7 +16636,6 @@
 0.0.0.0 tidningsnatet.se
 0.0.0.0 tiglck.technopolis.bg
 0.0.0.0 tilanalytics.timesinternet.in
-0.0.0.0 tilt.bankofamerica.com
 0.0.0.0 tim.nextinpact.com
 0.0.0.0 timber.sendtonews.com
 0.0.0.0 timejs.game.163.com
@@ -18010,6 +18022,7 @@
 0.0.0.0 truenat.bid
 0.0.0.0 truepush.com
 0.0.0.0 truffle.bid
+0.0.0.0 truffle.one
 0.0.0.0 trugaze.io
 0.0.0.0 truoptik.com
 0.0.0.0 trust.mitutoyo.com
@@ -18711,6 +18724,7 @@
 0.0.0.0 webpixel.smartmeapp.com
 0.0.0.0 webprospector.de
 0.0.0.0 webpu.sh
+0.0.0.0 webpushs.com
 0.0.0.0 websanalytic.com
 0.0.0.0 websdk.appsflyer.com
 0.0.0.0 websecurity.norton.com
@@ -18933,6 +18947,7 @@
 0.0.0.0 wwclickserv.club
 0.0.0.0 wwclicktm.club
 0.0.0.0 wwgate.ru
+0.0.0.0 wwopenclick.space
 0.0.0.0 www-171.aig.com
 0.0.0.0 www-172.aig.com
 0.0.0.0 www-ebis.384.co.jp
