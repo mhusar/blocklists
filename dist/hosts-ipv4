@@ -1,6 +1,6 @@
-# Version: 202212250030
+# Version: 202301010026
 # Title: EasyPrivacy
-# Last modified: 25 Dec 2022 00:30 UTC
+# Last modified: 01 Jan 2023 00:26 UTC
 # Expires: 6 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -305,6 +305,7 @@
 0.0.0.0 a.acxiom.com
 0.0.0.0 a.amw.com
 0.0.0.0 a.beliefnet.com
+0.0.0.0 a.centrum.cz
 0.0.0.0 a.ctd.ai
 0.0.0.0 a.deutschehospitality.com
 0.0.0.0 a.easyazon.com
@@ -3996,7 +3997,6 @@
 0.0.0.0 cdnopw.com
 0.0.0.0 cdntrf.de
 0.0.0.0 cdtm.cdiscount.com
-0.0.0.0 ce.lijit.com
 0.0.0.0 cedexis.com
 0.0.0.0 ceggfe.msc-kreuzfahrten.de
 0.0.0.0 celebros-analytics.com
@@ -4076,6 +4076,7 @@
 0.0.0.0 christiantop1000.com
 0.0.0.0 christmalicious.com
 0.0.0.0 chtbl.com
+0.0.0.0 chubbycreature.com
 0.0.0.0 chunkycactus.com
 0.0.0.0 churro.noteapps.info
 0.0.0.0 ci.quickbooks.com
@@ -5309,6 +5310,7 @@
 0.0.0.0 datado.me
 0.0.0.0 datadog-service.mvfglobal.com
 0.0.0.0 datadoghq-browser-agent.com
+0.0.0.0 datadoghq.eu
 0.0.0.0 datadome.co
 0.0.0.0 datadome.patreon.com
 0.0.0.0 datadsk.com
@@ -5779,6 +5781,7 @@
 0.0.0.0 dotjs.com
 0.0.0.0 dotmetrics.net
 0.0.0.0 doubleverify.com
+0.0.0.0 doubtdrawer.com
 0.0.0.0 doubtfulrainstorm.com
 0.0.0.0 doug1izaerwt3.cloudfront.net
 0.0.0.0 download.dnv.com
@@ -6885,6 +6888,7 @@
 0.0.0.0 footprintdns.com
 0.0.0.0 footprintlive.com
 0.0.0.0 force24.co.uk
+0.0.0.0 forecast.huffingtonpost.fr
 0.0.0.0 forecasttiger.com
 0.0.0.0 foregoingfowl.com
 0.0.0.0 forensics1000.com
@@ -7528,6 +7532,7 @@
 0.0.0.0 hashvault.pro
 0.0.0.0 hashzone.io
 0.0.0.0 hatefulrequest.com
+0.0.0.0 hatmiso.net
 0.0.0.0 hauhws.asgoodasnew.de
 0.0.0.0 hauntlist.com
 0.0.0.0 havasedge.com
@@ -8204,6 +8209,7 @@
 0.0.0.0 ip-tracker.org
 0.0.0.0 ip.cliphunter.com
 0.0.0.0 ip.pichunter.com
+0.0.0.0 ip.up66.ru
 0.0.0.0 ip2c.landscape.co.jp
 0.0.0.0 ip2c.org
 0.0.0.0 ip2location.com
@@ -8704,7 +8710,6 @@
 0.0.0.0 lift.acquia.com
 0.0.0.0 lightcushion.com
 0.0.0.0 lightminer.co
-0.0.0.0 lijit.com
 0.0.0.0 likemore-go.imgsmail.ru
 0.0.0.0 limone.iltrovatore.it
 0.0.0.0 linezing.com
@@ -8890,6 +8895,7 @@
 0.0.0.0 linkxchanger.com
 0.0.0.0 lio8.destinia.com.pa
 0.0.0.0 liosix.mtvuutiset.fi
+0.0.0.0 listenlayer.com
 0.0.0.0 listrakbi.com
 0.0.0.0 lists.ccmbg.com
 0.0.0.0 listtop.ru
@@ -9689,6 +9695,7 @@
 0.0.0.0 memorycobweb.com
 0.0.0.0 mengis-linden.org
 0.0.0.0 mepirtedic.com
+0.0.0.0 mer.stdout.cz
 0.0.0.0 mercadoclics.com
 0.0.0.0 mercadolibre.com/tracks
 0.0.0.0 mercent.com
@@ -10937,6 +10944,7 @@
 0.0.0.0 optimove.net
 0.0.0.0 optin-machine.com
 0.0.0.0 optorb.com
+0.0.0.0 optoutadvertising.com
 0.0.0.0 oqr4.destinia.in
 0.0.0.0 oracleinfinity.io
 0.0.0.0 orangeoperation.com
@@ -11075,6 +11083,7 @@
 0.0.0.0 page.evergage.com
 0.0.0.0 page.terguspharma.com
 0.0.0.0 pagefair.com
+0.0.0.0 pageid.info
 0.0.0.0 pagerank-backlink.eu
 0.0.0.0 pagerank-linkverzeichnis.de
 0.0.0.0 pagerank-online.eu
@@ -12204,6 +12213,7 @@
 0.0.0.0 rnybul.gismeteo.kz
 0.0.0.0 rnybul.gismeteo.ru
 0.0.0.0 ro.promo.skf.com
+0.0.0.0 robotflowermobile.com
 0.0.0.0 robustbelieve.com
 0.0.0.0 rockincontent.net
 0.0.0.0 rocks.io
@@ -14596,6 +14606,7 @@
 0.0.0.0 snowplow.swm.digital
 0.0.0.0 snowsignal.com
 0.0.0.0 snprxx.wwfmarket.com
+0.0.0.0 snptrk.com
 0.0.0.0 snr4.canalplus.com
 0.0.0.0 so.blueplus.ch
 0.0.0.0 so.boh.com
@@ -14903,6 +14914,7 @@
 0.0.0.0 squeakzinc.com
 0.0.0.0 squealingturn.com
 0.0.0.0 squeamishspot.com
+0.0.0.0 squeezely.tech
 0.0.0.0 squidanalytics.com
 0.0.0.0 squirrel.cividi.ch
 0.0.0.0 squirrel.malaynahocker.com
@@ -15095,6 +15107,7 @@
 0.0.0.0 stat.boredomtherapy.com
 0.0.0.0 stat.caijing.com.cn
 0.0.0.0 stat.canal-plus.com
+0.0.0.0 stat.cdngeek.com
 0.0.0.0 stat.clichehosting.de
 0.0.0.0 stat.cncenter.cz
 0.0.0.0 stat.dbschenker.com
@@ -15258,6 +15271,7 @@
 0.0.0.0 stats.buttondown.email
 0.0.0.0 stats.byma.com.br
 0.0.0.0 stats.cable.tech
+0.0.0.0 stats.callnowbutton.com
 0.0.0.0 stats.cardschat.com
 0.0.0.0 stats.carecredit.com
 0.0.0.0 stats.carrot2.org
@@ -16452,6 +16466,7 @@
 0.0.0.0 therapeuticcars.com
 0.0.0.0 thermstats.com
 0.0.0.0 thesearchagency.net
+0.0.0.0 thesmilingpencils.com
 0.0.0.0 thestat.net
 0.0.0.0 thewhizproducts.com
 0.0.0.0 thewise.com
@@ -16785,6 +16800,7 @@
 0.0.0.0 tr.bureauveritas.espmp-aufr.net
 0.0.0.0 tr.business-deal.nl
 0.0.0.0 tr.businessdev.younited-credit.es
+0.0.0.0 tr.c-tag.net
 0.0.0.0 tr.cacf-acq.ipsos-surveys.com
 0.0.0.0 tr.cacf.ipsos-surveys.com
 0.0.0.0 tr.camara.eu.com
@@ -17332,6 +17348,7 @@
 0.0.0.0 traceless.me
 0.0.0.0 tracelytics.com
 0.0.0.0 tracemyip.org
+0.0.0.0 tracer.autoscout24.ch
 0.0.0.0 tracer.jp
 0.0.0.0 traceworks.com
 0.0.0.0 track-mail.homage.co
@@ -19433,7 +19450,7 @@
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2022-12-25 00:55:45.225961
+# Generated at 2023-01-01 01:00:49.245665
 
 0.0.0.0 databerries.com
 0.0.0.0 fidzup

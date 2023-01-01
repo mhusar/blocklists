@@ -1,6 +1,6 @@
-# Version: 202212250030
+# Version: 202301010026
 # Title: EasyPrivacy
-# Last modified: 25 Dec 2022 00:30 UTC
+# Last modified: 01 Jan 2023 00:26 UTC
 # Expires: 6 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -291,6 +291,7 @@ a.aawp.de
 a.acxiom.com
 a.amw.com
 a.beliefnet.com
+a.centrum.cz
 a.ctd.ai
 a.deutschehospitality.com
 a.easyazon.com
@@ -3982,7 +3983,6 @@ cdnmaster.com
 cdnopw.com
 cdntrf.de
 cdtm.cdiscount.com
-ce.lijit.com
 cedexis.com
 ceggfe.msc-kreuzfahrten.de
 celebros-analytics.com
@@ -4062,6 +4062,7 @@ christians.lifeway.com
 christiantop1000.com
 christmalicious.com
 chtbl.com
+chubbycreature.com
 chunkycactus.com
 churro.noteapps.info
 ci.quickbooks.com
@@ -5295,6 +5296,7 @@ datacygnal.io
 datado.me
 datadog-service.mvfglobal.com
 datadoghq-browser-agent.com
+datadoghq.eu
 datadome.co
 datadome.patreon.com
 datadsk.com
@@ -5765,6 +5767,7 @@ dotaudiences.com
 dotjs.com
 dotmetrics.net
 doubleverify.com
+doubtdrawer.com
 doubtfulrainstorm.com
 doug1izaerwt3.cloudfront.net
 download.dnv.com
@@ -6871,6 +6874,7 @@ foodpackaging.kpfilms.com
 footprintdns.com
 footprintlive.com
 force24.co.uk
+forecast.huffingtonpost.fr
 forecasttiger.com
 foregoingfowl.com
 forensics1000.com
@@ -7514,6 +7518,7 @@ hashnest.com
 hashvault.pro
 hashzone.io
 hatefulrequest.com
+hatmiso.net
 hauhws.asgoodasnew.de
 hauntlist.com
 havasedge.com
@@ -8190,6 +8195,7 @@ ip-label.net
 ip-tracker.org
 ip.cliphunter.com
 ip.pichunter.com
+ip.up66.ru
 ip2c.landscape.co.jp
 ip2c.org
 ip2location.com
@@ -8690,7 +8696,6 @@ liecso.e-himart.co.kr
 lift.acquia.com
 lightcushion.com
 lightminer.co
-lijit.com
 likemore-go.imgsmail.ru
 limone.iltrovatore.it
 linezing.com
@@ -8876,6 +8881,7 @@ linkwi.se
 linkxchanger.com
 lio8.destinia.com.pa
 liosix.mtvuutiset.fi
+listenlayer.com
 listrakbi.com
 lists.ccmbg.com
 listtop.ru
@@ -9675,6 +9681,7 @@ memorizeneck.com
 memorycobweb.com
 mengis-linden.org
 mepirtedic.com
+mer.stdout.cz
 mercadoclics.com
 mercadolibre.com/tracks
 mercent.com
@@ -10923,6 +10930,7 @@ optimost.com
 optimove.net
 optin-machine.com
 optorb.com
+optoutadvertising.com
 oqr4.destinia.in
 oracleinfinity.io
 orangeoperation.com
@@ -11061,6 +11069,7 @@ page.ephesus.cooperlighting.com
 page.evergage.com
 page.terguspharma.com
 pagefair.com
+pageid.info
 pagerank-backlink.eu
 pagerank-linkverzeichnis.de
 pagerank-online.eu
@@ -12190,6 +12199,7 @@ rnlabs.com
 rnybul.gismeteo.kz
 rnybul.gismeteo.ru
 ro.promo.skf.com
+robotflowermobile.com
 robustbelieve.com
 rockincontent.net
 rocks.io
@@ -14582,6 +14592,7 @@ snoresmile.com
 snowplow.swm.digital
 snowsignal.com
 snprxx.wwfmarket.com
+snptrk.com
 snr4.canalplus.com
 so.blueplus.ch
 so.boh.com
@@ -14889,6 +14900,7 @@ squashfriction.com
 squeakzinc.com
 squealingturn.com
 squeamishspot.com
+squeezely.tech
 squidanalytics.com
 squirrel.cividi.ch
 squirrel.malaynahocker.com
@@ -15081,6 +15093,7 @@ stat.bill.harding.blog
 stat.boredomtherapy.com
 stat.caijing.com.cn
 stat.canal-plus.com
+stat.cdngeek.com
 stat.clichehosting.de
 stat.cncenter.cz
 stat.dbschenker.com
@@ -15244,6 +15257,7 @@ stats.bungeefit.co.uk
 stats.buttondown.email
 stats.byma.com.br
 stats.cable.tech
+stats.callnowbutton.com
 stats.cardschat.com
 stats.carecredit.com
 stats.carrot2.org
@@ -16438,6 +16452,7 @@ thench.net
 therapeuticcars.com
 thermstats.com
 thesearchagency.net
+thesmilingpencils.com
 thestat.net
 thewhizproducts.com
 thewise.com
@@ -16771,6 +16786,7 @@ tr.buenasofertas.pro
 tr.bureauveritas.espmp-aufr.net
 tr.business-deal.nl
 tr.businessdev.younited-credit.es
+tr.c-tag.net
 tr.cacf-acq.ipsos-surveys.com
 tr.cacf.ipsos-surveys.com
 tr.camara.eu.com
@@ -17318,6 +17334,7 @@ tracead.com
 traceless.me
 tracelytics.com
 tracemyip.org
+tracer.autoscout24.ch
 tracer.jp
 traceworks.com
 track-mail.homage.co
@@ -19419,7 +19436,7 @@ zzsqqx.shopjapan.co.jp
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2022-12-25 00:55:44.434672
+# Generated at 2023-01-01 01:00:48.461617
 
 databerries.com
 fidzup
