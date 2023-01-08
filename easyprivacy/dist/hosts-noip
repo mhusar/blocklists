@@ -1,6 +1,6 @@
-# Version: 202301010026
+# Version: 202301080039
 # Title: EasyPrivacy
-# Last modified: 01 Jan 2023 00:26 UTC
+# Last modified: 08 Jan 2023 00:39 UTC
 # Expires: 6 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -2789,6 +2789,7 @@ analytics.surfline.com
 analytics.surov.fi
 analytics.sweep.net
 analytics.sydney.edu.au
+analytics.synchrony.com
 analytics.synedat.com
 analytics.tabichan.jp
 analytics.tbs.com
@@ -3031,6 +3032,7 @@ appcast.io
 appier.net
 appinfosoryz.carte-gr.total.fr
 apple.www.letv.com
+applets.ebxcdn.com
 applicationinsights.azure.com
 applink.getbambu.com
 applog.yiche.com
@@ -3929,7 +3931,6 @@ carts.guru
 cartstack.com
 carzbz.braincandy.net
 carzbz.triviatoday.com
-casalemedia.com
 cashbeet.com
 cashburners.com
 cashcount.com
@@ -4832,6 +4833,7 @@ crm.casabaca.com
 crmmetrix.fr
 crmmetrixwris.com
 crocetta.viessmann.it
+crossees.com
 crosspixel.net
 crosswalkmail.com
 crowdedmass.com
@@ -6438,7 +6440,6 @@ erp.qwic.nl
 err.ifengcloud.ifeng.com
 erraticreaction.com
 error-collector.ted.com
-error.fc2.com
 error.videonow.ru
 errors.snackly.co
 ert5.rmcsport.tv
@@ -6488,6 +6489,7 @@ etrust.eu
 etui.fs.ml.com
 etx.indiatimes.com
 etyper.com
+eu-mobile.events.data.microsoft.com
 eu-survey.com
 eu.groupondata.com
 euclid.kuula.co
@@ -6595,6 +6597,7 @@ events.split.io
 events.statsigapi.net
 events.tubecup.org
 events.turbosquid.com
+events.ubembed.com
 events.whisk.com
 events.yourcx.io
 eventstream.dodopizza.com
@@ -7738,6 +7741,7 @@ hscta.net
 hsdn.org
 hsleadflows.net
 hspbotdetection.azurewebsites.net
+hstats.hepsiburada.com
 hstrck.com
 htm1.ch
 htmgrl.jollyroom.no
@@ -8201,6 +8205,7 @@ ip2c.org
 ip2location.com
 ip2map.com
 ip2phrase.com
+ip7prksb2muxvmmh25t6rxl2te0tfulc.lambda-url.eu-west-1.on.aws
 ipaddresslabs.com
 ipapi.co
 ipapi.tmbi.com
@@ -8932,6 +8937,7 @@ localytics.com
 lockview.cn
 locotrack.net
 log-api.newrelic.com
+log-global.aliyuncs.com
 log.51cto.com
 log.adplex.co.kr
 log.aimtell.com
@@ -9192,7 +9198,6 @@ maling.dn.no
 mandrillapp.zola.com
 mango.seloger.com
 maniacalappliance.com
-mantisadnetwork.com
 maploco.com
 mapmyuser.com
 mapp.ewm.co.uk
@@ -10276,9 +10281,9 @@ monitis.com
 monitor.azure.com
 monitor.channel4.com
 monitor.music.qq.com
+monitoring.iraiser.eu
 monitus.net
 monkeytracker.cz
-monorail-edge.shopifysvc.com
 monsido.com
 monstat.com
 montpalatin.handicap.fr
@@ -11489,6 +11494,7 @@ plausible.west.io
 plausible.wikiotics.org
 plausible.zest.dev
 plausible.zorin.com
+plausiblecdn.co
 plausibleio.workers.dev
 plavxml.com
 player-telemetry.vimeo.com
@@ -12246,6 +12252,7 @@ rs6.net
 rsc.lepoint.fr
 rstg.io
 rsvpgenius.com
+rsx.afterpay.com
 rt.bunte.de
 rt.flix360.com
 rt.newswire.ca
@@ -13495,6 +13502,7 @@ smartology.co
 smartracker.net
 smartselling.cz
 smartzonessva.com
+smashquartz.com
 smashshoe.com
 smashsurprise.com
 smatning.volkswagen.se
@@ -14670,6 +14678,7 @@ somni.vikingrivercruises.com
 somniture.fitforfun.de
 somniture.yodlee.com
 somtr.financialengines.com
+sonar.viously.com
 songssmoke.com
 songsterritory.com
 sootheside.com
@@ -15587,6 +15596,7 @@ stats.strikogkod.dk
 stats.studypages.com
 stats.stylight.it
 stats.sublimesecurity.com
+stats.suedtirolerjobs.it
 stats.suenicholls.com
 stats.suf.one
 stats.sunpeaksstables.com
@@ -16128,11 +16138,13 @@ t.wayfair.co.uk
 t.wayfair.com
 t.wayfair.de
 t.wiz.meilleurtaux.com
+t.y8.com
 t0y.toyota.ca
 t1.benefits.tops.co.th
 t1.discover.flashnews.com.au
 t1.stadiumgoods.com
 t1.trex.media
+t13.io
 t2.hulu.com
 t2.t2b.click
 t4ft.de
@@ -17871,6 +17883,7 @@ truffle.bid
 truffle.one
 trugaze.io
 truoptik.com
+trust-provider.com
 trust.mitutoyo.com
 trust.titanhq.com
 trusted-web-seal.cybertrust.ne.jp
@@ -18069,6 +18082,7 @@ uptracs.com
 uptrendsdata.com
 upwwgd.zentempel.com
 upz1.destinia.lt
+uqd.io
 uralweb.ru
 urbanairship.com
 urc.taboolasyndication.com
@@ -18279,6 +18293,7 @@ visitping.rossel.be
 visits.lt
 visits.tommi.space
 visitstreamer.com
+visor.sberbank.ru
 visto1.net
 visualdna.com
 visualrevenue.com
@@ -18697,6 +18712,7 @@ wl.spotify.com
 wmcdp.io
 wmgroup.us
 wo-cloud.com
+wogaa.sg
 womanear.com
 womtp.com
 wonder-ma.com

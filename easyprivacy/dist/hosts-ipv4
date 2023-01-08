@@ -1,6 +1,6 @@
-# Version: 202301010026
+# Version: 202301080039
 # Title: EasyPrivacy
-# Last modified: 01 Jan 2023 00:26 UTC
+# Last modified: 08 Jan 2023 00:39 UTC
 # Expires: 6 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -2803,6 +2803,7 @@
 0.0.0.0 analytics.surov.fi
 0.0.0.0 analytics.sweep.net
 0.0.0.0 analytics.sydney.edu.au
+0.0.0.0 analytics.synchrony.com
 0.0.0.0 analytics.synedat.com
 0.0.0.0 analytics.tabichan.jp
 0.0.0.0 analytics.tbs.com
@@ -3045,6 +3046,7 @@
 0.0.0.0 appier.net
 0.0.0.0 appinfosoryz.carte-gr.total.fr
 0.0.0.0 apple.www.letv.com
+0.0.0.0 applets.ebxcdn.com
 0.0.0.0 applicationinsights.azure.com
 0.0.0.0 applink.getbambu.com
 0.0.0.0 applog.yiche.com
@@ -3943,7 +3945,6 @@
 0.0.0.0 cartstack.com
 0.0.0.0 carzbz.braincandy.net
 0.0.0.0 carzbz.triviatoday.com
-0.0.0.0 casalemedia.com
 0.0.0.0 cashbeet.com
 0.0.0.0 cashburners.com
 0.0.0.0 cashcount.com
@@ -4846,6 +4847,7 @@
 0.0.0.0 crmmetrix.fr
 0.0.0.0 crmmetrixwris.com
 0.0.0.0 crocetta.viessmann.it
+0.0.0.0 crossees.com
 0.0.0.0 crosspixel.net
 0.0.0.0 crosswalkmail.com
 0.0.0.0 crowdedmass.com
@@ -6452,7 +6454,6 @@
 0.0.0.0 err.ifengcloud.ifeng.com
 0.0.0.0 erraticreaction.com
 0.0.0.0 error-collector.ted.com
-0.0.0.0 error.fc2.com
 0.0.0.0 error.videonow.ru
 0.0.0.0 errors.snackly.co
 0.0.0.0 ert5.rmcsport.tv
@@ -6502,6 +6503,7 @@
 0.0.0.0 etui.fs.ml.com
 0.0.0.0 etx.indiatimes.com
 0.0.0.0 etyper.com
+0.0.0.0 eu-mobile.events.data.microsoft.com
 0.0.0.0 eu-survey.com
 0.0.0.0 eu.groupondata.com
 0.0.0.0 euclid.kuula.co
@@ -6609,6 +6611,7 @@
 0.0.0.0 events.statsigapi.net
 0.0.0.0 events.tubecup.org
 0.0.0.0 events.turbosquid.com
+0.0.0.0 events.ubembed.com
 0.0.0.0 events.whisk.com
 0.0.0.0 events.yourcx.io
 0.0.0.0 eventstream.dodopizza.com
@@ -7752,6 +7755,7 @@
 0.0.0.0 hsdn.org
 0.0.0.0 hsleadflows.net
 0.0.0.0 hspbotdetection.azurewebsites.net
+0.0.0.0 hstats.hepsiburada.com
 0.0.0.0 hstrck.com
 0.0.0.0 htm1.ch
 0.0.0.0 htmgrl.jollyroom.no
@@ -8215,6 +8219,7 @@
 0.0.0.0 ip2location.com
 0.0.0.0 ip2map.com
 0.0.0.0 ip2phrase.com
+0.0.0.0 ip7prksb2muxvmmh25t6rxl2te0tfulc.lambda-url.eu-west-1.on.aws
 0.0.0.0 ipaddresslabs.com
 0.0.0.0 ipapi.co
 0.0.0.0 ipapi.tmbi.com
@@ -8946,6 +8951,7 @@
 0.0.0.0 lockview.cn
 0.0.0.0 locotrack.net
 0.0.0.0 log-api.newrelic.com
+0.0.0.0 log-global.aliyuncs.com
 0.0.0.0 log.51cto.com
 0.0.0.0 log.adplex.co.kr
 0.0.0.0 log.aimtell.com
@@ -9206,7 +9212,6 @@
 0.0.0.0 mandrillapp.zola.com
 0.0.0.0 mango.seloger.com
 0.0.0.0 maniacalappliance.com
-0.0.0.0 mantisadnetwork.com
 0.0.0.0 maploco.com
 0.0.0.0 mapmyuser.com
 0.0.0.0 mapp.ewm.co.uk
@@ -10290,9 +10295,9 @@
 0.0.0.0 monitor.azure.com
 0.0.0.0 monitor.channel4.com
 0.0.0.0 monitor.music.qq.com
+0.0.0.0 monitoring.iraiser.eu
 0.0.0.0 monitus.net
 0.0.0.0 monkeytracker.cz
-0.0.0.0 monorail-edge.shopifysvc.com
 0.0.0.0 monsido.com
 0.0.0.0 monstat.com
 0.0.0.0 montpalatin.handicap.fr
@@ -11503,6 +11508,7 @@
 0.0.0.0 plausible.wikiotics.org
 0.0.0.0 plausible.zest.dev
 0.0.0.0 plausible.zorin.com
+0.0.0.0 plausiblecdn.co
 0.0.0.0 plausibleio.workers.dev
 0.0.0.0 plavxml.com
 0.0.0.0 player-telemetry.vimeo.com
@@ -12260,6 +12266,7 @@
 0.0.0.0 rsc.lepoint.fr
 0.0.0.0 rstg.io
 0.0.0.0 rsvpgenius.com
+0.0.0.0 rsx.afterpay.com
 0.0.0.0 rt.bunte.de
 0.0.0.0 rt.flix360.com
 0.0.0.0 rt.newswire.ca
@@ -13509,6 +13516,7 @@
 0.0.0.0 smartracker.net
 0.0.0.0 smartselling.cz
 0.0.0.0 smartzonessva.com
+0.0.0.0 smashquartz.com
 0.0.0.0 smashshoe.com
 0.0.0.0 smashsurprise.com
 0.0.0.0 smatning.volkswagen.se
@@ -14684,6 +14692,7 @@
 0.0.0.0 somniture.fitforfun.de
 0.0.0.0 somniture.yodlee.com
 0.0.0.0 somtr.financialengines.com
+0.0.0.0 sonar.viously.com
 0.0.0.0 songssmoke.com
 0.0.0.0 songsterritory.com
 0.0.0.0 sootheside.com
@@ -15601,6 +15610,7 @@
 0.0.0.0 stats.studypages.com
 0.0.0.0 stats.stylight.it
 0.0.0.0 stats.sublimesecurity.com
+0.0.0.0 stats.suedtirolerjobs.it
 0.0.0.0 stats.suenicholls.com
 0.0.0.0 stats.suf.one
 0.0.0.0 stats.sunpeaksstables.com
@@ -16142,11 +16152,13 @@
 0.0.0.0 t.wayfair.com
 0.0.0.0 t.wayfair.de
 0.0.0.0 t.wiz.meilleurtaux.com
+0.0.0.0 t.y8.com
 0.0.0.0 t0y.toyota.ca
 0.0.0.0 t1.benefits.tops.co.th
 0.0.0.0 t1.discover.flashnews.com.au
 0.0.0.0 t1.stadiumgoods.com
 0.0.0.0 t1.trex.media
+0.0.0.0 t13.io
 0.0.0.0 t2.hulu.com
 0.0.0.0 t2.t2b.click
 0.0.0.0 t4ft.de
@@ -17885,6 +17897,7 @@
 0.0.0.0 truffle.one
 0.0.0.0 trugaze.io
 0.0.0.0 truoptik.com
+0.0.0.0 trust-provider.com
 0.0.0.0 trust.mitutoyo.com
 0.0.0.0 trust.titanhq.com
 0.0.0.0 trusted-web-seal.cybertrust.ne.jp
@@ -18083,6 +18096,7 @@
 0.0.0.0 uptrendsdata.com
 0.0.0.0 upwwgd.zentempel.com
 0.0.0.0 upz1.destinia.lt
+0.0.0.0 uqd.io
 0.0.0.0 uralweb.ru
 0.0.0.0 urbanairship.com
 0.0.0.0 urc.taboolasyndication.com
@@ -18293,6 +18307,7 @@
 0.0.0.0 visits.lt
 0.0.0.0 visits.tommi.space
 0.0.0.0 visitstreamer.com
+0.0.0.0 visor.sberbank.ru
 0.0.0.0 visto1.net
 0.0.0.0 visualdna.com
 0.0.0.0 visualrevenue.com
@@ -18711,6 +18726,7 @@
 0.0.0.0 wmcdp.io
 0.0.0.0 wmgroup.us
 0.0.0.0 wo-cloud.com
+0.0.0.0 wogaa.sg
 0.0.0.0 womanear.com
 0.0.0.0 womtp.com
 0.0.0.0 wonder-ma.com
