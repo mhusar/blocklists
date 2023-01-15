@@ -1,6 +1,6 @@
-# Version: 202301080039
+# Version: 202301150025
 # Title: EasyPrivacy
-# Last modified: 08 Jan 2023 00:39 UTC
+# Last modified: 15 Jan 2023 00:25 UTC
 # Expires: 6 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -1679,6 +1679,7 @@
 0.0.0.0 action.advisorycloud.com
 0.0.0.0 action.logixfiber.com
 0.0.0.0 actionallocator.com
+0.0.0.0 actioniq.mr-in.com
 0.0.0.0 actirinius.com
 0.0.0.0 activation.depop.com
 0.0.0.0 active-redirect-sslchefbeanstalkchef-marketing.net.zooplus.it
@@ -2918,6 +2919,7 @@
 0.0.0.0 annoyingacoustics.com
 0.0.0.0 annwwu.guitarcenter.com
 0.0.0.0 anon-stats.eff.org
+0.0.0.0 anonstat.pw
 0.0.0.0 anormal-tracker.de
 0.0.0.0 anrdoezrs.net
 0.0.0.0 ans.avast.com
@@ -3822,6 +3824,7 @@
 0.0.0.0 c-o-u-n-t.com
 0.0.0.0 c-rings.net
 0.0.0.0 c.amazinglybrilliant.com.au
+0.0.0.0 c.bazo.io
 0.0.0.0 c.bigmir.net
 0.0.0.0 c.gazetevatan.com
 0.0.0.0 c.hit.ua
@@ -4465,6 +4468,7 @@
 0.0.0.0 comfortablecheese.com
 0.0.0.0 comm.toro.com
 0.0.0.0 commander1.com
+0.0.0.0 commerce.bing.com
 0.0.0.0 commercial.davey.com
 0.0.0.0 commonalmanac.com
 0.0.0.0 commonswing.com
@@ -5120,6 +5124,7 @@
 0.0.0.0 d3bo67muzbfgtl.cloudfront.net
 0.0.0.0 d3cgm8py10hi0z.cloudfront.net
 0.0.0.0 d3cxv97fi8q177.cloudfront.net
+0.0.0.0 d3gi6isrskhoq.cloudfront.net
 0.0.0.0 d3iouejux1os58.cloudfront.net
 0.0.0.0 d3j1weegxvu8ns.cloudfront.net
 0.0.0.0 d3kyk5bao1crtw.cloudfront.net
@@ -5304,6 +5309,7 @@
 0.0.0.0 data1.virginplus.ca
 0.0.0.0 data2.gosquared.com
 0.0.0.0 databrain.com
+0.0.0.0 databreakers.com
 0.0.0.0 datacaciques.com
 0.0.0.0 datacollector-dra.dt.hicloud.com
 0.0.0.0 datacoral.com
@@ -5791,6 +5797,7 @@
 0.0.0.0 downloads.coface.com
 0.0.0.0 downpayment.fernsby.com
 0.0.0.0 downtowndirection.com
+0.0.0.0 dp.coinbase.com
 0.0.0.0 dp.shoprunner.com
 0.0.0.0 dp64mxip2za0c.cloudfront.net
 0.0.0.0 dpbolvw.net
@@ -6932,11 +6939,13 @@
 0.0.0.0 fpctraffic2.com
 0.0.0.0 fphfdx.partswarehouse.com
 0.0.0.0 fpjs.io
+0.0.0.0 fpnpmcdn.net
 0.0.0.0 fpptmv.mrmarvis.co.uk
 0.0.0.0 fprfvt.recambioscoches.es
 0.0.0.0 fprnt.com
 0.0.0.0 fpt.microsoft.com
 0.0.0.0 fptls.com
+0.0.0.0 fptls2.com
 0.0.0.0 fpxau.net
 0.0.0.0 fpxewa.ilmeteo.it
 0.0.0.0 fq9vy0muyqi3.www.madrigalmaps.com
@@ -8931,6 +8940,7 @@
 0.0.0.0 ljb0.assuronline.com
 0.0.0.0 lknqfn.furla.com
 0.0.0.0 lkocef.pixartprinting.fr
+0.0.0.0 llanalytics.com
 0.0.0.0 lloogg.com
 0.0.0.0 llteig.framesdirect.com
 0.0.0.0 lltmch.zurifurniture.com
@@ -10939,6 +10949,7 @@
 0.0.0.0 opti-digital.com
 0.0.0.0 optify.net
 0.0.0.0 optimallimit.com
+0.0.0.0 optimeeze.appspot.com
 0.0.0.0 optimierung-der-website.de
 0.0.0.0 optimisation.data.lloydsbankinggroup.com
 0.0.0.0 optimix.asia
@@ -11057,6 +11068,7 @@
 0.0.0.0 p.raasnet.com
 0.0.0.0 p.ryanhalliday.com
 0.0.0.0 p.tencentmind.com
+0.0.0.0 p.typekit.net
 0.0.0.0 p.versacommerce.de
 0.0.0.0 p.victoria.dev
 0.0.0.0 p.wren.co
@@ -11318,6 +11330,7 @@
 0.0.0.0 pixel.ad
 0.0.0.0 pixel.ampry.com
 0.0.0.0 pixel.anyclip.com
+0.0.0.0 pixel.archipro.co.nz
 0.0.0.0 pixel.archive.is
 0.0.0.0 pixel.archive.ph
 0.0.0.0 pixel.archive.vn
@@ -11647,6 +11660,7 @@
 0.0.0.0 processor.asccommunications.com
 0.0.0.0 proclivitysystems.com
 0.0.0.0 procroanalytics.com
+0.0.0.0 prod-events.nykaa.com
 0.0.0.0 prod.ew.srp.navigacloud.com
 0.0.0.0 proditor.sparda.de
 0.0.0.0 producecopy.com
@@ -11800,6 +11814,7 @@
 0.0.0.0 pylon.micstatic.com
 0.0.0.0 pymx5.com
 0.0.0.0 pzapi-ij.com
+0.0.0.0 pzapi-kg.com
 0.0.0.0 pzd.rakuten.co.jp
 0.0.0.0 pzimff.com
 0.0.0.0 pzscub.prestiter.it
@@ -14819,6 +14834,7 @@
 0.0.0.0 sp.thetimesherald.com
 0.0.0.0 sp.thetowntalk.com
 0.0.0.0 sp.timesrecordnews.com
+0.0.0.0 sp.tinymce.com
 0.0.0.0 sp.usatoday.com
 0.0.0.0 sp.vcstar.com
 0.0.0.0 sp.visaliatimesdelta.com
@@ -16153,6 +16169,7 @@
 0.0.0.0 t.wayfair.de
 0.0.0.0 t.wiz.meilleurtaux.com
 0.0.0.0 t.y8.com
+0.0.0.0 t.zulily.com
 0.0.0.0 t0y.toyota.ca
 0.0.0.0 t1.benefits.tops.co.th
 0.0.0.0 t1.discover.flashnews.com.au
@@ -16182,6 +16199,7 @@
 0.0.0.0 tag.flagship.io
 0.0.0.0 tag.goldenbees.fr
 0.0.0.0 tag.leadplace.fr
+0.0.0.0 tag.lexer.io
 0.0.0.0 tag.mtrcs.samba.tv
 0.0.0.0 tag.myplay.com
 0.0.0.0 tag.rightmessage.com
@@ -17496,6 +17514,7 @@
 0.0.0.0 trackeame.com
 0.0.0.0 trackedlink.net
 0.0.0.0 trackedweb.net
+0.0.0.0 tracker-dot-optimeeze.appspot.com
 0.0.0.0 tracker-rec.smart-bdash.com
 0.0.0.0 tracker.520call.me
 0.0.0.0 tracker.adbinead.com
@@ -17531,6 +17550,7 @@
 0.0.0.0 tracker.nitropay.com
 0.0.0.0 tracker.providence.org
 0.0.0.0 tracker.publico.pt
+0.0.0.0 tracker.ranker.com
 0.0.0.0 tracker.roitesting.com
 0.0.0.0 tracker.services.vaix.ai
 0.0.0.0 tracker.shopclues.com
@@ -17556,6 +17576,7 @@
 0.0.0.0 trackertest.org
 0.0.0.0 trackfeed.com
 0.0.0.0 trackicollect.ibase.fr
+0.0.0.0 tracking-api-4lasu2nlcq-ew.a.run.app
 0.0.0.0 tracking-driver.staging.goshare.co
 0.0.0.0 tracking-explore.agilent.com
 0.0.0.0 tracking-secure.csob.cz
@@ -17819,6 +17840,7 @@
 0.0.0.0 traversedlp.com
 0.0.0.0 trbas.com
 0.0.0.0 trbo.com
+0.0.0.0 trc.gpcdn.pl
 0.0.0.0 trc.pushnami.com
 0.0.0.0 trck.aeon.co.jp
 0.0.0.0 trck.bdi-services.de
@@ -17897,7 +17919,6 @@
 0.0.0.0 truffle.one
 0.0.0.0 trugaze.io
 0.0.0.0 truoptik.com
-0.0.0.0 trust-provider.com
 0.0.0.0 trust.mitutoyo.com
 0.0.0.0 trust.titanhq.com
 0.0.0.0 trusted-web-seal.cybertrust.ne.jp
@@ -19466,7 +19487,7 @@
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2023-01-08 00:58:37.319729
+# Generated at 2023-01-15 00:58:31.046646
 
 0.0.0.0 databerries.com
 0.0.0.0 fidzup
