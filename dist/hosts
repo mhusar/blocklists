@@ -1,6 +1,6 @@
-# Version: 202301150025
+# Version: 202301212349
 # Title: EasyPrivacy
-# Last modified: 15 Jan 2023 00:25 UTC
+# Last modified: 21 Jan 2023 23:49 UTC
 # Expires: 6 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -1330,7 +1330,6 @@ aa.tescomobile.com
 aa.thedoctorstv.com
 aa.tv.com
 aa.tvguide.com
-aa.tweakers.nl
 aa.wowma.jp
 aadata.april-international.com
 aaddzz.com
@@ -1519,6 +1518,7 @@ ablinksemail.wirexapp.com
 ablinksuni.a.grubhub.com
 ablinksuni.a.seamless.com
 ablsrv.com
+ablyft.com
 abmail.test.iheart.com
 abmail2.e.hungryjacks.com.au
 abmr.net
@@ -1590,6 +1590,7 @@ acc.repositorydii3.ids.net.zooplus.nl
 acc.ssl.cms-m-frontpagesslanalytics.marketingnet.net.zooplus.es
 acc.sslsigned.net.zooplus.it
 acc.vpnlbm-release.net.zooplus.nl
+accaii.com
 accalpha-accountingingssl-svc-accountingingssl.net.zooplus.nl
 accalpha-fw-svc-fw.net.zooplus.nl
 accalpha-mail-svc-mail-fw.net.zooplus.nl
@@ -2659,6 +2660,7 @@ analytics.kaggle.io
 analytics.kaltura.com
 analytics.kapost.com
 analytics.kerns.co
+analytics.kkb.com.tr
 analytics.kraken.com
 analytics.krieselreihe.com
 analytics.kukla.club
@@ -2793,6 +2795,7 @@ analytics.southjerseyquakers.org
 analytics.spark.co.nz
 analytics.springboardvideo.com
 analytics.sprint.com
+analytics.spun.com.br
 analytics.ss88.us
 analytics.staticiv.com
 analytics.stg.springboardvideo.com
@@ -4419,9 +4422,11 @@ collect.cloudsponge.com
 collect.elvia.ch
 collect.helsana-preprod.ch
 collect.helsana.ch
+collect.hollisterco.com
 collect.igodigital.com
 collect.iteam-dress.com
 collect.meilleurtaux.com
+collect.rebelmouse.io
 collect.rewardstyle.com
 collect.state.centrum24.pl
 collect.thunder-io.com
@@ -7155,6 +7160,7 @@ gbotvisit.com
 gbqofs.com
 gc.zgo.at
 gcoiys.cutsclothing.com
+gct.americanexpress.com
 gcudsn.tradetested.co.nz
 gcwubi.happypancake.fi
 gdeslon.ru
@@ -7961,6 +7967,7 @@ inencr.woodhouseclothing.com
 infamousstream.com
 inferclick.com
 infinigraph.com
+infinity-tracking.com
 infinity-tracking.net
 infinityid.condenastdigital.com
 inflectionpointmedia.com
@@ -8410,7 +8417,6 @@ jprbql.jdsports.fr
 jptobh.network.com.tr
 jpush.cn
 jrucbb.guestreservations.com
-js-agent.newrelic.com
 js-delivr.com
 js.trendmd.com
 jscdndel.com
@@ -8960,7 +8966,6 @@ loader.zeroform.com
 localytics.com
 lockview.cn
 locotrack.net
-log-api.newrelic.com
 log-global.aliyuncs.com
 log.51cto.com
 log.adplex.co.kr
@@ -9085,6 +9090,7 @@ logz.io
 logz.ru
 lokalleads-cci.com
 loloclicks.biz
+lomadee.com
 longinglettuce.com
 lookery.com
 lookit.cz
@@ -9686,6 +9692,7 @@ mediametrics.mpsa.com
 mediametrics.ru
 mediaplan.ru
 mediaplex.com
+mediapvx.com
 mediapxv.com
 mediarithmics.com
 mediasolutions.netinsight.net
@@ -10551,6 +10558,7 @@ network.armycadets.com
 netzaehler.de
 netzstat.ch
 neurotrack.neurolake.io
+newrelic.com
 newrrb.bid
 news.azcapitoltimes.com
 news.bpsecinc.com
@@ -10959,6 +10967,7 @@ optimizely.com
 optimost.com
 optimove.net
 optin-machine.com
+optistats.ovh
 optorb.com
 optoutadvertising.com
 oqr4.destinia.in
@@ -15585,6 +15594,7 @@ stats.rocketvalidator.com
 stats.russellstover.com
 stats.sa-as.com
 stats.safeway.com
+stats.sandberg.world
 stats.sawlive.tv
 stats.screen-play.app
 stats.screenresolution.org
@@ -15808,6 +15818,7 @@ streamstats.prd.dlive.tv
 streem.com.au
 streetmetrics.io
 stretchsister.com
+stretchsquirrel.com
 stringsmile.com
 stripedburst.com
 stripedcollar.net
@@ -16198,6 +16209,7 @@ tag.cribnotes.jp
 tag.elevaate.io
 tag.flagship.io
 tag.goldenbees.fr
+tag.imagino.com
 tag.leadplace.fr
 tag.lexer.io
 tag.mtrcs.samba.tv
@@ -16631,6 +16643,7 @@ tkvxdj.cars.com
 tkykzv.polisorb.com
 tl.tradetracker.net
 tl813.com
+tla.traderlink.com
 tls.thelibrarystore.com
 tm.jsuol.com.br
 tm.tradetracker.net
@@ -19487,7 +19500,7 @@ zzsqqx.shopjapan.co.jp
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2023-01-15 00:58:30.254896
+# Generated at 2023-01-22 00:58:08.961830
 
 databerries.com
 fidzup
