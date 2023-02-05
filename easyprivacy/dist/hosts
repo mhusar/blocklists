@@ -1,6 +1,6 @@
-# Version: 202301282135
+# Version: 202302050035
 # Title: EasyPrivacy
-# Last modified: 28 Jan 2023 21:35 UTC
+# Last modified: 05 Feb 2023 00:35 UTC
 # Expires: 6 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -1723,6 +1723,7 @@ ad-shield.io
 ad-srv-track.com
 ad-track.jp
 ad-track.paravi.jp
+ad-tracker-api.luizalabs.com
 ad.aloodo.com
 ad.aucfan.com
 ad.aucview.com
@@ -3446,6 +3447,7 @@ bees.beesbeesbeesbees.com
 beginnerpancake.com
 begintrain.com
 behave.sn.at
+behavior.tongdun.net
 behavioralengine.com
 bekannt-im-web.de
 belboon.de
@@ -3716,6 +3718,7 @@ brightedge.com
 brightfunnel.com
 brilig.com
 brilliantcollector.com
+bringmethehats.com
 briskeagle.io
 briskpelican.io
 britepool.com
@@ -4108,6 +4111,7 @@ claritytag.com
 clarium.global.ssl.fastly.net
 clarium.io
 clarivoy.com
+clear.wallapop.com
 clearbit.com
 clearbitjs.com
 clearbitscripts.com
@@ -4401,6 +4405,7 @@ collect.alipay.com
 collect.allianz.ch
 collect.allianzcinema.ch
 collect.allianzdriveincinema.ch
+collect.alphastream.io
 collect.asics.com
 collect.banggood.com
 collect.cap.ch
@@ -4442,6 +4447,7 @@ collector.rn.de
 collector.schibsted.io
 collector.sspinc.io
 collector.statowl.com
+collector.wawlabs.com
 collector.xhamster.com
 collector.xhamster.desi
 collector.xhamster2.com
@@ -4657,6 +4663,7 @@ convsgmp.taboola.com
 cookchalk.com
 cookie-guard-erdee.ey.r.appspot.com
 cookie.amerigas.com
+cookie.codemarketing.cloud
 cookie.cynch.com
 cookie.myamerigas.com
 cookie.solutions.desertfinancial.com
@@ -4914,6 +4921,7 @@ ctr.nmg.de
 cts.businesswire.com
 cts.vresp.com
 cttracking02.com
+ctusolution.com
 ctwqxs.autoscout24.at
 ctx.citiservi.es
 ctyjsf.cellphones.com.vn
@@ -5885,6 +5893,7 @@ e-webtrack.net
 e.beckmancoulter.com
 e.e.themighty.com
 e.kc-education.com
+e.legalstart.fr
 e.metarouter.io
 e.passfolio.us
 e.shop.app
@@ -6819,6 +6828,7 @@ fipsta.urbanara.de
 firebaselogging-pa.googleapis.com
 firebaselogging.googleapis.com
 fireworkanalytics.com
+firstblackphase.com
 firstfrogs.com
 firstparty.alloyio.com
 firstpromoter.com
@@ -8685,7 +8695,6 @@ lezntf.heydudeshoesusa.com
 lflbey.gate31.ru
 lfmhcb.sefamerve.com
 lfov.net
-lg.tr.pandora.tv
 lgm.averydennison.com
 lgzkzp.bauhaus.at
 lh3pvljbkong.www.nookgaming.com
@@ -8935,6 +8944,7 @@ loader.zeroform.com
 localytics.com
 lockview.cn
 locotrack.net
+log-gateway.zoom.us
 log.adplex.co.kr
 log.aimtell.com
 log.aliyuncs.com
@@ -8979,7 +8989,6 @@ log.seekda.com
 log.sina.cn
 log.snapdeal.com
 log.suumo.jp
-log.sv.pandora.tv
 log.tagtic.cn
 log.targetpush.co.kr
 log.ttbc-hcm.gov.vn
@@ -9673,6 +9682,7 @@ mega-stats.com
 megadata.co.kr
 megavisites.com
 melodicminute.com
+meltmilk.com
 memecounter.com
 memo.co
 memopilot.com
@@ -9760,6 +9770,7 @@ metrics.baitorupro.com
 metrics.bakeryandsnacks.com
 metrics.bakeryinfo.co.uk
 metrics.bangbros.com
+metrics.bankmonitor.hu
 metrics.barclaycardus.com
 metrics.bcbsnc.com
 metrics.beatsbydre.com
@@ -11201,6 +11212,7 @@ perr.h-cdn.com
 persianstat.com
 persianstat.ir
 perso.aws.arc.pub
+personaclick.com
 personalicanvas.com
 personyze.com
 persuadesock.com
@@ -11603,7 +11615,6 @@ printerplasma.com
 prism.app-us1.com
 prism.buerokrucker.ch
 prism.drivingkyoto.com
-prism.pandora.tv
 prism.raumgleiter.com
 privacy-api.9gag.com
 privacy-policy.truste.com
@@ -11675,6 +11686,7 @@ psychedelicchess.com
 pt-trx.com
 pt.crossmediaservices.com
 pt.ispot.tv
+pt.legalstart.fr
 ptadsrv.de
 ptengine.cn
 ptengine.com
@@ -11735,6 +11747,7 @@ pushowl.com
 pushprofit.ru
 pushpushgo.com
 pushspring.com
+pushwize.com
 pushwoosh.com
 puzzlingproperty.com
 pv.hd.sohu.com
@@ -12105,6 +12118,7 @@ ressources.lacentrale.fr
 ressources.mavoiturecash.fr
 ressources.promoneuve.fr
 rest.wildstar-online.com
+restrainstorm.com
 resulticks.com
 retag.xyz
 retailads.net
@@ -12163,6 +12177,7 @@ rightstats.com
 rigidrobin.com
 rigill.com
 rimxqx.slickdeals.net
+ring.staticmoly.me
 ringplant.com
 ringplayground.com
 ringsrecord.com
@@ -13253,6 +13268,7 @@ sephora-qa.branchstaging.com
 sepyra.com
 serie-vostfr.com
 serious-partners.com
+serpentshampoo.com
 serv-ac.com
 serv1swork.com
 servcliente.marathon-sports-ec.com
@@ -13409,6 +13425,7 @@ sitecatalyst.work.shiseido.co.jp
 sitecatalysts.saisoncard.co.jp
 sitecats.troweprice.com
 sitecompass.com
+sitecounter.site
 sitedataprocessing.com
 siteimprove.com
 siteimproveanalytics.com
@@ -15153,6 +15170,7 @@ stathat.com
 stathound.com
 static-sb.com
 static-tracking.klaviyo.com
+static.fengkongcloud.com
 static.parsely.com
 staticiv.com
 statisfy.net
@@ -15633,6 +15651,7 @@ stats.vanityprojects.com
 stats.varrando.com
 stats.vattenfall.se
 stats.viddler.com
+stats.vidyome.com
 stats.visions.ch
 stats.vk-portal.net
 stats.voyages-sncf.com
@@ -17488,6 +17507,7 @@ tracker.downdetector.com
 tracker.euroweb.net
 tracker.financialcontent.com
 tracker.gleanview.com
+tracker.hdtvcloud.com
 tracker.icerocket.com
 tracker.idocdn.com
 tracker.iltrovatore.it
@@ -17995,6 +18015,7 @@ unarmedindustry.com
 unative.com
 unbecomingbikes.com
 unbecominghall.com
+unbecominglamp.com
 uncn.jp
 uncoveredcircle.com
 uncoveredexpert.com
@@ -18094,6 +18115,7 @@ urlself.com
 urr.kumamoto-food.com
 urs.metacritic.com
 urstats.de
+us-central1-markuphero.cloudfunctions.net
 us.lucanet.com
 us.onkyo.actonservice.com
 us.promo.skf.com
@@ -18327,6 +18349,7 @@ vqp3.madeindesign.co.uk
 vry9.destinia.com
 vst.sibnet.ru
 vstat.borderlessbd.com
+vstats.me
 vt.mak.com
 vtf2f.banque-casino.fr
 vtracker.net
@@ -19411,6 +19434,7 @@ ztfjtn.liujo.com
 ztgblo.vidaxl.lt
 ztoash.cyberpuerta.mx
 ztqnls.lojasrenner.com.br
+ztrack.online
 ztsrv.com
 zucks.net
 zudver.matsmart.se
