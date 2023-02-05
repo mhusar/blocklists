@@ -1,6 +1,6 @@
-# Version: 202301282135
+# Version: 202302050035
 # Title: EasyPrivacy
-# Last modified: 28 Jan 2023 21:35 UTC
+# Last modified: 05 Feb 2023 00:35 UTC
 # Expires: 6 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -1723,6 +1723,7 @@
 0.0.0.0 ad-srv-track.com
 0.0.0.0 ad-track.jp
 0.0.0.0 ad-track.paravi.jp
+0.0.0.0 ad-tracker-api.luizalabs.com
 0.0.0.0 ad.aloodo.com
 0.0.0.0 ad.aucfan.com
 0.0.0.0 ad.aucview.com
@@ -3446,6 +3447,7 @@
 0.0.0.0 beginnerpancake.com
 0.0.0.0 begintrain.com
 0.0.0.0 behave.sn.at
+0.0.0.0 behavior.tongdun.net
 0.0.0.0 behavioralengine.com
 0.0.0.0 bekannt-im-web.de
 0.0.0.0 belboon.de
@@ -3716,6 +3718,7 @@
 0.0.0.0 brightfunnel.com
 0.0.0.0 brilig.com
 0.0.0.0 brilliantcollector.com
+0.0.0.0 bringmethehats.com
 0.0.0.0 briskeagle.io
 0.0.0.0 briskpelican.io
 0.0.0.0 britepool.com
@@ -4108,6 +4111,7 @@
 0.0.0.0 clarium.global.ssl.fastly.net
 0.0.0.0 clarium.io
 0.0.0.0 clarivoy.com
+0.0.0.0 clear.wallapop.com
 0.0.0.0 clearbit.com
 0.0.0.0 clearbitjs.com
 0.0.0.0 clearbitscripts.com
@@ -4401,6 +4405,7 @@
 0.0.0.0 collect.allianz.ch
 0.0.0.0 collect.allianzcinema.ch
 0.0.0.0 collect.allianzdriveincinema.ch
+0.0.0.0 collect.alphastream.io
 0.0.0.0 collect.asics.com
 0.0.0.0 collect.banggood.com
 0.0.0.0 collect.cap.ch
@@ -4442,6 +4447,7 @@
 0.0.0.0 collector.schibsted.io
 0.0.0.0 collector.sspinc.io
 0.0.0.0 collector.statowl.com
+0.0.0.0 collector.wawlabs.com
 0.0.0.0 collector.xhamster.com
 0.0.0.0 collector.xhamster.desi
 0.0.0.0 collector.xhamster2.com
@@ -4657,6 +4663,7 @@
 0.0.0.0 cookchalk.com
 0.0.0.0 cookie-guard-erdee.ey.r.appspot.com
 0.0.0.0 cookie.amerigas.com
+0.0.0.0 cookie.codemarketing.cloud
 0.0.0.0 cookie.cynch.com
 0.0.0.0 cookie.myamerigas.com
 0.0.0.0 cookie.solutions.desertfinancial.com
@@ -4914,6 +4921,7 @@
 0.0.0.0 cts.businesswire.com
 0.0.0.0 cts.vresp.com
 0.0.0.0 cttracking02.com
+0.0.0.0 ctusolution.com
 0.0.0.0 ctwqxs.autoscout24.at
 0.0.0.0 ctx.citiservi.es
 0.0.0.0 ctyjsf.cellphones.com.vn
@@ -5885,6 +5893,7 @@
 0.0.0.0 e.beckmancoulter.com
 0.0.0.0 e.e.themighty.com
 0.0.0.0 e.kc-education.com
+0.0.0.0 e.legalstart.fr
 0.0.0.0 e.metarouter.io
 0.0.0.0 e.passfolio.us
 0.0.0.0 e.shop.app
@@ -6819,6 +6828,7 @@
 0.0.0.0 firebaselogging-pa.googleapis.com
 0.0.0.0 firebaselogging.googleapis.com
 0.0.0.0 fireworkanalytics.com
+0.0.0.0 firstblackphase.com
 0.0.0.0 firstfrogs.com
 0.0.0.0 firstparty.alloyio.com
 0.0.0.0 firstpromoter.com
@@ -8685,7 +8695,6 @@
 0.0.0.0 lflbey.gate31.ru
 0.0.0.0 lfmhcb.sefamerve.com
 0.0.0.0 lfov.net
-0.0.0.0 lg.tr.pandora.tv
 0.0.0.0 lgm.averydennison.com
 0.0.0.0 lgzkzp.bauhaus.at
 0.0.0.0 lh3pvljbkong.www.nookgaming.com
@@ -8935,6 +8944,7 @@
 0.0.0.0 localytics.com
 0.0.0.0 lockview.cn
 0.0.0.0 locotrack.net
+0.0.0.0 log-gateway.zoom.us
 0.0.0.0 log.adplex.co.kr
 0.0.0.0 log.aimtell.com
 0.0.0.0 log.aliyuncs.com
@@ -8979,7 +8989,6 @@
 0.0.0.0 log.sina.cn
 0.0.0.0 log.snapdeal.com
 0.0.0.0 log.suumo.jp
-0.0.0.0 log.sv.pandora.tv
 0.0.0.0 log.tagtic.cn
 0.0.0.0 log.targetpush.co.kr
 0.0.0.0 log.ttbc-hcm.gov.vn
@@ -9673,6 +9682,7 @@
 0.0.0.0 megadata.co.kr
 0.0.0.0 megavisites.com
 0.0.0.0 melodicminute.com
+0.0.0.0 meltmilk.com
 0.0.0.0 memecounter.com
 0.0.0.0 memo.co
 0.0.0.0 memopilot.com
@@ -9760,6 +9770,7 @@
 0.0.0.0 metrics.bakeryandsnacks.com
 0.0.0.0 metrics.bakeryinfo.co.uk
 0.0.0.0 metrics.bangbros.com
+0.0.0.0 metrics.bankmonitor.hu
 0.0.0.0 metrics.barclaycardus.com
 0.0.0.0 metrics.bcbsnc.com
 0.0.0.0 metrics.beatsbydre.com
@@ -11201,6 +11212,7 @@
 0.0.0.0 persianstat.com
 0.0.0.0 persianstat.ir
 0.0.0.0 perso.aws.arc.pub
+0.0.0.0 personaclick.com
 0.0.0.0 personalicanvas.com
 0.0.0.0 personyze.com
 0.0.0.0 persuadesock.com
@@ -11603,7 +11615,6 @@
 0.0.0.0 prism.app-us1.com
 0.0.0.0 prism.buerokrucker.ch
 0.0.0.0 prism.drivingkyoto.com
-0.0.0.0 prism.pandora.tv
 0.0.0.0 prism.raumgleiter.com
 0.0.0.0 privacy-api.9gag.com
 0.0.0.0 privacy-policy.truste.com
@@ -11675,6 +11686,7 @@
 0.0.0.0 pt-trx.com
 0.0.0.0 pt.crossmediaservices.com
 0.0.0.0 pt.ispot.tv
+0.0.0.0 pt.legalstart.fr
 0.0.0.0 ptadsrv.de
 0.0.0.0 ptengine.cn
 0.0.0.0 ptengine.com
@@ -11735,6 +11747,7 @@
 0.0.0.0 pushprofit.ru
 0.0.0.0 pushpushgo.com
 0.0.0.0 pushspring.com
+0.0.0.0 pushwize.com
 0.0.0.0 pushwoosh.com
 0.0.0.0 puzzlingproperty.com
 0.0.0.0 pv.hd.sohu.com
@@ -12105,6 +12118,7 @@
 0.0.0.0 ressources.mavoiturecash.fr
 0.0.0.0 ressources.promoneuve.fr
 0.0.0.0 rest.wildstar-online.com
+0.0.0.0 restrainstorm.com
 0.0.0.0 resulticks.com
 0.0.0.0 retag.xyz
 0.0.0.0 retailads.net
@@ -12163,6 +12177,7 @@
 0.0.0.0 rigidrobin.com
 0.0.0.0 rigill.com
 0.0.0.0 rimxqx.slickdeals.net
+0.0.0.0 ring.staticmoly.me
 0.0.0.0 ringplant.com
 0.0.0.0 ringplayground.com
 0.0.0.0 ringsrecord.com
@@ -13253,6 +13268,7 @@
 0.0.0.0 sepyra.com
 0.0.0.0 serie-vostfr.com
 0.0.0.0 serious-partners.com
+0.0.0.0 serpentshampoo.com
 0.0.0.0 serv-ac.com
 0.0.0.0 serv1swork.com
 0.0.0.0 servcliente.marathon-sports-ec.com
@@ -13409,6 +13425,7 @@
 0.0.0.0 sitecatalysts.saisoncard.co.jp
 0.0.0.0 sitecats.troweprice.com
 0.0.0.0 sitecompass.com
+0.0.0.0 sitecounter.site
 0.0.0.0 sitedataprocessing.com
 0.0.0.0 siteimprove.com
 0.0.0.0 siteimproveanalytics.com
@@ -15153,6 +15170,7 @@
 0.0.0.0 stathound.com
 0.0.0.0 static-sb.com
 0.0.0.0 static-tracking.klaviyo.com
+0.0.0.0 static.fengkongcloud.com
 0.0.0.0 static.parsely.com
 0.0.0.0 staticiv.com
 0.0.0.0 statisfy.net
@@ -15633,6 +15651,7 @@
 0.0.0.0 stats.varrando.com
 0.0.0.0 stats.vattenfall.se
 0.0.0.0 stats.viddler.com
+0.0.0.0 stats.vidyome.com
 0.0.0.0 stats.visions.ch
 0.0.0.0 stats.vk-portal.net
 0.0.0.0 stats.voyages-sncf.com
@@ -17488,6 +17507,7 @@
 0.0.0.0 tracker.euroweb.net
 0.0.0.0 tracker.financialcontent.com
 0.0.0.0 tracker.gleanview.com
+0.0.0.0 tracker.hdtvcloud.com
 0.0.0.0 tracker.icerocket.com
 0.0.0.0 tracker.idocdn.com
 0.0.0.0 tracker.iltrovatore.it
@@ -17995,6 +18015,7 @@
 0.0.0.0 unative.com
 0.0.0.0 unbecomingbikes.com
 0.0.0.0 unbecominghall.com
+0.0.0.0 unbecominglamp.com
 0.0.0.0 uncn.jp
 0.0.0.0 uncoveredcircle.com
 0.0.0.0 uncoveredexpert.com
@@ -18094,6 +18115,7 @@
 0.0.0.0 urr.kumamoto-food.com
 0.0.0.0 urs.metacritic.com
 0.0.0.0 urstats.de
+0.0.0.0 us-central1-markuphero.cloudfunctions.net
 0.0.0.0 us.lucanet.com
 0.0.0.0 us.onkyo.actonservice.com
 0.0.0.0 us.promo.skf.com
@@ -18327,6 +18349,7 @@
 0.0.0.0 vry9.destinia.com
 0.0.0.0 vst.sibnet.ru
 0.0.0.0 vstat.borderlessbd.com
+0.0.0.0 vstats.me
 0.0.0.0 vt.mak.com
 0.0.0.0 vtf2f.banque-casino.fr
 0.0.0.0 vtracker.net
@@ -19411,6 +19434,7 @@
 0.0.0.0 ztgblo.vidaxl.lt
 0.0.0.0 ztoash.cyberpuerta.mx
 0.0.0.0 ztqnls.lojasrenner.com.br
+0.0.0.0 ztrack.online
 0.0.0.0 ztsrv.com
 0.0.0.0 zucks.net
 0.0.0.0 zudver.matsmart.se
@@ -19432,7 +19456,7 @@
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2023-01-29 00:59:58.268960
+# Generated at 2023-02-05 01:00:20.464284
 
 0.0.0.0 databerries.com
 0.0.0.0 fidzup
