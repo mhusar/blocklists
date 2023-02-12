@@ -1,6 +1,6 @@
-# Version: 202302050035
+# Version: 202302120038
 # Title: EasyPrivacy
-# Last modified: 05 Feb 2023 00:35 UTC
+# Last modified: 12 Feb 2023 00:38 UTC
 # Expires: 6 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -2580,6 +2580,7 @@ analytics.disneyplus.com
 analytics.dogecoin.gg
 analytics.dvidshub.net
 analytics.ecosia.org
+analytics.edgekey.net
 analytics.eggoffer.com
 analytics.eikko.ai
 analytics.eikondigital.it
@@ -3581,6 +3582,7 @@ blueknow.com
 bluemarblepayroll.actonservice.com
 blushingbeast.com
 blushingboundary.com
+blushingbread.com
 blushingwar.com
 blvdstatus.com
 blyrvv.hm.com
@@ -6644,6 +6646,7 @@ experianmarketingservices.digital
 experianmatch.info
 experience.contextly.com
 experienceeggs.com
+experiments.sparanoid.net
 experts.cutter.com
 explore-123.com
 explore.bytelab.uk
@@ -7540,6 +7543,7 @@ hbbtv-track.prosieben.de
 hbbtv-track.prosiebensat1puls4.com
 hbfpvm.comolib.com
 hbo5.concours-pass.com
+hbwrapper.com
 hbx.df-srv.de
 hby7.destinia.it
 hcagulfcoast.hrm.healthgrades.com
@@ -8968,6 +8972,7 @@ log.outbrainimg.com
 log.pinterest.com
 log.popin.cc
 log.quora.com
+log.rabobank.nl
 log.reformal.ru
 log.ren.tv
 log.rutube.ru
@@ -9690,6 +9695,7 @@ met.vgwort.de
 met1.hp.com
 met2.hp.com
 metalyzer.com
+metarouter.io
 metaversn.site
 meteorsolutions.com
 meter.bref.sh
@@ -10273,6 +10279,7 @@ monitor.music.qq.com
 monitoring.iraiser.eu
 monitus.net
 monkeytracker.cz
+monorail-edge.shopifysvc.com
 monsido.com
 monstat.com
 montpalatin.handicap.fr
@@ -11415,6 +11422,7 @@ plausible.billfox.co
 plausible.bostad.shop
 plausible.bots.gg
 plausible.brandonly.me
+plausible.citynews.ovh
 plausible.conveyal.com
 plausible.corbettbarr.com
 plausible.deploymentfromscratch.com
@@ -15079,6 +15087,7 @@ stat-track.com
 stat.24liveplus.com
 stat.4u.pl
 stat.5-tv.ru
+stat.absolutist.com
 stat.acca.it
 stat.altalex.com
 stat.api.2gis.ru
@@ -16592,6 +16601,7 @@ tl813.com
 tla.traderlink.com
 tls.thelibrarystore.com
 tm.jsuol.com.br
+tm.swp.de
 tm.tradetracker.net
 tm.uol.com.br
 tm.urssaf.fr
@@ -17435,6 +17445,7 @@ track.spothero.com
 track.sprinklecontent.com
 track.strife.com
 track.sunmedia.tv
+track.tappx.com
 track.tcppu.com
 track.td3x.com
 track.tesiteca.it
@@ -17911,6 +17922,7 @@ tuinfra.com
 tukuru.cotta.jp
 tulip18.com
 tumblebirds.com
+tumbleicicle.com
 tunnl.com
 turboeagle.co
 turbolion.io
@@ -17930,6 +17942,7 @@ twn36gx4109r.loveisblank.com
 twoeej.carrefour.fr
 twus-mms.theweek.com
 txfryh.terra.com.br
+txrx.bol.com
 txt.eu
 txv0.destinia.hu
 txvoin.with2.net
@@ -19442,7 +19455,7 @@ zzsqqx.shopjapan.co.jp
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2023-02-05 01:00:19.478087
+# Generated at 2023-02-12 01:00:29.458839
 
 databerries.com
 fidzup
