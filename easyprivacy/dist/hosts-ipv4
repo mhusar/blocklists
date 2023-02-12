@@ -1,6 +1,6 @@
-# Version: 202302050035
+# Version: 202302120038
 # Title: EasyPrivacy
-# Last modified: 05 Feb 2023 00:35 UTC
+# Last modified: 12 Feb 2023 00:38 UTC
 # Expires: 6 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -2594,6 +2594,7 @@
 0.0.0.0 analytics.dogecoin.gg
 0.0.0.0 analytics.dvidshub.net
 0.0.0.0 analytics.ecosia.org
+0.0.0.0 analytics.edgekey.net
 0.0.0.0 analytics.eggoffer.com
 0.0.0.0 analytics.eikko.ai
 0.0.0.0 analytics.eikondigital.it
@@ -3595,6 +3596,7 @@
 0.0.0.0 bluemarblepayroll.actonservice.com
 0.0.0.0 blushingbeast.com
 0.0.0.0 blushingboundary.com
+0.0.0.0 blushingbread.com
 0.0.0.0 blushingwar.com
 0.0.0.0 blvdstatus.com
 0.0.0.0 blyrvv.hm.com
@@ -6658,6 +6660,7 @@
 0.0.0.0 experianmatch.info
 0.0.0.0 experience.contextly.com
 0.0.0.0 experienceeggs.com
+0.0.0.0 experiments.sparanoid.net
 0.0.0.0 experts.cutter.com
 0.0.0.0 explore-123.com
 0.0.0.0 explore.bytelab.uk
@@ -7554,6 +7557,7 @@
 0.0.0.0 hbbtv-track.prosiebensat1puls4.com
 0.0.0.0 hbfpvm.comolib.com
 0.0.0.0 hbo5.concours-pass.com
+0.0.0.0 hbwrapper.com
 0.0.0.0 hbx.df-srv.de
 0.0.0.0 hby7.destinia.it
 0.0.0.0 hcagulfcoast.hrm.healthgrades.com
@@ -8982,6 +8986,7 @@
 0.0.0.0 log.pinterest.com
 0.0.0.0 log.popin.cc
 0.0.0.0 log.quora.com
+0.0.0.0 log.rabobank.nl
 0.0.0.0 log.reformal.ru
 0.0.0.0 log.ren.tv
 0.0.0.0 log.rutube.ru
@@ -9704,6 +9709,7 @@
 0.0.0.0 met1.hp.com
 0.0.0.0 met2.hp.com
 0.0.0.0 metalyzer.com
+0.0.0.0 metarouter.io
 0.0.0.0 metaversn.site
 0.0.0.0 meteorsolutions.com
 0.0.0.0 meter.bref.sh
@@ -10287,6 +10293,7 @@
 0.0.0.0 monitoring.iraiser.eu
 0.0.0.0 monitus.net
 0.0.0.0 monkeytracker.cz
+0.0.0.0 monorail-edge.shopifysvc.com
 0.0.0.0 monsido.com
 0.0.0.0 monstat.com
 0.0.0.0 montpalatin.handicap.fr
@@ -11429,6 +11436,7 @@
 0.0.0.0 plausible.bostad.shop
 0.0.0.0 plausible.bots.gg
 0.0.0.0 plausible.brandonly.me
+0.0.0.0 plausible.citynews.ovh
 0.0.0.0 plausible.conveyal.com
 0.0.0.0 plausible.corbettbarr.com
 0.0.0.0 plausible.deploymentfromscratch.com
@@ -15093,6 +15101,7 @@
 0.0.0.0 stat.24liveplus.com
 0.0.0.0 stat.4u.pl
 0.0.0.0 stat.5-tv.ru
+0.0.0.0 stat.absolutist.com
 0.0.0.0 stat.acca.it
 0.0.0.0 stat.altalex.com
 0.0.0.0 stat.api.2gis.ru
@@ -16606,6 +16615,7 @@
 0.0.0.0 tla.traderlink.com
 0.0.0.0 tls.thelibrarystore.com
 0.0.0.0 tm.jsuol.com.br
+0.0.0.0 tm.swp.de
 0.0.0.0 tm.tradetracker.net
 0.0.0.0 tm.uol.com.br
 0.0.0.0 tm.urssaf.fr
@@ -17449,6 +17459,7 @@
 0.0.0.0 track.sprinklecontent.com
 0.0.0.0 track.strife.com
 0.0.0.0 track.sunmedia.tv
+0.0.0.0 track.tappx.com
 0.0.0.0 track.tcppu.com
 0.0.0.0 track.td3x.com
 0.0.0.0 track.tesiteca.it
@@ -17925,6 +17936,7 @@
 0.0.0.0 tukuru.cotta.jp
 0.0.0.0 tulip18.com
 0.0.0.0 tumblebirds.com
+0.0.0.0 tumbleicicle.com
 0.0.0.0 tunnl.com
 0.0.0.0 turboeagle.co
 0.0.0.0 turbolion.io
@@ -17944,6 +17956,7 @@
 0.0.0.0 twoeej.carrefour.fr
 0.0.0.0 twus-mms.theweek.com
 0.0.0.0 txfryh.terra.com.br
+0.0.0.0 txrx.bol.com
 0.0.0.0 txt.eu
 0.0.0.0 txv0.destinia.hu
 0.0.0.0 txvoin.with2.net
