@@ -1,6 +1,6 @@
-# Version: 202302120038
+# Version: 202302181957
 # Title: EasyPrivacy
-# Last modified: 12 Feb 2023 00:38 UTC
+# Last modified: 18 Feb 2023 19:57 UTC
 # Expires: 6 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -2241,6 +2241,7 @@ adv.drtuber.com
 advalo.com
 advanced-web-analytics.com
 advangelists.com
+advantage.digitalsunray.com
 advantage.rsabroker.ca
 advconversion.com
 advertisementafterthought.com
@@ -2578,6 +2579,7 @@ analytics.contents.by-fw.jp
 analytics.convertlanguage.com
 analytics.corusent.com
 analytics.daasrv.net
+analytics.dashboard.fingerprint.com
 analytics.data.lloydsbankinggroup.com
 analytics.datahc.com
 analytics.dephibank.com
@@ -3299,6 +3301,7 @@ b.fxnetworks.com
 b.iheart.southwest.com
 b.itravel.southwest.com
 b.iwanna.southwest.com
+b.karte.io
 b.koodomobile.com
 b.law.com
 b.lyst.com
@@ -3313,6 +3316,7 @@ b.sli-spark.com
 b.snow.com
 b.telus.com
 b.your.rewardsemail.dominos.ca
+b0.yahoo.co.jp
 b0e8.com
 b1img.com
 b1js.com
@@ -3916,6 +3920,7 @@ cannontwin.com
 canopylabs.com
 capablecows.com
 capablecup.com
+capping.sirius.press
 capriciouscorn.com
 capsquirrel.com
 captcha-display.com
@@ -4245,6 +4250,7 @@ clickzzs.nl
 client-analytics.braintreegateway.com
 client-analytics.mts.ru
 client-log.box.com
+client-logger.salemove.com
 client-metrics.chess.com
 client.tahono.com
 clientgear.com
@@ -5992,6 +5998,7 @@ earthycopy.com
 easy-hit-counter.com
 easy-hit-counters.com
 easy.lv
+easycompute.systems
 easycounter.com
 easyhash.de
 easyhash.io
@@ -6409,6 +6416,7 @@ engagemaster.com
 engagetosell.com
 engageya.com
 engagio.com
+engine.traceparts.com
 engine212.com
 engine64.com
 enhance.com
@@ -6900,6 +6908,7 @@ footprintdns.com
 footprintlive.com
 force24.co.uk
 forecast.huffingtonpost.fr
+forecast.lemonde.fr
 forecasttiger.com
 foregoingfowl.com
 forensics1000.com
@@ -7054,6 +7063,7 @@ fun-hits.com
 functionalcrown.com
 fundraising.centuryresources.com
 funneld.com
+funnelserv.systems
 funnelytics.io
 funnyairplane.com
 funstage.com
@@ -7290,7 +7300,6 @@ glassmoni.researchgate.net
 glbtracker.com
 gleam.io
 gleamingtrade.com
-glia.com
 glijai.ten-navi.com
 glimr.io
 glisteningguide.com
@@ -9066,6 +9075,7 @@ logxp.ru
 logz.io
 logz.ru
 lokalleads-cci.com
+lokalwerben.t-online.de
 loloclicks.biz
 lomadee.com
 longinglettuce.com
@@ -9617,6 +9627,7 @@ maxymiser.com
 maxymiser.net
 maz.zba.jp
 mb-srv.com
+mb-tracking.com
 mb4a.com
 mbainfo.ust.hk
 mbhs.hrm.healthgrades.com
@@ -9644,6 +9655,7 @@ mdws.chinookfinancial.com
 mdws.kawarthacu.com
 mdws.vermilioncreditunion.com
 mdxapi.io
+measlymiddle.com
 measure.ameblo.jp
 measure.ly
 measure.refinery89.com
@@ -10212,6 +10224,7 @@ mit.postbank.de
 mit.researchlog.db.com
 mit.researchlog.dbresearch.com
 mit.researchlog.dbresearch.de
+mitour.de
 mixedreading.com
 mixi.mn
 mixpanel.com
@@ -10239,6 +10252,7 @@ mktoresp.com
 mkzpqu.sungboon.com
 mkztpk.invictastores.com
 ml-attr.com
+ml-sys.xyz
 mlclick.com
 mlinks.fluz.app
 mlm-tracking-service.meinestadt.de
@@ -12275,6 +12289,7 @@ rtactivate.com
 rtb-seller.com
 rtb123.com
 rtbiq.com
+rtg-adroute.focas.jp
 rtoaster.jp
 rtox.net
 rtrk.co.nz
@@ -12303,6 +12318,7 @@ rumanalytics.com
 rumble.com
 rumpelstiltskinhead.com
 rup5.destinia.ru
+ruralrobin.com
 rusticprice.com
 rutarget.ru
 ruthlessdegree.com
@@ -12584,7 +12600,6 @@ sailsuit.com
 sailthru.com
 sal.isanook.com
 salecycle.com
-salemove.com
 sales.avis.com
 sales.disneylandparis.com
 salesgenius.com
@@ -13341,6 +13356,7 @@ shinestuart.com
 shinystat.com
 shinystat.it
 shippinginsights.com
+shiveringspot.com
 shockinggrass.com
 shockingship.com
 shoelace.com
@@ -15266,6 +15282,7 @@ stats.blogoscoop.net
 stats.bluebillywig.com
 stats.bmxdevils.be
 stats.boscabeatha.ie
+stats.bouyguestelecom.fr
 stats.breathly.app
 stats.briskoda.net
 stats.broddin.be
@@ -15696,6 +15713,8 @@ statsadv.dadapro.com
 statsapi.screen9.com
 statsbox.info
 statsbox.nl
+statscollector-1.agora.io
+statscollector.sd-rtn.com
 statsd.zmags.com
 statse-omtrdc.deka.de
 statsforever.com
@@ -16279,6 +16298,7 @@ target.walgreens.com
 target.zeiss.com
 targetab.t-mobile.com
 targetfuel.com
+targeting.focas.jp
 targeting.voxus.tv
 targeting.washpost.nile.works
 targetix.net
