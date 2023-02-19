@@ -1,6 +1,6 @@
-# Version: 202302120038
+# Version: 202302181957
 # Title: EasyPrivacy
-# Last modified: 12 Feb 2023 00:38 UTC
+# Last modified: 18 Feb 2023 19:57 UTC
 # Expires: 6 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -2241,6 +2241,7 @@
 0.0.0.0 advalo.com
 0.0.0.0 advanced-web-analytics.com
 0.0.0.0 advangelists.com
+0.0.0.0 advantage.digitalsunray.com
 0.0.0.0 advantage.rsabroker.ca
 0.0.0.0 advconversion.com
 0.0.0.0 advertisementafterthought.com
@@ -2578,6 +2579,7 @@
 0.0.0.0 analytics.convertlanguage.com
 0.0.0.0 analytics.corusent.com
 0.0.0.0 analytics.daasrv.net
+0.0.0.0 analytics.dashboard.fingerprint.com
 0.0.0.0 analytics.data.lloydsbankinggroup.com
 0.0.0.0 analytics.datahc.com
 0.0.0.0 analytics.dephibank.com
@@ -3299,6 +3301,7 @@
 0.0.0.0 b.iheart.southwest.com
 0.0.0.0 b.itravel.southwest.com
 0.0.0.0 b.iwanna.southwest.com
+0.0.0.0 b.karte.io
 0.0.0.0 b.koodomobile.com
 0.0.0.0 b.law.com
 0.0.0.0 b.lyst.com
@@ -3313,6 +3316,7 @@
 0.0.0.0 b.snow.com
 0.0.0.0 b.telus.com
 0.0.0.0 b.your.rewardsemail.dominos.ca
+0.0.0.0 b0.yahoo.co.jp
 0.0.0.0 b0e8.com
 0.0.0.0 b1img.com
 0.0.0.0 b1js.com
@@ -3916,6 +3920,7 @@
 0.0.0.0 canopylabs.com
 0.0.0.0 capablecows.com
 0.0.0.0 capablecup.com
+0.0.0.0 capping.sirius.press
 0.0.0.0 capriciouscorn.com
 0.0.0.0 capsquirrel.com
 0.0.0.0 captcha-display.com
@@ -4245,6 +4250,7 @@
 0.0.0.0 client-analytics.braintreegateway.com
 0.0.0.0 client-analytics.mts.ru
 0.0.0.0 client-log.box.com
+0.0.0.0 client-logger.salemove.com
 0.0.0.0 client-metrics.chess.com
 0.0.0.0 client.tahono.com
 0.0.0.0 clientgear.com
@@ -5992,6 +5998,7 @@
 0.0.0.0 easy-hit-counter.com
 0.0.0.0 easy-hit-counters.com
 0.0.0.0 easy.lv
+0.0.0.0 easycompute.systems
 0.0.0.0 easycounter.com
 0.0.0.0 easyhash.de
 0.0.0.0 easyhash.io
@@ -6409,6 +6416,7 @@
 0.0.0.0 engagetosell.com
 0.0.0.0 engageya.com
 0.0.0.0 engagio.com
+0.0.0.0 engine.traceparts.com
 0.0.0.0 engine212.com
 0.0.0.0 engine64.com
 0.0.0.0 enhance.com
@@ -6900,6 +6908,7 @@
 0.0.0.0 footprintlive.com
 0.0.0.0 force24.co.uk
 0.0.0.0 forecast.huffingtonpost.fr
+0.0.0.0 forecast.lemonde.fr
 0.0.0.0 forecasttiger.com
 0.0.0.0 foregoingfowl.com
 0.0.0.0 forensics1000.com
@@ -7054,6 +7063,7 @@
 0.0.0.0 functionalcrown.com
 0.0.0.0 fundraising.centuryresources.com
 0.0.0.0 funneld.com
+0.0.0.0 funnelserv.systems
 0.0.0.0 funnelytics.io
 0.0.0.0 funnyairplane.com
 0.0.0.0 funstage.com
@@ -7290,7 +7300,6 @@
 0.0.0.0 glbtracker.com
 0.0.0.0 gleam.io
 0.0.0.0 gleamingtrade.com
-0.0.0.0 glia.com
 0.0.0.0 glijai.ten-navi.com
 0.0.0.0 glimr.io
 0.0.0.0 glisteningguide.com
@@ -9066,6 +9075,7 @@
 0.0.0.0 logz.io
 0.0.0.0 logz.ru
 0.0.0.0 lokalleads-cci.com
+0.0.0.0 lokalwerben.t-online.de
 0.0.0.0 loloclicks.biz
 0.0.0.0 lomadee.com
 0.0.0.0 longinglettuce.com
@@ -9617,6 +9627,7 @@
 0.0.0.0 maxymiser.net
 0.0.0.0 maz.zba.jp
 0.0.0.0 mb-srv.com
+0.0.0.0 mb-tracking.com
 0.0.0.0 mb4a.com
 0.0.0.0 mbainfo.ust.hk
 0.0.0.0 mbhs.hrm.healthgrades.com
@@ -9644,6 +9655,7 @@
 0.0.0.0 mdws.kawarthacu.com
 0.0.0.0 mdws.vermilioncreditunion.com
 0.0.0.0 mdxapi.io
+0.0.0.0 measlymiddle.com
 0.0.0.0 measure.ameblo.jp
 0.0.0.0 measure.ly
 0.0.0.0 measure.refinery89.com
@@ -10212,6 +10224,7 @@
 0.0.0.0 mit.researchlog.db.com
 0.0.0.0 mit.researchlog.dbresearch.com
 0.0.0.0 mit.researchlog.dbresearch.de
+0.0.0.0 mitour.de
 0.0.0.0 mixedreading.com
 0.0.0.0 mixi.mn
 0.0.0.0 mixpanel.com
@@ -10239,6 +10252,7 @@
 0.0.0.0 mkzpqu.sungboon.com
 0.0.0.0 mkztpk.invictastores.com
 0.0.0.0 ml-attr.com
+0.0.0.0 ml-sys.xyz
 0.0.0.0 mlclick.com
 0.0.0.0 mlinks.fluz.app
 0.0.0.0 mlm-tracking-service.meinestadt.de
@@ -12275,6 +12289,7 @@
 0.0.0.0 rtb-seller.com
 0.0.0.0 rtb123.com
 0.0.0.0 rtbiq.com
+0.0.0.0 rtg-adroute.focas.jp
 0.0.0.0 rtoaster.jp
 0.0.0.0 rtox.net
 0.0.0.0 rtrk.co.nz
@@ -12303,6 +12318,7 @@
 0.0.0.0 rumble.com
 0.0.0.0 rumpelstiltskinhead.com
 0.0.0.0 rup5.destinia.ru
+0.0.0.0 ruralrobin.com
 0.0.0.0 rusticprice.com
 0.0.0.0 rutarget.ru
 0.0.0.0 ruthlessdegree.com
@@ -12584,7 +12600,6 @@
 0.0.0.0 sailthru.com
 0.0.0.0 sal.isanook.com
 0.0.0.0 salecycle.com
-0.0.0.0 salemove.com
 0.0.0.0 sales.avis.com
 0.0.0.0 sales.disneylandparis.com
 0.0.0.0 salesgenius.com
@@ -13341,6 +13356,7 @@
 0.0.0.0 shinystat.com
 0.0.0.0 shinystat.it
 0.0.0.0 shippinginsights.com
+0.0.0.0 shiveringspot.com
 0.0.0.0 shockinggrass.com
 0.0.0.0 shockingship.com
 0.0.0.0 shoelace.com
@@ -15266,6 +15282,7 @@
 0.0.0.0 stats.bluebillywig.com
 0.0.0.0 stats.bmxdevils.be
 0.0.0.0 stats.boscabeatha.ie
+0.0.0.0 stats.bouyguestelecom.fr
 0.0.0.0 stats.breathly.app
 0.0.0.0 stats.briskoda.net
 0.0.0.0 stats.broddin.be
@@ -15696,6 +15713,8 @@
 0.0.0.0 statsapi.screen9.com
 0.0.0.0 statsbox.info
 0.0.0.0 statsbox.nl
+0.0.0.0 statscollector-1.agora.io
+0.0.0.0 statscollector.sd-rtn.com
 0.0.0.0 statsd.zmags.com
 0.0.0.0 statse-omtrdc.deka.de
 0.0.0.0 statsforever.com
@@ -16279,6 +16298,7 @@
 0.0.0.0 target.zeiss.com
 0.0.0.0 targetab.t-mobile.com
 0.0.0.0 targetfuel.com
+0.0.0.0 targeting.focas.jp
 0.0.0.0 targeting.voxus.tv
 0.0.0.0 targeting.washpost.nile.works
 0.0.0.0 targetix.net
@@ -19469,7 +19489,7 @@
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2023-02-12 01:00:30.795558
+# Generated at 2023-02-19 00:58:51.817057
 
 0.0.0.0 databerries.com
 0.0.0.0 fidzup
