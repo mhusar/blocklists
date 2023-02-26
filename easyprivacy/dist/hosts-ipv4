@@ -1,6 +1,6 @@
-# Version: 202302181957
+# Version: 202302260016
 # Title: EasyPrivacy
-# Last modified: 18 Feb 2023 19:57 UTC
+# Last modified: 26 Feb 2023 00:16 UTC
 # Expires: 6 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -1783,7 +1783,6 @@
 0.0.0.0 adbmetrics.vocento.com
 0.0.0.0 adbmetrics.womennow.es
 0.0.0.0 adbmetrics.xn--futuroenespaol-1nb.es
-0.0.0.0 adbp.online
 0.0.0.0 adbq.bk.mufg.jp
 0.0.0.0 adbsmetrics.ep.hmc.co.kr
 0.0.0.0 adbsmetrics.genesis.com
@@ -2375,6 +2374,7 @@
 0.0.0.0 algopine.com
 0.0.0.0 algrcr.sandro-paris.com
 0.0.0.0 alhiop.thehandsome.com
+0.0.0.0 aliasanvil.com
 0.0.0.0 alikeaddition.com
 0.0.0.0 alikearm.com
 0.0.0.0 alinks.outcomes4me.com
@@ -2660,6 +2660,7 @@
 0.0.0.0 analytics.kapost.com
 0.0.0.0 analytics.kerns.co
 0.0.0.0 analytics.kkb.com.tr
+0.0.0.0 analytics.kongregate.io
 0.0.0.0 analytics.kraken.com
 0.0.0.0 analytics.krieselreihe.com
 0.0.0.0 analytics.kukla.club
@@ -2830,7 +2831,6 @@
 0.0.0.0 analytics.tntsports.com
 0.0.0.0 analytics.tntsports.com.ar
 0.0.0.0 analytics.top10-charts.com
-0.0.0.0 analytics.touchnote.io
 0.0.0.0 analytics.tout.com
 0.0.0.0 analytics.tradedoubler.com
 0.0.0.0 analytics.traderlink.com
@@ -3250,7 +3250,6 @@
 0.0.0.0 avocado.laprovence.com
 0.0.0.0 avp.labanquepostale.fr
 0.0.0.0 avsplow.com
-0.0.0.0 avstat.it
 0.0.0.0 awakebird.com
 0.0.0.0 awap.equifax.com
 0.0.0.0 awaps.yandex.net
@@ -3279,7 +3278,6 @@
 0.0.0.0 axoqvl.daf-shoes.com
 0.0.0.0 axpjcp.tennis-point.co.uk
 0.0.0.0 ayc0zsm69431gfebd.info
-0.0.0.0 ayc0zsm69431gfebd.xyz
 0.0.0.0 ayleaf.petersofkensington.com.au
 0.0.0.0 aypbpr.tokopedia.com
 0.0.0.0 az693360.vo.msecnd.net
@@ -3530,7 +3528,6 @@
 0.0.0.0 bilahh.feuvert.fr
 0.0.0.0 bildirt.com
 0.0.0.0 billowybead.com
-0.0.0.0 binarybusiness.de
 0.0.0.0 binocule21c.merriam-webster.com
 0.0.0.0 bionicclick.com
 0.0.0.0 bisko.mall.tv
@@ -3550,7 +3547,6 @@
 0.0.0.0 bizible.com
 0.0.0.0 biznews.oregon.gov
 0.0.0.0 bizo.com
-0.0.0.0 bizsolutions.strands.com
 0.0.0.0 bizspring.net
 0.0.0.0 bjc.hrm.healthgrades.com
 0.0.0.0 bjcathay.com
@@ -3565,6 +3561,7 @@
 0.0.0.0 blaick.com
 0.0.0.0 blava.viessmann.sk
 0.0.0.0 bldr.mkt.samsung.com
+0.0.0.0 bleachbubble.com
 0.0.0.0 blfkmp.fti.de
 0.0.0.0 blinks.mindoktor.se
 0.0.0.0 blinkstest.mindoktor.se
@@ -3756,7 +3753,6 @@
 0.0.0.0 bsswkv.kirmizibeyazz.com
 0.0.0.0 bstn-14-ma.com
 0.0.0.0 btbuckets.com
-0.0.0.0 btez8.xyz
 0.0.0.0 btg360.com.br
 0.0.0.0 btloader.com
 0.0.0.0 btmean.cardosystems.com
@@ -3948,6 +3944,7 @@
 0.0.0.0 carte.fleet-page.total.fr
 0.0.0.0 carts.guru
 0.0.0.0 cartstack.com
+0.0.0.0 carvecakes.com
 0.0.0.0 carzbz.braincandy.net
 0.0.0.0 carzbz.triviatoday.com
 0.0.0.0 cashbeet.com
@@ -3996,7 +3993,6 @@
 0.0.0.0 cdn1.pebx.pl
 0.0.0.0 cdn1.skrill.com
 0.0.0.0 cdn7.baunetz.de
-0.0.0.0 cdnanalytics.xyz
 0.0.0.0 cdnhst.xyz
 0.0.0.0 cdnmaster.cn
 0.0.0.0 cdnmaster.com
@@ -4043,6 +4039,7 @@
 0.0.0.0 channelevents.partnermcafee.com
 0.0.0.0 channelusa.samsung.com
 0.0.0.0 channelwatcher.panda.tech
+0.0.0.0 chargecracker.com
 0.0.0.0 charms.pugster.com
 0.0.0.0 chart.dk
 0.0.0.0 chartaca.com
@@ -4437,6 +4434,7 @@
 0.0.0.0 collection.saga.co.uk
 0.0.0.0 collector-api.99designs.com
 0.0.0.0 collector-px0py5pczn.octopart.com
+0.0.0.0 collector-videoplayer.5centscdn.net
 0.0.0.0 collector.api.video
 0.0.0.0 collector.automote.co.nz
 0.0.0.0 collector.cint.com
@@ -4751,7 +4749,6 @@
 0.0.0.0 counter.jdi5.com
 0.0.0.0 counter.maases.com
 0.0.0.0 counter.megaindex.ru
-0.0.0.0 counter.nn.ru
 0.0.0.0 counter.nope.dk
 0.0.0.0 counter.ok.ee
 0.0.0.0 counter.packa2.cz
@@ -4959,6 +4956,7 @@
 0.0.0.0 curtaincows.com
 0.0.0.0 curvedsquirrel.com
 0.0.0.0 curvycry.com
+0.0.0.0 cushiondrum.com
 0.0.0.0 cushionpig.com
 0.0.0.0 custom.plausible.io
 0.0.0.0 customer.homedepot.com
@@ -5584,6 +5582,7 @@
 0.0.0.0 diffusion-tracker.com
 0.0.0.0 dig.lianjia.com
 0.0.0.0 dig.ultimedia.com
+0.0.0.0 digianalytics.fr
 0.0.0.0 digidip.net
 0.0.0.0 digistat.westjet.com
 0.0.0.0 digistats.westjet.com
@@ -5705,6 +5704,7 @@
 0.0.0.0 distinctday.com
 0.0.0.0 distralytics.com
 0.0.0.0 distribeo.com
+0.0.0.0 distributionneck.com
 0.0.0.0 distributiontomatoes.com
 0.0.0.0 disturbedquiet.com
 0.0.0.0 divehope.com
@@ -6365,7 +6365,6 @@
 0.0.0.0 emjcd.com
 0.0.0.0 emlink.hermo.my
 0.0.0.0 emltrk.com
-0.0.0.0 emng.libero.it
 0.0.0.0 emotir.pcone.com.tw
 0.0.0.0 emptyescort.com
 0.0.0.0 emycewiw.xyz
@@ -6653,6 +6652,7 @@
 0.0.0.0 exacttarget.com
 0.0.0.0 exapxl.de
 0.0.0.0 exbujk.glamood.com
+0.0.0.0 exchangedetail.com
 0.0.0.0 excited.me
 0.0.0.0 exclusivebrass.com
 0.0.0.0 exclusiveclicks.com
@@ -8426,6 +8426,7 @@
 0.0.0.0 jstracker.com
 0.0.0.0 jswlpe.modainpelle.com
 0.0.0.0 jtyutq.chaussures.fr
+0.0.0.0 jubbie.de
 0.0.0.0 jubiitag.dk
 0.0.0.0 jujtcq.amnibus.com
 0.0.0.0 jumbo.zomato.com
@@ -8544,6 +8545,7 @@
 0.0.0.0 knorzj.wearfigs.com
 0.0.0.0 knotkettle.com
 0.0.0.0 knottysticks.com
+0.0.0.0 knottyswing.com
 0.0.0.0 knowledge.equitymethods.com
 0.0.0.0 knowledgevine.net
 0.0.0.0 koddi.com
@@ -8961,7 +8963,6 @@
 0.0.0.0 log.adplex.co.kr
 0.0.0.0 log.aimtell.com
 0.0.0.0 log.aliyuncs.com
-0.0.0.0 log.artipbox.net
 0.0.0.0 log.bitauto.com
 0.0.0.0 log.china.cn
 0.0.0.0 log.cizion.com
@@ -8980,7 +8981,6 @@
 0.0.0.0 log.idnes.cz
 0.0.0.0 log.invodo.com
 0.0.0.0 log.kibboko.com
-0.0.0.0 log.kslogs.ru
 0.0.0.0 log.kuwo.cn
 0.0.0.0 log.m.sm.cn
 0.0.0.0 log.mappy.net
@@ -9079,6 +9079,7 @@
 0.0.0.0 loloclicks.biz
 0.0.0.0 lomadee.com
 0.0.0.0 longinglettuce.com
+0.0.0.0 longingtrees.com
 0.0.0.0 lookery.com
 0.0.0.0 lookit.cz
 0.0.0.0 lookmy.info
@@ -10071,6 +10072,7 @@
 0.0.0.0 metrics.taste.com.au
 0.0.0.0 metrics.td.com
 0.0.0.0 metrics.teampages.com
+0.0.0.0 metrics.ted.com
 0.0.0.0 metrics.telegraph.co.uk
 0.0.0.0 metrics.telenet.be
 0.0.0.0 metrics.tescobroadband.com
@@ -10204,7 +10206,6 @@
 0.0.0.0 minescripts.info
 0.0.0.0 minewhat.com
 0.0.0.0 minexmr.com
-0.0.0.0 mining.best
 0.0.0.0 mininghub.club
 0.0.0.0 minkatu.com
 0.0.0.0 minormeeting.com
@@ -10227,6 +10228,7 @@
 0.0.0.0 mitour.de
 0.0.0.0 mixedreading.com
 0.0.0.0 mixi.mn
+0.0.0.0 mixpanel-proxy.ted.com
 0.0.0.0 mixpanel.com
 0.0.0.0 mjca-yijws.global.ssl.fastly.net
 0.0.0.0 mjnpya.marktplaats.nl
@@ -10468,8 +10470,8 @@
 0.0.0.0 n.thestar.com
 0.0.0.0 n0909.com
 0.0.0.0 n26-trusted.n26.com
-0.0.0.0 n511.thestar.com
 0.0.0.0 n74s9.com
+0.0.0.0 naanalle.pl
 0.0.0.0 naayna.com
 0.0.0.0 nabaza.com
 0.0.0.0 nablabee.com
@@ -10511,12 +10513,12 @@
 0.0.0.0 nedstat.net
 0.0.0.0 nedstatbasic.net
 0.0.0.0 nedstatpro.net
+0.0.0.0 needlessnorth.com
 0.0.0.0 negotiatetime.com
 0.0.0.0 neighborlywatch.com
 0.0.0.0 nejmqianyan.cn
 0.0.0.0 neki.org
 0.0.0.0 neocounter.neoworx-blog-tools.net
-0.0.0.0 ner-de-mi-nis-6.info
 0.0.0.0 nero.live
 0.0.0.0 nerohut.com
 0.0.0.0 nervoussummer.com
@@ -10597,7 +10599,6 @@
 0.0.0.0 ni8.lafuma.com
 0.0.0.0 niblewren.co
 0.0.0.0 nicequest.com
-0.0.0.0 niematego.tk
 0.0.0.0 niftyhospital.com
 0.0.0.0 niftyjelly.com
 0.0.0.0 niftymaps.com
@@ -10755,7 +10756,6 @@
 0.0.0.0 odoscope.cloud
 0.0.0.0 odoscope.com
 0.0.0.0 oedlmz.underarmour.it
-0.0.0.0 oei1.gq
 0.0.0.0 oek7.april-moto.com
 0.0.0.0 oevery.com
 0.0.0.0 oewabox.at
@@ -11032,7 +11032,6 @@
 0.0.0.0 overconfidentfood.com
 0.0.0.0 overratedchalk.com
 0.0.0.0 overstat.com
-0.0.0.0 owlanalytics.io
 0.0.0.0 owldata.com
 0.0.0.0 owlsr.us
 0.0.0.0 ownpage.fr
@@ -11117,6 +11116,7 @@
 0.0.0.0 pahtag.tech
 0.0.0.0 paidstats.com
 0.0.0.0 pailcrime.com
+0.0.0.0 painstakingpickle.com
 0.0.0.0 paintplantation.com
 0.0.0.0 paleleaf.com
 0.0.0.0 pam.nextinpact.com
@@ -11562,6 +11562,7 @@
 0.0.0.0 pointillist.com
 0.0.0.0 pointlesshour.com
 0.0.0.0 pointlesspocket.com
+0.0.0.0 pointlessprofit.com
 0.0.0.0 pointlessrifle.com
 0.0.0.0 pointmediatracker.com
 0.0.0.0 pointomatic.com
@@ -11628,6 +11629,7 @@
 0.0.0.0 previouspotato.com
 0.0.0.0 prf.vagnt.com
 0.0.0.0 prfct.co
+0.0.0.0 priceypies.com
 0.0.0.0 pricklydebt.com
 0.0.0.0 pricklyplastic.com
 0.0.0.0 primate.dmarcdigests.com
@@ -12310,7 +12312,6 @@
 0.0.0.0 rum.kobo.com
 0.0.0.0 rum.layer0.co
 0.0.0.0 rum.marquardmedia.hu
-0.0.0.0 rum.minutemediaservices.com
 0.0.0.0 rum.nccgroup-webperf.com
 0.0.0.0 rum.perfops.net
 0.0.0.0 rum.uptime.com
@@ -14970,7 +14971,6 @@
 0.0.0.0 ssa.oprah.com
 0.0.0.0 ssa.stepstone.com
 0.0.0.0 ssac.suning.com
-0.0.0.0 ssc.api.bbc.com
 0.0.0.0 ssc.cvent.com
 0.0.0.0 ssc.dengiamerika.com
 0.0.0.0 ssc.disneylandparis.com
@@ -15587,7 +15587,6 @@
 0.0.0.0 stats.searchftps.net
 0.0.0.0 stats.sebastiangale.ca
 0.0.0.0 stats.sec.telefonica.com
-0.0.0.0 stats.seedr.com
 0.0.0.0 stats.servicedesignjobs.com
 0.0.0.0 stats.sexemodel.com
 0.0.0.0 stats.shareup.app
@@ -15988,6 +15987,7 @@
 0.0.0.0 swa.vodafone.cz
 0.0.0.0 swa.vodafone.pt
 0.0.0.0 swa.wowcher.co.uk
+0.0.0.0 swankysquare.com
 0.0.0.0 swasc.homedepot.ca
 0.0.0.0 swasc.homedepot.com
 0.0.0.0 swasc.kaufland.bg
@@ -17458,7 +17458,6 @@
 0.0.0.0 track.pokestats.gg
 0.0.0.0 track.postkodlotteriet.se
 0.0.0.0 track.pricespider.com
-0.0.0.0 track.qcri.org
 0.0.0.0 track.qoof.com
 0.0.0.0 track.quad.com
 0.0.0.0 track.ra.icast.cn
@@ -17593,7 +17592,6 @@
 0.0.0.0 tracking.adweb.co.kr
 0.0.0.0 tracking.aegpresents.com
 0.0.0.0 tracking.aita.gov.vn
-0.0.0.0 tracking.alarabiya.net
 0.0.0.0 tracking.allopneus.com
 0.0.0.0 tracking.alphacard.com
 0.0.0.0 tracking.americaneagle.com
@@ -17768,7 +17766,6 @@
 0.0.0.0 tracking202.com
 0.0.0.0 tracking3.vnncdn.net
 0.0.0.0 trackingaa.hitachienergy.com
-0.0.0.0 trackingapi.cloudapp.net
 0.0.0.0 trackingca.com
 0.0.0.0 trackinglabs.com
 0.0.0.0 trackingpro.pro
@@ -17876,6 +17873,7 @@
 0.0.0.0 triptease.io
 0.0.0.0 triptease.net
 0.0.0.0 triton.companyegg.com
+0.0.0.0 trk-maiorum.com
 0.0.0.0 trk.adbutter.net
 0.0.0.0 trk.bc.shutterfly.com
 0.0.0.0 trk.blume2000.de
@@ -17907,7 +17905,6 @@
 0.0.0.0 trstplse.com
 0.0.0.0 trtl.ws
 0.0.0.0 tru.am
-0.0.0.0 tru.webelapp.com
 0.0.0.0 truckstomatoes.com
 0.0.0.0 truconversion.com
 0.0.0.0 truehits.in.th
@@ -18303,6 +18300,7 @@
 0.0.0.0 virgul.com
 0.0.0.0 virool.com
 0.0.0.0 virtualnet.co.uk
+0.0.0.0 virtualvincent.com
 0.0.0.0 visibility-stats.com
 0.0.0.0 visibli.com
 0.0.0.0 visilabs.net
@@ -19389,6 +19387,7 @@
 0.0.0.0 z444o.com
 0.0.0.0 z492.ctinsider.com
 0.0.0.0 z680.beaumontenterprise.com
+0.0.0.0 z737.thestar.com
 0.0.0.0 za.zdn.vn
 0.0.0.0 zabbix.net.zooplus.nl
 0.0.0.0 zagrabiti.viessmann.hr
