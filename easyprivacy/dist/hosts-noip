@@ -1,6 +1,6 @@
-# Version: 202302260016
+# Version: 202303042334
 # Title: EasyPrivacy
-# Last modified: 26 Feb 2023 00:16 UTC
+# Last modified: 04 Mar 2023 23:34 UTC
 # Expires: 6 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -2568,6 +2568,7 @@ analytics.daasrv.net
 analytics.dashboard.fingerprint.com
 analytics.data.lloydsbankinggroup.com
 analytics.datahc.com
+analytics.dealer.com
 analytics.dephibank.com
 analytics.designspiration.com
 analytics.deutscher-apotheker-verlag.de
@@ -3642,6 +3643,7 @@ bouncepilot.com
 bouncex.com
 bouncyfront.com
 bouncyproperty.com
+boundlessbrake.com
 box.bossdata.be
 bp01.net
 bpe.mlb.com
@@ -4068,7 +4070,6 @@ chubbycreature.com
 chunkycactus.com
 churro.noteapps.info
 ci.quickbooks.com
-cifraclub.com.br
 cihnqp6p65.koinly.io
 cijfers.tweakers.nl
 cil.isotope.com
@@ -5702,6 +5703,7 @@ djmzap.gamivo.com
 dk4ywix.com
 dkclxi.sitkagear.com
 dko.vente-unique.nl
+dkotrack.com
 dkskbu.demae-can.com
 dkupaw9ae63a8.cloudfront.net
 dl-stage.zola.com
@@ -8117,6 +8119,7 @@ inpwrd.com
 inqjal.dickssportinggoods.com
 inquisitiveinvention.com
 inrd.ru
+ins.connatix.com
 inside-graph.com
 insight.fonecta.fi
 insight.mintel.com
@@ -8898,6 +8901,7 @@ liosix.mtvuutiset.fi
 listenlayer.com
 listrakbi.com
 lists.ccmbg.com
+lit.connatix.com
 lite-cdn.com
 literally-analytics.appspot.com
 literatelight.com
@@ -9091,6 +9095,8 @@ lporirxe.com
 lps.qantas.com
 lqpzdi.coppel.com
 lqxjrk.fbs.com
+lr-in-prod.com
+lr-in.com
 lr-ingest.io
 lreust.joshinweb.jp
 lrhyty.weeronline.nl
@@ -9903,6 +9909,7 @@ metrics.goldcoastbulletin.com.au
 metrics.gq.com.au
 metrics.greendot.com
 metrics.greenflag.com
+metrics.gs-chat.com
 metrics.hackerrank.com
 metrics.harley-davidson.com
 metrics.hatarako.net
@@ -11385,6 +11392,7 @@ pl.1feed.app
 pl.astro-akatemia.fi
 pl.astro.fi
 pl.codetheweb.blog
+pl.connatix.com
 pl.ethan.link
 pl.fashmoms.com
 pl.getfamealy.com
@@ -11577,6 +11585,7 @@ postaffiliatepro.com
 postgraduate.smu.edu.sg
 postgraduate2.smu.edu.sg
 posthog.com
+potatoinvention.com
 powderprofit.com
 powercount.com
 pp.promocionesfarma.com
@@ -12558,6 +12567,7 @@ sadbmetrics.womennow.es
 sadbmetrics.worldcanic.com
 sadbmetrics.xlsemanal.com
 sadbmetrics.zendalibros.com
+sadloaf.com
 sadobe.autoscout24.de
 sadobe.autoscout24.it
 sadobe.autoscout24.lu
@@ -12853,6 +12863,7 @@ scout.bergfreunde.nl
 scout.bergfreunde.se
 scout.us2.salesloft.com
 scoutanalytics.net
+scrapesleep.com
 scratchsofa.com
 screechingfurniture.com
 screechingslip.com
@@ -13322,6 +13333,7 @@ sftrack.searchforce.net
 sg.promo.skf.com
 sg3.notarize.com
 sgali-mcs.byteoversea.com
+sgstats.com
 sgw-analytics.panasonic.com
 shaggytank.com
 shakegoldfish.com
@@ -16007,6 +16019,8 @@ swfstats.com
 swiftmining.win
 swimslope.com
 swiss-counter.com
+swmhdata.stuttgarter-nachrichten.de
+swmhdata.stuttgarter-zeitung.de
 swordgoose.com
 swwcyk.ahaber.com.tr
 swwcyk.atv.com.tr
@@ -17536,6 +17550,7 @@ tracker.myyschool.xyz
 tracker.nbcuas.com
 tracker.netklix.com
 tracker.nitropay.com
+tracker.novage.com.ua
 tracker.providence.org
 tracker.publico.pt
 tracker.ranker.com
