@@ -1,6 +1,6 @@
-# Version: 202302260016
+# Version: 202303042334
 # Title: EasyPrivacy
-# Last modified: 26 Feb 2023 00:16 UTC
+# Last modified: 04 Mar 2023 23:34 UTC
 # Expires: 6 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -2582,6 +2582,7 @@
 0.0.0.0 analytics.dashboard.fingerprint.com
 0.0.0.0 analytics.data.lloydsbankinggroup.com
 0.0.0.0 analytics.datahc.com
+0.0.0.0 analytics.dealer.com
 0.0.0.0 analytics.dephibank.com
 0.0.0.0 analytics.designspiration.com
 0.0.0.0 analytics.deutscher-apotheker-verlag.de
@@ -3656,6 +3657,7 @@
 0.0.0.0 bouncex.com
 0.0.0.0 bouncyfront.com
 0.0.0.0 bouncyproperty.com
+0.0.0.0 boundlessbrake.com
 0.0.0.0 box.bossdata.be
 0.0.0.0 bp01.net
 0.0.0.0 bpe.mlb.com
@@ -4082,7 +4084,6 @@
 0.0.0.0 chunkycactus.com
 0.0.0.0 churro.noteapps.info
 0.0.0.0 ci.quickbooks.com
-0.0.0.0 cifraclub.com.br
 0.0.0.0 cihnqp6p65.koinly.io
 0.0.0.0 cijfers.tweakers.nl
 0.0.0.0 cil.isotope.com
@@ -5716,6 +5717,7 @@
 0.0.0.0 dk4ywix.com
 0.0.0.0 dkclxi.sitkagear.com
 0.0.0.0 dko.vente-unique.nl
+0.0.0.0 dkotrack.com
 0.0.0.0 dkskbu.demae-can.com
 0.0.0.0 dkupaw9ae63a8.cloudfront.net
 0.0.0.0 dl-stage.zola.com
@@ -8131,6 +8133,7 @@
 0.0.0.0 inqjal.dickssportinggoods.com
 0.0.0.0 inquisitiveinvention.com
 0.0.0.0 inrd.ru
+0.0.0.0 ins.connatix.com
 0.0.0.0 inside-graph.com
 0.0.0.0 insight.fonecta.fi
 0.0.0.0 insight.mintel.com
@@ -8912,6 +8915,7 @@
 0.0.0.0 listenlayer.com
 0.0.0.0 listrakbi.com
 0.0.0.0 lists.ccmbg.com
+0.0.0.0 lit.connatix.com
 0.0.0.0 lite-cdn.com
 0.0.0.0 literally-analytics.appspot.com
 0.0.0.0 literatelight.com
@@ -9105,6 +9109,8 @@
 0.0.0.0 lps.qantas.com
 0.0.0.0 lqpzdi.coppel.com
 0.0.0.0 lqxjrk.fbs.com
+0.0.0.0 lr-in-prod.com
+0.0.0.0 lr-in.com
 0.0.0.0 lr-ingest.io
 0.0.0.0 lreust.joshinweb.jp
 0.0.0.0 lrhyty.weeronline.nl
@@ -9917,6 +9923,7 @@
 0.0.0.0 metrics.gq.com.au
 0.0.0.0 metrics.greendot.com
 0.0.0.0 metrics.greenflag.com
+0.0.0.0 metrics.gs-chat.com
 0.0.0.0 metrics.hackerrank.com
 0.0.0.0 metrics.harley-davidson.com
 0.0.0.0 metrics.hatarako.net
@@ -11399,6 +11406,7 @@
 0.0.0.0 pl.astro-akatemia.fi
 0.0.0.0 pl.astro.fi
 0.0.0.0 pl.codetheweb.blog
+0.0.0.0 pl.connatix.com
 0.0.0.0 pl.ethan.link
 0.0.0.0 pl.fashmoms.com
 0.0.0.0 pl.getfamealy.com
@@ -11591,6 +11599,7 @@
 0.0.0.0 postgraduate.smu.edu.sg
 0.0.0.0 postgraduate2.smu.edu.sg
 0.0.0.0 posthog.com
+0.0.0.0 potatoinvention.com
 0.0.0.0 powderprofit.com
 0.0.0.0 powercount.com
 0.0.0.0 pp.promocionesfarma.com
@@ -12572,6 +12581,7 @@
 0.0.0.0 sadbmetrics.worldcanic.com
 0.0.0.0 sadbmetrics.xlsemanal.com
 0.0.0.0 sadbmetrics.zendalibros.com
+0.0.0.0 sadloaf.com
 0.0.0.0 sadobe.autoscout24.de
 0.0.0.0 sadobe.autoscout24.it
 0.0.0.0 sadobe.autoscout24.lu
@@ -12867,6 +12877,7 @@
 0.0.0.0 scout.bergfreunde.se
 0.0.0.0 scout.us2.salesloft.com
 0.0.0.0 scoutanalytics.net
+0.0.0.0 scrapesleep.com
 0.0.0.0 scratchsofa.com
 0.0.0.0 screechingfurniture.com
 0.0.0.0 screechingslip.com
@@ -13336,6 +13347,7 @@
 0.0.0.0 sg.promo.skf.com
 0.0.0.0 sg3.notarize.com
 0.0.0.0 sgali-mcs.byteoversea.com
+0.0.0.0 sgstats.com
 0.0.0.0 sgw-analytics.panasonic.com
 0.0.0.0 shaggytank.com
 0.0.0.0 shakegoldfish.com
@@ -16021,6 +16033,8 @@
 0.0.0.0 swiftmining.win
 0.0.0.0 swimslope.com
 0.0.0.0 swiss-counter.com
+0.0.0.0 swmhdata.stuttgarter-nachrichten.de
+0.0.0.0 swmhdata.stuttgarter-zeitung.de
 0.0.0.0 swordgoose.com
 0.0.0.0 swwcyk.ahaber.com.tr
 0.0.0.0 swwcyk.atv.com.tr
@@ -17550,6 +17564,7 @@
 0.0.0.0 tracker.nbcuas.com
 0.0.0.0 tracker.netklix.com
 0.0.0.0 tracker.nitropay.com
+0.0.0.0 tracker.novage.com.ua
 0.0.0.0 tracker.providence.org
 0.0.0.0 tracker.publico.pt
 0.0.0.0 tracker.ranker.com
@@ -19488,7 +19503,7 @@
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2023-02-26 01:03:42.985002
+# Generated at 2023-03-05 01:05:56.176415
 
 0.0.0.0 databerries.com
 0.0.0.0 fidzup
