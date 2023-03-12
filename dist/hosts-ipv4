@@ -1,6 +1,6 @@
-# Version: 202303042334
+# Version: 202303112338
 # Title: EasyPrivacy
-# Last modified: 04 Mar 2023 23:34 UTC
+# Last modified: 11 Mar 2023 23:38 UTC
 # Expires: 6 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -1877,7 +1877,6 @@
 0.0.0.0 adinsight.co.kr
 0.0.0.0 adinsight.com
 0.0.0.0 adinte.jp
-0.0.0.0 adjust.com
 0.0.0.0 adku.co
 0.0.0.0 adku.com
 0.0.0.0 adl.bankofthewest.com
@@ -2256,6 +2255,7 @@
 0.0.0.0 adxzju.penti.com
 0.0.0.0 adyapper.com
 0.0.0.0 ae.cobweb.com
+0.0.0.0 aegis.trovo.live
 0.0.0.0 aehudh.rakumachi.jp
 0.0.0.0 aem-collector.daumkakao.io
 0.0.0.0 aep-target.credit-suisse.com
@@ -2413,6 +2413,7 @@
 0.0.0.0 amavalet.com
 0.0.0.0 amazingairplane.com
 0.0.0.0 amazingcounters.com
+0.0.0.0 amazon.com/1/aiv-web-player/1/OE
 0.0.0.0 ambercrow.com
 0.0.0.0 ambiguousalarm.com
 0.0.0.0 ambiguousanger.com
@@ -2986,6 +2987,7 @@
 0.0.0.0 app-stats.supernotes.app
 0.0.0.0 app.12thman.com
 0.0.0.0 app.3d.ultimaker.com
+0.0.0.0 app.adjust.com
 0.0.0.0 app.arizonawildcats.com
 0.0.0.0 app.bceagles.com
 0.0.0.0 app.bncontacto.fi.cr
@@ -3567,6 +3569,7 @@
 0.0.0.0 blinks.mindoktor.se
 0.0.0.0 blinkstest.mindoktor.se
 0.0.0.0 blip.bizrate.com
+0.0.0.0 blisspointmedia.com
 0.0.0.0 blitz-analytics-batch-server.blitz.gg
 0.0.0.0 blockdetector.org
 0.0.0.0 blockmetrics.com
@@ -4772,6 +4775,7 @@
 0.0.0.0 counter.ukr.net
 0.0.0.0 counter.webmart.de
 0.0.0.0 counter.websitevoice.com
+0.0.0.0 counter.wikiwiki.jp
 0.0.0.0 counter.yadro.ru
 0.0.0.0 counter2.blog.livedoor.com
 0.0.0.0 counter27.ch
@@ -5108,7 +5112,6 @@
 0.0.0.0 d2oh4tlt9mrke9.cloudfront.net
 0.0.0.0 d2r1yp2w7bby2u.cloudfront.net
 0.0.0.0 d2rnkf2kqy5m6h.cloudfront.net
-0.0.0.0 d2ry9vue95px0b.cloudfront.net
 0.0.0.0 d2san7t27xb2pn.cloudfront.net
 0.0.0.0 d2t77mnxyo7adj.cloudfront.net
 0.0.0.0 d2tcg4i9q4js4a.cloudfront.net
@@ -5860,6 +5863,7 @@
 0.0.0.0 dup.baidustatic.com
 0.0.0.0 durationmedia.net
 0.0.0.0 durst-group.actonservice.com
+0.0.0.0 dustyhammer.com
 0.0.0.0 dustyrabbits.com
 0.0.0.0 dustywave.com
 0.0.0.0 duu8lzqdm8tsz.cloudfront.net
@@ -6567,6 +6571,7 @@
 0.0.0.0 event-api.rdstation.com.br
 0.0.0.0 event-api.reverb.com
 0.0.0.0 event-collector.moviesanywhere.com
+0.0.0.0 event-collector.prd.data.s.joyn.de
 0.0.0.0 event-listener.air.tv
 0.0.0.0 event-logger.tagboard.com
 0.0.0.0 event-service.letslinc.com
@@ -8396,6 +8401,7 @@
 0.0.0.0 jhrewn.venezia.pl
 0.0.0.0 jiankongbao.com
 0.0.0.0 jill.fc.yahoo.com
+0.0.0.0 jimny.pro
 0.0.0.0 jinair.nsc.jinair.com
 0.0.0.0 jinair.sc.jinair.com
 0.0.0.0 jirafe.com
@@ -10641,6 +10647,7 @@
 0.0.0.0 nnvtvx.chegg.com
 0.0.0.0 no9pldds1lmn3.soundcloud.com
 0.0.0.0 noa0.compteczam.fr
+0.0.0.0 noeyeon.com
 0.0.0.0 noflake-aggregator-http.narvar.com
 0.0.0.0 noibu.com
 0.0.0.0 noiselessplough.com
@@ -11061,7 +11068,9 @@
 0.0.0.0 p.delivery.net
 0.0.0.0 p.e-bot7.com
 0.0.0.0 p.fairspot.host
+0.0.0.0 p.fusevideo.net
 0.0.0.0 p.gazeta.pl
+0.0.0.0 p.hentaiforce.net
 0.0.0.0 p.ifvictr.com
 0.0.0.0 p.kolplay.com
 0.0.0.0 p.milliyet.com.tr
@@ -11628,6 +11637,7 @@
 0.0.0.0 precisioncounter.com
 0.0.0.0 predicta.net
 0.0.0.0 predictiveresponse.net
+0.0.0.0 predictplate.com
 0.0.0.0 prefixpatriot.com
 0.0.0.0 premiumads.com.br
 0.0.0.0 prepareplanes.com
@@ -15496,6 +15506,7 @@
 0.0.0.0 stats.lestypesdefarine.fr
 0.0.0.0 stats.lik.fr
 0.0.0.0 stats.literacysomerset.org
+0.0.0.0 stats.live-video.net
 0.0.0.0 stats.livingedge.ngo
 0.0.0.0 stats.lord.io
 0.0.0.0 stats.lotlinx.com
@@ -15587,6 +15598,7 @@
 0.0.0.0 stats.reisemobil.pro
 0.0.0.0 stats.remotebear.io
 0.0.0.0 stats.revit-content.com
+0.0.0.0 stats.rocketbeans.tv
 0.0.0.0 stats.rocketvalidator.com
 0.0.0.0 stats.russellstover.com
 0.0.0.0 stats.sa-as.com
@@ -16086,6 +16098,7 @@
 0.0.0.0 t-s.xolairhcp.com
 0.0.0.0 t.10er-tagesticket.de
 0.0.0.0 t.360.audion.fm
+0.0.0.0 t.3hentai.net
 0.0.0.0 t.91syun.com
 0.0.0.0 t.9gag.com
 0.0.0.0 t.a3cloud.net
@@ -16258,6 +16271,7 @@
 0.0.0.0 takqyi.laurenhi.jp
 0.0.0.0 taldpq.francfranc.com
 0.0.0.0 talentedsteel.com
+0.0.0.0 talltouch.com
 0.0.0.0 tamgrt.com
 0.0.0.0 tangibleteam.com
 0.0.0.0 tanx.com
@@ -17595,6 +17609,7 @@
 0.0.0.0 tracking-api-4lasu2nlcq-ew.a.run.app
 0.0.0.0 tracking-driver.staging.goshare.co
 0.0.0.0 tracking-explore.agilent.com
+0.0.0.0 tracking-live.kr3m.com
 0.0.0.0 tracking-secure.csob.cz
 0.0.0.0 tracking.aapa.org
 0.0.0.0 tracking.about.bgov.com
@@ -17795,6 +17810,7 @@
 0.0.0.0 trackmyusers.com
 0.0.0.0 trackmyweb.net
 0.0.0.0 trackonomics.net
+0.0.0.0 trackr.vivenu.com
 0.0.0.0 tracks.arubamediamarketing.it
 0.0.0.0 trackset.com
 0.0.0.0 trackset.it
@@ -17936,6 +17952,7 @@
 0.0.0.0 trust.titanhq.com
 0.0.0.0 trusted-web-seal.cybertrust.ne.jp
 0.0.0.0 trustiseverything.de
+0.0.0.0 trustisimportant.fun
 0.0.0.0 trustmeiamapro.de
 0.0.0.0 trvonu.k-manga.jp
 0.0.0.0 trx-hub.com
@@ -19503,7 +19520,7 @@
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2023-03-05 01:05:56.176415
+# Generated at 2023-03-12 00:59:35.020302
 
 0.0.0.0 databerries.com
 0.0.0.0 fidzup
