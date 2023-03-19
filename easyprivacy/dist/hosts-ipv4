@@ -1,7 +1,7 @@
-# Version: 202303112338
+# Version: 202303182359
 # Title: EasyPrivacy
-# Last modified: 11 Mar 2023 23:38 UTC
-# Expires: 6 days (update frequency)
+# Last modified: 18 Mar 2023 23:59 UTC
+# Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
 
@@ -3273,7 +3273,6 @@
 0.0.0.0 ax.babe.today
 0.0.0.0 ax.idg.se
 0.0.0.0 axf8.net
-0.0.0.0 axiom.co
 0.0.0.0 axiomaticalley.com
 0.0.0.0 axislogger.appspot.com
 0.0.0.0 axjfkc.kobayashi.co.jp
@@ -3559,6 +3558,7 @@
 0.0.0.0 bkprmw.ironyporno.com
 0.0.0.0 bkrtx.com
 0.0.0.0 bkvtrack.com
+0.0.0.0 blackbrake.com
 0.0.0.0 blacktri-a.akamaihd.net
 0.0.0.0 blacktri.com
 0.0.0.0 blaick.com
@@ -3618,6 +3618,7 @@
 0.0.0.0 bmojjb.scienceinsport.com
 0.0.0.0 bmrg.reflected.net
 0.0.0.0 bmst.pw
+0.0.0.0 bmwebm.org
 0.0.0.0 bmypml.gsuplementos.com.br
 0.0.0.0 bmzuyj.nifty.com
 0.0.0.0 bnc.autopass.xyz
@@ -5058,6 +5059,7 @@
 0.0.0.0 d10gj7yjsfriaj.cloudfront.net
 0.0.0.0 d10lpsik1i8c69.cloudfront.net
 0.0.0.0 d11a2fzhgzqe7i.cloudfront.net
+0.0.0.0 d11bdev7tcn7wh.cloudfront.net
 0.0.0.0 d15kdaxu5c0hfw.cloudfront.net
 0.0.0.0 d169bbxks24g2u.cloudfront.net
 0.0.0.0 d16fk4ms6rqz1v.cloudfront.net
@@ -6613,6 +6615,7 @@
 0.0.0.0 events.medio.com
 0.0.0.0 events.mercadolibre.com
 0.0.0.0 events.mikescerealshack.co
+0.0.0.0 events.missena.io
 0.0.0.0 events.newsroom.bi
 0.0.0.0 events.ocdn.eu
 0.0.0.0 events.onet.pl
@@ -6688,7 +6691,6 @@
 0.0.0.0 external.techopian.com
 0.0.0.0 extmaps-api.yandex.net
 0.0.0.0 extole.com
-0.0.0.0 extole.io
 0.0.0.0 extramilefloorcare.ericksonbuilt.com
 0.0.0.0 extreme-dm.com
 0.0.0.0 extreme-ip-lookup.com
@@ -11474,6 +11476,7 @@
 0.0.0.0 plausible.dev.sketch.com
 0.0.0.0 plausible.doberman.co
 0.0.0.0 plausible.doctave.com
+0.0.0.0 plausible.dragonfru.it
 0.0.0.0 plausible.edu-focus.org
 0.0.0.0 plausible.ericgoebelbecker.com
 0.0.0.0 plausible.essenheilt.de
@@ -11744,6 +11747,7 @@
 0.0.0.0 pub.sheknows.com
 0.0.0.0 pubdream.com
 0.0.0.0 pubexchange.com
+0.0.0.0 pubgw.yahoo.com
 0.0.0.0 publicgood.com
 0.0.0.0 publicidees.com
 0.0.0.0 publish-int.se
@@ -18274,6 +18278,7 @@
 0.0.0.0 verbolia.com
 0.0.0.0 vercel-analytics.com
 0.0.0.0 vercel-insights.com
+0.0.0.0 vercel-vitals.axiom.co
 0.0.0.0 verdantanswer.com
 0.0.0.0 verify.authorize.net
 0.0.0.0 verify.safesigned.com
