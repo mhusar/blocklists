@@ -1,6 +1,6 @@
-# Version: 202303260015
+# Version: 202304020024
 # Title: EasyPrivacy
-# Last modified: 26 Mar 2023 00:15 UTC
+# Last modified: 02 Apr 2023 00:24 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -2436,6 +2436,7 @@
 0.0.0.0 amplifypixel.outbrain.com
 0.0.0.0 amplitude.com
 0.0.0.0 ampltd.top.gg
+0.0.0.0 ampltd2.medal.tv
 0.0.0.0 ampush.io
 0.0.0.0 ams-pageview-public.s3.amazonaws.com
 0.0.0.0 amung.us
@@ -2501,6 +2502,7 @@
 0.0.0.0 analytics.academy.com
 0.0.0.0 analytics.adam.page
 0.0.0.0 analytics.adfreetime.com
+0.0.0.0 analytics.adliners.de
 0.0.0.0 analytics.adonisjs.com
 0.0.0.0 analytics.adultswim.co.uk
 0.0.0.0 analytics.ae.com
@@ -2887,6 +2889,7 @@
 0.0.0.0 analytics2-3-meride-tv.akamaized.net
 0.0.0.0 analytics2-meride-tv.akamaized.net
 0.0.0.0 analyticschecker.com
+0.0.0.0 analyticsehnwe.servicebus.windows.net
 0.0.0.0 analyticsip.net
 0.0.0.0 analyticson.com
 0.0.0.0 analyticsresults.bildungsforum.datev.de
@@ -3244,6 +3247,7 @@
 0.0.0.0 avazudsp.net
 0.0.0.0 avencio.de
 0.0.0.0 avenseo.com
+0.0.0.0 averageactivity.com
 0.0.0.0 averageamusement.com
 0.0.0.0 averoconnector.com
 0.0.0.0 aviite.freaksstore.com
@@ -3971,7 +3975,6 @@
 0.0.0.0 cbmetrics.clickbank.com
 0.0.0.0 cbpgpg.bombshellsportswear.com
 0.0.0.0 cbtrk.net
-0.0.0.0 cc-api-data.adobe.io
 0.0.0.0 cc.conforama.es
 0.0.0.0 cc.swiftype.com
 0.0.0.0 ccaas.avaya.com
@@ -4258,6 +4261,7 @@
 0.0.0.0 clientservice.alphasimplex.com
 0.0.0.0 clinical.questdiagnostics.com
 0.0.0.0 clipcentric.com
+0.0.0.0 cliquelead.com
 0.0.0.0 clixcount.com
 0.0.0.0 clixgalore.com
 0.0.0.0 clixpy.com
@@ -5042,7 +5046,6 @@
 0.0.0.0 d-stats.com
 0.0.0.0 d.adlpo.com
 0.0.0.0 d.cdngeek.com
-0.0.0.0 d.getpocket.com
 0.0.0.0 d.haberler.com
 0.0.0.0 d.image-ad.jp
 0.0.0.0 d.m-net.de
@@ -5105,6 +5108,7 @@
 0.0.0.0 d28g9g3vb08y70.cloudfront.net
 0.0.0.0 d2c.ne.jp
 0.0.0.0 d2cpw6kwpff7n5.cloudfront.net
+0.0.0.0 d2ef20sk9hi1u3.cloudfront.net
 0.0.0.0 d2gbtcuv3w9qyv.cloudfront.net
 0.0.0.0 d2ibu2ug0mt5qp.cloudfront.net
 0.0.0.0 d2j1fszo1axgmp.cloudfront.net
@@ -5801,6 +5805,7 @@
 0.0.0.0 dotaudiences.com
 0.0.0.0 dotjs.com
 0.0.0.0 dotmetrics.net
+0.0.0.0 doublestat.info
 0.0.0.0 doubleverify.com
 0.0.0.0 doubtdrawer.com
 0.0.0.0 doubtfulrainstorm.com
@@ -5821,6 +5826,7 @@
 0.0.0.0 dq95d35.com
 0.0.0.0 dqqfrs.qatarairways.com
 0.0.0.0 dqs3.darjeeling.fr
+0.0.0.0 dr3fr5q4g2ul9.cloudfront.net
 0.0.0.0 drabsize.com
 0.0.0.0 draconiancurve.com
 0.0.0.0 dragon.moneycoach.io
@@ -7891,6 +7897,7 @@
 0.0.0.0 igg.biz
 0.0.0.0 igorsgtest.branch.rocks
 0.0.0.0 igrid.org
+0.0.0.0 ih.newegg.com
 0.0.0.0 ihmnnz.flo.com.tr
 0.0.0.0 iiajtl.zeit.de
 0.0.0.0 iid-network.jp
@@ -8261,6 +8268,7 @@
 0.0.0.0 ipfind.com
 0.0.0.0 ipfingerprint.com
 0.0.0.0 ipfrom.com
+0.0.0.0 ipgeolocation.io
 0.0.0.0 ipgp.net
 0.0.0.0 iphufr.circleline.com
 0.0.0.0 ipify.org
@@ -8607,6 +8615,7 @@
 0.0.0.0 kzsicw.focus.de
 0.0.0.0 kzsicw.tvspielfilm.de
 0.0.0.0 kzsicw.tvtoday.de
+0.0.0.0 l.bfmtv.com
 0.0.0.0 l.create.canva.com
 0.0.0.0 l.ctrl.blog
 0.0.0.0 l.email.livingsocial.co.uk
@@ -9021,7 +9030,6 @@
 0.0.0.0 log.seekda.com
 0.0.0.0 log.sina.cn
 0.0.0.0 log.snapdeal.com
-0.0.0.0 log.suumo.jp
 0.0.0.0 log.tagtic.cn
 0.0.0.0 log.targetpush.co.kr
 0.0.0.0 log.ttbc-hcm.gov.vn
@@ -10013,6 +10021,7 @@
 0.0.0.0 metrics.nba.com
 0.0.0.0 metrics.nero.com
 0.0.0.0 metrics.nespresso.com
+0.0.0.0 metrics.newegg.com
 0.0.0.0 metrics.news.com.au
 0.0.0.0 metrics.nfl.com
 0.0.0.0 metrics.nfm.com
@@ -10665,6 +10674,7 @@
 0.0.0.0 nokaut.link
 0.0.0.0 nol.yahoo.com
 0.0.0.0 nom.lds.org
+0.0.0.0 non.li
 0.0.0.0 nonchalantnerve.com
 0.0.0.0 nondescriptcrowd.com
 0.0.0.0 nondescriptnote.com
@@ -11962,6 +11972,7 @@
 0.0.0.0 raac33.net
 0.0.0.0 rabbitbreath.com
 0.0.0.0 rabbitrifle.com
+0.0.0.0 rac.ruutu.fi
 0.0.0.0 radar.imgsmail.ru
 0.0.0.0 radarstats.com
 0.0.0.0 radiateb2b.com
@@ -12306,6 +12317,7 @@
 0.0.0.0 rs0.co.uk
 0.0.0.0 rs6.net
 0.0.0.0 rsc.lepoint.fr
+0.0.0.0 rstat.rockmostbet.com
 0.0.0.0 rstg.io
 0.0.0.0 rsvpgenius.com
 0.0.0.0 rsx.afterpay.com
@@ -13393,6 +13405,7 @@
 0.0.0.0 shinystat.it
 0.0.0.0 shippinginsights.com
 0.0.0.0 shiveringspot.com
+0.0.0.0 shiverscissors.com
 0.0.0.0 shockinggrass.com
 0.0.0.0 shockingship.com
 0.0.0.0 shoelace.com
@@ -15410,6 +15423,7 @@
 0.0.0.0 stats.erlef.org
 0.0.0.0 stats.esecured.net
 0.0.0.0 stats.executebig.org
+0.0.0.0 stats.externulls.com
 0.0.0.0 stats.fabiofranchino.com
 0.0.0.0 stats.fantinel.dev
 0.0.0.0 stats.farbenmeer.de
@@ -16339,6 +16353,7 @@
 0.0.0.0 target.walgreens.com
 0.0.0.0 target.zeiss.com
 0.0.0.0 targetab.t-mobile.com
+0.0.0.0 targetemsecure.blob.core.windows.net
 0.0.0.0 targetfuel.com
 0.0.0.0 targeting.focas.jp
 0.0.0.0 targeting.voxus.tv
@@ -17431,6 +17446,7 @@
 0.0.0.0 track-srv.vietnamnet.vn
 0.0.0.0 track-visit.monday.com
 0.0.0.0 track-web.net
+0.0.0.0 track.360playvid.info
 0.0.0.0 track.91app.io
 0.0.0.0 track.99acres.com
 0.0.0.0 track.atgstores.com
@@ -17915,6 +17931,7 @@
 0.0.0.0 triggertag.gorillanation.com
 0.0.0.0 triggit.com
 0.0.0.0 trilogyed.com
+0.0.0.0 triplestat.online
 0.0.0.0 triptease.io
 0.0.0.0 triptease.net
 0.0.0.0 triton.companyegg.com
