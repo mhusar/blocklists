@@ -1,6 +1,6 @@
-# Version: 202304020024
+# Version: 202304090003
 # Title: EasyPrivacy
-# Last modified: 02 Apr 2023 00:24 UTC
+# Last modified: 09 Apr 2023 00:03 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -3429,6 +3429,7 @@
 0.0.0.0 beacon.watch.impress.co.jp
 0.0.0.0 beacon.wikia-services.com
 0.0.0.0 beacon2.indieclick.com
+0.0.0.0 beaconcdn.qq.com
 0.0.0.0 beacons.mediamelon.com
 0.0.0.0 beaconstreetservices.com
 0.0.0.0 beadbears.com
@@ -5304,6 +5305,7 @@
 0.0.0.0 data.smartinfo.future.smart.com
 0.0.0.0 data.smartmkt.future.smart.com
 0.0.0.0 data.socio.realmadrid.net
+0.0.0.0 data.sportdeutschland.tv
 0.0.0.0 data.srf.ch
 0.0.0.0 data.stepstone.be
 0.0.0.0 data.stepstone.de
@@ -6463,6 +6465,7 @@
 0.0.0.0 ep4p.com
 0.0.0.0 eperfectdata.com
 0.0.0.0 epilot.com
+0.0.0.0 epimetheus.navigator.web.de
 0.0.0.0 epitrack.com
 0.0.0.0 epl.paypal-communication.com
 0.0.0.0 epm.mailperformance.com
@@ -6523,6 +6526,7 @@
 0.0.0.0 ethn.io
 0.0.0.0 ethnio.com
 0.0.0.0 ethtrader.de
+0.0.0.0 etl.springbot.com
 0.0.0.0 etop.ro
 0.0.0.0 etp-prod.com
 0.0.0.0 etracker.com
@@ -7272,6 +7276,7 @@
 0.0.0.0 getsmartlook.com
 0.0.0.0 getstat.net
 0.0.0.0 getstatistics.se
+0.0.0.0 getstats.org
 0.0.0.0 getviously.com
 0.0.0.0 geygin.bonprix.ch
 0.0.0.0 gez.io
@@ -11703,6 +11708,7 @@
 0.0.0.0 proext.com
 0.0.0.0 profilesnitch.com
 0.0.0.0 profiling.avandor.com
+0.0.0.0 profitmetrics.io
 0.0.0.0 profitrumour.com
 0.0.0.0 profitshare.ro
 0.0.0.0 profusesupport.com
@@ -11746,6 +11752,7 @@
 0.0.0.0 psqsjg.coach.com
 0.0.0.0 pstat.akathists.com
 0.0.0.0 pstats.com
+0.0.0.0 pstt.mtb-news.de
 0.0.0.0 psychedelicchess.com
 0.0.0.0 pt-trx.com
 0.0.0.0 pt.crossmediaservices.com
@@ -11786,6 +11793,7 @@
 0.0.0.0 pulseinsights.com
 0.0.0.0 pulselog.com
 0.0.0.0 pulsemaps.com
+0.0.0.0 pumpedpancake.com
 0.0.0.0 pumpkin.abine.com
 0.0.0.0 punyplant.com
 0.0.0.0 purchasesuggestion.com
@@ -12132,6 +12140,7 @@
 0.0.0.0 report-uri.io
 0.0.0.0 report.meituan.com
 0.0.0.0 report.novinky.cz
+0.0.0.0 reporting-api.gannettinnovation.com
 0.0.0.0 reporting.cdndex.io
 0.0.0.0 reporting.singlefeed.com
 0.0.0.0 reports-api.sqreen.io
@@ -16115,6 +16124,7 @@
 0.0.0.0 synthesizespoon.com
 0.0.0.0 sypuhe.thelittlegreenbag.nl
 0.0.0.0 syqhvv.vivense.com
+0.0.0.0 sysmon.kakaku.com
 0.0.0.0 sysomos.com
 0.0.0.0 systemizecoat.com
 0.0.0.0 sytuzk.nissanvimontlaval.com
@@ -16484,6 +16494,7 @@
 0.0.0.0 teljari.is
 0.0.0.0 tellapart.com
 0.0.0.0 tempttalk.com
+0.0.0.0 tend.io
 0.0.0.0 tendersugar.com
 0.0.0.0 tendertest.com
 0.0.0.0 tenilstats.turner.com
@@ -17922,6 +17933,7 @@
 0.0.0.0 trendcounter.de
 0.0.0.0 trendemon.com
 0.0.0.0 trends.newsmaxwidget.com
+0.0.0.0 trialfire.com
 0.0.0.0 trib.al
 0.0.0.0 tribl.io
 0.0.0.0 trick17.it
@@ -19552,7 +19564,7 @@
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2023-04-02 00:55:11.894973
+# Generated at 2023-04-09 00:52:40.731529
 
 0.0.0.0 databerries.com
 0.0.0.0 fidzup
