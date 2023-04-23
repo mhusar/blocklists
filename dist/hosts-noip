@@ -1,6 +1,6 @@
-# Version: 202304152312
+# Version: 202304230002
 # Title: EasyPrivacy
-# Last modified: 15 Apr 2023 23:12 UTC
+# Last modified: 23 Apr 2023 00:02 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -2468,6 +2468,7 @@ analytically.net
 analyticcdn.globalmailer.com
 analytics-1.cavai.com
 analytics-api.samsunghealthcn.com
+analytics-beacon.p.uliza.jp
 analytics-cdiscount.com
 analytics-cms.whitebeard.me
 analytics-coletor-site.ojc.com.br
@@ -2876,6 +2877,7 @@ analytics.ziftsolutions.com
 analytics00.meride.tv
 analytics2-3-meride-tv.akamaized.net
 analytics2-meride-tv.akamaized.net
+analytics2.dashboard.fingerprint.com
 analyticschecker.com
 analyticsehnwe.servicebus.windows.net
 analyticsip.net
@@ -3528,6 +3530,7 @@ bigtracker.com
 bilahh.feuvert.fr
 bildirt.com
 billowybead.com
+bin.vinted.net
 binocule21c.merriam-webster.com
 bionicclick.com
 bisko.mall.tv
@@ -3611,6 +3614,7 @@ bm324.com
 bmcm.pw
 bmfeed.ru
 bmlmedia.com
+bmly.impots.gouv.fr
 bmmetrix.com
 bmmncj.anacondastores.com
 bmnr.pw
@@ -3812,6 +3816,7 @@ bvubje.leboncoin.fr
 bvz5.destinia.com.tr
 bwj4.hrhibiza.com
 bwntyd.neuve-a.net
+bx-cloud.com
 bxazdd.storynine.jp
 bxumze.buckscountycouriertimes.com
 bxumze.dispatch.com
@@ -3831,6 +3836,7 @@ c.amazinglybrilliant.com.au
 c.bazo.io
 c.bigmir.net
 c.corriere.it
+c.fingerprint.com
 c.gazetevatan.com
 c.hit.ua
 c.holmesmind.com
@@ -4116,6 +4122,7 @@ cl.canva.com
 cl.promo.skf.com
 clamcelery.com
 clammytree.com
+clanker-events.squarespace.com
 clarice.streema.com
 clarity.ms
 claritytag.com
@@ -6513,6 +6520,7 @@ estadonline.publiguias.cl
 estara.com
 estat.com
 estrack.net
+et-gv.fr
 et.educationdynamics.com
 et.nytimes.com
 et.tidal.com
@@ -6650,6 +6658,7 @@ events.shareably.net
 events.sk.ht
 events.splash-screen.net
 events.split.io
+events.squarespace.com
 events.tubecup.org
 events.turbosquid.com
 events.ubembed.com
@@ -6969,6 +6978,7 @@ fp84rw0jinz7.blanc.ru
 fpa-cdn.arstechnica.com
 fpa-cdn.decrypt.co
 fpa-events.decrypt.co
+fpa.fingerprint.com
 fpapi.io
 fpaux.net
 fpavx.net
@@ -7743,6 +7753,7 @@ hk2d.tourismemauricie.com
 hkhpnqciykaf.www.gamecamp.gg
 hkj8.evobanco.com
 hktracker.hankookilbo.com
+hlms.ecologie.gouv.fr
 hlqpie.waves.com
 hlreoc.gonuldensevenler.com
 hlsjel.engelvoelkers.com
@@ -9138,6 +9149,7 @@ lopley.com
 lore.circulate.com
 lorenzourban.com
 losecounter.de
+losslace.com
 losstrack.com
 loudlunch.com
 lovelydrum.com
@@ -9719,6 +9731,8 @@ measurementapi.com
 meatydime.com
 med.linzesshcp.com
 med.saphris.com
+medaipvx.com
+medaipxv.com
 medals.bizrate.com
 meddleplant.com
 media.gotham.com
@@ -9747,6 +9761,7 @@ mediav.com
 mediaweaver.jp
 mediego.com
 mediniku.viessmann.lt
+medipartner.jp
 medusasailor.com
 meetrics.net
 mefo1.zdf.de
@@ -11143,6 +11158,7 @@ p24.hu
 p2poolmining.com
 p2r14.com
 p30rank.ir
+p7cloud.net
 p8s.oxbowshop.com
 p9jhxqlkmn.miniso.com.gr
 pa-oa.com
@@ -13373,6 +13389,7 @@ sephora-qa.branchstaging.com
 sepyra.com
 serie-vostfr.com
 serious-partners.com
+serioussuit.com
 serpentshampoo.com
 serv-ac.com
 serv1swork.com
@@ -16753,6 +16770,7 @@ tms.hft.factor75.com
 tms.hft.greenchef.com
 tms.hft.hellofresh.com
 tmvtp.com
+tmx.bestbuy.com
 tmx.td.com
 tmy8.madeindesign.ch
 tnative.ru
@@ -17438,6 +17456,7 @@ tr.urfk06y.espmp-nifr.net
 tr.urfk07s.espmp-nifr.net
 tr.videofutur.fr
 tr.ville.bordeaux.fr
+tr.vitals.co
 tr.voeux-wishes.ipsilon-ip.com
 tr.voixduclient.harmonie-mutuelle.fr
 tr.votrealarme.securitasdirect.fr
@@ -17741,7 +17760,6 @@ tracking.edvisors.com
 tracking.email-mandrill.pushd.com
 tracking.emsmobile.de
 tracking.engineering.cloud.seek.com.au
-tracking.epicgames.com
 tracking.erfahreneladies.de
 tracking.escorts24.de
 tracking.exklusivladies.de
@@ -18147,6 +18165,7 @@ ulclick.ru
 ulidoo.montblanc.com
 ultraoranges.com
 ultund.misterspex.nl
+um.contentstudio.io
 umami.wakarimasen.moe
 umbel.com
 unarmedindustry.com
@@ -18277,6 +18296,7 @@ userdive.com
 userexperience.thehut.net
 userfly.com
 userlook.com
+usermaven.com
 userneeds.dk
 userreplay.net
 userreport.com
@@ -18366,6 +18386,7 @@ vet0.carrefour-banque.fr
 vfd2dyn.vodafone.de
 vfgte.com
 vfo.voyage-prive.co.uk
+vg247-p2.vg247.com
 vgo.vegaoo.de
 vgo.vegaoo.es
 vgo.vegaoo.it
@@ -18884,6 +18905,7 @@ wrapstretch.com
 wrating.com
 wreckvolcano.com
 wren.condenastdigital.com
+wrhv.education.gouv.fr
 writewealth.com
 wrongpotato.com
 wryfinger.com
@@ -19599,7 +19621,7 @@ zzsqqx.shopjapan.co.jp
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2023-04-16 00:53:29.942783
+# Generated at 2023-04-23 00:56:34.415884
 
 databerries.com
 fidzup

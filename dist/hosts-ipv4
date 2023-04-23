@@ -1,6 +1,6 @@
-# Version: 202304152312
+# Version: 202304230002
 # Title: EasyPrivacy
-# Last modified: 15 Apr 2023 23:12 UTC
+# Last modified: 23 Apr 2023 00:02 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -2482,6 +2482,7 @@
 0.0.0.0 analyticcdn.globalmailer.com
 0.0.0.0 analytics-1.cavai.com
 0.0.0.0 analytics-api.samsunghealthcn.com
+0.0.0.0 analytics-beacon.p.uliza.jp
 0.0.0.0 analytics-cdiscount.com
 0.0.0.0 analytics-cms.whitebeard.me
 0.0.0.0 analytics-coletor-site.ojc.com.br
@@ -2890,6 +2891,7 @@
 0.0.0.0 analytics00.meride.tv
 0.0.0.0 analytics2-3-meride-tv.akamaized.net
 0.0.0.0 analytics2-meride-tv.akamaized.net
+0.0.0.0 analytics2.dashboard.fingerprint.com
 0.0.0.0 analyticschecker.com
 0.0.0.0 analyticsehnwe.servicebus.windows.net
 0.0.0.0 analyticsip.net
@@ -3542,6 +3544,7 @@
 0.0.0.0 bilahh.feuvert.fr
 0.0.0.0 bildirt.com
 0.0.0.0 billowybead.com
+0.0.0.0 bin.vinted.net
 0.0.0.0 binocule21c.merriam-webster.com
 0.0.0.0 bionicclick.com
 0.0.0.0 bisko.mall.tv
@@ -3625,6 +3628,7 @@
 0.0.0.0 bmcm.pw
 0.0.0.0 bmfeed.ru
 0.0.0.0 bmlmedia.com
+0.0.0.0 bmly.impots.gouv.fr
 0.0.0.0 bmmetrix.com
 0.0.0.0 bmmncj.anacondastores.com
 0.0.0.0 bmnr.pw
@@ -3826,6 +3830,7 @@
 0.0.0.0 bvz5.destinia.com.tr
 0.0.0.0 bwj4.hrhibiza.com
 0.0.0.0 bwntyd.neuve-a.net
+0.0.0.0 bx-cloud.com
 0.0.0.0 bxazdd.storynine.jp
 0.0.0.0 bxumze.buckscountycouriertimes.com
 0.0.0.0 bxumze.dispatch.com
@@ -3845,6 +3850,7 @@
 0.0.0.0 c.bazo.io
 0.0.0.0 c.bigmir.net
 0.0.0.0 c.corriere.it
+0.0.0.0 c.fingerprint.com
 0.0.0.0 c.gazetevatan.com
 0.0.0.0 c.hit.ua
 0.0.0.0 c.holmesmind.com
@@ -4130,6 +4136,7 @@
 0.0.0.0 cl.promo.skf.com
 0.0.0.0 clamcelery.com
 0.0.0.0 clammytree.com
+0.0.0.0 clanker-events.squarespace.com
 0.0.0.0 clarice.streema.com
 0.0.0.0 clarity.ms
 0.0.0.0 claritytag.com
@@ -6527,6 +6534,7 @@
 0.0.0.0 estara.com
 0.0.0.0 estat.com
 0.0.0.0 estrack.net
+0.0.0.0 et-gv.fr
 0.0.0.0 et.educationdynamics.com
 0.0.0.0 et.nytimes.com
 0.0.0.0 et.tidal.com
@@ -6664,6 +6672,7 @@
 0.0.0.0 events.sk.ht
 0.0.0.0 events.splash-screen.net
 0.0.0.0 events.split.io
+0.0.0.0 events.squarespace.com
 0.0.0.0 events.tubecup.org
 0.0.0.0 events.turbosquid.com
 0.0.0.0 events.ubembed.com
@@ -6983,6 +6992,7 @@
 0.0.0.0 fpa-cdn.arstechnica.com
 0.0.0.0 fpa-cdn.decrypt.co
 0.0.0.0 fpa-events.decrypt.co
+0.0.0.0 fpa.fingerprint.com
 0.0.0.0 fpapi.io
 0.0.0.0 fpaux.net
 0.0.0.0 fpavx.net
@@ -7757,6 +7767,7 @@
 0.0.0.0 hkhpnqciykaf.www.gamecamp.gg
 0.0.0.0 hkj8.evobanco.com
 0.0.0.0 hktracker.hankookilbo.com
+0.0.0.0 hlms.ecologie.gouv.fr
 0.0.0.0 hlqpie.waves.com
 0.0.0.0 hlreoc.gonuldensevenler.com
 0.0.0.0 hlsjel.engelvoelkers.com
@@ -9152,6 +9163,7 @@
 0.0.0.0 lore.circulate.com
 0.0.0.0 lorenzourban.com
 0.0.0.0 losecounter.de
+0.0.0.0 losslace.com
 0.0.0.0 losstrack.com
 0.0.0.0 loudlunch.com
 0.0.0.0 lovelydrum.com
@@ -9733,6 +9745,8 @@
 0.0.0.0 meatydime.com
 0.0.0.0 med.linzesshcp.com
 0.0.0.0 med.saphris.com
+0.0.0.0 medaipvx.com
+0.0.0.0 medaipxv.com
 0.0.0.0 medals.bizrate.com
 0.0.0.0 meddleplant.com
 0.0.0.0 media.gotham.com
@@ -9761,6 +9775,7 @@
 0.0.0.0 mediaweaver.jp
 0.0.0.0 mediego.com
 0.0.0.0 mediniku.viessmann.lt
+0.0.0.0 medipartner.jp
 0.0.0.0 medusasailor.com
 0.0.0.0 meetrics.net
 0.0.0.0 mefo1.zdf.de
@@ -11157,6 +11172,7 @@
 0.0.0.0 p2poolmining.com
 0.0.0.0 p2r14.com
 0.0.0.0 p30rank.ir
+0.0.0.0 p7cloud.net
 0.0.0.0 p8s.oxbowshop.com
 0.0.0.0 p9jhxqlkmn.miniso.com.gr
 0.0.0.0 pa-oa.com
@@ -13387,6 +13403,7 @@
 0.0.0.0 sepyra.com
 0.0.0.0 serie-vostfr.com
 0.0.0.0 serious-partners.com
+0.0.0.0 serioussuit.com
 0.0.0.0 serpentshampoo.com
 0.0.0.0 serv-ac.com
 0.0.0.0 serv1swork.com
@@ -16767,6 +16784,7 @@
 0.0.0.0 tms.hft.greenchef.com
 0.0.0.0 tms.hft.hellofresh.com
 0.0.0.0 tmvtp.com
+0.0.0.0 tmx.bestbuy.com
 0.0.0.0 tmx.td.com
 0.0.0.0 tmy8.madeindesign.ch
 0.0.0.0 tnative.ru
@@ -17452,6 +17470,7 @@
 0.0.0.0 tr.urfk07s.espmp-nifr.net
 0.0.0.0 tr.videofutur.fr
 0.0.0.0 tr.ville.bordeaux.fr
+0.0.0.0 tr.vitals.co
 0.0.0.0 tr.voeux-wishes.ipsilon-ip.com
 0.0.0.0 tr.voixduclient.harmonie-mutuelle.fr
 0.0.0.0 tr.votrealarme.securitasdirect.fr
@@ -17755,7 +17774,6 @@
 0.0.0.0 tracking.email-mandrill.pushd.com
 0.0.0.0 tracking.emsmobile.de
 0.0.0.0 tracking.engineering.cloud.seek.com.au
-0.0.0.0 tracking.epicgames.com
 0.0.0.0 tracking.erfahreneladies.de
 0.0.0.0 tracking.escorts24.de
 0.0.0.0 tracking.exklusivladies.de
@@ -18161,6 +18179,7 @@
 0.0.0.0 ulidoo.montblanc.com
 0.0.0.0 ultraoranges.com
 0.0.0.0 ultund.misterspex.nl
+0.0.0.0 um.contentstudio.io
 0.0.0.0 umami.wakarimasen.moe
 0.0.0.0 umbel.com
 0.0.0.0 unarmedindustry.com
@@ -18291,6 +18310,7 @@
 0.0.0.0 userexperience.thehut.net
 0.0.0.0 userfly.com
 0.0.0.0 userlook.com
+0.0.0.0 usermaven.com
 0.0.0.0 userneeds.dk
 0.0.0.0 userreplay.net
 0.0.0.0 userreport.com
@@ -18380,6 +18400,7 @@
 0.0.0.0 vfd2dyn.vodafone.de
 0.0.0.0 vfgte.com
 0.0.0.0 vfo.voyage-prive.co.uk
+0.0.0.0 vg247-p2.vg247.com
 0.0.0.0 vgo.vegaoo.de
 0.0.0.0 vgo.vegaoo.es
 0.0.0.0 vgo.vegaoo.it
@@ -18898,6 +18919,7 @@
 0.0.0.0 wrating.com
 0.0.0.0 wreckvolcano.com
 0.0.0.0 wren.condenastdigital.com
+0.0.0.0 wrhv.education.gouv.fr
 0.0.0.0 writewealth.com
 0.0.0.0 wrongpotato.com
 0.0.0.0 wryfinger.com
@@ -19613,7 +19635,7 @@
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2023-04-16 00:53:30.918940
+# Generated at 2023-04-23 00:56:35.414541
 
 0.0.0.0 databerries.com
 0.0.0.0 fidzup
