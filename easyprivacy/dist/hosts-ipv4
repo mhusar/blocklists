@@ -1,6 +1,6 @@
-# Version: 202304300036
+# Version: 202305070022
 # Title: EasyPrivacy
-# Last modified: 30 Apr 2023 00:36 UTC
+# Last modified: 07 May 2023 00:22 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -1972,6 +1972,7 @@
 0.0.0.0 aaxwall.com
 0.0.0.0 aazmiw.reisenthel.com
 0.0.0.0 ab-machine.forbes.com
+0.0.0.0 ab.blogs.es
 0.0.0.0 ab.fanatical.com
 0.0.0.0 ab.perfumesclub.com
 0.0.0.0 abackchain.com
@@ -2645,6 +2646,7 @@
 0.0.0.0 air2s.com
 0.0.0.0 air360tracker.net
 0.0.0.0 airbrake.io
+0.0.0.0 airlogs.ru
 0.0.0.0 airpr.com
 0.0.0.0 airserve.net
 0.0.0.0 aivalabs.com
@@ -2705,6 +2707,7 @@
 0.0.0.0 aloofvest.com
 0.0.0.0 alp1.drimki.fr
 0.0.0.0 alpha.go.levelbank.com
+0.0.0.0 alpha1trk.com
 0.0.0.0 alpineactor.com
 0.0.0.0 alpixtrack.com
 0.0.0.0 alquiler.aldflex.es
@@ -2804,6 +2807,7 @@
 0.0.0.0 analytics-cdiscount.com
 0.0.0.0 analytics-cms.whitebeard.me
 0.0.0.0 analytics-coletor-site.ojc.com.br
+0.0.0.0 analytics-consent-manager-v2-prod.azureedge.net
 0.0.0.0 analytics-gw.games.wanmei.com
 0.0.0.0 analytics-helper.com
 0.0.0.0 analytics-lgs.corebridgefinancial.com
@@ -2987,6 +2991,7 @@
 0.0.0.0 analytics.lunge.de
 0.0.0.0 analytics.m7g.twitch.tv
 0.0.0.0 analytics.macklin.me
+0.0.0.0 analytics.maikel.pro
 0.0.0.0 analytics.mail-corp.com
 0.0.0.0 analytics.mailmunch.co
 0.0.0.0 analytics.makeitmeme.com
@@ -4720,6 +4725,7 @@
 0.0.0.0 bold.windstreamwholesale.com
 0.0.0.0 bombrw.netshoes.com.br
 0.0.0.0 boneregret.com
+0.0.0.0 bonfire.spklw.com
 0.0.0.0 bonitrust.de
 0.0.0.0 bonne-terre-data-layer.com
 0.0.0.0 bonnieradnetwork.se
@@ -5247,7 +5253,6 @@
 0.0.0.0 cdfhpj.automobile.it
 0.0.0.0 cdl.booksy.com
 0.0.0.0 cdl.lvsafe.io
-0.0.0.0 cdn-alliancegravity.s3.amazonaws.com
 0.0.0.0 cdn-channels-pixel.ex.co
 0.0.0.0 cdn-net.com
 0.0.0.0 cdn-rum.ngenix.net
@@ -5722,6 +5727,7 @@
 0.0.0.0 collector.xhamster.desi
 0.0.0.0 collector.xhamster2.com
 0.0.0.0 collector2c.zhihuishu.com
+0.0.0.0 collector5.zipy.ai
 0.0.0.0 college.business.oregonstate.edu
 0.0.0.0 college.marketingcube.com.au
 0.0.0.0 collserve.com
@@ -6642,6 +6648,7 @@
 0.0.0.0 data.alexa.com
 0.0.0.0 data.all-in.de
 0.0.0.0 data.allgaeuer-zeitung.de
+0.0.0.0 data.allstate.com
 0.0.0.0 data.avid.com
 0.0.0.0 data.bilibili.com
 0.0.0.0 data.blog.swicket.io
@@ -8170,9 +8177,6 @@
 0.0.0.0 euroads.dk
 0.0.0.0 eurocounter.com
 0.0.0.0 eurofiber.actonservice.com
-0.0.0.0 eurogamer-it.eurogamer.it
-0.0.0.0 eurogamer-pl.eurogamer.pl
-0.0.0.0 eurogamer-pt.eurogamer.pt
 0.0.0.0 eurogamer-uk.eurogamer.net
 0.0.0.0 europagerank.com
 0.0.0.0 europuls.eu
@@ -8488,7 +8492,6 @@
 0.0.0.0 feedjit.com
 0.0.0.0 feedperfect.com
 0.0.0.0 fek1.fnactickets.com
-0.0.0.0 felix.data.tm-awx.com
 0.0.0.0 feqvzt.myareadesign.com
 0.0.0.0 feraciumus.com
 0.0.0.0 ferank.fr
@@ -8520,6 +8523,7 @@
 0.0.0.0 firebaselogging-pa.googleapis.com
 0.0.0.0 firebaselogging.googleapis.com
 0.0.0.0 fireworkanalytics.com
+0.0.0.0 first-id.fr
 0.0.0.0 firstblackphase.com
 0.0.0.0 firstfrogs.com
 0.0.0.0 firstparty1.dentsplysirona.com
@@ -8559,6 +8563,7 @@
 0.0.0.0 flocktory.com
 0.0.0.0 flog.pressplay.cc
 0.0.0.0 floodprincipal.com
+0.0.0.0 flow.kiloutou.fr
 0.0.0.0 flower.aridjaya.com
 0.0.0.0 flowerstreatment.com
 0.0.0.0 floweryflavor.com
@@ -8756,7 +8761,6 @@
 0.0.0.0 frontierconsul02.tsunagaru-office.com
 0.0.0.0 fronttoad.com
 0.0.0.0 froomle.com
-0.0.0.0 frosmo.com
 0.0.0.0 fruitflan.com
 0.0.0.0 frztrk.beaute-test.com
 0.0.0.0 fs-client-logger.herokuapp.com
@@ -9753,6 +9757,7 @@
 0.0.0.0 hop.clickbank.net
 0.0.0.0 hop.dttd.app
 0.0.0.0 hoplaugh.com
+0.0.0.0 horizon.globo.com
 0.0.0.0 horizoneurope.ukri.org
 0.0.0.0 horzrb.com
 0.0.0.0 hosenews.com
@@ -10474,7 +10479,6 @@
 0.0.0.0 inova.hrm.healthgrades.com
 0.0.0.0 inphonic.com
 0.0.0.0 inpref.com
-0.0.0.0 inpref.s3.amazonaws.com
 0.0.0.0 inpwrd.com
 0.0.0.0 inqjal.dickssportinggoods.com
 0.0.0.0 inquisitiveinvention.com
@@ -10649,7 +10653,6 @@
 0.0.0.0 ipmeta.io
 0.0.0.0 ipn-app.hotdoc.com.au
 0.0.0.0 ipnoid.com
-0.0.0.0 ippen.space
 0.0.0.0 ipro.com
 0.0.0.0 iproanalytics.com
 0.0.0.0 iprotrk.com
@@ -10683,7 +10686,6 @@
 0.0.0.0 istlandoll.com
 0.0.0.0 istrack.com
 0.0.0.0 italianadirectory.com
-0.0.0.0 iterable.com
 0.0.0.0 iterable.convoy.com
 0.0.0.0 ithinkthereforeiam.net
 0.0.0.0 itkdlu.howrse.co.uk
@@ -10915,6 +10917,7 @@
 0.0.0.0 kalstats.kaltura.com
 0.0.0.0 kameleoon.com
 0.0.0.0 kameleoon.eu
+0.0.0.0 kaminari.click
 0.0.0.0 kampyle.com
 0.0.0.0 kantartns.lt
 0.0.0.0 kattepush.com
@@ -11070,6 +11073,7 @@
 0.0.0.0 l.engage.canva.com
 0.0.0.0 l.fairblocker.com
 0.0.0.0 l.franceculture.fr
+0.0.0.0 l.gentside.com
 0.0.0.0 l.ialoc.app
 0.0.0.0 l.iamfy.co
 0.0.0.0 l.inrovo.co
@@ -12949,6 +12953,7 @@
 0.0.0.0 mgixgn.wittchen.com
 0.0.0.0 mgptul.finson.com
 0.0.0.0 mgt7.madeindesign.it
+0.0.0.0 mgtmod01.com
 0.0.0.0 mh9qqwotr890.koelewijn.nl
 0.0.0.0 mhmetr.billabongstore.jp
 0.0.0.0 mi-de-ner-nis3.info
@@ -13059,13 +13064,13 @@
 0.0.0.0 mmi.bemobile.ua
 0.0.0.0 mmpool.org
 0.0.0.0 mms.cnn.com
-0.0.0.0 mms.wwe.com
 0.0.0.0 mmstat.com
 0.0.0.0 mmtro.com
 0.0.0.0 mmwlwm.autoscout24.pl
 0.0.0.0 mnbyto.goo-net.com
 0.0.0.0 mno.link
 0.0.0.0 mnrddc.journeys.com
+0.0.0.0 moa.mediaoutcast.com
 0.0.0.0 mobalyzer.net
 0.0.0.0 mobee.xyz
 0.0.0.0 mobile-event.cvent.me
@@ -13077,6 +13082,8 @@
 0.0.0.0 mobile.mailchimpapp.com
 0.0.0.0 mobileapps.stryker.com
 0.0.0.0 mobtop.az
+0.0.0.0 mobtop.com
+0.0.0.0 mobtop.ru
 0.0.0.0 mobylog.jp
 0.0.0.0 mochibot.com
 0.0.0.0 mockingfish.com
@@ -15000,6 +15007,7 @@
 0.0.0.0 recosenselabs.com
 0.0.0.0 recoset.com
 0.0.0.0 recruitics.com
+0.0.0.0 recs.shareaholic.com
 0.0.0.0 recv-entry.tbs.co.jp
 0.0.0.0 recv-jnn.tbs.co.jp
 0.0.0.0 redcounter.net
@@ -15347,6 +15355,7 @@
 0.0.0.0 rvbqze.albamoda.de
 0.0.0.0 rvv.emol.com
 0.0.0.0 rvz9.destinia.co.ro
+0.0.0.0 rw.marchex.io
 0.0.0.0 rw.net.rewe.de
 0.0.0.0 rwdito.carsguide.com.au
 0.0.0.0 rwohdj.motocard.com
@@ -15495,6 +15504,7 @@
 0.0.0.0 sas15k01.com
 0.0.0.0 sasc.solidworks.com
 0.0.0.0 sat.sanoma.fi
+0.0.0.0 sat.soluall.net
 0.0.0.0 satarget.csu.edu.au
 0.0.0.0 satgt.grafana.com
 0.0.0.0 satisfycork.com
@@ -17092,7 +17102,6 @@
 0.0.0.0 spirebaboon.com
 0.0.0.0 spitefulstop.com
 0.0.0.0 spjysa.only.com
-0.0.0.0 spklw.com
 0.0.0.0 splitbee.io
 0.0.0.0 splittag.com
 0.0.0.0 splyt.com
@@ -17122,7 +17131,6 @@
 0.0.0.0 springaftermath.com
 0.0.0.0 springmetrics.com
 0.0.0.0 springsister.com
-0.0.0.0 sprinklecontent.com
 0.0.0.0 spscah.hitachi-solutions.co.jp
 0.0.0.0 spscas.hitachi-solutions.co.jp
 0.0.0.0 sptag.com
@@ -17426,7 +17434,6 @@
 0.0.0.0 st.preciousamber.com
 0.0.0.0 st.sawlive.tv
 0.0.0.0 st1.lg.avendrealouer.fr
-0.0.0.0 sta.zone-telechargement.day
 0.0.0.0 stack-sonar.com
 0.0.0.0 stackadapt.com
 0.0.0.0 stadig.ifeng.com
@@ -17726,7 +17733,6 @@
 0.0.0.0 stats.booncon.com
 0.0.0.0 stats.bordspel.org
 0.0.0.0 stats.boscabeatha.ie
-0.0.0.0 stats.bouyguestelecom.fr
 0.0.0.0 stats.breathly.app
 0.0.0.0 stats.brennholzauktion.com
 0.0.0.0 stats.briskoda.net
@@ -20357,6 +20363,7 @@
 0.0.0.0 tracer.autoscout24.ch
 0.0.0.0 tracer.jp
 0.0.0.0 traceworks.com
+0.0.0.0 track-dark-bz.b-cdn.net
 0.0.0.0 track-e.infineon.com
 0.0.0.0 track-re01.com
 0.0.0.0 track-selectmedia.com
@@ -20491,7 +20498,6 @@
 0.0.0.0 track.sohu.com
 0.0.0.0 track.span-smt.jp
 0.0.0.0 track.spothero.com
-0.0.0.0 track.sprinklecontent.com
 0.0.0.0 track.strife.com
 0.0.0.0 track.sunmedia.tv
 0.0.0.0 track.tappx.com
@@ -20636,6 +20642,7 @@
 0.0.0.0 tracking.aupairinamerica.com
 0.0.0.0 tracking.avladies.de
 0.0.0.0 tracking.axis.onl
+0.0.0.0 tracking.bababam.com
 0.0.0.0 tracking.badeladies.de
 0.0.0.0 tracking.bankofoklahoma.com
 0.0.0.0 tracking.bankoftexas.com
@@ -21286,7 +21293,6 @@
 0.0.0.0 twn36gx4109r.loveisblank.com
 0.0.0.0 twoeej.carrefour.fr
 0.0.0.0 twsdne.petenkoiratarvike.com
-0.0.0.0 twus-mms.theweek.com
 0.0.0.0 txkipz.bellacor.com
 0.0.0.0 txmmdl.lampy.pl
 0.0.0.0 txrx.bol.com
@@ -21313,7 +21319,6 @@
 0.0.0.0 u5e.com
 0.0.0.0 u652.myplainview.com
 0.0.0.0 u927.sfgate.com
-0.0.0.0 u989.theweek.com
 0.0.0.0 ua.indianexpress.com
 0.0.0.0 uadx.com
 0.0.0.0 uaemarketing.sedgwick.com
@@ -21494,7 +21499,6 @@
 0.0.0.0 usersegment.wpdigital.net
 0.0.0.0 userzoom.com
 0.0.0.0 usesfathom.com
-0.0.0.0 usgamer-us.usgamer.net
 0.0.0.0 usgzei.vidaxl.ch
 0.0.0.0 usivbt.qoo10.com
 0.0.0.0 usmetric.rediff.com
@@ -21589,6 +21593,7 @@
 0.0.0.0 vfqhvr.hearing-aid-advice.com
 0.0.0.0 vfzxaz.bloomingdales.ae
 0.0.0.0 vg247-p2.vg247.com
+0.0.0.0 vg247-uk.vg247.com
 0.0.0.0 vgavzy.spierandmackay.com
 0.0.0.0 vge-business.vodafone.com
 0.0.0.0 vge-mktg.vodafone.com
