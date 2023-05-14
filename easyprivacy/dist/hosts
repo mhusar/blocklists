@@ -1,6 +1,6 @@
-# Version: 202305070022
+# Version: 202305132322
 # Title: EasyPrivacy
-# Last modified: 07 May 2023 00:22 UTC
+# Last modified: 13 May 2023 23:22 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -2737,6 +2737,7 @@ amazon.com/1/aiv-web-player/1/OE
 ambercrow.com
 ambiguousalarm.com
 ambiguousanger.com
+ambiguousdinosaurs.com
 ambiguousincome.com
 ambiguousquilt.com
 ambitiousagreement.com
@@ -2764,6 +2765,7 @@ ampltd.top.gg
 ampltd2.medal.tv
 ampush.io
 ams-pageview-public.s3.amazonaws.com
+ams.lelong.com.my
 ams.oraclecloud.com
 amung.us
 amunx.de
@@ -3085,6 +3087,7 @@ analytics.send.cm
 analytics.shareaholic.com
 analytics.shop.hisense.com
 analytics.shopncaasports.com
+analytics.similarweb.com
 analytics.simplii.com
 analytics.sitewit.com
 analytics.sixfigureswine.com
@@ -5367,6 +5370,7 @@ cintnetworks.com
 ciqtracking.com
 circle.am
 circlelevel.com
+cis.schibsted.com
 ciszhp.finanzfrage.net
 ciszhp.gutefrage.net
 citrusad.net
@@ -5495,6 +5499,7 @@ clicks.shakeshack.com
 clicks.staging.worldremit.com
 clicks.tableau.com
 clicks.tunein.com
+clicks.tyuwq.com
 clicksagent.com
 clicksen.se
 clickserver.libero.it
@@ -5917,7 +5922,6 @@ connect.schoolmessenger.com
 connect.senecacollege.ca
 connect.shoprentone.com
 connect.stihl.info
-connect.telstrawholesale.com
 connect.telstrawholesale.com.au
 connect.tommyroxmusic.com
 connect.uniti.com
@@ -7165,7 +7169,6 @@ download.virtual-shopping.klarna.com
 download.withu.fit
 downloads.coface.com
 downtowndirection.com
-dp.coinbase.com
 dp.mymix.mixtel.com
 dp.shoprunner.com
 dp.tuex.ca
@@ -8170,6 +8173,7 @@ eulerian.voyage-prive.com
 euleriancdn.net
 eultech.fnac.com
 eum-appdynamics.com
+eum2.caisse-epargne.fr
 eumeainfo.motorolasolutions.com
 euqsfp.belluna.jp
 eureka-app.eurekaplatform.org
@@ -8219,7 +8223,6 @@ eventlog.inspsearchapi.com
 eventlog.jackpot.de
 events-logs.doctolib.com
 events-prod.autolist.com
-events-service.coinbase.com
 events-tracker.deliveroo.net
 events.air.tv
 events.apester.com
@@ -8470,6 +8473,7 @@ fcmatch.youtube.com
 fcpszk.telestream.net
 fcs.ovh
 fculcz.joann.com
+fd.bawag.at
 fdbs.actonservice.com
 fdedcz.helenkirchhofer.ch
 fdixsh.platypusshoes.com.au
@@ -10613,7 +10617,6 @@ ios.asktagapp.com
 iot-mktg.vodafone.com
 iotechnologies.com
 iovation.com
-ip-api.com
 ip-label.net
 ip-tracker.org
 ip.chipestimate.com
@@ -12815,6 +12818,7 @@ metrics.creit.tech
 metrics.ctvdigital.net
 metrics.damart.fr
 metrics.datapipe.com
+metrics.doppiocdn.org
 metrics.drsfostersmith.com
 metrics.earrieta.dev
 metrics.eiu.com
@@ -13706,7 +13710,6 @@ oneimpress.io
 onelink.me
 onelink.taptalk.io
 onepush.app
-onesignal.com
 onespot-tracking.herokuapp.com
 onestat.com
 onetag-sys.com
@@ -14743,6 +14746,7 @@ pvtag.yahoo.co.jp
 pvx.xcar.com.cn
 pw.gigazine.net
 pwk.nextinpact.com
+px-intl.ucweb.com
 px.derstandard.at
 px.effirst.com
 px.marchex.io
@@ -18594,6 +18598,7 @@ suspendseed.com
 sustainable.optum.com
 sut.dailyfx.com
 sut.iggroup.com
+svc2.sc.com
 svibeacon.onezapp.com
 svmarketing.destinationtoronto.com
 svpury.sizeofficial.de
@@ -19513,6 +19518,7 @@ tl.tradetracker.net
 tl813.com
 tla.traderlink.com
 tltpyy.saatchiart.com
+tm-eps.neutrino.nu
 tm.jsuol.com.br
 tm.swp.de
 tm.tradetracker.net
@@ -20575,6 +20581,7 @@ tracker.nbcuas.com
 tracker.netklix.com
 tracker.nitropay.com
 tracker.novage.com.ua
+tracker.openwebtorrent.com
 tracker.providence.org
 tracker.publico.pt
 tracker.ranker.com
@@ -21529,6 +21536,7 @@ uzd1.madeindesign.com
 uzerly.net
 uzevnf.realtystore.com
 uzrating.com
+v.adblockultimate.net
 v.angha.me
 v.cameo.com
 v.oui.sncf
@@ -22129,6 +22137,7 @@ wetr.sportscheck.com
 wevbgr.vidaxl.it
 wf.taboola.com
 wgsas.com
+whale3.io
 whatif.it.adobe.com
 wheredoyoucomefrom.ovh
 whineattempt.com

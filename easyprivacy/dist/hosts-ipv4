@@ -1,6 +1,6 @@
-# Version: 202305070022
+# Version: 202305132322
 # Title: EasyPrivacy
-# Last modified: 07 May 2023 00:22 UTC
+# Last modified: 13 May 2023 23:22 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -2737,6 +2737,7 @@
 0.0.0.0 ambercrow.com
 0.0.0.0 ambiguousalarm.com
 0.0.0.0 ambiguousanger.com
+0.0.0.0 ambiguousdinosaurs.com
 0.0.0.0 ambiguousincome.com
 0.0.0.0 ambiguousquilt.com
 0.0.0.0 ambitiousagreement.com
@@ -2764,6 +2765,7 @@
 0.0.0.0 ampltd2.medal.tv
 0.0.0.0 ampush.io
 0.0.0.0 ams-pageview-public.s3.amazonaws.com
+0.0.0.0 ams.lelong.com.my
 0.0.0.0 ams.oraclecloud.com
 0.0.0.0 amung.us
 0.0.0.0 amunx.de
@@ -3085,6 +3087,7 @@
 0.0.0.0 analytics.shareaholic.com
 0.0.0.0 analytics.shop.hisense.com
 0.0.0.0 analytics.shopncaasports.com
+0.0.0.0 analytics.similarweb.com
 0.0.0.0 analytics.simplii.com
 0.0.0.0 analytics.sitewit.com
 0.0.0.0 analytics.sixfigureswine.com
@@ -5367,6 +5370,7 @@
 0.0.0.0 ciqtracking.com
 0.0.0.0 circle.am
 0.0.0.0 circlelevel.com
+0.0.0.0 cis.schibsted.com
 0.0.0.0 ciszhp.finanzfrage.net
 0.0.0.0 ciszhp.gutefrage.net
 0.0.0.0 citrusad.net
@@ -5495,6 +5499,7 @@
 0.0.0.0 clicks.staging.worldremit.com
 0.0.0.0 clicks.tableau.com
 0.0.0.0 clicks.tunein.com
+0.0.0.0 clicks.tyuwq.com
 0.0.0.0 clicksagent.com
 0.0.0.0 clicksen.se
 0.0.0.0 clickserver.libero.it
@@ -5917,7 +5922,6 @@
 0.0.0.0 connect.senecacollege.ca
 0.0.0.0 connect.shoprentone.com
 0.0.0.0 connect.stihl.info
-0.0.0.0 connect.telstrawholesale.com
 0.0.0.0 connect.telstrawholesale.com.au
 0.0.0.0 connect.tommyroxmusic.com
 0.0.0.0 connect.uniti.com
@@ -7165,7 +7169,6 @@
 0.0.0.0 download.withu.fit
 0.0.0.0 downloads.coface.com
 0.0.0.0 downtowndirection.com
-0.0.0.0 dp.coinbase.com
 0.0.0.0 dp.mymix.mixtel.com
 0.0.0.0 dp.shoprunner.com
 0.0.0.0 dp.tuex.ca
@@ -8170,6 +8173,7 @@
 0.0.0.0 euleriancdn.net
 0.0.0.0 eultech.fnac.com
 0.0.0.0 eum-appdynamics.com
+0.0.0.0 eum2.caisse-epargne.fr
 0.0.0.0 eumeainfo.motorolasolutions.com
 0.0.0.0 euqsfp.belluna.jp
 0.0.0.0 eureka-app.eurekaplatform.org
@@ -8219,7 +8223,6 @@
 0.0.0.0 eventlog.jackpot.de
 0.0.0.0 events-logs.doctolib.com
 0.0.0.0 events-prod.autolist.com
-0.0.0.0 events-service.coinbase.com
 0.0.0.0 events-tracker.deliveroo.net
 0.0.0.0 events.air.tv
 0.0.0.0 events.apester.com
@@ -8470,6 +8473,7 @@
 0.0.0.0 fcpszk.telestream.net
 0.0.0.0 fcs.ovh
 0.0.0.0 fculcz.joann.com
+0.0.0.0 fd.bawag.at
 0.0.0.0 fdbs.actonservice.com
 0.0.0.0 fdedcz.helenkirchhofer.ch
 0.0.0.0 fdixsh.platypusshoes.com.au
@@ -10613,7 +10617,6 @@
 0.0.0.0 iot-mktg.vodafone.com
 0.0.0.0 iotechnologies.com
 0.0.0.0 iovation.com
-0.0.0.0 ip-api.com
 0.0.0.0 ip-label.net
 0.0.0.0 ip-tracker.org
 0.0.0.0 ip.chipestimate.com
@@ -12815,6 +12818,7 @@
 0.0.0.0 metrics.ctvdigital.net
 0.0.0.0 metrics.damart.fr
 0.0.0.0 metrics.datapipe.com
+0.0.0.0 metrics.doppiocdn.org
 0.0.0.0 metrics.drsfostersmith.com
 0.0.0.0 metrics.earrieta.dev
 0.0.0.0 metrics.eiu.com
@@ -13706,7 +13710,6 @@
 0.0.0.0 onelink.me
 0.0.0.0 onelink.taptalk.io
 0.0.0.0 onepush.app
-0.0.0.0 onesignal.com
 0.0.0.0 onespot-tracking.herokuapp.com
 0.0.0.0 onestat.com
 0.0.0.0 onetag-sys.com
@@ -14743,6 +14746,7 @@
 0.0.0.0 pvx.xcar.com.cn
 0.0.0.0 pw.gigazine.net
 0.0.0.0 pwk.nextinpact.com
+0.0.0.0 px-intl.ucweb.com
 0.0.0.0 px.derstandard.at
 0.0.0.0 px.effirst.com
 0.0.0.0 px.marchex.io
@@ -18594,6 +18598,7 @@
 0.0.0.0 sustainable.optum.com
 0.0.0.0 sut.dailyfx.com
 0.0.0.0 sut.iggroup.com
+0.0.0.0 svc2.sc.com
 0.0.0.0 svibeacon.onezapp.com
 0.0.0.0 svmarketing.destinationtoronto.com
 0.0.0.0 svpury.sizeofficial.de
@@ -19513,6 +19518,7 @@
 0.0.0.0 tl813.com
 0.0.0.0 tla.traderlink.com
 0.0.0.0 tltpyy.saatchiart.com
+0.0.0.0 tm-eps.neutrino.nu
 0.0.0.0 tm.jsuol.com.br
 0.0.0.0 tm.swp.de
 0.0.0.0 tm.tradetracker.net
@@ -20575,6 +20581,7 @@
 0.0.0.0 tracker.netklix.com
 0.0.0.0 tracker.nitropay.com
 0.0.0.0 tracker.novage.com.ua
+0.0.0.0 tracker.openwebtorrent.com
 0.0.0.0 tracker.providence.org
 0.0.0.0 tracker.publico.pt
 0.0.0.0 tracker.ranker.com
@@ -21529,6 +21536,7 @@
 0.0.0.0 uzerly.net
 0.0.0.0 uzevnf.realtystore.com
 0.0.0.0 uzrating.com
+0.0.0.0 v.adblockultimate.net
 0.0.0.0 v.angha.me
 0.0.0.0 v.cameo.com
 0.0.0.0 v.oui.sncf
@@ -22129,6 +22137,7 @@
 0.0.0.0 wevbgr.vidaxl.it
 0.0.0.0 wf.taboola.com
 0.0.0.0 wgsas.com
+0.0.0.0 whale3.io
 0.0.0.0 whatif.it.adobe.com
 0.0.0.0 wheredoyoucomefrom.ovh
 0.0.0.0 whineattempt.com
