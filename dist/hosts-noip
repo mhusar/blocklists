@@ -1,6 +1,6 @@
-# Version: 202306040022
+# Version: 202306101340
 # Title: EasyPrivacy
-# Last modified: 04 Jun 2023 00:22 UTC
+# Last modified: 10 Jun 2023 13:40 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -2685,6 +2685,7 @@ amavalet.com
 amazingairplane.com
 amazingcounters.com
 amazon.com/1/aiv-web-player/1/OE
+amazonaws.com/beacon
 ambercrow.com
 ambiguousalarm.com
 ambiguousanger.com
@@ -2924,6 +2925,7 @@ analytics.kapost.com
 analytics.kellyservices.com
 analytics.kerns.co
 analytics.kkb.com.tr
+analytics.klickly.com
 analytics.kongregate.io
 analytics.kraken.com
 analytics.krieselreihe.com
@@ -4976,6 +4978,7 @@ c.paypal.com
 c.refun.do
 c.rhapsody.com
 c.sibnet.ru
+c.thredup.com
 c.topya.com
 c.vrt.be
 c.wen.ru
@@ -7383,6 +7386,7 @@ ec-concier.com
 ec-optimizer.com
 ec-track.com
 ec.infosys.com
+ec.thredup.com
 ec.walkme.com
 ecefyu.geox.com
 eclick.360doc.com
@@ -8093,6 +8097,7 @@ events.demoup.com
 events.devcycle.com
 events.elliemae.com
 events.engage.cebglobal.com
+events.flagship.io
 events.forddirectdealers.com
 events.framer.com
 events.georgiancollege.ca
@@ -8348,6 +8353,7 @@ feedify.net
 feedjit.com
 feedperfect.com
 fek1.fnactickets.com
+fennec.atp.fox
 feqvzt.myareadesign.com
 feraciumus.com
 ferank.fr
@@ -8424,6 +8430,7 @@ floodprincipal.com
 flow.kiloutou.fr
 flower.aridjaya.com
 flowerstreatment.com
+flowerycreature.com
 floweryflavor.com
 floweryoperation.com
 flqjny.supplementler.com
@@ -8590,6 +8597,7 @@ freetrafficsystem.com
 freeusersonline.com
 freevisitorcounters.com
 freeweblogger.com
+freezingbuilding.com
 freihit.de
 fremaks.net
 fresh.inlinkz.com
@@ -8918,6 +8926,7 @@ getdrip.com
 getelevar.com
 getfreebl.com
 getinfo.fullsail.edu
+getlasso.co
 getnotix.co
 getpublica.com
 getpush.net
@@ -9399,6 +9408,7 @@ handyfireman.com
 haostat.qihoo.com
 happen.spkt.io
 happenhistory.com
+harborcaption.com
 harborcub.com
 hardtofindmilk.com
 hariken.co
@@ -9447,6 +9457,7 @@ he2d.com
 headyhook.com
 healflowers.com
 healte.de
+health-metrics-api.setapp.com
 healthquest.hrm.healthgrades.com
 healthy.spartanburgregional.com
 heap.drop.com
@@ -9481,7 +9492,6 @@ heylink.com
 heymatic.com
 heystaks.com
 hfc195b.com
-hfd.bridgetowermedia.com
 hgf4.zanzicar.fr
 hh.ru/analytics
 hhbxcs.tylko.com
@@ -10322,6 +10332,7 @@ innovateads.com
 inova.hrm.healthgrades.com
 inphonic.com
 inpref.com
+inputicicle.com
 inpwrd.com
 inqjal.dickssportinggoods.com
 inquisitiveice.com
@@ -11496,6 +11507,7 @@ log.hiiir.com
 log.hypebeast.com
 log.idnes.cz
 log.invodo.com
+log.klook.com
 log.m.sm.cn
 log.mediacategory.com
 log.medietall.no
@@ -11594,6 +11606,7 @@ lookit.cz
 lookmy.info
 loopa.net.au
 loopfuse.net
+looseloaf.com
 lopley.com
 lord.actonservice.com
 lore.circulate.com
@@ -13410,6 +13423,7 @@ observer.ip-label.net
 observerapp.com
 obtfhl.bellemaison.jp
 oci.dyn.com
+ocmhood.com
 ocmxbu.hanatour.com
 octavius.rocks
 octomarket.com
@@ -14000,6 +14014,7 @@ pixel.archive.vn
 pixel.archivecaslytosk.onion
 pixel.archiveiya74codqgiixo33q62qlrqtkgmcitqx5u2oeqnmn5bpcbiyd.onion
 pixel.augsburger-allgemeine.de
+pixel.barion.com
 pixel.biano.cz
 pixel.biano.ro
 pixel.blivenyc.com
@@ -14784,6 +14799,7 @@ realzeit.io
 reauthenticator.com
 rebelhen.com
 rebelsubway.com
+rebelswing.com
 recapture.io
 receptivebranch.com
 receptiveink.com
@@ -18140,6 +18156,7 @@ stringsmile.com
 stripedburst.com
 stripedcollar.net
 strivesidewalk.com
+strivesquirrel.com
 strk.chegg.com
 stroeerdigitalmedia.de
 strossle.it
@@ -22534,7 +22551,7 @@ zzaoea.costacrociere.it
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2023-06-04 01:07:40.304526
+# Generated at 2023-06-11 01:05:25.592594
 
 databerries.com
 fidzup

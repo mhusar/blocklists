@@ -1,6 +1,6 @@
-# Version: 202306040022
+# Version: 202306101340
 # Title: EasyPrivacy
-# Last modified: 04 Jun 2023 00:22 UTC
+# Last modified: 10 Jun 2023 13:40 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -2700,6 +2700,7 @@
 0.0.0.0 amazingairplane.com
 0.0.0.0 amazingcounters.com
 0.0.0.0 amazon.com/1/aiv-web-player/1/OE
+0.0.0.0 amazonaws.com/beacon
 0.0.0.0 ambercrow.com
 0.0.0.0 ambiguousalarm.com
 0.0.0.0 ambiguousanger.com
@@ -2939,6 +2940,7 @@
 0.0.0.0 analytics.kellyservices.com
 0.0.0.0 analytics.kerns.co
 0.0.0.0 analytics.kkb.com.tr
+0.0.0.0 analytics.klickly.com
 0.0.0.0 analytics.kongregate.io
 0.0.0.0 analytics.kraken.com
 0.0.0.0 analytics.krieselreihe.com
@@ -4991,6 +4993,7 @@
 0.0.0.0 c.refun.do
 0.0.0.0 c.rhapsody.com
 0.0.0.0 c.sibnet.ru
+0.0.0.0 c.thredup.com
 0.0.0.0 c.topya.com
 0.0.0.0 c.vrt.be
 0.0.0.0 c.wen.ru
@@ -7398,6 +7401,7 @@
 0.0.0.0 ec-optimizer.com
 0.0.0.0 ec-track.com
 0.0.0.0 ec.infosys.com
+0.0.0.0 ec.thredup.com
 0.0.0.0 ec.walkme.com
 0.0.0.0 ecefyu.geox.com
 0.0.0.0 eclick.360doc.com
@@ -8108,6 +8112,7 @@
 0.0.0.0 events.devcycle.com
 0.0.0.0 events.elliemae.com
 0.0.0.0 events.engage.cebglobal.com
+0.0.0.0 events.flagship.io
 0.0.0.0 events.forddirectdealers.com
 0.0.0.0 events.framer.com
 0.0.0.0 events.georgiancollege.ca
@@ -8363,6 +8368,7 @@
 0.0.0.0 feedjit.com
 0.0.0.0 feedperfect.com
 0.0.0.0 fek1.fnactickets.com
+0.0.0.0 fennec.atp.fox
 0.0.0.0 feqvzt.myareadesign.com
 0.0.0.0 feraciumus.com
 0.0.0.0 ferank.fr
@@ -8439,6 +8445,7 @@
 0.0.0.0 flow.kiloutou.fr
 0.0.0.0 flower.aridjaya.com
 0.0.0.0 flowerstreatment.com
+0.0.0.0 flowerycreature.com
 0.0.0.0 floweryflavor.com
 0.0.0.0 floweryoperation.com
 0.0.0.0 flqjny.supplementler.com
@@ -8605,6 +8612,7 @@
 0.0.0.0 freeusersonline.com
 0.0.0.0 freevisitorcounters.com
 0.0.0.0 freeweblogger.com
+0.0.0.0 freezingbuilding.com
 0.0.0.0 freihit.de
 0.0.0.0 fremaks.net
 0.0.0.0 fresh.inlinkz.com
@@ -8933,6 +8941,7 @@
 0.0.0.0 getelevar.com
 0.0.0.0 getfreebl.com
 0.0.0.0 getinfo.fullsail.edu
+0.0.0.0 getlasso.co
 0.0.0.0 getnotix.co
 0.0.0.0 getpublica.com
 0.0.0.0 getpush.net
@@ -9414,6 +9423,7 @@
 0.0.0.0 haostat.qihoo.com
 0.0.0.0 happen.spkt.io
 0.0.0.0 happenhistory.com
+0.0.0.0 harborcaption.com
 0.0.0.0 harborcub.com
 0.0.0.0 hardtofindmilk.com
 0.0.0.0 hariken.co
@@ -9462,6 +9472,7 @@
 0.0.0.0 headyhook.com
 0.0.0.0 healflowers.com
 0.0.0.0 healte.de
+0.0.0.0 health-metrics-api.setapp.com
 0.0.0.0 healthquest.hrm.healthgrades.com
 0.0.0.0 healthy.spartanburgregional.com
 0.0.0.0 heap.drop.com
@@ -9496,7 +9507,6 @@
 0.0.0.0 heymatic.com
 0.0.0.0 heystaks.com
 0.0.0.0 hfc195b.com
-0.0.0.0 hfd.bridgetowermedia.com
 0.0.0.0 hgf4.zanzicar.fr
 0.0.0.0 hh.ru/analytics
 0.0.0.0 hhbxcs.tylko.com
@@ -10337,6 +10347,7 @@
 0.0.0.0 inova.hrm.healthgrades.com
 0.0.0.0 inphonic.com
 0.0.0.0 inpref.com
+0.0.0.0 inputicicle.com
 0.0.0.0 inpwrd.com
 0.0.0.0 inqjal.dickssportinggoods.com
 0.0.0.0 inquisitiveice.com
@@ -11511,6 +11522,7 @@
 0.0.0.0 log.hypebeast.com
 0.0.0.0 log.idnes.cz
 0.0.0.0 log.invodo.com
+0.0.0.0 log.klook.com
 0.0.0.0 log.m.sm.cn
 0.0.0.0 log.mediacategory.com
 0.0.0.0 log.medietall.no
@@ -11609,6 +11621,7 @@
 0.0.0.0 lookmy.info
 0.0.0.0 loopa.net.au
 0.0.0.0 loopfuse.net
+0.0.0.0 looseloaf.com
 0.0.0.0 lopley.com
 0.0.0.0 lord.actonservice.com
 0.0.0.0 lore.circulate.com
@@ -13425,6 +13438,7 @@
 0.0.0.0 observerapp.com
 0.0.0.0 obtfhl.bellemaison.jp
 0.0.0.0 oci.dyn.com
+0.0.0.0 ocmhood.com
 0.0.0.0 ocmxbu.hanatour.com
 0.0.0.0 octavius.rocks
 0.0.0.0 octomarket.com
@@ -14015,6 +14029,7 @@
 0.0.0.0 pixel.archivecaslytosk.onion
 0.0.0.0 pixel.archiveiya74codqgiixo33q62qlrqtkgmcitqx5u2oeqnmn5bpcbiyd.onion
 0.0.0.0 pixel.augsburger-allgemeine.de
+0.0.0.0 pixel.barion.com
 0.0.0.0 pixel.biano.cz
 0.0.0.0 pixel.biano.ro
 0.0.0.0 pixel.blivenyc.com
@@ -14799,6 +14814,7 @@
 0.0.0.0 reauthenticator.com
 0.0.0.0 rebelhen.com
 0.0.0.0 rebelsubway.com
+0.0.0.0 rebelswing.com
 0.0.0.0 recapture.io
 0.0.0.0 receptivebranch.com
 0.0.0.0 receptiveink.com
@@ -18155,6 +18171,7 @@
 0.0.0.0 stripedburst.com
 0.0.0.0 stripedcollar.net
 0.0.0.0 strivesidewalk.com
+0.0.0.0 strivesquirrel.com
 0.0.0.0 strk.chegg.com
 0.0.0.0 stroeerdigitalmedia.de
 0.0.0.0 strossle.it
@@ -22549,7 +22566,7 @@
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2023-06-04 01:07:41.504772
+# Generated at 2023-06-11 01:05:26.571046
 
 0.0.0.0 databerries.com
 0.0.0.0 fidzup
