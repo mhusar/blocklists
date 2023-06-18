@@ -1,6 +1,6 @@
-# Version: 202306101340
+# Version: 202306180002
 # Title: EasyPrivacy
-# Last modified: 10 Jun 2023 13:40 UTC
+# Last modified: 18 Jun 2023 00:02 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -2230,7 +2230,6 @@
 0.0.0.0 action.advisorycloud.com
 0.0.0.0 action.hassconsult.co.ke
 0.0.0.0 action.logixfiber.com
-0.0.0.0 actionallocator.com
 0.0.0.0 actioniq.mr-in.com
 0.0.0.0 actirinius.com
 0.0.0.0 activation.depop.com
@@ -2296,6 +2295,7 @@
 0.0.0.0 ad.udition.jp
 0.0.0.0 ad1.tone.ne.jp
 0.0.0.0 ad1x.com
+0.0.0.0 ad2iction.com
 0.0.0.0 ad5track.com
 0.0.0.0 ad7.bigmir.net
 0.0.0.0 ad7.com
@@ -2327,10 +2327,8 @@
 0.0.0.0 adbsmetrics.koreanair.com
 0.0.0.0 adbsmetrics.kt.com
 0.0.0.0 adbsmetrics.lotterentacar.net
+0.0.0.0 adc-js.nine.com.au
 0.0.0.0 adc-serv.net
-0.0.0.0 adc.9news.com.au
-0.0.0.0 adc.api.nine.com.au
-0.0.0.0 adc.nine.com.au
 0.0.0.0 adclear.net
 0.0.0.0 adcontroll.com
 0.0.0.0 adcrowd.com
@@ -2547,7 +2545,6 @@
 0.0.0.0 affiliate.rakuten.co.jp
 0.0.0.0 affiliateedge.eu
 0.0.0.0 affiliates.minglematch.com
-0.0.0.0 affiliates.treasureisland.com
 0.0.0.0 affiliates.vpn.ht
 0.0.0.0 affiliation.planethoster.info
 0.0.0.0 affiliatly.com
@@ -2598,7 +2595,6 @@
 0.0.0.0 ahima.coniferhealth.com
 0.0.0.0 ahjucs.loberon.de
 0.0.0.0 ai.idg.se
-0.0.0.0 ai.iol.io
 0.0.0.0 ai.thermo.com
 0.0.0.0 ai.thermofisher.com
 0.0.0.0 aicontents.net
@@ -2750,6 +2746,7 @@
 0.0.0.0 ana.tv5unis.ca
 0.0.0.0 analights.com
 0.0.0.0 analitica.webrpp.com
+0.0.0.0 analitik.bik.gov.tr
 0.0.0.0 analitits.com
 0.0.0.0 analitycs.net
 0.0.0.0 analoganalytics.com
@@ -2875,7 +2872,6 @@
 0.0.0.0 analytics.discountpowertx.com
 0.0.0.0 analytics.disneyinternational.com
 0.0.0.0 analytics.dvidshub.net
-0.0.0.0 analytics.ecosia.org
 0.0.0.0 analytics.edgekey.net
 0.0.0.0 analytics.eggoffer.com
 0.0.0.0 analytics.eikko.ai
@@ -3095,7 +3091,6 @@
 0.0.0.0 analytics.tribeca.vidavee.com
 0.0.0.0 analytics.trust.page
 0.0.0.0 analytics.tver.jp
-0.0.0.0 analytics.twitter.com
 0.0.0.0 analytics.unibuddy.co
 0.0.0.0 analytics.unilogcorp.com
 0.0.0.0 analytics.unive.nl
@@ -3161,7 +3156,6 @@
 0.0.0.0 analyticssec.overwolf.com
 0.0.0.0 analyticswizard.com
 0.0.0.0 analytik.xyz
-0.0.0.0 analytk.com
 0.0.0.0 analyze.full-marke.com
 0.0.0.0 analyzer.fc2.com
 0.0.0.0 analyzer2.fc2.com
@@ -3997,6 +3991,7 @@
 0.0.0.0 ar.quadient.com
 0.0.0.0 ar1nvz5.com
 0.0.0.0 aralego.net
+0.0.0.0 arc.io
 0.0.0.0 arcadeweb.com
 0.0.0.0 archswimming.com
 0.0.0.0 arcticamber.com
@@ -4564,7 +4559,6 @@
 0.0.0.0 bizible.com
 0.0.0.0 bizlink.dinifi.com
 0.0.0.0 bizo.com
-0.0.0.0 bizseasky.com
 0.0.0.0 bizspring.net
 0.0.0.0 bja2.destinia.cz
 0.0.0.0 bjc.hrm.healthgrades.com
@@ -5210,6 +5204,7 @@
 0.0.0.0 cdrive.compellent.com
 0.0.0.0 cdtm.cdiscount.com
 0.0.0.0 cedexis.com
+0.0.0.0 cefgo.com
 0.0.0.0 celebros-analytics.com
 0.0.0.0 celebrus.com
 0.0.0.0 cellstats.mako.co.il
@@ -5930,7 +5925,6 @@
 0.0.0.0 content.hurix.com
 0.0.0.0 content.hydraulicsproducts.com
 0.0.0.0 content.icanmkrtg.com
-0.0.0.0 content.id.elsevier.com
 0.0.0.0 content.investresolve.com
 0.0.0.0 content.juniper.net
 0.0.0.0 content.linesight.com
@@ -5993,7 +5987,6 @@
 0.0.0.0 cookchalk.com
 0.0.0.0 cookie-guard-erdee.ey.r.appspot.com
 0.0.0.0 cookie.amerigas.com
-0.0.0.0 cookie.codemarketing.cloud
 0.0.0.0 cookie.cynch.com
 0.0.0.0 cookie.myamerigas.com
 0.0.0.0 cookie.sync.usonar.jp
@@ -6287,7 +6280,6 @@
 0.0.0.0 ctr.nmg.de
 0.0.0.0 cts.businesswire.com
 0.0.0.0 cts.vresp.com
-0.0.0.0 cttracking02.com
 0.0.0.0 ctusolution.com
 0.0.0.0 ctx.citiservi.es
 0.0.0.0 ctyjsf.cellphones.com.vn
@@ -6877,6 +6869,7 @@
 0.0.0.0 digitalworkplace.ricoh.fr
 0.0.0.0 digitru.st
 0.0.0.0 dignow.org
+0.0.0.0 dii.bankaust.com.au
 0.0.0.0 dii3.zooplus.nl
 0.0.0.0 dikhsb.vividseats.com
 0.0.0.0 dimensions.mappy.com
@@ -7032,6 +7025,7 @@
 0.0.0.0 dollardelta.com
 0.0.0.0 dolldetail.com
 0.0.0.0 dolphin.deliver.ifeng.com
+0.0.0.0 domaincontrol.com
 0.0.0.0 domdog.io
 0.0.0.0 domino.flycl.ps
 0.0.0.0 dominocounter.net
@@ -8329,6 +8323,7 @@
 0.0.0.0 fazphz.theiconic.com.au
 0.0.0.0 fb.echovisuals.com
 0.0.0.0 fb_servpub-a.akamaihd.net
+0.0.0.0 fbi.com
 0.0.0.0 fbu8.hoteldeparismontecarlo.com
 0.0.0.0 fbu8.hotelhermitagemontecarlo.com
 0.0.0.0 fbu8.monte-carlo-beach.com
@@ -9241,7 +9236,6 @@
 0.0.0.0 go.zvooq.com
 0.0.0.0 go2.kofax.com
 0.0.0.0 go2.mathworks.com
-0.0.0.0 go2link.net
 0.0.0.0 go5.global.toshiba
 0.0.0.0 goa.dngn.kr
 0.0.0.0 goadservices.com
@@ -9759,6 +9753,7 @@
 0.0.0.0 ia.ekstrabladet.dk
 0.0.0.0 iaalxo.vans.ru
 0.0.0.0 iabusprivacy.pmc.com
+0.0.0.0 iam-rum-intake.datadoghq.com
 0.0.0.0 iatoex.kahve.com
 0.0.0.0 iaudienc.com
 0.0.0.0 iazwzp.lyst.com
@@ -10970,6 +10965,7 @@
 0.0.0.0 laboredlocket.com
 0.0.0.0 lacinfo.motorolasolutions.com
 0.0.0.0 lackadaisicalkite.com
+0.0.0.0 lacolhost.com
 0.0.0.0 ladsp.com
 0.0.0.0 laferia.cr
 0.0.0.0 lagoonolivia.com
@@ -11488,6 +11484,7 @@
 0.0.0.0 lmldvr.centauro.net
 0.0.0.0 ln.ameba.jp
 0.0.0.0 lndata.com
+0.0.0.0 lndo.site
 0.0.0.0 lngtd.com
 0.0.0.0 lnk-stg.welthee.com
 0.0.0.0 lnk.welthee.com
@@ -11496,6 +11493,12 @@
 0.0.0.0 loader.zeroform.com
 0.0.0.0 loansales.cbre.com
 0.0.0.0 local-shares.ri.la
+0.0.0.0 local.computer
+0.0.0.0 local.qinlili.bid
+0.0.0.0 local.sisteminha.com
+0.0.0.0 localho.st
+0.0.0.0 localhost.direct
+0.0.0.0 localtest.me
 0.0.0.0 localytics.com
 0.0.0.0 lockview.cn
 0.0.0.0 locotrack.net
@@ -11702,6 +11705,7 @@
 0.0.0.0 lurker.olx.com.br
 0.0.0.0 lusgle.hudabeauty.com
 0.0.0.0 lv6od3a4sz12.www.logology.co
+0.0.0.0 lvh.me
 0.0.0.0 lwadm.com
 0.0.0.0 lwozzk.legacy.com
 0.0.0.0 lxiaho.lesfurets.com
@@ -12568,8 +12572,8 @@
 0.0.0.0 mercadoclics.com
 0.0.0.0 mercadolibre.com/tracks
 0.0.0.0 mercent.com
-0.0.0.0 mercy.ga
 0.0.0.0 meremark.com
+0.0.0.0 merequartz.com
 0.0.0.0 meriwest.actonservice.com
 0.0.0.0 message.alldata.com
 0.0.0.0 message.sonicwall.com
@@ -13226,6 +13230,7 @@
 0.0.0.0 netcoresmartech.com
 0.0.0.0 netcounter.de
 0.0.0.0 netdebit-counter.de
+0.0.0.0 netfinity.hostedrmm.com
 0.0.0.0 netflame.cc
 0.0.0.0 netgraviton.net
 0.0.0.0 netmera-web.com
@@ -13299,6 +13304,7 @@
 0.0.0.0 ninja.akamaized.net
 0.0.0.0 ninja.onap.io
 0.0.0.0 ninjacat.io
+0.0.0.0 nip.io
 0.0.0.0 nkwvwb.fluevog.com
 0.0.0.0 nlf6.vente-unique.pl
 0.0.0.0 nlgzhd.yoox.com
@@ -13438,7 +13444,6 @@
 0.0.0.0 observerapp.com
 0.0.0.0 obtfhl.bellemaison.jp
 0.0.0.0 oci.dyn.com
-0.0.0.0 ocmhood.com
 0.0.0.0 ocmxbu.hanatour.com
 0.0.0.0 octavius.rocks
 0.0.0.0 octomarket.com
@@ -14556,7 +14561,6 @@
 0.0.0.0 pv.kuaizhan.com
 0.0.0.0 pv.ltn.com.tw
 0.0.0.0 pv.partenaires-verisure.fr
-0.0.0.0 pv.pjtsu.com
 0.0.0.0 pv.sohu.com
 0.0.0.0 pv.xcar.com.cn
 0.0.0.0 pvd.to
@@ -16051,7 +16055,6 @@
 0.0.0.0 sitebro.com
 0.0.0.0 sitebro.de
 0.0.0.0 sitebro.net
-0.0.0.0 sitebro.tw
 0.0.0.0 sitecatalyst.work.shiseido.co.jp
 0.0.0.0 sitecompass.com
 0.0.0.0 sitecounter.site
@@ -16748,6 +16751,7 @@
 0.0.0.0 sp.cargurus.co.uk
 0.0.0.0 sp.data.funkedigital.de
 0.0.0.0 sp.dpgmedia.net
+0.0.0.0 sp.ecosia.org
 0.0.0.0 sp.gameomatic.fr
 0.0.0.0 sp.jrklein.com
 0.0.0.0 sp.logicforte.com
@@ -16942,6 +16946,7 @@
 0.0.0.0 ssc.wa.gto.db.com
 0.0.0.0 ssdc.bawag.com
 0.0.0.0 ssfllp.actonservice.com
+0.0.0.0 ssh.town
 0.0.0.0 sshhfy.ray-ban.com
 0.0.0.0 ssite.johnlewis.com
 0.0.0.0 ssite.waitrose.com
@@ -18248,6 +18253,7 @@
 0.0.0.0 sunios.de
 0.0.0.0 sunlightmetrics.b-cdn.net
 0.0.0.0 suntcontent.se
+0.0.0.0 supercalifragilisticexpialidocious.co.uk
 0.0.0.0 supercounters.com
 0.0.0.0 superficialeyes.com
 0.0.0.0 superficialspring.com
@@ -18363,7 +18369,6 @@
 0.0.0.0 sweepsheep.com
 0.0.0.0 sweetslope.com
 0.0.0.0 swellstocking.com
-0.0.0.0 swfstats.com
 0.0.0.0 swiftmining.win
 0.0.0.0 swimslope.com
 0.0.0.0 swiss-counter.com
@@ -18705,7 +18710,6 @@
 0.0.0.0 tags.cdn.circlesix.co
 0.0.0.0 tags.clickagy.com
 0.0.0.0 tags.cmp.tail.digital
-0.0.0.0 tags.creativille.co.uk
 0.0.0.0 tags.fullcontact.com
 0.0.0.0 tags.globo.com
 0.0.0.0 tags.johnlewis.com
@@ -18725,6 +18729,8 @@
 0.0.0.0 talk-test.stitch.cam
 0.0.0.0 talltouch.com
 0.0.0.0 tally.bizanalyst.in
+0.0.0.0 talpa-analytics.com
+0.0.0.0 talpa-analytics.work
 0.0.0.0 talyst.actonservice.com
 0.0.0.0 tamedbc.roska.fr
 0.0.0.0 tamgrt.com
@@ -20043,7 +20049,6 @@
 0.0.0.0 tracelytics.com
 0.0.0.0 tracemyip.org
 0.0.0.0 tracer.autoscout24.ch
-0.0.0.0 tracer.jp
 0.0.0.0 traceworks.com
 0.0.0.0 track-dark-bz.b-cdn.net
 0.0.0.0 track-e.infineon.com
@@ -20691,7 +20696,6 @@
 0.0.0.0 trafic.ro
 0.0.0.0 trafikkfondet.no
 0.0.0.0 trafit.com
-0.0.0.0 trafix.ro
 0.0.0.0 trail-web.com
 0.0.0.0 trail.sweetandmaxwell.co.uk
 0.0.0.0 trail.thomsonreuters.ca
@@ -21650,6 +21654,7 @@
 0.0.0.0 web4.perkinelmer.com
 0.0.0.0 webads.eu
 0.0.0.0 webanalysis.dev
+0.0.0.0 webanalytic.info
 0.0.0.0 webanalyticsssl.websense.com
 0.0.0.0 webassembly.stream
 0.0.0.0 webbc.fivecdm.com
@@ -21926,8 +21931,6 @@
 0.0.0.0 wt.vhb.de
 0.0.0.0 wt.viagogo.net
 0.0.0.0 wtaccesscontrol.com
-0.0.0.0 wtastats.com
-0.0.0.0 wtastats.ro
 0.0.0.0 wtbevents.pricespider.com
 0.0.0.0 wtgnmr.golfdigest.co.jp
 0.0.0.0 wthugv.sportpro.co
@@ -22220,6 +22223,7 @@
 0.0.0.0 x9.shinobi.jp
 0.0.0.0 xaayrl.joybird.com
 0.0.0.0 xapi.ozon.ru
+0.0.0.0 xapkgame.com
 0.0.0.0 xay5o.toscane-boutique.fr
 0.0.0.0 xbmady.daimaru-matsuzakaya.jp
 0.0.0.0 xbwpfs.fotocasa.es
@@ -22243,6 +22247,7 @@
 0.0.0.0 xhit.com
 0.0.0.0 xhxmhs.ounass.ae
 0.0.0.0 xibspj.komehyo.jp
+0.0.0.0 xip.io
 0.0.0.0 xiqvza.dickblick.com
 0.0.0.0 xiti.com
 0.0.0.0 xitvce.webtretho.com
@@ -22385,6 +22390,7 @@
 0.0.0.0 yoc.younited-credit.com
 0.0.0.0 yolo.philipbjorge.com
 0.0.0.0 yoochoose.net
+0.0.0.0 yoogle.com
 0.0.0.0 yottlyscript.com
 0.0.0.0 you.pixellot.link
 0.0.0.0 youbora.com
@@ -22566,7 +22572,7 @@
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2023-06-11 01:05:26.571046
+# Generated at 2023-06-18 01:04:48.016209
 
 0.0.0.0 databerries.com
 0.0.0.0 fidzup
