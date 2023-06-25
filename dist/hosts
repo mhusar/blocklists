@@ -1,6 +1,6 @@
-# Version: 202306180002
+# Version: 202306250016
 # Title: EasyPrivacy
-# Last modified: 18 Jun 2023 00:02 UTC
+# Last modified: 25 Jun 2023 00:16 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -2439,6 +2439,7 @@ adpies.com
 adpon.jp
 adpromo.peppynet.com
 adquality.ch
+adrange.net
 adregain.com
 adregain.ru
 adrizer.com
@@ -5204,7 +5205,6 @@ cdnopw.com
 cdrive.compellent.com
 cdtm.cdiscount.com
 cedexis.com
-cefgo.com
 celebros-analytics.com
 celebrus.com
 cellstats.mako.co.il
@@ -5506,6 +5506,7 @@ cm.nordvpn.com
 cmcore.com
 cmmeglobal.com
 cmp.courrierinternational.com
+cmp.datasign.co
 cmp.dreamlab.pl
 cmp.finn.no
 cmp.huffingtonpost.fr
@@ -5558,7 +5559,6 @@ cnt.iol.it
 cnt.logoslovo.ru
 cnt.mastorage.net
 cnt.nov.ru
-cnt.nuvid.com
 cnt.rambler.ru
 cnt.rate.ru
 cnt.trvdp.com
@@ -6209,7 +6209,6 @@ crosspixel.net
 crosswalkmail.com
 crowdedmass.com
 crowdscience.com
-crowdtwist.com
 crrm.onjoyri.de
 crsspxl.com
 crta.and.co.uk
@@ -6439,7 +6438,6 @@ d1cdnlzf6usiff.cloudfront.net
 d1clfvuu2240eh.cloudfront.net
 d1cr9zxt7u0sgu.cloudfront.net
 d1gp8joe0evc8s.cloudfront.net
-d1igp3oop3iho5.cloudfront.net
 d1k8sb4xbepqao.cloudfront.net
 d1m6l9dfulcyw7.cloudfront.net
 d1n00d49gkbray.cloudfront.net
@@ -6480,7 +6478,6 @@ d2kdl5wcwrtj90.cloudfront.net
 d2nxi61n77zqpl.cloudfront.net
 d2o67tzzxkqap2.cloudfront.net
 d2oh4tlt9mrke9.cloudfront.net
-d2r1yp2w7bby2u.cloudfront.net
 d2rnkf2kqy5m6h.cloudfront.net
 d2san7t27xb2pn.cloudfront.net
 d2t77mnxyo7adj.cloudfront.net
@@ -6489,7 +6486,6 @@ d2tgfbvjf3q6hn.cloudfront.net
 d2u.dauphinquebec.com
 d2wa5sea6guof0.cloudfront.net
 d2wu036mkcz52n.cloudfront.net
-d2wy8f7a9ursnm.cloudfront.net
 d2zjlj1vewrxcj.cloudfront.net
 d31qbv1cthcecs.cloudfront.net
 d31y97ze264gaa.cloudfront.net
@@ -6642,7 +6638,6 @@ datanoticias.prisasd.com
 dataperforma.com
 dataroid.com
 datas.connectingthreads.com
-datasign.co
 datasteam.io
 datatechonert.com
 dataunion.com.br
@@ -6655,6 +6650,7 @@ datum.appfleet.com
 datvantage.com
 dauvwl.cottonink.co.id
 dawin.tv
+dax.yle.fi
 db-ip.com
 dba4.pandasuite.io
 dbex-tracker-v2.driveback.ru
@@ -6991,6 +6987,7 @@ dmpcounter.com
 dmpprof.com
 dmpxs.com
 dmt1-img.canon.jp
+dmtag.jp
 dmtgo.upc.biz
 dmtracker.com
 dmxalb.winni.in
@@ -7025,7 +7022,6 @@ dojomojo.ninja
 dollardelta.com
 dolldetail.com
 dolphin.deliver.ifeng.com
-domaincontrol.com
 domdog.io
 domino.flycl.ps
 dominocounter.net
@@ -7399,6 +7395,7 @@ ec.thredup.com
 ec.walkme.com
 ecefyu.geox.com
 eclick.360doc.com
+eclick.baidu.com
 eco-tag.jp
 ecomm.atea.com
 ecomm.events
@@ -8132,6 +8129,7 @@ events.onet.pl
 events.practo.com
 events.prd.api.max.com
 events.privy.com
+events.qortex.ai
 events.realgravity.com
 events.reclamefolder.nl
 events.reddit.com
@@ -8323,7 +8321,6 @@ faultyfowl.com
 fazphz.theiconic.com.au
 fb.echovisuals.com
 fb_servpub-a.akamaihd.net
-fbi.com
 fbu8.hoteldeparismontecarlo.com
 fbu8.hotelhermitagemontecarlo.com
 fbu8.monte-carlo-beach.com
@@ -8796,7 +8793,6 @@ gdeslon.ru
 gdm1.toner.fr
 gefkkw.cyberport.de
 geistm.com
-gekko.spiceworks.com
 gemius.mgr.consensu.org
 gemius.pl
 generaltracking.de
@@ -8831,13 +8827,11 @@ geoedge.be
 geoip-db.com
 geoip.ativo.com
 geoip.boredpanda.com
-geoip.cookieyes.com
 geoip.finanzen.net
 geoip.hmageo.com
 geoip.ifunny.co
 geoip.instiengage.com
 geoip.nekudo.com
-geoip.viamichelin.com
 geoiplookup.io
 geojs.io
 geolid.com
@@ -8922,6 +8916,7 @@ get.wemoms.com
 get.wishmindr.com
 get.yomobile.com
 get4click.ru
+getaawp.com
 getaim.info
 getambassador.com
 getapp.eltiempo.es
@@ -9376,6 +9371,7 @@ gundersenhealth.hrm.healthgrades.com
 guoshipartners.com
 guq9.vente-unique.it
 gurgle.pcmag.com
+gurgle.spiceworks.com
 gus.host
 gvisit.com
 gvsivx.multinet.com.tr
@@ -10330,6 +10326,7 @@ infox.sg
 ingage.tech
 ingenioustech.biz
 ingest.make.rvapps.io
+ingest.make.rvohealth.com
 ingress.linktr.ee
 inhalt.bild.de
 inimbus.com.au
@@ -10371,6 +10368,7 @@ insights.bodog.co.uk
 insights.bodoglife.co.uk
 insights.cdt.ch
 insights.compagnon.com
+insights.decathlon.net
 insights.documill.com
 insights.frenchtogether.com
 insights.golubcapital.com
@@ -10965,7 +10963,6 @@ la-sync.taboola.com
 laboredlocket.com
 lacinfo.motorolasolutions.com
 lackadaisicalkite.com
-lacolhost.com
 ladsp.com
 laferia.cr
 lagoonolivia.com
@@ -11484,7 +11481,6 @@ lmiutil.com
 lmldvr.centauro.net
 ln.ameba.jp
 lndata.com
-lndo.site
 lngtd.com
 lnk-stg.welthee.com
 lnk.welthee.com
@@ -11493,12 +11489,6 @@ loader-cdn.azureedge.net
 loader.zeroform.com
 loansales.cbre.com
 local-shares.ri.la
-local.computer
-local.qinlili.bid
-local.sisteminha.com
-localho.st
-localhost.direct
-localtest.me
 localytics.com
 lockview.cn
 locotrack.net
@@ -11705,7 +11695,6 @@ lumpylumber.com
 lurker.olx.com.br
 lusgle.hudabeauty.com
 lv6od3a4sz12.www.logology.co
-lvh.me
 lwadm.com
 lwozzk.legacy.com
 lxiaho.lesfurets.com
@@ -12719,7 +12708,6 @@ metrics.mzstatic.com
 metrics.n-tv.de
 metrics.nationalgeographic.com
 metrics.nba.com
-metrics.newegg.com
 metrics.nissanusa.com
 metrics.northwesternmutual.com
 metrics.nu.nl
@@ -12727,6 +12715,7 @@ metrics.nycgo.com
 metrics.oanda.com
 metrics.ogilvy.com
 metrics.omniture.com
+metrics.onewegg.com
 metrics.onshape.com
 metrics.optimum.net
 metrics.oreilly.com
@@ -13230,7 +13219,6 @@ netcore.co.in
 netcoresmartech.com
 netcounter.de
 netdebit-counter.de
-netfinity.hostedrmm.com
 netflame.cc
 netgraviton.net
 netmera-web.com
@@ -13304,7 +13292,6 @@ ninestats.com
 ninja.akamaized.net
 ninja.onap.io
 ninjacat.io
-nip.io
 nkwvwb.fluevog.com
 nlf6.vente-unique.pl
 nlgzhd.yoox.com
@@ -13312,8 +13299,9 @@ nljjem.honeys-onlineshop.com
 nlp-japan.life-and-mind.com
 nltihf.fashiondays.ro
 nm.hrm.healthgrades.com
-nm.newegg.com
 nmetrics.samsungmobile.com
+nmgassets.com
+nmgplatform.com
 nmiodk.promiflash.de
 nmo1.orpi.com
 nmrodam.com
@@ -13553,6 +13541,7 @@ oneimpress.io
 onelink.me
 onelink.taptalk.io
 onepush.app
+onesignal.com
 onespot-tracking.herokuapp.com
 onestat.com
 onetag-sys.com
@@ -13613,7 +13602,6 @@ optimeeze.appspot.com
 optimierung-der-website.de
 optimisation.co-oplegalservices.co.uk
 optimix.asia
-optimize-stats.voxmedia.com
 optimizely.com
 optimost.com
 optimove.net
@@ -13947,6 +13935,7 @@ petiteumbrella.com
 pets.channeladvisor.com
 pf.a23.in
 pf.intuit.com
+pf.newegg.com
 pghub.io
 pgs.aviationweek.com
 pgs.io
@@ -14048,6 +14037,7 @@ pixel.facebook.com
 pixel.homebook.pl
 pixel.honestjohn.co.uk
 pixel.inforsea.com
+pixel.ionos.com
 pixel.ionos.de
 pixel.ionos.fr
 pixel.kknews.cc
@@ -14714,7 +14704,6 @@ r.guggy.com
 r.kleertjes.com
 r.lafamo.com
 r.mail.ru
-r.my.com
 r.powuta.com
 r.rover.com
 r.sax.sina.com.cn
@@ -15175,6 +15164,7 @@ ruthlessrobin.com
 ruvdkw.turk.net
 rv.modanisa.com
 rvbqze.albamoda.de
+rvo-cohesion.healthline.com
 rvv.emol.com
 rvz9.destinia.co.ro
 rw.marchex.io
@@ -15236,6 +15226,7 @@ s.useeffectbyexample.com
 s.usenix.org
 s.utop.vn
 s.vucko.co
+s.wayfair.com
 s.webkilde.dk
 s1r.zerkalo.io
 s2whyufxmzam.chatpay.com.br
@@ -15342,6 +15333,7 @@ sbbanalytics.com
 sbdhdq.zeeman.com
 sbeacon.sina.com.cn
 sbgsodufuosmmvsdf.info
+sbi-push.com
 sblftg.com
 sbmwgj.vidaxl.hu
 sbpzeq.lululemon.com.au
@@ -16946,7 +16938,6 @@ ssc.vmware.com
 ssc.wa.gto.db.com
 ssdc.bawag.com
 ssfllp.actonservice.com
-ssh.town
 sshhfy.ray-ban.com
 ssite.johnlewis.com
 ssite.waitrose.com
@@ -17448,7 +17439,6 @@ stats.cable.tech
 stats.cafepress.com
 stats.callnowbutton.com
 stats.canadapost-postescanada.ca
-stats.cardschat.com
 stats.carecredit.com
 stats.carrot2.org
 stats.carrotsearch.com
@@ -17851,7 +17841,6 @@ stats.ozwebsites.biz
 stats.p42.ai
 stats.pascalafleur.com
 stats.passwordyeti.com
-stats.paste2.org
 stats.pasteapp.io
 stats.pastorwagner.com
 stats.patout.dev
@@ -18253,7 +18242,6 @@ suncanny.marvel.com
 sunios.de
 sunlightmetrics.b-cdn.net
 suntcontent.se
-supercalifragilisticexpialidocious.co.uk
 supercounters.com
 superficialeyes.com
 superficialspring.com
@@ -21331,7 +21319,6 @@ visit.donateblood.com.au
 visit.hypertherm.com
 visit.lifeblood.com.au
 visit.tafensw.edu.au
-visit.theglobeandmail.com
 visit.webhosting.yahoo.com
 visit.xchina.pics
 visite.scambi.org
@@ -21472,7 +21459,6 @@ wa.planet-wissen.de
 wa.postnl.nl
 wa.postoffice.co.uk
 wa.quarks.de
-wa.ui-portal.de
 wa.vodafone.pt
 wa.wdr.de
 wa.wdrmaus.de
@@ -21935,7 +21921,6 @@ wtbevents.pricespider.com
 wtgnmr.golfdigest.co.jp
 wthugv.sportpro.co
 wtjijs.sidestep-shoes.com
-wtk.db.com
 wtm.monitoringservice.co
 wtmtrack.com
 wts.one
@@ -22247,7 +22232,6 @@ xgspzv.troyestore.com
 xhit.com
 xhxmhs.ounass.ae
 xibspj.komehyo.jp
-xip.io
 xiqvza.dickblick.com
 xiti.com
 xitvce.webtretho.com
@@ -22390,10 +22374,8 @@ ynemmp.goertz.de
 yoc.younited-credit.com
 yolo.philipbjorge.com
 yoochoose.net
-yoogle.com
 yottlyscript.com
 you.pixellot.link
-youbora.com
 youborafds01.com
 youboranqs01.com
 youboranqs02.com
@@ -22572,7 +22554,7 @@ zzaoea.costacrociere.it
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2023-06-18 01:04:47.003096
+# Generated at 2023-06-25 01:11:07.910396
 
 databerries.com
 fidzup
