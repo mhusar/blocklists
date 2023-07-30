@@ -1,6 +1,6 @@
-# Version: 202307230015
+# Version: 202307292332
 # Title: EasyPrivacy
-# Last modified: 23 Jul 2023 00:15 UTC
+# Last modified: 29 Jul 2023 23:32 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -3742,6 +3742,7 @@
 0.0.0.0 aufp.io
 0.0.0.0 auntants.com
 0.0.0.0 aurora-d3.herokuapp.com
+0.0.0.0 aurum.tirto.id
 0.0.0.0 aus.amexforbusiness.com.au
 0.0.0.0 ausclh.castlery.com
 0.0.0.0 auspiciousyard.com
@@ -5920,6 +5921,7 @@
 0.0.0.0 d.shareaholic.com
 0.0.0.0 d.shopprecouriers.com
 0.0.0.0 d.skk.moe
+0.0.0.0 d.sondakika.com
 0.0.0.0 d.sourcepoint.capitalfm.com
 0.0.0.0 d.tv-asahi.co.jp
 0.0.0.0 d.uni-medias.com
@@ -6033,6 +6035,7 @@
 0.0.0.0 da.maif.fr
 0.0.0.0 da.netease.com
 0.0.0.0 da.rabobank.nl
+0.0.0.0 da29e6b8-f018-490f-b25f-39a887fc95e7.xyz
 0.0.0.0 dacounter.com
 0.0.0.0 dadi.technology
 0.0.0.0 damageddistance.com
@@ -7944,6 +7947,7 @@
 0.0.0.0 flow.kiloutou.fr
 0.0.0.0 flowerstreatment.com
 0.0.0.0 flowerycreature.com
+0.0.0.0 floweryfact.com
 0.0.0.0 floweryflavor.com
 0.0.0.0 floweryoperation.com
 0.0.0.0 fluencymedia.com
@@ -8328,6 +8332,7 @@
 0.0.0.0 geocontatore.com
 0.0.0.0 geoedge.be
 0.0.0.0 geoip-db.com
+0.0.0.0 geoip.apps.avada.io
 0.0.0.0 geoip.ativo.com
 0.0.0.0 geoip.boredpanda.com
 0.0.0.0 geoip.finanzen.net
@@ -9333,6 +9338,7 @@
 0.0.0.0 icebergindigo.com
 0.0.0.0 iclive.com
 0.0.0.0 icmakp.united-arrows.tw
+0.0.0.0 iconmediapixel.com
 0.0.0.0 iconnode.com
 0.0.0.0 ics0.com
 0.0.0.0 icstats.nl
@@ -10188,6 +10194,7 @@
 0.0.0.0 jas.indeednps.com
 0.0.0.0 javascriptcounter.appspot.com
 0.0.0.0 jcm.jd.com
+0.0.0.0 jcmonitor.xcar.com.cn
 0.0.0.0 jcpclick.com
 0.0.0.0 jcplzp.lancel.com
 0.0.0.0 jcr3.onlyyouhotels.com
@@ -19444,6 +19451,7 @@
 0.0.0.0 staging-go.getsquire.com
 0.0.0.0 staging-link.docyt.com
 0.0.0.0 staging-links.thriveglobal.com
+0.0.0.0 staging-pt.ispot.tv
 0.0.0.0 staging-refer.rooam.co
 0.0.0.0 staging.narrateapp.com
 0.0.0.0 staging.refer.wagr.us
@@ -19714,6 +19722,7 @@
 0.0.0.0 stats.byma.com.br
 0.0.0.0 stats.byterocket.dev
 0.0.0.0 stats.cable.tech
+0.0.0.0 stats.calcalist.co.il
 0.0.0.0 stats.callnowbutton.com
 0.0.0.0 stats.canadapost-postescanada.ca
 0.0.0.0 stats.canadapost.ca
@@ -20547,6 +20556,7 @@
 0.0.0.0 sumologic.com
 0.0.0.0 sumome.com
 0.0.0.0 suncanny.marvel.com
+0.0.0.0 sundaysky.com
 0.0.0.0 sunios.de
 0.0.0.0 sunlightmetrics.b-cdn.net
 0.0.0.0 suntcontent.se
@@ -20676,6 +20686,7 @@
 0.0.0.0 sweetslope.com
 0.0.0.0 swellstocking.com
 0.0.0.0 swelteringsmile.com
+0.0.0.0 swetrix.org
 0.0.0.0 swiftmining.win
 0.0.0.0 swimslope.com
 0.0.0.0 swiss-counter.com
@@ -20725,6 +20736,7 @@
 0.0.0.0 t-test.esvdigital.com
 0.0.0.0 t.12thman.com
 0.0.0.0 t.360.audion.fm
+0.0.0.0 t.360playvid.info
 0.0.0.0 t.3hentai.net
 0.0.0.0 t.7sur7.be
 0.0.0.0 t.91syun.com
@@ -20932,6 +20944,7 @@
 0.0.0.0 t.southernmiss.com
 0.0.0.0 t.splicky.com
 0.0.0.0 t.spot.im
+0.0.0.0 t.syosetu.org
 0.0.0.0 t.texasperformingarts.org
 0.0.0.0 t.texassports.com
 0.0.0.0 t.texastech.com
@@ -23542,6 +23555,7 @@
 0.0.0.0 trk.thebenchfactory.com
 0.0.0.0 trk.themspsummit.com
 0.0.0.0 trk.thomaspumps.com
+0.0.0.0 trk.tirto.id
 0.0.0.0 trk.trashcontainers.com
 0.0.0.0 trk.treetopproducts.com
 0.0.0.0 trk.tricontinent.com
@@ -25394,7 +25408,7 @@
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2023-07-23 01:00:33.408960
+# Generated at 2023-07-30 00:54:40.954655
 
 0.0.0.0 databerries.com
 0.0.0.0 fidzup

@@ -1,6 +1,6 @@
-# Version: 202307230015
+# Version: 202307292332
 # Title: EasyPrivacy
-# Last modified: 23 Jul 2023 00:15 UTC
+# Last modified: 29 Jul 2023 23:32 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -3727,6 +3727,7 @@ auforex.americanexpress.com
 aufp.io
 auntants.com
 aurora-d3.herokuapp.com
+aurum.tirto.id
 aus.amexforbusiness.com.au
 ausclh.castlery.com
 auspiciousyard.com
@@ -5905,6 +5906,7 @@ d.santemagazine.fr
 d.shareaholic.com
 d.shopprecouriers.com
 d.skk.moe
+d.sondakika.com
 d.sourcepoint.capitalfm.com
 d.tv-asahi.co.jp
 d.uni-medias.com
@@ -6018,6 +6020,7 @@ da.hornbach.sk
 da.maif.fr
 da.netease.com
 da.rabobank.nl
+da29e6b8-f018-490f-b25f-39a887fc95e7.xyz
 dacounter.com
 dadi.technology
 damageddistance.com
@@ -7929,6 +7932,7 @@ floodprincipal.com
 flow.kiloutou.fr
 flowerstreatment.com
 flowerycreature.com
+floweryfact.com
 floweryflavor.com
 floweryoperation.com
 fluencymedia.com
@@ -8313,6 +8317,7 @@ geocompteur.com
 geocontatore.com
 geoedge.be
 geoip-db.com
+geoip.apps.avada.io
 geoip.ativo.com
 geoip.boredpanda.com
 geoip.finanzen.net
@@ -9318,6 +9323,7 @@ icaubf.casamundo.de
 icebergindigo.com
 iclive.com
 icmakp.united-arrows.tw
+iconmediapixel.com
 iconnode.com
 ics0.com
 icstats.nl
@@ -10173,6 +10179,7 @@ jaomlf.giftmall.co.jp
 jas.indeednps.com
 javascriptcounter.appspot.com
 jcm.jd.com
+jcmonitor.xcar.com.cn
 jcpclick.com
 jcplzp.lancel.com
 jcr3.onlyyouhotels.com
@@ -19429,6 +19436,7 @@ stageapplink.reki.tv
 staging-go.getsquire.com
 staging-link.docyt.com
 staging-links.thriveglobal.com
+staging-pt.ispot.tv
 staging-refer.rooam.co
 staging.narrateapp.com
 staging.refer.wagr.us
@@ -19699,6 +19707,7 @@ stats.buttondown.email
 stats.byma.com.br
 stats.byterocket.dev
 stats.cable.tech
+stats.calcalist.co.il
 stats.callnowbutton.com
 stats.canadapost-postescanada.ca
 stats.canadapost.ca
@@ -20532,6 +20541,7 @@ sumokoin.com
 sumologic.com
 sumome.com
 suncanny.marvel.com
+sundaysky.com
 sunios.de
 sunlightmetrics.b-cdn.net
 suntcontent.se
@@ -20661,6 +20671,7 @@ sweepsheep.com
 sweetslope.com
 swellstocking.com
 swelteringsmile.com
+swetrix.org
 swiftmining.win
 swimslope.com
 swiss-counter.com
@@ -20710,6 +20721,7 @@ t-pan.triodos.com
 t-test.esvdigital.com
 t.12thman.com
 t.360.audion.fm
+t.360playvid.info
 t.3hentai.net
 t.7sur7.be
 t.91syun.com
@@ -20917,6 +20929,7 @@ t.soonersports.com
 t.southernmiss.com
 t.splicky.com
 t.spot.im
+t.syosetu.org
 t.texasperformingarts.org
 t.texassports.com
 t.texastech.com
@@ -23527,6 +23540,7 @@ trk.thebatteryshow.eu
 trk.thebenchfactory.com
 trk.themspsummit.com
 trk.thomaspumps.com
+trk.tirto.id
 trk.trashcontainers.com
 trk.treetopproducts.com
 trk.tricontinent.com
@@ -25379,7 +25393,7 @@ zz.bdstatic.com
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2023-07-23 01:00:32.324240
+# Generated at 2023-07-30 00:54:39.945511
 
 databerries.com
 fidzup
