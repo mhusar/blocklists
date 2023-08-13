@@ -1,6 +1,6 @@
-# Version: 202308052332
+# Version: 202308121740
 # Title: EasyPrivacy
-# Last modified: 05 Aug 2023 23:32 UTC
+# Last modified: 12 Aug 2023 17:40 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -2608,6 +2608,7 @@
 0.0.0.0 advisorservices.etradefinancial.com
 0.0.0.0 advisorservicesfpc.etradefinancial.com
 0.0.0.0 adways.com
+0.0.0.0 adwerx.com
 0.0.0.0 adwstats.com
 0.0.0.0 adx.com.ru
 0.0.0.0 adxadtracker.com
@@ -2662,7 +2663,6 @@
 0.0.0.0 africa.edm.globalsources.com
 0.0.0.0 afsanalytics.com
 0.0.0.0 afterclick.co
-0.0.0.0 agent.contentsanalyst.com
 0.0.0.0 agentanalytics.com
 0.0.0.0 agentcomm.mercuryinsurance.com
 0.0.0.0 agentinteractive.com
@@ -2932,6 +2932,7 @@
 0.0.0.0 analytics.chegg.com
 0.0.0.0 analytics.churchthemes.com
 0.0.0.0 analytics.cincopa.com
+0.0.0.0 analytics.clic2buy.com
 0.0.0.0 analytics.cloud.coveo.com
 0.0.0.0 analytics.cmn.com
 0.0.0.0 analytics.cnblogs.com
@@ -3127,7 +3128,6 @@
 0.0.0.0 analytics.springboardvideo.com
 0.0.0.0 analytics.spun.com.br
 0.0.0.0 analytics.ss88.us
-0.0.0.0 analytics.staticiv.com
 0.0.0.0 analytics.stg.springboardvideo.com
 0.0.0.0 analytics.strangeloopnetworks.com
 0.0.0.0 analytics.superstructure.ai
@@ -3200,14 +3200,12 @@
 0.0.0.0 analytics1.vdo.ai
 0.0.0.0 analytics2-3-meride-tv.akamaized.net
 0.0.0.0 analytics2-meride-tv.akamaized.net
-0.0.0.0 analytics4.dashboard.fingerprint.com
 0.0.0.0 analyticschecker.com
 0.0.0.0 analyticsehnwe.servicebus.windows.net
 0.0.0.0 analyticsip.net
 0.0.0.0 analyticson.com
 0.0.0.0 analyticssec.overwolf.com
 0.0.0.0 analyticswizard.com
-0.0.0.0 analytik.xyz
 0.0.0.0 analyze.full-marke.com
 0.0.0.0 analyzer.fc2.com
 0.0.0.0 analyzer2.fc2.com
@@ -4074,6 +4072,7 @@
 0.0.0.0 bid.run
 0.0.0.0 bidder.mediams.mb.softbank.jp
 0.0.0.0 bidderrtb.com
+0.0.0.0 bidgx.com
 0.0.0.0 bidphysics.com
 0.0.0.0 bidr.io
 0.0.0.0 bidsimulator.com
@@ -4209,7 +4208,6 @@
 0.0.0.0 bnc.tripcody.com
 0.0.0.0 bnk.wolterskluwerfs.com
 0.0.0.0 bnqt.com
-0.0.0.0 bnr.alza.cz
 0.0.0.0 bntech.io
 0.0.0.0 bnvsjg.hometogo.de
 0.0.0.0 bob-recs.com
@@ -4256,6 +4254,7 @@
 0.0.0.0 bouncyfront.com
 0.0.0.0 bouncyproperty.com
 0.0.0.0 boundlessbrake.com
+0.0.0.0 boundlessveil.com
 0.0.0.0 boutique.ricoh.fr
 0.0.0.0 box.bossdata.be
 0.0.0.0 bp.mlb.com
@@ -5010,7 +5009,6 @@
 0.0.0.0 clicksgate.com
 0.0.0.0 clickshift.com
 0.0.0.0 clicktale.net
-0.0.0.0 clicktale.pantherssl.com
 0.0.0.0 clickthru.lefbc.com
 0.0.0.0 clicktime.symantec.com
 0.0.0.0 clicktracker.iscan.nl
@@ -5956,6 +5954,7 @@
 0.0.0.0 d1rgnfh960lz2b.cloudfront.net
 0.0.0.0 d1ros97qkrwjf5.cloudfront.net
 0.0.0.0 d1t9uctetvi0tu.cloudfront.net
+0.0.0.0 d1tbj6eaenapdy.cloudfront.net
 0.0.0.0 d1wix2gc2cgqis.cloudfront.net
 0.0.0.0 d1xfq2052q7thw.cloudfront.net
 0.0.0.0 d1yu67rmchodpo.cloudfront.net
@@ -6470,6 +6469,7 @@
 0.0.0.0 diffusion-tracker.com
 0.0.0.0 dig.lianjia.com
 0.0.0.0 dig.ultimedia.com
+0.0.0.0 digianalytics.airtel.in
 0.0.0.0 digianalytics.fr
 0.0.0.0 digidip.net
 0.0.0.0 digital-engineering.de
@@ -7464,6 +7464,7 @@
 0.0.0.0 erraticreaction.com
 0.0.0.0 error-collector.ted.com
 0.0.0.0 error.videonow.ru
+0.0.0.0 errorreports.couponcabin.com
 0.0.0.0 errors.snackly.co
 0.0.0.0 ert5.rmcsport.tv
 0.0.0.0 es-es.siemensplmevents.com
@@ -7960,6 +7961,7 @@
 0.0.0.0 flyspy.co
 0.0.0.0 flznib.weblio.jp
 0.0.0.0 fma7.aegon.es
+0.0.0.0 fmhy.net
 0.0.0.0 fmjgtp.dentalspeed.com
 0.0.0.0 fmqidg.letras.com
 0.0.0.0 fmqidg.letras.mus.br
@@ -8036,8 +8038,6 @@
 0.0.0.0 fp.measure.office.com
 0.0.0.0 fpa-cdn.adweek.com
 0.0.0.0 fpa-cdn.arstechnica.com
-0.0.0.0 fpa-cdn.decrypt.co
-0.0.0.0 fpa-events.decrypt.co
 0.0.0.0 fpapi.io
 0.0.0.0 fpb8.esce.fr
 0.0.0.0 fpc.acpinternist.org
@@ -8501,10 +8501,8 @@
 0.0.0.0 gfgywe.abril.com.br
 0.0.0.0 gflpvq.rufflebutts.com
 0.0.0.0 gfn1.ugap.fr
-0.0.0.0 gfp.intuit.com
 0.0.0.0 gft2.de
 0.0.0.0 gfv4.destinia.co.za
-0.0.0.0 gglscr.online
 0.0.0.0 ggxt.net
 0.0.0.0 ghdlry.greetz.nl
 0.0.0.0 gi-client-tracking.goodgamestudios.com
@@ -9130,7 +9128,6 @@
 0.0.0.0 hits.antena3.com
 0.0.0.0 hits.cyberdrop.me
 0.0.0.0 hits.dealer.com
-0.0.0.0 hits.eluniversal.com.mx
 0.0.0.0 hits.informer.com
 0.0.0.0 hits.io
 0.0.0.0 hits.letras.mus.br
@@ -9935,7 +9932,6 @@
 0.0.0.0 inside-graph.com
 0.0.0.0 insight.aon.com
 0.0.0.0 insight.business.hsbc.com
-0.0.0.0 insight.fonecta.fi
 0.0.0.0 insight.leads360.com
 0.0.0.0 insight.mintel.com
 0.0.0.0 insight.olx.ba
@@ -9977,7 +9973,6 @@
 0.0.0.0 instrumentsponge.com
 0.0.0.0 insurance.leads360.com
 0.0.0.0 intake-analytics.wikimedia.org
-0.0.0.0 intelimet.com
 0.0.0.0 intelli-direct.com
 0.0.0.0 intelliad.de
 0.0.0.0 intelligence.officialwesthamstore.com
@@ -11446,6 +11441,7 @@
 0.0.0.0 logservice.hicloud.com
 0.0.0.0 logservice1.hicloud.com
 0.0.0.0 logstash-3.radio-canada.ca
+0.0.0.0 logtail.com
 0.0.0.0 logtake.weidian.com
 0.0.0.0 logua.com
 0.0.0.0 logx.optimizely.com
@@ -12602,7 +12598,6 @@
 0.0.0.0 metalyzer.com
 0.0.0.0 metapack.actonservice.com
 0.0.0.0 metarouter.io
-0.0.0.0 metaversn.site
 0.0.0.0 meteorsolutions.com
 0.0.0.0 meter.bref.sh
 0.0.0.0 metering.pagesuite.com
@@ -13018,7 +13013,6 @@
 0.0.0.0 minerad.com
 0.0.0.0 mineralt.io
 0.0.0.0 minero.cc
-0.0.0.0 minero.pw
 0.0.0.0 minerva.healthcentral.com
 0.0.0.0 minescripts.info
 0.0.0.0 minewhat.com
@@ -13459,6 +13453,7 @@
 0.0.0.0 neighborlywatch.com
 0.0.0.0 nejmqianyan.cn
 0.0.0.0 neki.org
+0.0.0.0 nelioabtesting.com
 0.0.0.0 neocounter.neoworx-blog-tools.net
 0.0.0.0 neoncsr21.net.anwalt.de
 0.0.0.0 neosllc.actonservice.com
@@ -14171,7 +14166,6 @@
 0.0.0.0 page1solutions.actonservice.com
 0.0.0.0 pagefair.com
 0.0.0.0 pageid.info
-0.0.0.0 pagerank-backlink.eu
 0.0.0.0 pagerank-linkverzeichnis.de
 0.0.0.0 pagerank-online.eu
 0.0.0.0 pagerank-suchmaschine.de
@@ -15129,6 +15123,7 @@
 0.0.0.0 qfbles.elefant.ro
 0.0.0.0 qflm.net
 0.0.0.0 qfoiss.lendingtree.com
+0.0.0.0 qfp.intuit.com
 0.0.0.0 qgbnjd.coches.net
 0.0.0.0 qgumjp.asiae.co.kr
 0.0.0.0 qhupdate.com
@@ -17393,6 +17388,7 @@
 0.0.0.0 smetrics.costcobusinessdelivery.com
 0.0.0.0 smetrics.coulditbehcm.com
 0.0.0.0 smetrics.countryfinancialsecurityblog.com
+0.0.0.0 smetrics.couponcabin.com
 0.0.0.0 smetrics.covance.com
 0.0.0.0 smetrics.cpaaustralia.com.au
 0.0.0.0 smetrics.cpsenergy.com
@@ -19937,7 +19933,6 @@
 0.0.0.0 stats.harrods.com
 0.0.0.0 stats.hauke.me
 0.0.0.0 stats.hayu.com
-0.0.0.0 stats.hd24.watch
 0.0.0.0 stats.headhunted.com.au
 0.0.0.0 stats.hex.pm
 0.0.0.0 stats.hexdocs.pm
@@ -21632,7 +21627,6 @@
 0.0.0.0 topblogging.com
 0.0.0.0 topdepo.com
 0.0.0.0 tophitbit.com
-0.0.0.0 tophits4u.de
 0.0.0.0 topichawaii.com
 0.0.0.0 topiposodino.indonesiya.com
 0.0.0.0 toplist.cz
@@ -23171,7 +23165,6 @@
 0.0.0.0 tracking.pullsdirect.com
 0.0.0.0 tracking.puustelli.com
 0.0.0.0 tracking.quadient.com
-0.0.0.0 tracking.quillion.com
 0.0.0.0 tracking.quisma.com
 0.0.0.0 tracking.rapidape.com
 0.0.0.0 tracking.rasierteladies.de
@@ -23292,7 +23285,6 @@
 0.0.0.0 trackkas.com
 0.0.0.0 trackla.stackla.com
 0.0.0.0 trackmethod.com
-0.0.0.0 trackmstr.com
 0.0.0.0 trackmytarget.com
 0.0.0.0 trackmyusers.com
 0.0.0.0 trackmyweb.net
@@ -23352,6 +23344,7 @@
 0.0.0.0 tranquilside.com
 0.0.0.0 transactionale.com
 0.0.0.0 translateoatmeal.com
+0.0.0.0 transmapp.com
 0.0.0.0 transplant.care.uhssa.com
 0.0.0.0 transportation.external.xerox.com
 0.0.0.0 trap.skype.com
@@ -24498,7 +24491,6 @@
 0.0.0.0 website-usage.b2bendix.com
 0.0.0.0 website-usage.knorr-bremse.com
 0.0.0.0 websiteceo.com
-0.0.0.0 websiteonlinecounter.com
 0.0.0.0 websiteperform.com
 0.0.0.0 websitesampling.com
 0.0.0.0 websitewelcome.com
