@@ -1,6 +1,6 @@
-# Version: 202308052332
+# Version: 202308121740
 # Title: EasyPrivacy
-# Last modified: 05 Aug 2023 23:32 UTC
+# Last modified: 12 Aug 2023 17:40 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -2593,6 +2593,7 @@ advisors.links.myvolly.com
 advisorservices.etradefinancial.com
 advisorservicesfpc.etradefinancial.com
 adways.com
+adwerx.com
 adwstats.com
 adx.com.ru
 adxadtracker.com
@@ -2647,7 +2648,6 @@ afraidlanguage.com
 africa.edm.globalsources.com
 afsanalytics.com
 afterclick.co
-agent.contentsanalyst.com
 agentanalytics.com
 agentcomm.mercuryinsurance.com
 agentinteractive.com
@@ -2917,6 +2917,7 @@ analytics.chattarize.de
 analytics.chegg.com
 analytics.churchthemes.com
 analytics.cincopa.com
+analytics.clic2buy.com
 analytics.cloud.coveo.com
 analytics.cmn.com
 analytics.cnblogs.com
@@ -3112,7 +3113,6 @@ analytics.sportfishingmag.com
 analytics.springboardvideo.com
 analytics.spun.com.br
 analytics.ss88.us
-analytics.staticiv.com
 analytics.stg.springboardvideo.com
 analytics.strangeloopnetworks.com
 analytics.superstructure.ai
@@ -3185,14 +3185,12 @@ analytics00.meride.tv
 analytics1.vdo.ai
 analytics2-3-meride-tv.akamaized.net
 analytics2-meride-tv.akamaized.net
-analytics4.dashboard.fingerprint.com
 analyticschecker.com
 analyticsehnwe.servicebus.windows.net
 analyticsip.net
 analyticson.com
 analyticssec.overwolf.com
 analyticswizard.com
-analytik.xyz
 analyze.full-marke.com
 analyzer.fc2.com
 analyzer2.fc2.com
@@ -4059,6 +4057,7 @@ biberukalap.com
 bid.run
 bidder.mediams.mb.softbank.jp
 bidderrtb.com
+bidgx.com
 bidphysics.com
 bidr.io
 bidsimulator.com
@@ -4194,7 +4193,6 @@ bnc.thewaya.com
 bnc.tripcody.com
 bnk.wolterskluwerfs.com
 bnqt.com
-bnr.alza.cz
 bntech.io
 bnvsjg.hometogo.de
 bob-recs.com
@@ -4241,6 +4239,7 @@ bouncex.com
 bouncyfront.com
 bouncyproperty.com
 boundlessbrake.com
+boundlessveil.com
 boutique.ricoh.fr
 box.bossdata.be
 bp.mlb.com
@@ -4995,7 +4994,6 @@ clickserver.libero.it
 clicksgate.com
 clickshift.com
 clicktale.net
-clicktale.pantherssl.com
 clickthru.lefbc.com
 clicktime.symantec.com
 clicktracker.iscan.nl
@@ -5941,6 +5939,7 @@ d1r55yzuc1b1bw.cloudfront.net
 d1rgnfh960lz2b.cloudfront.net
 d1ros97qkrwjf5.cloudfront.net
 d1t9uctetvi0tu.cloudfront.net
+d1tbj6eaenapdy.cloudfront.net
 d1wix2gc2cgqis.cloudfront.net
 d1xfq2052q7thw.cloudfront.net
 d1yu67rmchodpo.cloudfront.net
@@ -6455,6 +6454,7 @@ difficultfog.com
 diffusion-tracker.com
 dig.lianjia.com
 dig.ultimedia.com
+digianalytics.airtel.in
 digianalytics.fr
 digidip.net
 digital-engineering.de
@@ -7449,6 +7449,7 @@ err.ifengcloud.ifeng.com
 erraticreaction.com
 error-collector.ted.com
 error.videonow.ru
+errorreports.couponcabin.com
 errors.snackly.co
 ert5.rmcsport.tv
 es-es.siemensplmevents.com
@@ -7945,6 +7946,7 @@ flyingpt.com
 flyspy.co
 flznib.weblio.jp
 fma7.aegon.es
+fmhy.net
 fmjgtp.dentalspeed.com
 fmqidg.letras.com
 fmqidg.letras.mus.br
@@ -8021,8 +8023,6 @@ fp.mandatumtrader.fi
 fp.measure.office.com
 fpa-cdn.adweek.com
 fpa-cdn.arstechnica.com
-fpa-cdn.decrypt.co
-fpa-events.decrypt.co
 fpapi.io
 fpb8.esce.fr
 fpc.acpinternist.org
@@ -8486,10 +8486,8 @@ gfgcwf.vidaxl.lv
 gfgywe.abril.com.br
 gflpvq.rufflebutts.com
 gfn1.ugap.fr
-gfp.intuit.com
 gft2.de
 gfv4.destinia.co.za
-gglscr.online
 ggxt.net
 ghdlry.greetz.nl
 gi-client-tracking.goodgamestudios.com
@@ -9115,7 +9113,6 @@ hitmir.ru
 hits.antena3.com
 hits.cyberdrop.me
 hits.dealer.com
-hits.eluniversal.com.mx
 hits.informer.com
 hits.io
 hits.letras.mus.br
@@ -9920,7 +9917,6 @@ ins.wolterskluwerfs.com
 inside-graph.com
 insight.aon.com
 insight.business.hsbc.com
-insight.fonecta.fi
 insight.leads360.com
 insight.mintel.com
 insight.olx.ba
@@ -9962,7 +9958,6 @@ instrumentinsect.com
 instrumentsponge.com
 insurance.leads360.com
 intake-analytics.wikimedia.org
-intelimet.com
 intelli-direct.com
 intelliad.de
 intelligence.officialwesthamstore.com
@@ -11431,6 +11426,7 @@ logsbin.dantri.com.vn
 logservice.hicloud.com
 logservice1.hicloud.com
 logstash-3.radio-canada.ca
+logtail.com
 logtake.weidian.com
 logua.com
 logx.optimizely.com
@@ -12587,7 +12583,6 @@ metallic.actonservice.com
 metalyzer.com
 metapack.actonservice.com
 metarouter.io
-metaversn.site
 meteorsolutions.com
 meter.bref.sh
 metering.pagesuite.com
@@ -13003,7 +12998,6 @@ mine.torrent.pw
 minerad.com
 mineralt.io
 minero.cc
-minero.pw
 minerva.healthcentral.com
 minescripts.info
 minewhat.com
@@ -13444,6 +13438,7 @@ negotiatetime.com
 neighborlywatch.com
 nejmqianyan.cn
 neki.org
+nelioabtesting.com
 neocounter.neoworx-blog-tools.net
 neoncsr21.net.anwalt.de
 neosllc.actonservice.com
@@ -14156,7 +14151,6 @@ page.thalesgroup.com
 page1solutions.actonservice.com
 pagefair.com
 pageid.info
-pagerank-backlink.eu
 pagerank-linkverzeichnis.de
 pagerank-online.eu
 pagerank-suchmaschine.de
@@ -15114,6 +15108,7 @@ qexbcx.olx.kz
 qfbles.elefant.ro
 qflm.net
 qfoiss.lendingtree.com
+qfp.intuit.com
 qgbnjd.coches.net
 qgumjp.asiae.co.kr
 qhupdate.com
@@ -17378,6 +17373,7 @@ smetrics.costcobusinesscentre.ca
 smetrics.costcobusinessdelivery.com
 smetrics.coulditbehcm.com
 smetrics.countryfinancialsecurityblog.com
+smetrics.couponcabin.com
 smetrics.covance.com
 smetrics.cpaaustralia.com.au
 smetrics.cpsenergy.com
@@ -19922,7 +19918,6 @@ stats.hanmaker.com
 stats.harrods.com
 stats.hauke.me
 stats.hayu.com
-stats.hd24.watch
 stats.headhunted.com.au
 stats.hex.pm
 stats.hexdocs.pm
@@ -21617,7 +21612,6 @@ topblogarea.com
 topblogging.com
 topdepo.com
 tophitbit.com
-tophits4u.de
 topichawaii.com
 topiposodino.indonesiya.com
 toplist.cz
@@ -23156,7 +23150,6 @@ tracking.prophet.com
 tracking.pullsdirect.com
 tracking.puustelli.com
 tracking.quadient.com
-tracking.quillion.com
 tracking.quisma.com
 tracking.rapidape.com
 tracking.rasierteladies.de
@@ -23277,7 +23270,6 @@ trackjay.cool3c.com
 trackkas.com
 trackla.stackla.com
 trackmethod.com
-trackmstr.com
 trackmytarget.com
 trackmyusers.com
 trackmyweb.net
@@ -23337,6 +23329,7 @@ trakzor.com
 tranquilside.com
 transactionale.com
 translateoatmeal.com
+transmapp.com
 transplant.care.uhssa.com
 transportation.external.xerox.com
 trap.skype.com
@@ -24483,7 +24476,6 @@ website-tracking.smartx.com
 website-usage.b2bendix.com
 website-usage.knorr-bremse.com
 websiteceo.com
-websiteonlinecounter.com
 websiteperform.com
 websitesampling.com
 websitewelcome.com
@@ -25399,7 +25391,7 @@ zz.bdstatic.com
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2023-08-06 00:48:28.606481
+# Generated at 2023-08-13 00:44:27.064589
 
 databerries.com
 fidzup
