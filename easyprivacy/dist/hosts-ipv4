@@ -1,6 +1,6 @@
-# Version: 202308121740
+# Version: 202308200028
 # Title: EasyPrivacy
-# Last modified: 12 Aug 2023 17:40 UTC
+# Last modified: 20 Aug 2023 00:28 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -2567,6 +2567,7 @@
 0.0.0.0 adsixmedia.fr
 0.0.0.0 adskom.com
 0.0.0.0 adsmatcher.com
+0.0.0.0 adsolutions.com
 0.0.0.0 adspsp.com
 0.0.0.0 adsrvr.org
 0.0.0.0 adssp.dunia.ae
@@ -5955,6 +5956,7 @@
 0.0.0.0 d1ros97qkrwjf5.cloudfront.net
 0.0.0.0 d1t9uctetvi0tu.cloudfront.net
 0.0.0.0 d1tbj6eaenapdy.cloudfront.net
+0.0.0.0 d1vg5xiq7qffdj.cloudfront.net
 0.0.0.0 d1wix2gc2cgqis.cloudfront.net
 0.0.0.0 d1xfq2052q7thw.cloudfront.net
 0.0.0.0 d1yu67rmchodpo.cloudfront.net
@@ -7341,6 +7343,7 @@
 0.0.0.0 emails.travelchannel.com
 0.0.0.0 emails.verishop.com
 0.0.0.0 emails.watchown.tv
+0.0.0.0 emailsnow.info
 0.0.0.0 emailtest.trustmeimawebsite.com
 0.0.0.0 emarbox.com
 0.0.0.0 emb.soothe.com
@@ -11349,6 +11352,7 @@
 0.0.0.0 log.cognex.com
 0.0.0.0 log.cookieyes.com
 0.0.0.0 log.cpex.cz
+0.0.0.0 log.dpa.com
 0.0.0.0 log.ecgh.dk
 0.0.0.0 log.etoday.co.kr
 0.0.0.0 log.f-tra.com
@@ -13021,6 +13025,8 @@
 0.0.0.0 minkatu.com
 0.0.0.0 minormeeting.com
 0.0.0.0 minuterhythm.com
+0.0.0.0 mirabelanalytics.com
+0.0.0.0 mirabelsmarketingmanager.com
 0.0.0.0 miscreantmine.com
 0.0.0.0 miscreantmoon.com
 0.0.0.0 misrepush.com
@@ -14644,6 +14650,7 @@
 0.0.0.0 plausible.mattpruitt.com
 0.0.0.0 plausible.mcj.co
 0.0.0.0 plausible.moncefbelyamani.com
+0.0.0.0 plausible.motorpresse.de
 0.0.0.0 plausible.myvirtualsuper.com
 0.0.0.0 plausible.nickmazuk.com
 0.0.0.0 plausible.nova.app
@@ -14663,6 +14670,7 @@
 0.0.0.0 plausible.redchamp.net
 0.0.0.0 plausible.regex.help
 0.0.0.0 plausible.riok.ch
+0.0.0.0 plausible.ripped.guide
 0.0.0.0 plausible.safing.io
 0.0.0.0 plausible.sbw.org
 0.0.0.0 plausible.shadygrovepca.org
@@ -14758,6 +14766,7 @@
 0.0.0.0 polhvf.bootbarn.com
 0.0.0.0 politegoldfish.com
 0.0.0.0 politeplanes.com
+0.0.0.0 politicalporter.com
 0.0.0.0 polymorphicads.jp
 0.0.0.0 ponyo.cheriefm.fr
 0.0.0.0 pool.nimiq.watch
@@ -14825,6 +14834,7 @@
 0.0.0.0 prefixpatriot.com
 0.0.0.0 premiumads.com.br
 0.0.0.0 premiumapp.byjus.com
+0.0.0.0 premiumimpression.com
 0.0.0.0 prenesi-mojm.mercator.si
 0.0.0.0 prepareplanes.com
 0.0.0.0 presage.io
@@ -16999,6 +17009,7 @@
 0.0.0.0 simpleanalytics.io
 0.0.0.0 simpleanalyticsbadge.com
 0.0.0.0 simpleanalyticscdn.com
+0.0.0.0 simpleanalyticsexternal.com
 0.0.0.0 simplehitcounter.com
 0.0.0.0 simplereach.com
 0.0.0.0 simplesidewalk.com
@@ -18928,6 +18939,7 @@
 0.0.0.0 sociaplus.com
 0.0.0.0 socketviking.net
 0.0.0.0 socsi.in
+0.0.0.0 socy.es
 0.0.0.0 sodoit.com
 0.0.0.0 sofa.bankofamerica.com
 0.0.0.0 sofire.bdstatic.com
@@ -20428,6 +20440,7 @@
 0.0.0.0 stliom.vidaxl.cz
 0.0.0.0 stms.53.com
 0.0.0.0 stockingsneeze.com
+0.0.0.0 stomachscience.com
 0.0.0.0 stonecalcom.com
 0.0.0.0 stopthink.onefamilyadviser.com
 0.0.0.0 store.esquirrel.at
