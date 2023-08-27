@@ -1,6 +1,6 @@
-# Version: 202308200028
+# Version: 202308262250
 # Title: EasyPrivacy
-# Last modified: 20 Aug 2023 00:28 UTC
+# Last modified: 26 Aug 2023 22:50 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -2602,12 +2602,14 @@
 0.0.0.0 advantage.digitalsunray.com
 0.0.0.0 advantages.americanexpress.com
 0.0.0.0 advconversion.com
+0.0.0.0 adventurousamount.com
 0.0.0.0 advertisementafterthought.com
 0.0.0.0 advertising.com
 0.0.0.0 advise.gallup.com
 0.0.0.0 advisors.links.myvolly.com
 0.0.0.0 advisorservices.etradefinancial.com
 0.0.0.0 advisorservicesfpc.etradefinancial.com
+0.0.0.0 advoncommerce.com
 0.0.0.0 adways.com
 0.0.0.0 adwerx.com
 0.0.0.0 adwstats.com
@@ -3271,6 +3273,7 @@
 0.0.0.0 apexstats.com
 0.0.0.0 apextag.com
 0.0.0.0 apextwo.com
+0.0.0.0 api-analytics-prd.pelcro.com
 0.0.0.0 api-js.mixpanel.com
 0.0.0.0 api-location-prd.pelcro.com
 0.0.0.0 api.all-internet.jp
@@ -3733,6 +3736,7 @@
 0.0.0.0 audioarctic.com
 0.0.0.0 audit.303br.net
 0.0.0.0 audit.median.hu
+0.0.0.0 audit.qiuwen.net.cn
 0.0.0.0 audit.shaa.it
 0.0.0.0 audrte.com
 0.0.0.0 audsoa.narumiya-online.jp
@@ -5482,6 +5486,7 @@
 0.0.0.0 convertcart.com
 0.0.0.0 convertexperiments.com
 0.0.0.0 convertglobal.com
+0.0.0.0 convertlink.com
 0.0.0.0 convertro.com
 0.0.0.0 convocation.uwindsor.ca
 0.0.0.0 convsgmp.taboola.com
@@ -5948,6 +5953,7 @@
 0.0.0.0 d1k8sb4xbepqao.cloudfront.net
 0.0.0.0 d1m6l9dfulcyw7.cloudfront.net
 0.0.0.0 d1n00d49gkbray.cloudfront.net
+0.0.0.0 d1qnmu4nrib73p.cloudfront.net
 0.0.0.0 d1qpxk1wfeh8v1.cloudfront.net
 0.0.0.0 d1r27qvpjiaqj3.cloudfront.net
 0.0.0.0 d1r2sy6oc0ariq.cloudfront.net
@@ -6503,6 +6509,7 @@
 0.0.0.0 diplomahawaii.com
 0.0.0.0 dircont3.com
 0.0.0.0 direct-collect.dy-api.com
+0.0.0.0 direct-collect.dy-api.eu
 0.0.0.0 direct-events-collector.spot.im
 0.0.0.0 direct.diarymuslim.com
 0.0.0.0 direct.t-mobile.com
@@ -7656,7 +7663,6 @@
 0.0.0.0 events.practo.com
 0.0.0.0 events.prd.api.max.com
 0.0.0.0 events.privy.com
-0.0.0.0 events.qortex.ai
 0.0.0.0 events.realgravity.com
 0.0.0.0 events.reclamefolder.nl
 0.0.0.0 events.reddit.com
@@ -7879,6 +7885,7 @@
 0.0.0.0 ferank.fr
 0.0.0.0 fernomius.com
 0.0.0.0 fetch.gethuan.com
+0.0.0.0 fewjuice.com
 0.0.0.0 ffbbbdc6d3c353211fe2ba39c9f744cd.com
 0.0.0.0 ffe390afd658c19dcbf707e0597b846d.de
 0.0.0.0 ffrmwn.musinsa.com
@@ -7893,6 +7900,7 @@
 0.0.0.0 figpii.com
 0.0.0.0 fiksu.com
 0.0.0.0 filament-stats.herokuapp.com
+0.0.0.0 filext.com/pageview
 0.0.0.0 filitrac.com
 0.0.0.0 filmoljupci.com
 0.0.0.0 fimyxg.haberturk.com
@@ -7942,6 +7950,7 @@
 0.0.0.0 flexlinkspro.com
 0.0.0.0 flimsycircle.com
 0.0.0.0 flimsythought.com
+0.0.0.0 flippback.com
 0.0.0.0 flixfacts.co.uk
 0.0.0.0 flixgvid.flix360.io
 0.0.0.0 flixsyndication.net
@@ -8064,6 +8073,7 @@
 0.0.0.0 fpctraffic2.com
 0.0.0.0 fpghll.rossmann.hu
 0.0.0.0 fpjs.io
+0.0.0.0 fpjscdn.net
 0.0.0.0 fprnt.com
 0.0.0.0 fpt.inxinternational.com
 0.0.0.0 fpt.microsoft.com
@@ -8989,6 +8999,7 @@
 0.0.0.0 h5log.zongheng.com
 0.0.0.0 h78xb.pw
 0.0.0.0 habitualhumor.com
+0.0.0.0 hadronid.net
 0.0.0.0 hal.courrierinternational.com
 0.0.0.0 halldata.com
 0.0.0.0 haloscan.com
@@ -15001,7 +15012,6 @@
 0.0.0.0 pub.sheknows.com
 0.0.0.0 pubdream.com
 0.0.0.0 pubexchange.com
-0.0.0.0 pubgw.yahoo.com
 0.0.0.0 publicgood.com
 0.0.0.0 publicidad.daviviendaintl.com
 0.0.0.0 publicidees.com
@@ -15157,6 +15167,7 @@
 0.0.0.0 qnzczf.idc-otsuka.jp
 0.0.0.0 qoijertneio.com
 0.0.0.0 qonwdq.helmexpress.com
+0.0.0.0 qortex.ai
 0.0.0.0 qpc4.visilab.ch
 0.0.0.0 qpl9.destinia.dk
 0.0.0.0 qqdflf.lpga.or.jp
@@ -16263,6 +16274,7 @@
 0.0.0.0 seal.networksolutions.com
 0.0.0.0 seal.qualys.com
 0.0.0.0 sealingdev.actonservice.com
+0.0.0.0 sealmetrics.com
 0.0.0.0 sealserver.trustwave.com
 0.0.0.0 seamarketny.actonservice.com
 0.0.0.0 seao.business.samsung.com
@@ -22906,12 +22918,15 @@
 0.0.0.0 tracker.nitropay.com
 0.0.0.0 tracker.novage.com.ua
 0.0.0.0 tracker.openwebtorrent.com
+0.0.0.0 tracker.prom.ua
 0.0.0.0 tracker.providence.org
 0.0.0.0 tracker.publico.pt
 0.0.0.0 tracker.ranker.com
 0.0.0.0 tracker.roitesting.com
 0.0.0.0 tracker.services.vaix.ai
+0.0.0.0 tracker.shanon-services.com
 0.0.0.0 tracker.shopclues.com
+0.0.0.0 tracker.smartseminar.jp
 0.0.0.0 tracker.softcube.com
 0.0.0.0 tracker.ssl0d.com
 0.0.0.0 tracker.stats.in.th
@@ -25419,7 +25434,7 @@
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2023-08-20 00:44:14.574116
+# Generated at 2023-08-27 00:45:55.038336
 
 0.0.0.0 databerries.com
 0.0.0.0 fidzup
