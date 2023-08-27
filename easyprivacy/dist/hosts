@@ -1,6 +1,6 @@
-# Version: 202308200028
+# Version: 202308262250
 # Title: EasyPrivacy
-# Last modified: 20 Aug 2023 00:28 UTC
+# Last modified: 26 Aug 2023 22:50 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -2602,12 +2602,14 @@ advangelists.com
 advantage.digitalsunray.com
 advantages.americanexpress.com
 advconversion.com
+adventurousamount.com
 advertisementafterthought.com
 advertising.com
 advise.gallup.com
 advisors.links.myvolly.com
 advisorservices.etradefinancial.com
 advisorservicesfpc.etradefinancial.com
+advoncommerce.com
 adways.com
 adwerx.com
 adwstats.com
@@ -3271,6 +3273,7 @@ apester.com/event
 apexstats.com
 apextag.com
 apextwo.com
+api-analytics-prd.pelcro.com
 api-js.mixpanel.com
 api-location-prd.pelcro.com
 api.all-internet.jp
@@ -3733,6 +3736,7 @@ audio.sex
 audioarctic.com
 audit.303br.net
 audit.median.hu
+audit.qiuwen.net.cn
 audit.shaa.it
 audrte.com
 audsoa.narumiya-online.jp
@@ -5482,6 +5486,7 @@ conversions.genieventures.co.uk
 convertcart.com
 convertexperiments.com
 convertglobal.com
+convertlink.com
 convertro.com
 convocation.uwindsor.ca
 convsgmp.taboola.com
@@ -5948,6 +5953,7 @@ d1gp8joe0evc8s.cloudfront.net
 d1k8sb4xbepqao.cloudfront.net
 d1m6l9dfulcyw7.cloudfront.net
 d1n00d49gkbray.cloudfront.net
+d1qnmu4nrib73p.cloudfront.net
 d1qpxk1wfeh8v1.cloudfront.net
 d1r27qvpjiaqj3.cloudfront.net
 d1r2sy6oc0ariq.cloudfront.net
@@ -6503,6 +6509,7 @@ dioqto.totaljobs.com
 diplomahawaii.com
 dircont3.com
 direct-collect.dy-api.com
+direct-collect.dy-api.eu
 direct-events-collector.spot.im
 direct.diarymuslim.com
 direct.t-mobile.com
@@ -7656,7 +7663,6 @@ events.onet.pl
 events.practo.com
 events.prd.api.max.com
 events.privy.com
-events.qortex.ai
 events.realgravity.com
 events.reclamefolder.nl
 events.reddit.com
@@ -7879,6 +7885,7 @@ feraciumus.com
 ferank.fr
 fernomius.com
 fetch.gethuan.com
+fewjuice.com
 ffbbbdc6d3c353211fe2ba39c9f744cd.com
 ffe390afd658c19dcbf707e0597b846d.de
 ffrmwn.musinsa.com
@@ -7893,6 +7900,7 @@ fight.offtherecord.com
 figpii.com
 fiksu.com
 filament-stats.herokuapp.com
+filext.com/pageview
 filitrac.com
 filmoljupci.com
 fimyxg.haberturk.com
@@ -7942,6 +7950,7 @@ fleraprt.com
 flexlinkspro.com
 flimsycircle.com
 flimsythought.com
+flippback.com
 flixfacts.co.uk
 flixgvid.flix360.io
 flixsyndication.net
@@ -8064,6 +8073,7 @@ fpcdn.io
 fpctraffic2.com
 fpghll.rossmann.hu
 fpjs.io
+fpjscdn.net
 fprnt.com
 fpt.inxinternational.com
 fpt.microsoft.com
@@ -8989,6 +8999,7 @@ h559.stamfordadvocate.com
 h5log.zongheng.com
 h78xb.pw
 habitualhumor.com
+hadronid.net
 hal.courrierinternational.com
 halldata.com
 haloscan.com
@@ -15001,7 +15012,6 @@ pub.servidoresge.com
 pub.sheknows.com
 pubdream.com
 pubexchange.com
-pubgw.yahoo.com
 publicgood.com
 publicidad.daviviendaintl.com
 publicidees.com
@@ -15157,6 +15167,7 @@ qnqdpy.edreams.net
 qnzczf.idc-otsuka.jp
 qoijertneio.com
 qonwdq.helmexpress.com
+qortex.ai
 qpc4.visilab.ch
 qpl9.destinia.dk
 qqdflf.lpga.or.jp
@@ -16263,6 +16274,7 @@ seal.godaddy.com
 seal.networksolutions.com
 seal.qualys.com
 sealingdev.actonservice.com
+sealmetrics.com
 sealserver.trustwave.com
 seamarketny.actonservice.com
 seao.business.samsung.com
@@ -22906,12 +22918,15 @@ tracker.netklix.com
 tracker.nitropay.com
 tracker.novage.com.ua
 tracker.openwebtorrent.com
+tracker.prom.ua
 tracker.providence.org
 tracker.publico.pt
 tracker.ranker.com
 tracker.roitesting.com
 tracker.services.vaix.ai
+tracker.shanon-services.com
 tracker.shopclues.com
+tracker.smartseminar.jp
 tracker.softcube.com
 tracker.ssl0d.com
 tracker.stats.in.th
