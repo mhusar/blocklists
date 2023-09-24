@@ -1,6 +1,6 @@
-# Version: 202309170032
+# Version: 202309231524
 # Title: EasyPrivacy
-# Last modified: 17 Sep 2023 00:32 UTC
+# Last modified: 23 Sep 2023 15:24 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -325,6 +325,7 @@
 0.0.0.0 a.nelo.mx
 0.0.0.0 a.o2u.jp
 0.0.0.0 a.oney.es
+0.0.0.0 a.opumo.net
 0.0.0.0 a.parfumsclub.de
 0.0.0.0 a.perfumesclub.co.uk
 0.0.0.0 a.perfumesclub.com
@@ -2393,6 +2394,7 @@
 0.0.0.0 adabra.com
 0.0.0.0 adalyser.com
 0.0.0.0 adamantsnail.com
+0.0.0.0 adapf.com
 0.0.0.0 adara.com
 0.0.0.0 adat.borsonline.hu
 0.0.0.0 adat.ingatlanbazar.hu
@@ -2889,6 +2891,7 @@
 0.0.0.0 analytics-stamp.confi.com.vc
 0.0.0.0 analytics-static.ugc.bazaarvoice.com
 0.0.0.0 analytics-tracking.meetup.com
+0.0.0.0 analytics-wcms.joins.net
 0.0.0.0 analytics-zone-1.api.leadfamly.com
 0.0.0.0 analytics.126.net
 0.0.0.0 analytics.163.com
@@ -3562,6 +3565,7 @@
 0.0.0.0 appboycdn.com
 0.0.0.0 appcast.io
 0.0.0.0 appcloud.appyreward.com
+0.0.0.0 appdynamics.com
 0.0.0.0 appier.net
 0.0.0.0 apple.www.letv.com
 0.0.0.0 applets.ebxcdn.com
@@ -3658,6 +3662,7 @@
 0.0.0.0 as.mytoys.de
 0.0.0.0 as.payback.it
 0.0.0.0 as.yomonda.de
+0.0.0.0 as3.io
 0.0.0.0 asadcdn.com
 0.0.0.0 asamgd.rossmann.de
 0.0.0.0 asc.solidworks.com
@@ -3897,6 +3902,7 @@
 0.0.0.0 b2c.com
 0.0.0.0 b536mpmxoqxa.www.themoneytizer.com
 0.0.0.0 b5j6itccyluq.nofluffjobs.com
+0.0.0.0 b629.electronicdesign.com
 0.0.0.0 b73c.pandasuite.io
 0.0.0.0 b7tp47v2nb3x-a.akamaihd.net
 0.0.0.0 babator.com
@@ -3959,6 +3965,7 @@
 0.0.0.0 bbwqcs.vidaxl.ee
 0.0.0.0 bc.marfeelcache.com
 0.0.0.0 bc.nhk.jp
+0.0.0.0 bc.qunar.com
 0.0.0.0 bc.semwerkt.nl
 0.0.0.0 bc34.wijnvoordeel.nl
 0.0.0.0 bca.aviationweek.com
@@ -4581,6 +4588,7 @@
 0.0.0.0 bydst.com
 0.0.0.0 bykwtf.victoriassecret.ae
 0.0.0.0 byqdtp.interpark.com
+0.0.0.0 byspotify.com
 0.0.0.0 bytemgdd.com
 0.0.0.0 bzclk.baidu.com
 0.0.0.0 bzqxze.remixshop.com
@@ -4606,6 +4614,7 @@
 0.0.0.0 c.paypal.com
 0.0.0.0 c.refun.do
 0.0.0.0 c.rhapsody.com
+0.0.0.0 c.seznam.cz
 0.0.0.0 c.sibnet.ru
 0.0.0.0 c.thredup.com
 0.0.0.0 c.topya.com
@@ -4642,7 +4651,6 @@
 0.0.0.0 cakep.indonesiya.com
 0.0.0.0 calculatingcircle.com
 0.0.0.0 calculatingtoothbrush.com
-0.0.0.0 calculator.maplesoft.com
 0.0.0.0 calculatorcamera.com
 0.0.0.0 calculatorstatement.com
 0.0.0.0 calendarrate.com
@@ -4708,6 +4716,7 @@
 0.0.0.0 capablecup.com
 0.0.0.0 capping.sirius.press
 0.0.0.0 capriciouscorn.com
+0.0.0.0 caprofitx.com
 0.0.0.0 capsquirrel.com
 0.0.0.0 captcha-display.com
 0.0.0.0 captify.co.uk
@@ -4931,6 +4940,7 @@
 0.0.0.0 clearcabbage.com
 0.0.0.0 clearsale.com.br
 0.0.0.0 cleverpush.com
+0.0.0.0 clevertap-prod.com
 0.0.0.0 clevi.com
 0.0.0.0 clgserv.pro
 0.0.0.0 clhzet.ubierzswojesciany.pl
@@ -5241,6 +5251,7 @@
 0.0.0.0 collect.rebelmouse.io
 0.0.0.0 collect.rewardstyle.com
 0.0.0.0 collect.state.centrum24.pl
+0.0.0.0 collect.stepstone.co.uk
 0.0.0.0 collect.thunder-io.com
 0.0.0.0 collect.usefathom.com
 0.0.0.0 collecting.click
@@ -6836,6 +6847,7 @@
 0.0.0.0 dxaop.bcbsla.com
 0.0.0.0 dxe2.heip.fr
 0.0.0.0 dy2xcjk8s1dbz.cloudfront.net
+0.0.0.0 dynamic.ziftsolutions.com
 0.0.0.0 dynatrace-managed.com
 0.0.0.0 dynatrace.com
 0.0.0.0 dyntrk.com
@@ -6861,6 +6873,7 @@
 0.0.0.0 e.gettyimages.co.jp
 0.0.0.0 e.gettyimages.nl
 0.0.0.0 e.gettyimages.pt
+0.0.0.0 e.htplayground.com
 0.0.0.0 e.legalstart.fr
 0.0.0.0 e.metarouter.io
 0.0.0.0 e.shop.app
@@ -7739,6 +7752,7 @@
 0.0.0.0 eventstream.dodopizza.com
 0.0.0.0 everestjs.net
 0.0.0.0 everesttech.net
+0.0.0.0 evergage.com
 0.0.0.0 evisitanalyst.com
 0.0.0.0 evivdj.novasol.fi
 0.0.0.0 evnt.iol.it
@@ -7897,6 +7911,7 @@
 0.0.0.0 fazphz.theiconic.com.au
 0.0.0.0 fb.echovisuals.com
 0.0.0.0 fb_servpub-a.akamaihd.net
+0.0.0.0 fbo-statistics-collector-tc.is.flippingbook.com
 0.0.0.0 fbu8.hoteldeparismontecarlo.com
 0.0.0.0 fbu8.hotelhermitagemontecarlo.com
 0.0.0.0 fbu8.monte-carlo-beach.com
@@ -7934,7 +7949,6 @@
 0.0.0.0 feedperfect.com
 0.0.0.0 fek1.fnactickets.com
 0.0.0.0 feldman.net.anwalt.de
-0.0.0.0 fenix.walkerllaw.org
 0.0.0.0 feraciumus.com
 0.0.0.0 ferank.fr
 0.0.0.0 fernomius.com
@@ -8598,6 +8612,7 @@
 0.0.0.0 gksqfw.reverso.net
 0.0.0.0 gkxaay.tontarellishop.com
 0.0.0.0 gl5g98t0vfjb.panprices.com
+0.0.0.0 glamipixel.com
 0.0.0.0 glancecdn.net
 0.0.0.0 glassboxcdn.com
 0.0.0.0 glassboxdigital.io
@@ -9345,6 +9360,7 @@
 0.0.0.0 hyfntrak.com
 0.0.0.0 hype.zlipa.com
 0.0.0.0 hyperactivate.com
+0.0.0.0 hyperdx.io
 0.0.0.0 hypestat.com
 0.0.0.0 hypnoticwound.com
 0.0.0.0 hyrankhit.meldingcloud.com
@@ -10512,6 +10528,7 @@
 0.0.0.0 knapia.weightwatchers.com
 0.0.0.0 knorex.com
 0.0.0.0 knorzj.wearfigs.com
+0.0.0.0 knotch-cdn.com
 0.0.0.0 knotkettle.com
 0.0.0.0 knottysticks.com
 0.0.0.0 knottyswing.com
@@ -11466,6 +11483,7 @@
 0.0.0.0 log.tagtic.cn
 0.0.0.0 log.targetpush.co.kr
 0.0.0.0 log.ttbc-hcm.gov.vn
+0.0.0.0 log.v.ssp.yahoo.com
 0.0.0.0 log.webnovel.com
 0.0.0.0 log.worldsoft-cms.info
 0.0.0.0 log.zdnet.co.kr
@@ -12762,6 +12780,7 @@
 0.0.0.0 metrics.brightcove.com
 0.0.0.0 metrics.calgary.ca
 0.0.0.0 metrics.camperboerse.com
+0.0.0.0 metrics.camsoda.com
 0.0.0.0 metrics.care.com
 0.0.0.0 metrics.cartoonnetworkla.com
 0.0.0.0 metrics.cbc.ca
@@ -14167,6 +14186,7 @@
 0.0.0.0 owjqox.vacansoleil.de
 0.0.0.0 owldata.com
 0.0.0.0 owlsr.us
+0.0.0.0 owltrack.com
 0.0.0.0 ownpage.fr
 0.0.0.0 owonal.anibis.ch
 0.0.0.0 ox-bio.com
@@ -14913,6 +14933,7 @@
 0.0.0.0 prd-collector-platform.ex.co
 0.0.0.0 pre-employmentservices.adp.com
 0.0.0.0 prealpha.go.levelbank.com
+0.0.0.0 prebidmanager.com
 0.0.0.0 preciouseffect.com
 0.0.0.0 preciousyoke.com
 0.0.0.0 precisioncounter.com
@@ -14928,6 +14949,7 @@
 0.0.0.0 premiumads.com.br
 0.0.0.0 premiumapp.byjus.com
 0.0.0.0 premiumimpression.com
+0.0.0.0 premiumprogrammatic.com.br
 0.0.0.0 prenesi-mojm.mercator.si
 0.0.0.0 prepareplanes.com
 0.0.0.0 presage.io
@@ -21173,6 +21195,7 @@
 0.0.0.0 tags.cdn.circlesix.co
 0.0.0.0 tags.clickagy.com
 0.0.0.0 tags.cmp.tail.digital
+0.0.0.0 tags.dxmdp.com
 0.0.0.0 tags.esri.com
 0.0.0.0 tags.fullcontact.com
 0.0.0.0 tags.globo.com
@@ -21182,6 +21205,7 @@
 0.0.0.0 tags.op-palvelut.fi
 0.0.0.0 tags.refinery89.com
 0.0.0.0 tags.soloway.ru
+0.0.0.0 tags.stepstone.com
 0.0.0.0 tagsrvcs.com
 0.0.0.0 tagstaticx.com
 0.0.0.0 tagtracking.vibescm.com
@@ -23327,6 +23351,7 @@
 0.0.0.0 tracking.seakeeper.com
 0.0.0.0 tracking.searchmarketing.com
 0.0.0.0 tracking.sembox.it
+0.0.0.0 tracking.server.bytecon.com
 0.0.0.0 tracking.sexcash.com
 0.0.0.0 tracking.sezzle.com
 0.0.0.0 tracking.sharplink.us
@@ -23862,6 +23887,7 @@
 0.0.0.0 ubuyanalytics.ubuy.com
 0.0.0.0 ubvsjh.pointtown.com
 0.0.0.0 ubxvdx.accuweather.com
+0.0.0.0 uc.xddi.ru
 0.0.0.0 ucaas.avaya.com
 0.0.0.0 uchiyama.net.anwalt.de
 0.0.0.0 uciservice.com
@@ -24188,6 +24214,7 @@
 0.0.0.0 viewar.org
 0.0.0.0 viewer.pandasuite.io
 0.0.0.0 views.arabnews.com
+0.0.0.0 views.asura.gg
 0.0.0.0 views.b1tv.ro
 0.0.0.0 views.cancan.ro
 0.0.0.0 views.romaniatv.net
@@ -24392,6 +24419,7 @@
 0.0.0.0 wakefulcook.com
 0.0.0.0 wal.wolfram.com
 0.0.0.0 walbusch.de
+0.0.0.0 walkerllaw.org
 0.0.0.0 wallet.chain.com
 0.0.0.0 walmeric.com
 0.0.0.0 waplog.net
@@ -24744,6 +24772,7 @@
 0.0.0.0 widget-pixels.outbrain.com
 0.0.0.0 widget.educationdynamics.com
 0.0.0.0 widgetbe.com
+0.0.0.0 widgets.solutions
 0.0.0.0 widgets.trustedshops.com
 0.0.0.0 wigglygeese.com
 0.0.0.0 wigglyindustry.com
@@ -25555,7 +25584,7 @@
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2023-09-17 00:47:05.456477
+# Generated at 2023-09-24 00:47:09.860096
 
 0.0.0.0 databerries.com
 0.0.0.0 fidzup
