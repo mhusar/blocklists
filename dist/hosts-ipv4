@@ -1,6 +1,6 @@
-# Version: 202309231524
+# Version: 202309301612
 # Title: EasyPrivacy
-# Last modified: 23 Sep 2023 15:24 UTC
+# Last modified: 30 Sep 2023 16:12 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -2293,7 +2293,6 @@
 0.0.0.0 accuratecraneplan-test.inthere.link
 0.0.0.0 acecounter.com
 0.0.0.0 acelogger.heraldcorp.com
-0.0.0.0 acesse.tc.com.br
 0.0.0.0 acetrk.com
 0.0.0.0 acexedge.com
 0.0.0.0 achieverknee.com
@@ -2527,6 +2526,7 @@
 0.0.0.0 admantx.com
 0.0.0.0 admaster.com.cn
 0.0.0.0 admatrix.jp
+0.0.0.0 admaxium.com
 0.0.0.0 admeasure.hh-online.jp
 0.0.0.0 admeira.ch
 0.0.0.0 admetric.io
@@ -2874,6 +2874,7 @@
 0.0.0.0 analyticcdn.globalmailer.com
 0.0.0.0 analytics-1.cavai.com
 0.0.0.0 analytics-api.samsunghealthcn.com
+0.0.0.0 analytics-batch.blitz.gg
 0.0.0.0 analytics-beacon.p.uliza.jp
 0.0.0.0 analytics-cdiscount.com
 0.0.0.0 analytics-cms.whitebeard.me
@@ -4618,6 +4619,7 @@
 0.0.0.0 c.sibnet.ru
 0.0.0.0 c.thredup.com
 0.0.0.0 c.topya.com
+0.0.0.0 c.vogue.com
 0.0.0.0 c.vrt.be
 0.0.0.0 c.wen.ru
 0.0.0.0 c.werally.com
@@ -5008,7 +5010,6 @@
 0.0.0.0 clickcease.com
 0.0.0.0 clickclick.net
 0.0.0.0 clickdensity.com
-0.0.0.0 clickdimensions.com
 0.0.0.0 clickening.com
 0.0.0.0 clickferret.com
 0.0.0.0 clickguard.com
@@ -5192,6 +5193,7 @@
 0.0.0.0 cnt.trvdp.com
 0.0.0.0 cnt.viptube.com
 0.0.0.0 cnt.vivatube.com
+0.0.0.0 cnt.xhamster.com
 0.0.0.0 cnt1.net
 0.0.0.0 cntxtfl.com
 0.0.0.0 cnwebperformance.biz
@@ -5255,7 +5257,6 @@
 0.0.0.0 collect.thunder-io.com
 0.0.0.0 collect.usefathom.com
 0.0.0.0 collecting.click
-0.0.0.0 collections-api.realestate.com.au
 0.0.0.0 collections.equifax.com
 0.0.0.0 collector-api.99designs.com
 0.0.0.0 collector-px0py5pczn.octopart.com
@@ -7800,7 +7801,6 @@
 0.0.0.0 experiments.sparanoid.net
 0.0.0.0 expertdecking.inthere.link
 0.0.0.0 explore-123.com
-0.0.0.0 explore.agilent.com
 0.0.0.0 explore.att.com
 0.0.0.0 explore.broncos.com.au
 0.0.0.0 explore.bytelab.uk
@@ -8514,7 +8514,6 @@
 0.0.0.0 get.schoolbuddy.app
 0.0.0.0 get.seedly.sg
 0.0.0.0 get.sidekick.health
-0.0.0.0 get.smart-guide.org
 0.0.0.0 get.snapask.com
 0.0.0.0 get.somontreal.ca
 0.0.0.0 get.speaky.com
@@ -13225,9 +13224,11 @@
 0.0.0.0 mno.link
 0.0.0.0 mnrddc.journeys.com
 0.0.0.0 moa.mediaoutcast.com
+0.0.0.0 mobadme.jp
 0.0.0.0 mobalyzer.net
 0.0.0.0 mobee.xyz
 0.0.0.0 mobil.hry.yt
+0.0.0.0 mobildev.in
 0.0.0.0 mobile-event.cvent.me
 0.0.0.0 mobile.aspensnowmass.com
 0.0.0.0 mobile.btgpactual.com
@@ -15241,6 +15242,7 @@
 0.0.0.0 qbop.com
 0.0.0.0 qbse.intuit.com
 0.0.0.0 qc.qualicocommunitieswinnipeg.com
+0.0.0.0 qc.vogue.com
 0.0.0.0 qchannel03.cn
 0.0.0.0 qerpks.rollei.de
 0.0.0.0 qexbcx.olx.kz
@@ -15344,6 +15346,7 @@
 0.0.0.0 qzwktr.world-fusigi.net
 0.0.0.0 qzxfnv.beams.co.jp
 0.0.0.0 r-ad.ne.jp
+0.0.0.0 r.apkpure.net
 0.0.0.0 r.atlasearth.com
 0.0.0.0 r.bbci.co.uk
 0.0.0.0 r.blidzdeal.com
@@ -15891,6 +15894,7 @@
 0.0.0.0 rumanalytics.com
 0.0.0.0 rumble.com
 0.0.0.0 rumpelstiltskinhead.com
+0.0.0.0 rumstat.cdnvideo.ru
 0.0.0.0 rup5.destinia.ru
 0.0.0.0 ruralrobin.com
 0.0.0.0 rusticprice.com
@@ -16106,6 +16110,7 @@
 0.0.0.0 saec-metrics.base.be
 0.0.0.0 saec-metrics.telenet.be
 0.0.0.0 safe-click.net
+0.0.0.0 safeanalytics.net
 0.0.0.0 safepass.citizen.com
 0.0.0.0 sageanalyst.net
 0.0.0.0 sagetrc.com
@@ -19730,6 +19735,7 @@
 0.0.0.0 static.parsely.com
 0.0.0.0 staticiv.com
 0.0.0.0 statisfy.net
+0.0.0.0 statistic.audima.co
 0.0.0.0 statistic.jac-systeme.de
 0.0.0.0 statistic.qzone.qq.com
 0.0.0.0 statistic2.reichelt.de
@@ -20293,6 +20299,7 @@
 0.0.0.0 stats.poochplaces.dog
 0.0.0.0 stats.postcollectors.com
 0.0.0.0 stats.postescanada-canadapost.ca
+0.0.0.0 stats.prebytes.com
 0.0.0.0 stats.preeventualist.org
 0.0.0.0 stats.premiumsim.de
 0.0.0.0 stats.pri.org
@@ -21362,6 +21369,7 @@
 0.0.0.0 technical.magnalytix.com
 0.0.0.0 technology.informaengage.com
 0.0.0.0 technologyadvice.actonservice.com
+0.0.0.0 techpump.com
 0.0.0.0 techservices.trapptechnology.com
 0.0.0.0 ted.dailymail.co.uk
 0.0.0.0 tediousticket.com
@@ -23022,6 +23030,7 @@
 0.0.0.0 tracker.azet.sk
 0.0.0.0 tracker.beezup.com
 0.0.0.0 tracker.bestshopping.com
+0.0.0.0 tracker.blutv.com
 0.0.0.0 tracker.bt.uol.com.br
 0.0.0.0 tracker.cauly.co.kr
 0.0.0.0 tracker.cdnbye.com
@@ -23925,6 +23934,7 @@
 0.0.0.0 uhn9.up-france.fr
 0.0.0.0 ui.service.belboon.com
 0.0.0.0 uid.mediacorp.sg
+0.0.0.0 uidapi.com
 0.0.0.0 uim.tifbs.net
 0.0.0.0 uinpmz.iichi.com
 0.0.0.0 uiwock.epantofi.ro
@@ -25584,7 +25594,7 @@
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2023-09-24 00:47:09.860096
+# Generated at 2023-10-01 00:51:40.597573
 
 0.0.0.0 databerries.com
 0.0.0.0 fidzup
