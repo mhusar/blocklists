@@ -1,6 +1,6 @@
-# Version: 202309301612
+# Version: 202310072049
 # Title: EasyPrivacy
-# Last modified: 30 Sep 2023 16:12 UTC
+# Last modified: 07 Oct 2023 20:49 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -3001,6 +3001,7 @@
 0.0.0.0 analytics.freespee.com
 0.0.0.0 analytics.gamedatacrunch.com
 0.0.0.0 analytics.gameforge.de
+0.0.0.0 analytics.gamesdrive.net
 0.0.0.0 analytics.gazeta.pl
 0.0.0.0 analytics.geekyminds.net
 0.0.0.0 analytics.geoutletstore.com
@@ -4589,7 +4590,6 @@
 0.0.0.0 bydst.com
 0.0.0.0 bykwtf.victoriassecret.ae
 0.0.0.0 byqdtp.interpark.com
-0.0.0.0 byspotify.com
 0.0.0.0 bytemgdd.com
 0.0.0.0 bzclk.baidu.com
 0.0.0.0 bzqxze.remixshop.com
@@ -4612,6 +4612,7 @@
 0.0.0.0 c.lolamarket.com
 0.0.0.0 c.mgid.com
 0.0.0.0 c.musicradio.com
+0.0.0.0 c.newyorker.com
 0.0.0.0 c.paypal.com
 0.0.0.0 c.refun.do
 0.0.0.0 c.rhapsody.com
@@ -4785,6 +4786,7 @@
 0.0.0.0 cbtrk.net
 0.0.0.0 cbudbs.tirendo.de
 0.0.0.0 cc.conforama.es
+0.0.0.0 cc.dalten.cz
 0.0.0.0 cc.quickbytegames.com
 0.0.0.0 cc.swiftype.com
 0.0.0.0 ccaas.avaya.com
@@ -6259,6 +6261,7 @@
 0.0.0.0 datamilk.app
 0.0.0.0 datamind.ru
 0.0.0.0 datanoticias.prisasd.com
+0.0.0.0 dataofpages.com
 0.0.0.0 dataperforma.com
 0.0.0.0 dataroid.com
 0.0.0.0 datas.connectingthreads.com
@@ -7679,6 +7682,7 @@
 0.0.0.0 event1.thermoscientific.com
 0.0.0.0 eventapi.libring.com
 0.0.0.0 eventbus.intuit.com
+0.0.0.0 eventexistence.com
 0.0.0.0 eventgateway.soundcloud.com
 0.0.0.0 eventlog.inspsearchapi.com
 0.0.0.0 eventlog.jackpot.de
@@ -11447,6 +11451,7 @@
 0.0.0.0 log.cpex.cz
 0.0.0.0 log.dpa.com
 0.0.0.0 log.ecgh.dk
+0.0.0.0 log.edidomus.it
 0.0.0.0 log.etoday.co.kr
 0.0.0.0 log.f-tra.com
 0.0.0.0 log.flight.qunar.com
@@ -14583,6 +14588,7 @@
 0.0.0.0 pixel.biano.cz
 0.0.0.0 pixel.biano.ro
 0.0.0.0 pixel.blivenyc.com
+0.0.0.0 pixel.byspotify.com
 0.0.0.0 pixel.coccoc.com
 0.0.0.0 pixel.condenastdigital.com
 0.0.0.0 pixel.convertize.io
@@ -15241,6 +15247,7 @@
 0.0.0.0 qbl4.ecetech.fr
 0.0.0.0 qbop.com
 0.0.0.0 qbse.intuit.com
+0.0.0.0 qc.newyorker.com
 0.0.0.0 qc.qualicocommunitieswinnipeg.com
 0.0.0.0 qc.vogue.com
 0.0.0.0 qchannel03.cn
@@ -16292,6 +16299,7 @@
 0.0.0.0 scaredsidewalk.com
 0.0.0.0 scaredsnake.com
 0.0.0.0 scaredsnakes.com
+0.0.0.0 scaredsong.com
 0.0.0.0 scaredstory.com
 0.0.0.0 scaredswing.com
 0.0.0.0 scarfsmash.com
@@ -22860,6 +22868,7 @@
 0.0.0.0 trace-2000.com
 0.0.0.0 trace.events
 0.0.0.0 trace.qq.com
+0.0.0.0 trace.swaven.com
 0.0.0.0 tracead.com
 0.0.0.0 traceless.me
 0.0.0.0 tracelytics.com
@@ -22960,6 +22969,7 @@
 0.0.0.0 track.noddus.com
 0.0.0.0 track.nopaperforms.com
 0.0.0.0 track.noz.de
+0.0.0.0 track.olx.com.br
 0.0.0.0 track.pexi.nl
 0.0.0.0 track.pnicnik.live
 0.0.0.0 track.pricespider.com
@@ -23741,6 +23751,7 @@
 0.0.0.0 trk01.informaconnect.com
 0.0.0.0 trk01.knect365.com
 0.0.0.0 trk02.knect365.com
+0.0.0.0 trk2-wtb.swaven.com
 0.0.0.0 trkbc.com
 0.0.0.0 trkjmp.com
 0.0.0.0 trklink.luisaviaroma.com
@@ -24830,7 +24841,6 @@
 0.0.0.0 wnform.www.trecenti.com
 0.0.0.0 wnozpl.escarpe.it
 0.0.0.0 wo-cloud.com
-0.0.0.0 wogaa.sg
 0.0.0.0 wolfen.net.anwalt.de
 0.0.0.0 womanear.com
 0.0.0.0 womtp.com
@@ -25460,6 +25470,7 @@
 0.0.0.0 ymetrica1.com
 0.0.0.0 ymprove.gmx.net
 0.0.0.0 ymprove.web.de
+0.0.0.0 yndhi.com
 0.0.0.0 yoc.younited-credit.com
 0.0.0.0 yolo.philipbjorge.com
 0.0.0.0 yoochoose.net
