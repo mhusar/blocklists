@@ -1,6 +1,6 @@
-# Version: 202310220026
+# Version: 202310280906
 # Title: EasyPrivacy
-# Last modified: 22 Oct 2023 00:26 UTC
+# Last modified: 28 Oct 2023 09:06 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -2312,6 +2312,7 @@ active24stats.nl
 activeconversion.com
 activemeter.com
 activeprospects.com
+activity-flow.vtex.com
 activity.fiverr.com
 activity.wisepops.com
 actnx.com
@@ -4027,6 +4028,7 @@ beemrdwn.com
 beencounter.com
 beer2s.millerbrewing.com
 bees.beesbeesbeesbees.com
+beforeitsnews.com/core/ajax/counter/count.php
 beginnerpancake.com
 begintrain.com
 behave.sn.at
@@ -7695,6 +7697,7 @@ eventapi.libring.com
 eventbus.intuit.com
 eventexistence.com
 eventgateway.soundcloud.com
+eventlog.chatlead.com
 eventlog.inspsearchapi.com
 eventlog.jackpot.de
 eventos.cihac.com
@@ -7758,6 +7761,7 @@ events.splash-screen.net
 events.split.io
 events.splunk.com
 events.squarespace.com
+events.storifyme.com
 events.tafensw.edu.au
 events.tubecup.org
 events.turbosquid.com
@@ -7965,6 +7969,7 @@ feedme.use-beez.com
 feedperfect.com
 fek1.fnactickets.com
 feldman.net.anwalt.de
+femetrics.grammarly.io
 feraciumus.com
 ferank.fr
 fernomius.com
@@ -9149,6 +9154,7 @@ hdicsm.autoscout24.be
 hdmtools.com
 hdxdhu.zumnorde.de
 he2d.com
+headydegree.com
 headyhook.com
 healflowers.com
 healte.de
@@ -9164,6 +9170,7 @@ hearob.klix.ba
 heartbeat.pmd.444.hu
 heartbreakingmind.com
 hearthorn.com
+heatmap.com
 heatmap.it
 heatmap.services
 heavyplayground.com
@@ -9268,6 +9275,7 @@ hk2d.tourismemauricie.com
 hkj8.evobanco.com
 hktracker.hankookilbo.com
 hlms.ecologie.gouv.fr
+hlogger.heraldcorp.com
 hlsjel.engelvoelkers.com
 hlygsp.modivo.ro
 hm.baidu.com
@@ -9381,6 +9389,7 @@ hyeorg.gmarket.co.kr
 hyfntrak.com
 hype.zlipa.com
 hyperactivate.com
+hypercounter.com
 hyperdx.io
 hypestat.com
 hypnoticwound.com
@@ -9834,6 +9843,7 @@ impossibleexpansion.com
 impossibleglue.com
 impossiblemove.com
 impress.vcita.com
+impression.clickinc.com
 impression.link
 improving.wuzhuiso.com
 impulsehands.com
@@ -11497,6 +11507,7 @@ log.outbrainimg.com
 log.pinterest.com
 log.popin.cc
 log.quora.com
+log.qvb.qcloud.com
 log.rabobank.nl
 log.recommend.nicovideo.jp
 log.reformal.ru
@@ -11637,6 +11648,7 @@ lr-in-prod.com
 lr-in.com
 lr-ingest.com
 lr-ingest.io
+lr-intake.com
 lravwm.spa.cz
 lrhyty.weeronline.nl
 lrp7.carrefour-banque.fr
@@ -16369,6 +16381,7 @@ sconnectstats.mckesson.com
 scontent-atl3-2.xx.fbcdn.net.iberostar.com
 scontent.services.tvn.pl
 scontent.xx.fbcdn.net.iberostar.com
+scoopy.cdn112.com
 scorebuddy.actonservice.com
 scorecardresearch.com
 scounter.rambler.ru
@@ -19356,6 +19369,7 @@ spring.de
 springaftermath.com
 springmetrics.com
 springsister.com
+spt.ahram.org.eg
 sptag.com
 sptag1.com
 spuriousbase.com
@@ -19798,6 +19812,7 @@ statistiche-web.com
 statistiche.it
 statistiche.ws
 statistichegratis.net
+statisticplatform.com
 statistics.csob.cz
 statistics.daktilo.com
 statistics.fppressa.ru
@@ -21457,6 +21472,7 @@ telemetry.reembed.com
 telemetry.soundcloud.com
 telemetry.tableausoftware.com
 telemetry.tradingview.com
+telemetry.vtex.com
 telephoneapparatus.com
 teletarget.ru
 telize.com
@@ -23040,6 +23056,7 @@ track.shop2market.com
 track.sitetag.us
 track.slickinbox.com
 track.social.com
+track.sodapdf.com
 track.sohu.com
 track.span-smt.jp
 track.spothero.com
@@ -23082,6 +23099,7 @@ trackconsole.com
 trackeame.com
 trackedlink.net
 trackedweb.net
+tracker-00.qvb.qcloud.com
 tracker-aa.pafbetscore.lv
 tracker-dot-optimeeze.appspot.com
 tracker-rec.smart-bdash.com
@@ -23558,6 +23576,7 @@ trafficjoint.com
 trafficmaxx.de
 trafficregenerator.com
 trafficroots.com
+trafficscanner.pl
 trafic.ro
 trafikkfondet.no
 trafit.com
@@ -24273,6 +24292,7 @@ vhmewg.edreams.fr
 vhrbxb.vidaxl.nl
 vi.adviso.ca
 viapush.com
+vibranthaven.com
 victoriousrequest.com
 video-ad-stats.googlesyndication.com
 video-metrics.ellentube.com
@@ -25675,7 +25695,7 @@ zz.bdstatic.com
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2023-10-22 00:48:43.742186
+# Generated at 2023-10-29 00:48:09.050449
 
 databerries.com
 fidzup
