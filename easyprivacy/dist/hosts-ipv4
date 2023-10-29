@@ -1,6 +1,6 @@
-# Version: 202310220026
+# Version: 202310280906
 # Title: EasyPrivacy
-# Last modified: 22 Oct 2023 00:26 UTC
+# Last modified: 28 Oct 2023 09:06 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -2327,6 +2327,7 @@
 0.0.0.0 activeconversion.com
 0.0.0.0 activemeter.com
 0.0.0.0 activeprospects.com
+0.0.0.0 activity-flow.vtex.com
 0.0.0.0 activity.fiverr.com
 0.0.0.0 activity.wisepops.com
 0.0.0.0 actnx.com
@@ -4042,6 +4043,7 @@
 0.0.0.0 beencounter.com
 0.0.0.0 beer2s.millerbrewing.com
 0.0.0.0 bees.beesbeesbeesbees.com
+0.0.0.0 beforeitsnews.com/core/ajax/counter/count.php
 0.0.0.0 beginnerpancake.com
 0.0.0.0 begintrain.com
 0.0.0.0 behave.sn.at
@@ -7710,6 +7712,7 @@
 0.0.0.0 eventbus.intuit.com
 0.0.0.0 eventexistence.com
 0.0.0.0 eventgateway.soundcloud.com
+0.0.0.0 eventlog.chatlead.com
 0.0.0.0 eventlog.inspsearchapi.com
 0.0.0.0 eventlog.jackpot.de
 0.0.0.0 eventos.cihac.com
@@ -7773,6 +7776,7 @@
 0.0.0.0 events.split.io
 0.0.0.0 events.splunk.com
 0.0.0.0 events.squarespace.com
+0.0.0.0 events.storifyme.com
 0.0.0.0 events.tafensw.edu.au
 0.0.0.0 events.tubecup.org
 0.0.0.0 events.turbosquid.com
@@ -7980,6 +7984,7 @@
 0.0.0.0 feedperfect.com
 0.0.0.0 fek1.fnactickets.com
 0.0.0.0 feldman.net.anwalt.de
+0.0.0.0 femetrics.grammarly.io
 0.0.0.0 feraciumus.com
 0.0.0.0 ferank.fr
 0.0.0.0 fernomius.com
@@ -9164,6 +9169,7 @@
 0.0.0.0 hdmtools.com
 0.0.0.0 hdxdhu.zumnorde.de
 0.0.0.0 he2d.com
+0.0.0.0 headydegree.com
 0.0.0.0 headyhook.com
 0.0.0.0 healflowers.com
 0.0.0.0 healte.de
@@ -9179,6 +9185,7 @@
 0.0.0.0 heartbeat.pmd.444.hu
 0.0.0.0 heartbreakingmind.com
 0.0.0.0 hearthorn.com
+0.0.0.0 heatmap.com
 0.0.0.0 heatmap.it
 0.0.0.0 heatmap.services
 0.0.0.0 heavyplayground.com
@@ -9283,6 +9290,7 @@
 0.0.0.0 hkj8.evobanco.com
 0.0.0.0 hktracker.hankookilbo.com
 0.0.0.0 hlms.ecologie.gouv.fr
+0.0.0.0 hlogger.heraldcorp.com
 0.0.0.0 hlsjel.engelvoelkers.com
 0.0.0.0 hlygsp.modivo.ro
 0.0.0.0 hm.baidu.com
@@ -9396,6 +9404,7 @@
 0.0.0.0 hyfntrak.com
 0.0.0.0 hype.zlipa.com
 0.0.0.0 hyperactivate.com
+0.0.0.0 hypercounter.com
 0.0.0.0 hyperdx.io
 0.0.0.0 hypestat.com
 0.0.0.0 hypnoticwound.com
@@ -9849,6 +9858,7 @@
 0.0.0.0 impossibleglue.com
 0.0.0.0 impossiblemove.com
 0.0.0.0 impress.vcita.com
+0.0.0.0 impression.clickinc.com
 0.0.0.0 impression.link
 0.0.0.0 improving.wuzhuiso.com
 0.0.0.0 impulsehands.com
@@ -11512,6 +11522,7 @@
 0.0.0.0 log.pinterest.com
 0.0.0.0 log.popin.cc
 0.0.0.0 log.quora.com
+0.0.0.0 log.qvb.qcloud.com
 0.0.0.0 log.rabobank.nl
 0.0.0.0 log.recommend.nicovideo.jp
 0.0.0.0 log.reformal.ru
@@ -11652,6 +11663,7 @@
 0.0.0.0 lr-in.com
 0.0.0.0 lr-ingest.com
 0.0.0.0 lr-ingest.io
+0.0.0.0 lr-intake.com
 0.0.0.0 lravwm.spa.cz
 0.0.0.0 lrhyty.weeronline.nl
 0.0.0.0 lrp7.carrefour-banque.fr
@@ -16384,6 +16396,7 @@
 0.0.0.0 scontent-atl3-2.xx.fbcdn.net.iberostar.com
 0.0.0.0 scontent.services.tvn.pl
 0.0.0.0 scontent.xx.fbcdn.net.iberostar.com
+0.0.0.0 scoopy.cdn112.com
 0.0.0.0 scorebuddy.actonservice.com
 0.0.0.0 scorecardresearch.com
 0.0.0.0 scounter.rambler.ru
@@ -19371,6 +19384,7 @@
 0.0.0.0 springaftermath.com
 0.0.0.0 springmetrics.com
 0.0.0.0 springsister.com
+0.0.0.0 spt.ahram.org.eg
 0.0.0.0 sptag.com
 0.0.0.0 sptag1.com
 0.0.0.0 spuriousbase.com
@@ -19813,6 +19827,7 @@
 0.0.0.0 statistiche.it
 0.0.0.0 statistiche.ws
 0.0.0.0 statistichegratis.net
+0.0.0.0 statisticplatform.com
 0.0.0.0 statistics.csob.cz
 0.0.0.0 statistics.daktilo.com
 0.0.0.0 statistics.fppressa.ru
@@ -21472,6 +21487,7 @@
 0.0.0.0 telemetry.soundcloud.com
 0.0.0.0 telemetry.tableausoftware.com
 0.0.0.0 telemetry.tradingview.com
+0.0.0.0 telemetry.vtex.com
 0.0.0.0 telephoneapparatus.com
 0.0.0.0 teletarget.ru
 0.0.0.0 telize.com
@@ -23055,6 +23071,7 @@
 0.0.0.0 track.sitetag.us
 0.0.0.0 track.slickinbox.com
 0.0.0.0 track.social.com
+0.0.0.0 track.sodapdf.com
 0.0.0.0 track.sohu.com
 0.0.0.0 track.span-smt.jp
 0.0.0.0 track.spothero.com
@@ -23097,6 +23114,7 @@
 0.0.0.0 trackeame.com
 0.0.0.0 trackedlink.net
 0.0.0.0 trackedweb.net
+0.0.0.0 tracker-00.qvb.qcloud.com
 0.0.0.0 tracker-aa.pafbetscore.lv
 0.0.0.0 tracker-dot-optimeeze.appspot.com
 0.0.0.0 tracker-rec.smart-bdash.com
@@ -23573,6 +23591,7 @@
 0.0.0.0 trafficmaxx.de
 0.0.0.0 trafficregenerator.com
 0.0.0.0 trafficroots.com
+0.0.0.0 trafficscanner.pl
 0.0.0.0 trafic.ro
 0.0.0.0 trafikkfondet.no
 0.0.0.0 trafit.com
@@ -24288,6 +24307,7 @@
 0.0.0.0 vhrbxb.vidaxl.nl
 0.0.0.0 vi.adviso.ca
 0.0.0.0 viapush.com
+0.0.0.0 vibranthaven.com
 0.0.0.0 victoriousrequest.com
 0.0.0.0 video-ad-stats.googlesyndication.com
 0.0.0.0 video-metrics.ellentube.com
