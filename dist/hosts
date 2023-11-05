@@ -1,6 +1,6 @@
-# Version: 202310280906
+# Version: 202311050017
 # Title: EasyPrivacy
-# Last modified: 28 Oct 2023 09:06 UTC
+# Last modified: 05 Nov 2023 00:17 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -2688,6 +2688,7 @@ agilesrv.com
 agillic.eu
 agilone.com
 agkn.com
+agma-analytics.de
 agnes.waz.de
 agorahtag.tech
 agreeablestew.com
@@ -3144,6 +3145,7 @@ analytics.silktide.com
 analytics.sitewit.com
 analytics.sixfigureswine.com
 analytics.skinit.com
+analytics.skroutz.gr
 analytics.slashdotmedia.com
 analytics.sleeknote.com
 analytics.snidigital.com
@@ -5068,6 +5070,7 @@ clickserver.libero.it
 clicksgate.com
 clickshift.com
 clicktale.net
+clicktalecdn.sslcs.cdngc.net
 clickthru.lefbc.com
 clicktime.symantec.com
 clicktracker.iscan.nl
@@ -5259,6 +5262,7 @@ collect.alipay.com
 collect.alphastream.io
 collect.asics.com
 collect.banggood.com
+collect.bannercrowd.net
 collect.chaordicsystems.com
 collect.cloudsponge.com
 collect.ezidox.com
@@ -7701,6 +7705,7 @@ event.hackle.io
 event.instiengage.com
 event.mrtnsvr.com
 event.ortec.com
+event.platform.tunein.com
 event.raise3d.cn
 event.spektare.com
 event.syndigo.cloud
@@ -7795,6 +7800,7 @@ evnt.iol.it
 evorra.net
 evrget.nikkan-gendai.com
 evs.sgmt.loom.com
+evt-api.ntm.eu
 evt.collarity.com
 evt.houzz.com
 evyy.net
@@ -8595,7 +8601,6 @@ getblueshift.com
 getclicky.com
 getconversion.net
 getdrip.com
-getelevar.com
 getfreebl.com
 getl4w.lookout.com
 getlasso.co
@@ -9258,6 +9263,7 @@ hitmir.ru
 hits.antena3.com
 hits.cyberdrop.me
 hits.dealer.com
+hits.getelevar.com
 hits.informer.com
 hits.io
 hits.letras.mus.br
@@ -10818,6 +10824,7 @@ levelbehavior.com
 levexis.com
 lexity.com
 leynqj.newport.se
+lfeeder.com
 lfmhcb.sefamerve.com
 lfov.net
 lgzkzp.bauhaus.at
@@ -12534,6 +12541,7 @@ matrix.elecle.bike
 matsubun.matsubun.com
 matt.mercadolivre.com.br
 matterlytics.com
+maxepv.com
 maxtracker.net
 maxtraffic.com
 maxtrafixx.tech
@@ -13336,6 +13344,7 @@ money.clerkie.io
 mongoosemetrics.com
 monicaatron.com
 monitis.com
+monitor-api.blackcrow.ai
 monitor-frontend-collector.a.bybit-aws.com
 monitor.azure.com
 monitor.channel4.com
@@ -13871,6 +13880,7 @@ nu.esri.nl
 nuconomy.com
 nuggad.net
 nulldiscussion.com
+nullitics.com
 nullnorth.com
 nuloox.com
 numbers.monthlyphotos.com
@@ -14971,6 +14981,7 @@ posst.co
 postaffiliatepro.com
 postgraduate.smu.edu.sg
 postgraduate2.smu.edu.sg
+posthog.com
 potatoinvention.com
 powderjourney.com
 powderprofit.com
@@ -20292,6 +20303,7 @@ stats.lt
 stats.ltdhunt.com
 stats.luieremmer.net
 stats.lussoveloce.com
+stats.macg.io
 stats.macosicons.com
 stats.madeit.io
 stats.madethis.gallery
@@ -20326,6 +20338,7 @@ stats.navedislam.com
 stats.nddmed.com
 stats.nebula.fi
 stats.netbopdev.co.uk
+stats.netdriven.com
 stats.newsweek.com
 stats.nexagon.dk
 stats.nhk.or.jp
@@ -23092,6 +23105,7 @@ track.uc.cn
 track.ultimate-guitar.com
 track.unidata.ai
 track.untd.com
+track.uppromote.com
 track.veedio.it
 track.venatusmedia.com
 track.vscash.com
@@ -23188,6 +23202,7 @@ tracking-api.hotmart.com
 tracking-api.mangopulse.net
 tracking-explore.agilent.com
 tracking-live.kr3m.com
+tracking-na.hawksearch.com
 tracking-secure.csob.cz
 tracking-test.esearchvision.com
 tracking-uat.veritas.com
@@ -24332,6 +24347,7 @@ viewar.org
 viewer.pandasuite.io
 views.arabnews.com
 views.asura.gg
+views.asurascans.com
 views.b1tv.ro
 views.cancan.ro
 views.romaniatv.net
@@ -25517,6 +25533,7 @@ xlvvy4msxr.coolinastore.com
 xmrpool.net
 xovq5nemr.com
 xp.apple.com
+xp2023-pix.s3.amazonaws.com
 xplosion.de
 xray.mail.ru
 xseedwealth.actonservice.com
@@ -25710,7 +25727,7 @@ zz.bdstatic.com
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2023-10-29 00:48:09.050449
+# Generated at 2023-11-05 00:49:42.339546
 
 databerries.com
 fidzup
