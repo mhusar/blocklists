@@ -1,6 +1,6 @@
-# Version: 202310280906
+# Version: 202311050017
 # Title: EasyPrivacy
-# Last modified: 28 Oct 2023 09:06 UTC
+# Last modified: 05 Nov 2023 00:17 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -2688,6 +2688,7 @@
 0.0.0.0 agillic.eu
 0.0.0.0 agilone.com
 0.0.0.0 agkn.com
+0.0.0.0 agma-analytics.de
 0.0.0.0 agnes.waz.de
 0.0.0.0 agorahtag.tech
 0.0.0.0 agreeablestew.com
@@ -3144,6 +3145,7 @@
 0.0.0.0 analytics.sitewit.com
 0.0.0.0 analytics.sixfigureswine.com
 0.0.0.0 analytics.skinit.com
+0.0.0.0 analytics.skroutz.gr
 0.0.0.0 analytics.slashdotmedia.com
 0.0.0.0 analytics.sleeknote.com
 0.0.0.0 analytics.snidigital.com
@@ -5068,6 +5070,7 @@
 0.0.0.0 clicksgate.com
 0.0.0.0 clickshift.com
 0.0.0.0 clicktale.net
+0.0.0.0 clicktalecdn.sslcs.cdngc.net
 0.0.0.0 clickthru.lefbc.com
 0.0.0.0 clicktime.symantec.com
 0.0.0.0 clicktracker.iscan.nl
@@ -5259,6 +5262,7 @@
 0.0.0.0 collect.alphastream.io
 0.0.0.0 collect.asics.com
 0.0.0.0 collect.banggood.com
+0.0.0.0 collect.bannercrowd.net
 0.0.0.0 collect.chaordicsystems.com
 0.0.0.0 collect.cloudsponge.com
 0.0.0.0 collect.ezidox.com
@@ -7701,6 +7705,7 @@
 0.0.0.0 event.instiengage.com
 0.0.0.0 event.mrtnsvr.com
 0.0.0.0 event.ortec.com
+0.0.0.0 event.platform.tunein.com
 0.0.0.0 event.raise3d.cn
 0.0.0.0 event.spektare.com
 0.0.0.0 event.syndigo.cloud
@@ -7795,6 +7800,7 @@
 0.0.0.0 evorra.net
 0.0.0.0 evrget.nikkan-gendai.com
 0.0.0.0 evs.sgmt.loom.com
+0.0.0.0 evt-api.ntm.eu
 0.0.0.0 evt.collarity.com
 0.0.0.0 evt.houzz.com
 0.0.0.0 evyy.net
@@ -8595,7 +8601,6 @@
 0.0.0.0 getclicky.com
 0.0.0.0 getconversion.net
 0.0.0.0 getdrip.com
-0.0.0.0 getelevar.com
 0.0.0.0 getfreebl.com
 0.0.0.0 getl4w.lookout.com
 0.0.0.0 getlasso.co
@@ -9258,6 +9263,7 @@
 0.0.0.0 hits.antena3.com
 0.0.0.0 hits.cyberdrop.me
 0.0.0.0 hits.dealer.com
+0.0.0.0 hits.getelevar.com
 0.0.0.0 hits.informer.com
 0.0.0.0 hits.io
 0.0.0.0 hits.letras.mus.br
@@ -10818,6 +10824,7 @@
 0.0.0.0 levexis.com
 0.0.0.0 lexity.com
 0.0.0.0 leynqj.newport.se
+0.0.0.0 lfeeder.com
 0.0.0.0 lfmhcb.sefamerve.com
 0.0.0.0 lfov.net
 0.0.0.0 lgzkzp.bauhaus.at
@@ -12534,6 +12541,7 @@
 0.0.0.0 matsubun.matsubun.com
 0.0.0.0 matt.mercadolivre.com.br
 0.0.0.0 matterlytics.com
+0.0.0.0 maxepv.com
 0.0.0.0 maxtracker.net
 0.0.0.0 maxtraffic.com
 0.0.0.0 maxtrafixx.tech
@@ -13336,6 +13344,7 @@
 0.0.0.0 mongoosemetrics.com
 0.0.0.0 monicaatron.com
 0.0.0.0 monitis.com
+0.0.0.0 monitor-api.blackcrow.ai
 0.0.0.0 monitor-frontend-collector.a.bybit-aws.com
 0.0.0.0 monitor.azure.com
 0.0.0.0 monitor.channel4.com
@@ -13871,6 +13880,7 @@
 0.0.0.0 nuconomy.com
 0.0.0.0 nuggad.net
 0.0.0.0 nulldiscussion.com
+0.0.0.0 nullitics.com
 0.0.0.0 nullnorth.com
 0.0.0.0 nuloox.com
 0.0.0.0 numbers.monthlyphotos.com
@@ -14971,6 +14981,7 @@
 0.0.0.0 postaffiliatepro.com
 0.0.0.0 postgraduate.smu.edu.sg
 0.0.0.0 postgraduate2.smu.edu.sg
+0.0.0.0 posthog.com
 0.0.0.0 potatoinvention.com
 0.0.0.0 powderjourney.com
 0.0.0.0 powderprofit.com
@@ -20292,6 +20303,7 @@
 0.0.0.0 stats.ltdhunt.com
 0.0.0.0 stats.luieremmer.net
 0.0.0.0 stats.lussoveloce.com
+0.0.0.0 stats.macg.io
 0.0.0.0 stats.macosicons.com
 0.0.0.0 stats.madeit.io
 0.0.0.0 stats.madethis.gallery
@@ -20326,6 +20338,7 @@
 0.0.0.0 stats.nddmed.com
 0.0.0.0 stats.nebula.fi
 0.0.0.0 stats.netbopdev.co.uk
+0.0.0.0 stats.netdriven.com
 0.0.0.0 stats.newsweek.com
 0.0.0.0 stats.nexagon.dk
 0.0.0.0 stats.nhk.or.jp
@@ -23092,6 +23105,7 @@
 0.0.0.0 track.ultimate-guitar.com
 0.0.0.0 track.unidata.ai
 0.0.0.0 track.untd.com
+0.0.0.0 track.uppromote.com
 0.0.0.0 track.veedio.it
 0.0.0.0 track.venatusmedia.com
 0.0.0.0 track.vscash.com
@@ -23188,6 +23202,7 @@
 0.0.0.0 tracking-api.mangopulse.net
 0.0.0.0 tracking-explore.agilent.com
 0.0.0.0 tracking-live.kr3m.com
+0.0.0.0 tracking-na.hawksearch.com
 0.0.0.0 tracking-secure.csob.cz
 0.0.0.0 tracking-test.esearchvision.com
 0.0.0.0 tracking-uat.veritas.com
@@ -24332,6 +24347,7 @@
 0.0.0.0 viewer.pandasuite.io
 0.0.0.0 views.arabnews.com
 0.0.0.0 views.asura.gg
+0.0.0.0 views.asurascans.com
 0.0.0.0 views.b1tv.ro
 0.0.0.0 views.cancan.ro
 0.0.0.0 views.romaniatv.net
@@ -25517,6 +25533,7 @@
 0.0.0.0 xmrpool.net
 0.0.0.0 xovq5nemr.com
 0.0.0.0 xp.apple.com
+0.0.0.0 xp2023-pix.s3.amazonaws.com
 0.0.0.0 xplosion.de
 0.0.0.0 xray.mail.ru
 0.0.0.0 xseedwealth.actonservice.com
