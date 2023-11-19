@@ -1,6 +1,6 @@
-# Version: 202311112354
+# Version: 202311182103
 # Title: EasyPrivacy
-# Last modified: 11 Nov 2023 23:54 UTC
+# Last modified: 18 Nov 2023 21:03 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -3656,6 +3656,7 @@ artfut.com
 artis.indonesiya.com
 artistchristinacarmel.ericksonbuilt.com
 artpainting.indonesiya.com
+arttrk.com
 as.balluff.com
 as.mirapodo.de
 as.mytoys.de
@@ -4518,6 +4519,7 @@ bsytzb.hago.kr
 bt.astadia.com
 btaenrolment.americanexpress.at
 btbuckets.com
+btdmp.com
 btg360.com.br
 btloader.com
 btn.listonic.com
@@ -5105,7 +5107,6 @@ cloud-iq.com.au
 cloud-miner.de
 cloud-miner.eu
 cloud.aspiresys.com
-cloud.degoo.com
 cloud.webtrack.online
 clouderrorreporting.googleapis.com
 cloudflareinsights.com
@@ -6374,6 +6375,7 @@ debonairdust.com
 debonairtree.com
 debonairway.com
 debug-r.rover.com
+debugbear.com
 decdna.net
 decibelinsight.net
 decidedrum.com
@@ -7786,6 +7788,7 @@ events.verticurl.com
 events.whisk.com
 events.yourcx.io
 events2.www.edenfantasys.com
+eventsproxy.gargantuan.futureplc.com
 eventstream.dodopizza.com
 everestjs.net
 everesttech.net
@@ -8012,6 +8015,7 @@ filmoljupci.com
 fimyxg.haberturk.com
 finalid.com
 finalizeforce.com
+finalyticsdata.com
 financefear.com
 find-ip-address.org
 findthetruth.allergyai.com
@@ -9374,6 +9378,7 @@ hsvrww.plain-me.com
 htm1.ch
 html.net.jumia.com
 htqfxh.vuch.cz
+htrace.wetvinfo.com
 hu-business.vodafone.com
 hu-topgal.m-shop.me
 huaxiang.eastmoney.com
@@ -11098,7 +11103,6 @@ link.marketing.bleacherreport.com
 link.marketing.churchomeglobal.org
 link.mbtihell.com
 link.medibuddy.app
-link.medium.com
 link.messaging.usnews.com
 link.metronaut.app
 link.meumulti.com.br
@@ -12652,6 +12656,7 @@ mdws.wetaskiwincreditunion.com
 mdxapi.io
 mdxhon.allhomes.com.au
 me.glamhive.com
+meadowlullaby.com
 meanwellaustralia.actonservice.com
 measlymiddle.com
 measure.ameblo.jp
@@ -13398,7 +13403,6 @@ movable-ink-6710.com
 movemeal.com
 mowfruit.com
 mp.pitchero.com
-mp3vizor.com
 mparticle.com
 mpc-co.actonservice.com
 mpglie.apartmentguide.com
@@ -13981,6 +13985,7 @@ okt.to
 oktagv.immobilienscout24.at
 oktopost.com
 olacontent.schwab.com
+oldfashionedoffer.com
 olgtex.com
 olroyk.ardene.com
 olytics.omeda.com
@@ -14983,7 +14988,6 @@ posst.co
 postaffiliatepro.com
 postgraduate.smu.edu.sg
 postgraduate2.smu.edu.sg
-posthog.com
 potatoinvention.com
 powderjourney.com
 powderprofit.com
@@ -15043,6 +15047,7 @@ pricklydebt.com
 pricklyjourney.com
 pricklypies.com
 pricklyplastic.com
+pricklypollution.com
 primary-app.hotdoc.com.au
 primary.hasegawa.jp
 primate.dmarcdigests.com
@@ -15456,6 +15461,7 @@ racemanager-app.sapsailing.com
 radar.imgsmail.ru
 radarstats.com
 radiateb2b.com
+radiateprose.com
 radiometer.actonservice.com
 rail.bankofamerica.com
 railwayrainstorm.com
@@ -15985,6 +15991,7 @@ rumanalytics.com
 rumble.com
 rumpelstiltskinhead.com
 rumstat.cdnvideo.ru
+rumt-sg.com
 rup5.destinia.ru
 ruralrobin.com
 rusticprice.com
@@ -19275,6 +19282,7 @@ sonar6.xy.fbcdn.net.iberostar.com
 soneticscorp.actonservice.com
 songssmoke.com
 songsterritory.com
+sooqr.com
 sootheside.com
 sophi.io
 sophisticatedstory.com
@@ -21086,6 +21094,7 @@ t.freelancer.com
 t.friars.com
 t.gelderlander.nl
 t.georgiadogs.com
+t.ghostboard.io
 t.goairforcefalcons.com
 t.goarmywestpoint.com
 t.gobearcats.com
@@ -21499,6 +21508,7 @@ telem.sre.gopuff.com
 telemetric.dk
 telemetrics.klaviyo.com
 telemetry.adobe.io
+telemetry.algolia.com
 telemetry.api.playstation.com
 telemetry.firez.one
 telemetry.jivosite.com
@@ -24307,6 +24317,7 @@ verticalscope.com
 verticalsearchworks.com
 vertster.com
 vfd2dyn.vodafone.de
+vfghe.com
 vfgte.com
 vfmahn.slevomat.cz
 vfo.voyage-prive.co.uk
@@ -25540,7 +25551,6 @@ xlisting.jp
 xlvvy4msxr.coolinastore.com
 xmrpool.net
 xovq5nemr.com
-xp.apple.com
 xp2023-pix.s3.amazonaws.com
 xplosion.de
 xray.mail.ru
@@ -25735,7 +25745,7 @@ zz.bdstatic.com
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2023-11-12 00:50:04.744534
+# Generated at 2023-11-19 00:51:38.380849
 
 databerries.com
 fidzup
