@@ -1,6 +1,6 @@
-# Version: 202311112354
+# Version: 202311182103
 # Title: EasyPrivacy
-# Last modified: 11 Nov 2023 23:54 UTC
+# Last modified: 18 Nov 2023 21:03 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -3671,6 +3671,7 @@
 0.0.0.0 artis.indonesiya.com
 0.0.0.0 artistchristinacarmel.ericksonbuilt.com
 0.0.0.0 artpainting.indonesiya.com
+0.0.0.0 arttrk.com
 0.0.0.0 as.balluff.com
 0.0.0.0 as.mirapodo.de
 0.0.0.0 as.mytoys.de
@@ -4533,6 +4534,7 @@
 0.0.0.0 bt.astadia.com
 0.0.0.0 btaenrolment.americanexpress.at
 0.0.0.0 btbuckets.com
+0.0.0.0 btdmp.com
 0.0.0.0 btg360.com.br
 0.0.0.0 btloader.com
 0.0.0.0 btn.listonic.com
@@ -5120,7 +5122,6 @@
 0.0.0.0 cloud-miner.de
 0.0.0.0 cloud-miner.eu
 0.0.0.0 cloud.aspiresys.com
-0.0.0.0 cloud.degoo.com
 0.0.0.0 cloud.webtrack.online
 0.0.0.0 clouderrorreporting.googleapis.com
 0.0.0.0 cloudflareinsights.com
@@ -6389,6 +6390,7 @@
 0.0.0.0 debonairtree.com
 0.0.0.0 debonairway.com
 0.0.0.0 debug-r.rover.com
+0.0.0.0 debugbear.com
 0.0.0.0 decdna.net
 0.0.0.0 decibelinsight.net
 0.0.0.0 decidedrum.com
@@ -7801,6 +7803,7 @@
 0.0.0.0 events.whisk.com
 0.0.0.0 events.yourcx.io
 0.0.0.0 events2.www.edenfantasys.com
+0.0.0.0 eventsproxy.gargantuan.futureplc.com
 0.0.0.0 eventstream.dodopizza.com
 0.0.0.0 everestjs.net
 0.0.0.0 everesttech.net
@@ -8027,6 +8030,7 @@
 0.0.0.0 fimyxg.haberturk.com
 0.0.0.0 finalid.com
 0.0.0.0 finalizeforce.com
+0.0.0.0 finalyticsdata.com
 0.0.0.0 financefear.com
 0.0.0.0 find-ip-address.org
 0.0.0.0 findthetruth.allergyai.com
@@ -9389,6 +9393,7 @@
 0.0.0.0 htm1.ch
 0.0.0.0 html.net.jumia.com
 0.0.0.0 htqfxh.vuch.cz
+0.0.0.0 htrace.wetvinfo.com
 0.0.0.0 hu-business.vodafone.com
 0.0.0.0 hu-topgal.m-shop.me
 0.0.0.0 huaxiang.eastmoney.com
@@ -11113,7 +11118,6 @@
 0.0.0.0 link.marketing.churchomeglobal.org
 0.0.0.0 link.mbtihell.com
 0.0.0.0 link.medibuddy.app
-0.0.0.0 link.medium.com
 0.0.0.0 link.messaging.usnews.com
 0.0.0.0 link.metronaut.app
 0.0.0.0 link.meumulti.com.br
@@ -12667,6 +12671,7 @@
 0.0.0.0 mdxapi.io
 0.0.0.0 mdxhon.allhomes.com.au
 0.0.0.0 me.glamhive.com
+0.0.0.0 meadowlullaby.com
 0.0.0.0 meanwellaustralia.actonservice.com
 0.0.0.0 measlymiddle.com
 0.0.0.0 measure.ameblo.jp
@@ -13413,7 +13418,6 @@
 0.0.0.0 movemeal.com
 0.0.0.0 mowfruit.com
 0.0.0.0 mp.pitchero.com
-0.0.0.0 mp3vizor.com
 0.0.0.0 mparticle.com
 0.0.0.0 mpc-co.actonservice.com
 0.0.0.0 mpglie.apartmentguide.com
@@ -13996,6 +14000,7 @@
 0.0.0.0 oktagv.immobilienscout24.at
 0.0.0.0 oktopost.com
 0.0.0.0 olacontent.schwab.com
+0.0.0.0 oldfashionedoffer.com
 0.0.0.0 olgtex.com
 0.0.0.0 olroyk.ardene.com
 0.0.0.0 olytics.omeda.com
@@ -14998,7 +15003,6 @@
 0.0.0.0 postaffiliatepro.com
 0.0.0.0 postgraduate.smu.edu.sg
 0.0.0.0 postgraduate2.smu.edu.sg
-0.0.0.0 posthog.com
 0.0.0.0 potatoinvention.com
 0.0.0.0 powderjourney.com
 0.0.0.0 powderprofit.com
@@ -15058,6 +15062,7 @@
 0.0.0.0 pricklyjourney.com
 0.0.0.0 pricklypies.com
 0.0.0.0 pricklyplastic.com
+0.0.0.0 pricklypollution.com
 0.0.0.0 primary-app.hotdoc.com.au
 0.0.0.0 primary.hasegawa.jp
 0.0.0.0 primate.dmarcdigests.com
@@ -15471,6 +15476,7 @@
 0.0.0.0 radar.imgsmail.ru
 0.0.0.0 radarstats.com
 0.0.0.0 radiateb2b.com
+0.0.0.0 radiateprose.com
 0.0.0.0 radiometer.actonservice.com
 0.0.0.0 rail.bankofamerica.com
 0.0.0.0 railwayrainstorm.com
@@ -16000,6 +16006,7 @@
 0.0.0.0 rumble.com
 0.0.0.0 rumpelstiltskinhead.com
 0.0.0.0 rumstat.cdnvideo.ru
+0.0.0.0 rumt-sg.com
 0.0.0.0 rup5.destinia.ru
 0.0.0.0 ruralrobin.com
 0.0.0.0 rusticprice.com
@@ -19290,6 +19297,7 @@
 0.0.0.0 soneticscorp.actonservice.com
 0.0.0.0 songssmoke.com
 0.0.0.0 songsterritory.com
+0.0.0.0 sooqr.com
 0.0.0.0 sootheside.com
 0.0.0.0 sophi.io
 0.0.0.0 sophisticatedstory.com
@@ -21101,6 +21109,7 @@
 0.0.0.0 t.friars.com
 0.0.0.0 t.gelderlander.nl
 0.0.0.0 t.georgiadogs.com
+0.0.0.0 t.ghostboard.io
 0.0.0.0 t.goairforcefalcons.com
 0.0.0.0 t.goarmywestpoint.com
 0.0.0.0 t.gobearcats.com
@@ -21514,6 +21523,7 @@
 0.0.0.0 telemetric.dk
 0.0.0.0 telemetrics.klaviyo.com
 0.0.0.0 telemetry.adobe.io
+0.0.0.0 telemetry.algolia.com
 0.0.0.0 telemetry.api.playstation.com
 0.0.0.0 telemetry.firez.one
 0.0.0.0 telemetry.jivosite.com
@@ -24322,6 +24332,7 @@
 0.0.0.0 verticalsearchworks.com
 0.0.0.0 vertster.com
 0.0.0.0 vfd2dyn.vodafone.de
+0.0.0.0 vfghe.com
 0.0.0.0 vfgte.com
 0.0.0.0 vfmahn.slevomat.cz
 0.0.0.0 vfo.voyage-prive.co.uk
@@ -25555,7 +25566,6 @@
 0.0.0.0 xlvvy4msxr.coolinastore.com
 0.0.0.0 xmrpool.net
 0.0.0.0 xovq5nemr.com
-0.0.0.0 xp.apple.com
 0.0.0.0 xp2023-pix.s3.amazonaws.com
 0.0.0.0 xplosion.de
 0.0.0.0 xray.mail.ru
