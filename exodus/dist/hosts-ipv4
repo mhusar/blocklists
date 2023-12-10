@@ -1,6 +1,6 @@
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2023-12-03 00:51:18.527373
+# Generated at 2023-12-10 00:52:05.809709
 
 0.0.0.0 databerries.com
 0.0.0.0 fidzup
@@ -89,9 +89,11 @@
 0.0.0.0 facebook.com
 0.0.0.0 google-analytics.com
 0.0.0.0 firebase.com
+0.0.0.0 firebaselogging-pa.googleapis.com
 0.0.0.0 eulerian.com
 0.0.0.0 adj.st
 0.0.0.0 adjust.com
+0.0.0.0 go.link
 0.0.0.0 chartboost.com
 0.0.0.0 backelite.com
 0.0.0.0 areametrics.com
@@ -182,6 +184,7 @@
 0.0.0.0 video.fyber.com
 0.0.0.0 www.googletagmanager.com
 0.0.0.0 www.googletagservices.com
+0.0.0.0 www-googletagmanager.l.google.com
 0.0.0.0 c.w.inmobi.com
 0.0.0.0 china.inmobi.com
 0.0.0.0 config-ltvp.inmobi.com
@@ -256,6 +259,7 @@
 0.0.0.0 webview.unityads.unity3d.com
 0.0.0.0 device-api.urbanairship.com
 0.0.0.0 urbanairship.com
+0.0.0.0 device-api.asnapieu.com
 0.0.0.0 analytics.mobile.yandex.net
 0.0.0.0 appmetrica.yandex.com
 0.0.0.0 banners-slb.mobile.yandex.net
@@ -373,6 +377,7 @@
 0.0.0.0 a.tiles.mapbox.com
 0.0.0.0 api.tiles.mapbox.com
 0.0.0.0 optimizely.com
+0.0.0.0 optimizelyapis.com
 0.0.0.0 taboola.com
 0.0.0.0 wzrkt.com
 0.0.0.0 tracker-api.my.com
@@ -401,6 +406,8 @@
 0.0.0.0 api.swrve.com
 0.0.0.0 content.swrve.com
 0.0.0.0 onesignal.com
+0.0.0.0 eum-appdynamics.com
+0.0.0.0 appdynamics.com
 0.0.0.0 c2i.startappnetwork.com
 0.0.0.0 c2s.startappnetwork.com
 0.0.0.0 click.startappservice.com
@@ -464,6 +471,7 @@
 0.0.0.0 adsafeprotected.com
 0.0.0.0 iasds01.com
 0.0.0.0 integralads.com
+0.0.0.0 data.altbeacon.org
 0.0.0.0 fwmrm.net
 0.0.0.0 ads.mobclix.com
 0.0.0.0 axonix.com
@@ -499,6 +507,7 @@
 0.0.0.0 api.altamob.com
 0.0.0.0 ads.adadapted.com
 0.0.0.0 admixer.co.kr
+0.0.0.0 admixer.net
 0.0.0.0 cdn-api.admost.com
 0.0.0.0 go.admost.com
 0.0.0.0 med-api.admost.com
@@ -526,17 +535,27 @@
 0.0.0.0 evt.tamoco.com
 0.0.0.0 zapr.in
 0.0.0.0 2mdn.net
-0.0.0.0 google.com
 0.0.0.0 dmtry.com
 0.0.0.0 doubleclick.com
 0.0.0.0 doubleclick.net
 0.0.0.0 mng-ads.com
+0.0.0.0 mobileads.google.com
+0.0.0.0 ads.google.com
+0.0.0.0 googlesyndication.com
+0.0.0.0 googleadservices.com
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 adservice.google..*
+0.0.0.0 adservice.g.cn
 0.0.0.0 api.factual.com
 0.0.0.0 deliver.oztam.com.au
 0.0.0.0 abtasty.com
 0.0.0.0 acrcloud.com
 0.0.0.0 hb-minify-juc1ugur1qwqqqo4.stackpathdns.com
 0.0.0.0 actv8technologies.com
+0.0.0.0 hicloud.com
+0.0.0.0 dbankcloud.ru
+0.0.0.0 dbankcloud.cn
+0.0.0.0 dbankcloud.com
 0.0.0.0 api.airpush.com
 0.0.0.0 apidm.airpush.com
 0.0.0.0 apistaging.airpush.com
@@ -608,3 +627,9 @@
 0.0.0.0 mktorest.com
 0.0.0.0 synerise.com
 0.0.0.0 tusdk.com
+0.0.0.0 backtrace.io
+0.0.0.0 cdn1.gigya.com
+0.0.0.0 cdn2.gigya.com
+0.0.0.0 cdn3.gigya.com
+0.0.0.0 cdns.us1.gigya.com
+0.0.0.0 david.gigya-cs.com

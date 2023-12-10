@@ -1,6 +1,6 @@
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2023-12-03 00:51:17.749251
+# Generated at 2023-12-10 00:52:05.041773
 
 databerries.com
 fidzup
@@ -89,9 +89,11 @@ api.crowdtangle.com
 facebook.com
 google-analytics.com
 firebase.com
+firebaselogging-pa.googleapis.com
 eulerian.com
 adj.st
 adjust.com
+go.link
 chartboost.com
 backelite.com
 areametrics.com
@@ -182,6 +184,7 @@ video-interstitial-assets-cdn.fyber.com
 video.fyber.com
 www.googletagmanager.com
 www.googletagservices.com
+www-googletagmanager.l.google.com
 c.w.inmobi.com
 china.inmobi.com
 config-ltvp.inmobi.com
@@ -256,6 +259,7 @@ stats.unity3d.com
 webview.unityads.unity3d.com
 device-api.urbanairship.com
 urbanairship.com
+device-api.asnapieu.com
 analytics.mobile.yandex.net
 appmetrica.yandex.com
 banners-slb.mobile.yandex.net
@@ -373,6 +377,7 @@ criteo.com
 a.tiles.mapbox.com
 api.tiles.mapbox.com
 optimizely.com
+optimizelyapis.com
 taboola.com
 wzrkt.com
 tracker-api.my.com
@@ -401,6 +406,8 @@ duapps.com
 api.swrve.com
 content.swrve.com
 onesignal.com
+eum-appdynamics.com
+appdynamics.com
 c2i.startappnetwork.com
 c2s.startappnetwork.com
 click.startappservice.com
@@ -464,6 +471,7 @@ sdk.adbuddiz.com
 adsafeprotected.com
 iasds01.com
 integralads.com
+data.altbeacon.org
 fwmrm.net
 ads.mobclix.com
 axonix.com
@@ -499,6 +507,7 @@ apiv2.moengage.com
 api.altamob.com
 ads.adadapted.com
 admixer.co.kr
+admixer.net
 cdn-api.admost.com
 go.admost.com
 med-api.admost.com
@@ -526,17 +535,27 @@ qualtrics.com
 evt.tamoco.com
 zapr.in
 2mdn.net
-google.com
 dmtry.com
 doubleclick.com
 doubleclick.net
 mng-ads.com
+mobileads.google.com
+ads.google.com
+googlesyndication.com
+googleadservices.com
+googleads.g.doubleclick.net
+adservice.google..*
+adservice.g.cn
 api.factual.com
 deliver.oztam.com.au
 abtasty.com
 acrcloud.com
 hb-minify-juc1ugur1qwqqqo4.stackpathdns.com
 actv8technologies.com
+hicloud.com
+dbankcloud.ru
+dbankcloud.cn
+dbankcloud.com
 api.airpush.com
 apidm.airpush.com
 apistaging.airpush.com
@@ -608,3 +627,9 @@ mktossl.com
 mktorest.com
 synerise.com
 tusdk.com
+backtrace.io
+cdn1.gigya.com
+cdn2.gigya.com
+cdn3.gigya.com
+cdns.us1.gigya.com
+david.gigya-cs.com
