@@ -1,6 +1,6 @@
-# Version: 202312170043
+# Version: 202312240033
 # Title: EasyPrivacy
-# Last modified: 17 Dec 2023 00:43 UTC
+# Last modified: 24 Dec 2023 00:33 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -141,6 +141,7 @@
 0.0.0.0 3dstats.com
 0.0.0.0 3enm.com
 0.0.0.0 3gl.net
+0.0.0.0 3j0pw4ed7uac-a.akamaihd.net
 0.0.0.0 3l0zszdzjhpw.www.comicleaks.com
 0.0.0.0 3ng6p6m0.de
 0.0.0.0 3p-geo.yahoo.com
@@ -150,6 +151,7 @@
 0.0.0.0 3wn3w3skxpym.round.t3.gg
 0.0.0.0 40caidaylimpia.catzolab.net
 0.0.0.0 40nuggets.com
+0.0.0.0 4251.tech
 0.0.0.0 4399stat.5054399.com
 0.0.0.0 44.228.85.26
 0.0.0.0 45.32.105.134
@@ -2892,6 +2894,7 @@
 0.0.0.0 analytically.net
 0.0.0.0 analyticcdn.globalmailer.com
 0.0.0.0 analytics-1.cavai.com
+0.0.0.0 analytics-api.klickly.com
 0.0.0.0 analytics-api.samsunghealthcn.com
 0.0.0.0 analytics-batch.blitz.gg
 0.0.0.0 analytics-beacon.p.uliza.jp
@@ -3523,7 +3526,6 @@
 0.0.0.0 app.payments.53.com
 0.0.0.0 app.poconoraceway.com
 0.0.0.0 app.post.vertafore.com
-0.0.0.0 app.posthog.com
 0.0.0.0 app.profile.purina.com
 0.0.0.0 app.pultegroup.com
 0.0.0.0 app.purduesports.com
@@ -5204,6 +5206,8 @@
 0.0.0.0 cmp.telerama.fr
 0.0.0.0 cmp2.channelpartner.de
 0.0.0.0 cmptch.com
+0.0.0.0 cmpworker.dotesports.com
+0.0.0.0 cmpworker.primagames.com
 0.0.0.0 cms.grandcloud.cn
 0.0.0.0 cms.hardloopaanbiedingen.nl
 0.0.0.0 cms.lv
@@ -5940,6 +5944,7 @@
 0.0.0.0 customerlabs.co
 0.0.0.0 customers-capitalbank-jo-877029.p06.elqsandbox.com
 0.0.0.0 customfingerprints.bablosoft.com
+0.0.0.0 cutcurrent.com
 0.0.0.0 cutecalculator.com
 0.0.0.0 cutechin.com
 0.0.0.0 cutecushion.com
@@ -6308,6 +6313,7 @@
 0.0.0.0 data.sportdeutschland.tv
 0.0.0.0 data.srf.ch
 0.0.0.0 data.t.worldvision.ca
+0.0.0.0 data.torry.io
 0.0.0.0 data.transactional.williamsf1.com
 0.0.0.0 data.ubi.com
 0.0.0.0 data.vdi-wissensforum.de
@@ -6899,6 +6905,7 @@
 0.0.0.0 dsail-tech.com
 0.0.0.0 dsbahmgppc0j4.cloudfront.net
 0.0.0.0 dsg.interia.pl
+0.0.0.0 dsj4qf77pyncykf2dki6isfcuy0orwhc.lambda-url.eu-west-1.on.aws
 0.0.0.0 dsmmadvantage.com
 0.0.0.0 dsmstats.com
 0.0.0.0 dsoxjxin5jji.controlconceptsusa.com
@@ -7938,6 +7945,7 @@
 0.0.0.0 extole.com
 0.0.0.0 extractobservation.com
 0.0.0.0 extramilefloorcare.ericksonbuilt.com
+0.0.0.0 extrawatch.com
 0.0.0.0 extreme-dm.com
 0.0.0.0 extreme-ip-lookup.com
 0.0.0.0 exuberantedge.com
@@ -8159,6 +8167,7 @@
 0.0.0.0 flixgvid.flix360.io
 0.0.0.0 flixsyndication.net
 0.0.0.0 flockflame.com
+0.0.0.0 flockrocket.io
 0.0.0.0 flocktory.com
 0.0.0.0 flog.pressplay.cc
 0.0.0.0 floodprincipal.com
@@ -8301,6 +8310,7 @@
 0.0.0.0 franticcarpenter.com
 0.0.0.0 franticroof.com
 0.0.0.0 frantictrail.com
+0.0.0.0 fraud0.com
 0.0.0.0 fraudandcyberawareness.safeguard.hsbc.com
 0.0.0.0 fraudjs.io
 0.0.0.0 fraudmetrix.cn
@@ -9276,6 +9286,7 @@
 0.0.0.0 hbahrd.yogibo.jp
 0.0.0.0 hbbtv-track.prosieben.de
 0.0.0.0 hbbtv-track.prosiebensat1puls4.com
+0.0.0.0 hbiq.net
 0.0.0.0 hbo5.concours-pass.com
 0.0.0.0 hbwrapper.com
 0.0.0.0 hbx.df-srv.de
@@ -9310,6 +9321,7 @@
 0.0.0.0 heatmap.com
 0.0.0.0 heatmap.it
 0.0.0.0 heatmap.services
+0.0.0.0 heatmaps.lcisoft.it
 0.0.0.0 heavyplayground.com
 0.0.0.0 hej.henriksommerfeld.se
 0.0.0.0 hello.bpost2.be
@@ -9323,6 +9335,7 @@
 0.0.0.0 hemahi5.inthere.link
 0.0.0.0 hemnes.win
 0.0.0.0 hentaicounter.com
+0.0.0.0 herbgreencolumn.com
 0.0.0.0 heroesdom.com
 0.0.0.0 herpes2.pa-ruit.jp
 0.0.0.0 hesitanttoothpaste.com
@@ -10489,6 +10502,7 @@
 0.0.0.0 jeccmq.wehkamp.nl
 0.0.0.0 jeeng.com
 0.0.0.0 jelr1.dili.fr
+0.0.0.0 jennifersoft.com
 0.0.0.0 jeyttn.snipes.com
 0.0.0.0 jfapiprod.optimonk.com
 0.0.0.0 jfltzz.riu.com
@@ -12715,6 +12729,7 @@
 0.0.0.0 mchtna.fashionplus.co.kr
 0.0.0.0 mcloudglobal.com
 0.0.0.0 mcs-va.tiktokv.com
+0.0.0.0 mcs.tiktokv.us
 0.0.0.0 mcs.us.tiktokv.com
 0.0.0.0 mcs.zijieapi.com
 0.0.0.0 mczpco.darty.com
@@ -14156,7 +14171,6 @@
 0.0.0.0 om.vrbo.com
 0.0.0.0 omadi.actonservice.com
 0.0.0.0 omappapi.com
-0.0.0.0 omarsys.com
 0.0.0.0 ometria.com
 0.0.0.0 ometrics.warnerbros.com
 0.0.0.0 ometrics.wb.com
@@ -14196,7 +14210,6 @@
 0.0.0.0 omt.shinobi.jp
 0.0.0.0 omtrdc.net
 0.0.0.0 omtrns.sstats.q8.dk
-0.0.0.0 omtvxcle.com
 0.0.0.0 on-line.lv
 0.0.0.0 on-push.com
 0.0.0.0 on.allposters.com
@@ -14214,7 +14227,6 @@
 0.0.0.0 onedirectioncutefacts.net.anwalt.de
 0.0.0.0 onefeed.co.uk
 0.0.0.0 oneid.mmstat.com
-0.0.0.0 oneimpress.io
 0.0.0.0 onelink.me
 0.0.0.0 onenet.gakujutsu.com
 0.0.0.0 onepush.app
@@ -14222,11 +14234,8 @@
 0.0.0.0 onesourcebackground.actonservice.com
 0.0.0.0 onespot-tracking.herokuapp.com
 0.0.0.0 onestat.com
-0.0.0.0 onetag-sys.com
-0.0.0.0 onetag.io
 0.0.0.0 onetrust.com
 0.0.0.0 onghfx.revolve.com
-0.0.0.0 ongsono.com
 0.0.0.0 oniad.com
 0.0.0.0 online-metrix.net
 0.0.0.0 online-mt-com-455208869.p06.elqsandbox.com
@@ -16389,6 +16398,7 @@
 0.0.0.0 safe-click.net
 0.0.0.0 safeanalytics.net
 0.0.0.0 safepass.citizen.com
+0.0.0.0 safevisit.online
 0.0.0.0 saffronrefuge.com
 0.0.0.0 sageanalyst.net
 0.0.0.0 sagetrc.com
@@ -16580,6 +16590,7 @@
 0.0.0.0 scarfsmash.com
 0.0.0.0 scarfthought.com
 0.0.0.0 scatteredheat.com
+0.0.0.0 scatteredquiver.com
 0.0.0.0 scatteredstream.com
 0.0.0.0 schlesingerassociates.actonservice.com
 0.0.0.0 schoolyeargo.com
@@ -21045,6 +21056,7 @@
 0.0.0.0 superficialsquare.com
 0.0.0.0 superiorgroup.actonservice.com
 0.0.0.0 superpointlesshamsters.com
+0.0.0.0 superspeedapp.com
 0.0.0.0 superstat.info
 0.0.0.0 superstats.com
 0.0.0.0 supervisegoldfish.com
@@ -21255,6 +21267,7 @@
 0.0.0.0 t.ao.argyleforum.com
 0.0.0.0 t.ao.consumerfinancereport.com
 0.0.0.0 t.appsflyer.com
+0.0.0.0 t.arcade.show
 0.0.0.0 t.arizonawildcats.com
 0.0.0.0 t.arkansasrazorbacks.com
 0.0.0.0 t.arts.uci.edu
@@ -21798,6 +21811,7 @@
 0.0.0.0 test.spenn.com
 0.0.0.0 test.staging.findeck.link
 0.0.0.0 test.swa.info
+0.0.0.0 test.takedwn.ws
 0.0.0.0 test.thei.co
 0.0.0.0 test.vast
 0.0.0.0 test2.majelan.com
@@ -24229,7 +24243,6 @@
 0.0.0.0 tyumen.net.anwalt.de
 0.0.0.0 tyxo.bg
 0.0.0.0 tyxo.com
-0.0.0.0 tzegilo.com
 0.0.0.0 tzgurwizule3.app.cardahealth.com
 0.0.0.0 tzovkp.aboutyou.at
 0.0.0.0 tzwaw.pw
@@ -25031,6 +25044,7 @@
 0.0.0.0 webleads-tracker.com
 0.0.0.0 weblist.de
 0.0.0.0 weblog.com.ua
+0.0.0.0 weblog.coupang.com
 0.0.0.0 weblog.eseoul.go.kr
 0.0.0.0 weblog.flyasiana.com
 0.0.0.0 weblog2.eseoul.go.kr
@@ -25996,7 +26010,7 @@
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2023-12-17 00:52:12.090036
+# Generated at 2023-12-24 00:51:07.340203
 
 0.0.0.0 databerries.com
 0.0.0.0 fidzup
