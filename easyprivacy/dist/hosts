@@ -1,6 +1,6 @@
-# Version: 202312170043
+# Version: 202312240033
 # Title: EasyPrivacy
-# Last modified: 17 Dec 2023 00:43 UTC
+# Last modified: 24 Dec 2023 00:33 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -141,6 +141,7 @@
 3dstats.com
 3enm.com
 3gl.net
+3j0pw4ed7uac-a.akamaihd.net
 3l0zszdzjhpw.www.comicleaks.com
 3ng6p6m0.de
 3p-geo.yahoo.com
@@ -150,6 +151,7 @@
 3wn3w3skxpym.round.t3.gg
 40caidaylimpia.catzolab.net
 40nuggets.com
+4251.tech
 4399stat.5054399.com
 44.228.85.26
 45.32.105.134
@@ -2892,6 +2894,7 @@ analytic20.detik.com
 analytically.net
 analyticcdn.globalmailer.com
 analytics-1.cavai.com
+analytics-api.klickly.com
 analytics-api.samsunghealthcn.com
 analytics-batch.blitz.gg
 analytics-beacon.p.uliza.jp
@@ -3523,7 +3526,6 @@ app.owners.hilton.com
 app.payments.53.com
 app.poconoraceway.com
 app.post.vertafore.com
-app.posthog.com
 app.profile.purina.com
 app.pultegroup.com
 app.purduesports.com
@@ -5204,6 +5206,8 @@ cmp.tek.no
 cmp.telerama.fr
 cmp2.channelpartner.de
 cmptch.com
+cmpworker.dotesports.com
+cmpworker.primagames.com
 cms.grandcloud.cn
 cms.hardloopaanbiedingen.nl
 cms.lv
@@ -5940,6 +5944,7 @@ customerexperience.verintsystemsinc.com
 customerlabs.co
 customers-capitalbank-jo-877029.p06.elqsandbox.com
 customfingerprints.bablosoft.com
+cutcurrent.com
 cutecalculator.com
 cutechin.com
 cutecushion.com
@@ -6308,6 +6313,7 @@ data.socio.realmadrid.net
 data.sportdeutschland.tv
 data.srf.ch
 data.t.worldvision.ca
+data.torry.io
 data.transactional.williamsf1.com
 data.ubi.com
 data.vdi-wissensforum.de
@@ -6899,6 +6905,7 @@ ds2.independer.nl
 dsail-tech.com
 dsbahmgppc0j4.cloudfront.net
 dsg.interia.pl
+dsj4qf77pyncykf2dki6isfcuy0orwhc.lambda-url.eu-west-1.on.aws
 dsmmadvantage.com
 dsmstats.com
 dsoxjxin5jji.controlconceptsusa.com
@@ -7938,6 +7945,7 @@ extmaps-api.yandex.net
 extole.com
 extractobservation.com
 extramilefloorcare.ericksonbuilt.com
+extrawatch.com
 extreme-dm.com
 extreme-ip-lookup.com
 exuberantedge.com
@@ -8159,6 +8167,7 @@ flixfacts.co.uk
 flixgvid.flix360.io
 flixsyndication.net
 flockflame.com
+flockrocket.io
 flocktory.com
 flog.pressplay.cc
 floodprincipal.com
@@ -8301,6 +8310,7 @@ framebanana.com
 franticcarpenter.com
 franticroof.com
 frantictrail.com
+fraud0.com
 fraudandcyberawareness.safeguard.hsbc.com
 fraudjs.io
 fraudmetrix.cn
@@ -9276,6 +9286,7 @@ hbaazk.bukalapak.com
 hbahrd.yogibo.jp
 hbbtv-track.prosieben.de
 hbbtv-track.prosiebensat1puls4.com
+hbiq.net
 hbo5.concours-pass.com
 hbwrapper.com
 hbx.df-srv.de
@@ -9310,6 +9321,7 @@ hearthorn.com
 heatmap.com
 heatmap.it
 heatmap.services
+heatmaps.lcisoft.it
 heavyplayground.com
 hej.henriksommerfeld.se
 hello.bpost2.be
@@ -9323,6 +9335,7 @@ helpflame.com
 hemahi5.inthere.link
 hemnes.win
 hentaicounter.com
+herbgreencolumn.com
 heroesdom.com
 herpes2.pa-ruit.jp
 hesitanttoothpaste.com
@@ -10489,6 +10502,7 @@ jdgtgb.weser-kurier.de
 jeccmq.wehkamp.nl
 jeeng.com
 jelr1.dili.fr
+jennifersoft.com
 jeyttn.snipes.com
 jfapiprod.optimonk.com
 jfltzz.riu.com
@@ -12715,6 +12729,7 @@ mcdmetrics2.aaa.com
 mchtna.fashionplus.co.kr
 mcloudglobal.com
 mcs-va.tiktokv.com
+mcs.tiktokv.us
 mcs.us.tiktokv.com
 mcs.zijieapi.com
 mczpco.darty.com
@@ -14156,7 +14171,6 @@ om.visitbouldercity.com
 om.vrbo.com
 omadi.actonservice.com
 omappapi.com
-omarsys.com
 ometria.com
 ometrics.warnerbros.com
 ometrics.wb.com
@@ -14196,7 +14210,6 @@ omsc.kpn.com
 omt.shinobi.jp
 omtrdc.net
 omtrns.sstats.q8.dk
-omtvxcle.com
 on-line.lv
 on-push.com
 on.allposters.com
@@ -14214,7 +14227,6 @@ onecloud.avaya.com
 onedirectioncutefacts.net.anwalt.de
 onefeed.co.uk
 oneid.mmstat.com
-oneimpress.io
 onelink.me
 onenet.gakujutsu.com
 onepush.app
@@ -14222,11 +14234,8 @@ onesignal.com
 onesourcebackground.actonservice.com
 onespot-tracking.herokuapp.com
 onestat.com
-onetag-sys.com
-onetag.io
 onetrust.com
 onghfx.revolve.com
-ongsono.com
 oniad.com
 online-metrix.net
 online-mt-com-455208869.p06.elqsandbox.com
@@ -16389,6 +16398,7 @@ saec-metrics.telenet.be
 safe-click.net
 safeanalytics.net
 safepass.citizen.com
+safevisit.online
 saffronrefuge.com
 sageanalyst.net
 sagetrc.com
@@ -16580,6 +16590,7 @@ scarefowl.com
 scarfsmash.com
 scarfthought.com
 scatteredheat.com
+scatteredquiver.com
 scatteredstream.com
 schlesingerassociates.actonservice.com
 schoolyeargo.com
@@ -21045,6 +21056,7 @@ superficialspring.com
 superficialsquare.com
 superiorgroup.actonservice.com
 superpointlesshamsters.com
+superspeedapp.com
 superstat.info
 superstats.com
 supervisegoldfish.com
@@ -21255,6 +21267,7 @@ t.antalisperu.com
 t.ao.argyleforum.com
 t.ao.consumerfinancereport.com
 t.appsflyer.com
+t.arcade.show
 t.arizonawildcats.com
 t.arkansasrazorbacks.com
 t.arts.uci.edu
@@ -21798,6 +21811,7 @@ test.openapp.link
 test.spenn.com
 test.staging.findeck.link
 test.swa.info
+test.takedwn.ws
 test.thei.co
 test.vast
 test2.majelan.com
@@ -24229,7 +24243,6 @@ typicalteeth.com
 tyumen.net.anwalt.de
 tyxo.bg
 tyxo.com
-tzegilo.com
 tzgurwizule3.app.cardahealth.com
 tzovkp.aboutyou.at
 tzwaw.pw
@@ -25031,6 +25044,7 @@ webiqonline.com
 webleads-tracker.com
 weblist.de
 weblog.com.ua
+weblog.coupang.com
 weblog.eseoul.go.kr
 weblog.flyasiana.com
 weblog2.eseoul.go.kr
