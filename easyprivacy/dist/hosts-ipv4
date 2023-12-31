@@ -1,6 +1,6 @@
-# Version: 202312240033
+# Version: 202312310026
 # Title: EasyPrivacy
-# Last modified: 24 Dec 2023 00:33 UTC
+# Last modified: 31 Dec 2023 00:26 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -318,6 +318,7 @@
 0.0.0.0 a.mhthemes.com
 0.0.0.0 a.micorp.com
 0.0.0.0 a.mobify.com
+0.0.0.0 a.mts.ru
 0.0.0.0 a.munters.com
 0.0.0.0 a.munters.com.au
 0.0.0.0 a.munters.com.mx
@@ -2432,6 +2433,7 @@
 0.0.0.0 addthisedge.com
 0.0.0.0 addwish.com
 0.0.0.0 ade.deskstyle.info
+0.0.0.0 ade.googlesyndication.com
 0.0.0.0 ade.hirose-fx.co.jp
 0.0.0.0 adebis-52667624.wowma.jp
 0.0.0.0 adebis-bkan.vbest.jp
@@ -3041,6 +3043,7 @@
 0.0.0.0 analytics.greensender.pl
 0.0.0.0 analytics.groupe-seb.com
 0.0.0.0 analytics.growthphysics.com
+0.0.0.0 analytics.gtechgroup.it
 0.0.0.0 analytics.gvim.mobi
 0.0.0.0 analytics.hambleden-capital.com
 0.0.0.0 analytics.hashnode.com
@@ -4614,6 +4617,7 @@
 0.0.0.0 bustlinganimal.com
 0.0.0.0 bustlingbath.com
 0.0.0.0 bustlingbook.com
+0.0.0.0 busuanzi.ibruce.info
 0.0.0.0 butterbulb.com
 0.0.0.0 butterburst.com
 0.0.0.0 buttonladybug.com
@@ -4825,6 +4829,7 @@
 0.0.0.0 catschickens.com
 0.0.0.0 catsunrunjam.com
 0.0.0.0 catsys.jp
+0.0.0.0 cattlecommittee.com
 0.0.0.0 causecherry.com
 0.0.0.0 cautiouscamera.com
 0.0.0.0 cautiouscherries.com
@@ -5352,6 +5357,7 @@
 0.0.0.0 collector.xhamster.com
 0.0.0.0 collector.xhamster.desi
 0.0.0.0 collector.xhamster2.com
+0.0.0.0 collector.xhamster3.com
 0.0.0.0 collector2c.zhihuishu.com
 0.0.0.0 collector5.zipy.ai
 0.0.0.0 collectorsvc.apac.vesta.io
@@ -7874,6 +7880,7 @@
 0.0.0.0 events.whisk.com
 0.0.0.0 events.yourcx.io
 0.0.0.0 events2.www.edenfantasys.com
+0.0.0.0 eventsink.api.redbee.live
 0.0.0.0 eventsproxy.gargantuan.futureplc.com
 0.0.0.0 eventstream.dodopizza.com
 0.0.0.0 everestjs.net
@@ -9257,7 +9264,9 @@
 0.0.0.0 handsomeyam.com
 0.0.0.0 handyfield.com
 0.0.0.0 handyfireman.com
+0.0.0.0 handyincrease.com
 0.0.0.0 haostat.qihoo.com
+0.0.0.0 haplesshydrant.com
 0.0.0.0 haplessland.com
 0.0.0.0 happen.spkt.io
 0.0.0.0 happenhistory.com
@@ -9365,6 +9374,7 @@
 0.0.0.0 highfalutinroom.com
 0.0.0.0 highlight.run
 0.0.0.0 highmetrics.com
+0.0.0.0 highway.cablecar.sph.com.sg
 0.0.0.0 hijxfm.gaspedaal.nl
 0.0.0.0 hilariouszinc.com
 0.0.0.0 hiperstat.com
@@ -12676,6 +12686,7 @@
 0.0.0.0 masterworks.digital
 0.0.0.0 mat.socy.es
 0.0.0.0 matchjoke.com
+0.0.0.0 matelso.de
 0.0.0.0 materialexample.com
 0.0.0.0 materialisticfan.com
 0.0.0.0 materialisticmark.com
@@ -14724,6 +14735,7 @@
 0.0.0.0 pf.a23.in
 0.0.0.0 pf.intuit.com
 0.0.0.0 pf.newegg.com
+0.0.0.0 pftk.temu.com
 0.0.0.0 pghub.io
 0.0.0.0 pgkxhq.jamesallen.com
 0.0.0.0 pgs.farmprogress.com
@@ -15766,6 +15778,7 @@
 0.0.0.0 recs.shareaholic.com
 0.0.0.0 recv-entry.tbs.co.jp
 0.0.0.0 recv-jnn.tbs.co.jp
+0.0.0.0 redbee.serverside.ai
 0.0.0.0 redclassic.actonservice.com
 0.0.0.0 redcounter.net
 0.0.0.0 reddwarf.till-sanders.de
@@ -19545,6 +19558,7 @@
 0.0.0.0 sparklingnumber.com
 0.0.0.0 sparklingshelf.com
 0.0.0.0 speakgrandfather.com
+0.0.0.0 spearad.video
 0.0.0.0 specialscissors.com
 0.0.0.0 specialsnake.com
 0.0.0.0 specialstat.com
@@ -20921,6 +20935,7 @@
 0.0.0.0 stormcontainertag.com
 0.0.0.0 stormiq.com
 0.0.0.0 stormyachiever.com
+0.0.0.0 stormyfold.com
 0.0.0.0 storygize.net
 0.0.0.0 stoveseashore.com
 0.0.0.0 stpmgo.com
@@ -20947,6 +20962,7 @@
 0.0.0.0 strawberry.basf.com
 0.0.0.0 stream.9now.com.au
 0.0.0.0 streambeam.io
+0.0.0.0 streams.cablecar.sph.com.sg
 0.0.0.0 streamsend.com
 0.0.0.0 streamstats.prd.dlive.tv
 0.0.0.0 streem.com.au
@@ -23809,6 +23825,7 @@
 0.0.0.0 tracking2.cigna.co.uk
 0.0.0.0 tracking2.labcorp.com
 0.0.0.0 tracking202.com
+0.0.0.0 tracking24.net
 0.0.0.0 tracking3.labcorp.com
 0.0.0.0 tracking3.lenovo.com
 0.0.0.0 tracking3.vnncdn.net
@@ -25208,7 +25225,6 @@
 0.0.0.0 wirjoi.meetsmore.com
 0.0.0.0 wirypaste.com
 0.0.0.0 wisetrack.net
-0.0.0.0 wishloop.com
 0.0.0.0 wissen.sage.de
 0.0.0.0 wistfulflight.com
 0.0.0.0 withcabin.com
@@ -25320,6 +25336,7 @@
 0.0.0.0 wtm.interhyp.de
 0.0.0.0 wtm.monitoringservice.co
 0.0.0.0 wtmtrack.com
+0.0.0.0 wtr-digital-analytics.ew.r.appspot.com
 0.0.0.0 wts.one
 0.0.0.0 wts2.one
 0.0.0.0 wtstats.com
