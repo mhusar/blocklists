@@ -1,6 +1,6 @@
-# Version: 202312240033
+# Version: 202312310026
 # Title: EasyPrivacy
-# Last modified: 24 Dec 2023 00:33 UTC
+# Last modified: 31 Dec 2023 00:26 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -303,6 +303,7 @@ a.mercuriurval.com
 a.mhthemes.com
 a.micorp.com
 a.mobify.com
+a.mts.ru
 a.munters.com
 a.munters.com.au
 a.munters.com.mx
@@ -2417,6 +2418,7 @@ addthiscdn.com
 addthisedge.com
 addwish.com
 ade.deskstyle.info
+ade.googlesyndication.com
 ade.hirose-fx.co.jp
 adebis-52667624.wowma.jp
 adebis-bkan.vbest.jp
@@ -3026,6 +3028,7 @@ analytics.gooogol.com
 analytics.greensender.pl
 analytics.groupe-seb.com
 analytics.growthphysics.com
+analytics.gtechgroup.it
 analytics.gvim.mobi
 analytics.hambleden-capital.com
 analytics.hashnode.com
@@ -4599,6 +4602,7 @@ businessprocess.ricoh.de
 bustlinganimal.com
 bustlingbath.com
 bustlingbook.com
+busuanzi.ibruce.info
 butterbulb.com
 butterburst.com
 buttonladybug.com
@@ -4810,6 +4814,7 @@ cats.d20.rs
 catschickens.com
 catsunrunjam.com
 catsys.jp
+cattlecommittee.com
 causecherry.com
 cautiouscamera.com
 cautiouscherries.com
@@ -5337,6 +5342,7 @@ collector.wawlabs.com
 collector.xhamster.com
 collector.xhamster.desi
 collector.xhamster2.com
+collector.xhamster3.com
 collector2c.zhihuishu.com
 collector5.zipy.ai
 collectorsvc.apac.vesta.io
@@ -7859,6 +7865,7 @@ events.verticurl.com
 events.whisk.com
 events.yourcx.io
 events2.www.edenfantasys.com
+eventsink.api.redbee.live
 eventsproxy.gargantuan.futureplc.com
 eventstream.dodopizza.com
 everestjs.net
@@ -9242,7 +9249,9 @@ handsomelyhealth.com
 handsomeyam.com
 handyfield.com
 handyfireman.com
+handyincrease.com
 haostat.qihoo.com
+haplesshydrant.com
 haplessland.com
 happen.spkt.io
 happenhistory.com
@@ -9350,6 +9359,7 @@ highfalutinhoney.com
 highfalutinroom.com
 highlight.run
 highmetrics.com
+highway.cablecar.sph.com.sg
 hijxfm.gaspedaal.nl
 hilariouszinc.com
 hiperstat.com
@@ -12661,6 +12671,7 @@ mastertag.q-sis.de
 masterworks.digital
 mat.socy.es
 matchjoke.com
+matelso.de
 materialexample.com
 materialisticfan.com
 materialisticmark.com
@@ -14709,6 +14720,7 @@ pets.channeladvisor.com
 pf.a23.in
 pf.intuit.com
 pf.newegg.com
+pftk.temu.com
 pghub.io
 pgkxhq.jamesallen.com
 pgs.farmprogress.com
@@ -15751,6 +15763,7 @@ recruiting.dukekunshan.edu.cn
 recs.shareaholic.com
 recv-entry.tbs.co.jp
 recv-jnn.tbs.co.jp
+redbee.serverside.ai
 redclassic.actonservice.com
 redcounter.net
 reddwarf.till-sanders.de
@@ -19530,6 +19543,7 @@ sparklesleet.com
 sparklingnumber.com
 sparklingshelf.com
 speakgrandfather.com
+spearad.video
 specialscissors.com
 specialsnake.com
 specialstat.com
@@ -20906,6 +20920,7 @@ storesurprise.com
 stormcontainertag.com
 stormiq.com
 stormyachiever.com
+stormyfold.com
 storygize.net
 stoveseashore.com
 stpmgo.com
@@ -20932,6 +20947,7 @@ strangesink.com
 strawberry.basf.com
 stream.9now.com.au
 streambeam.io
+streams.cablecar.sph.com.sg
 streamsend.com
 streamstats.prd.dlive.tv
 streem.com.au
@@ -23794,6 +23810,7 @@ tracking2.cigna.co.id
 tracking2.cigna.co.uk
 tracking2.labcorp.com
 tracking202.com
+tracking24.net
 tracking3.labcorp.com
 tracking3.lenovo.com
 tracking3.vnncdn.net
@@ -25193,7 +25210,6 @@ wirewuss.com
 wirjoi.meetsmore.com
 wirypaste.com
 wisetrack.net
-wishloop.com
 wissen.sage.de
 wistfulflight.com
 withcabin.com
@@ -25305,6 +25321,7 @@ wtgnmr.golfdigest.co.jp
 wtm.interhyp.de
 wtm.monitoringservice.co
 wtmtrack.com
+wtr-digital-analytics.ew.r.appspot.com
 wts.one
 wts2.one
 wtstats.com
@@ -25995,7 +26012,7 @@ zz.bdstatic.com
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2023-12-24 00:51:06.420805
+# Generated at 2023-12-31 00:51:28.815423
 
 databerries.com
 fidzup
@@ -26623,8 +26640,3 @@ mktorest.com
 synerise.com
 tusdk.com
 backtrace.io
-cdn1.gigya.com
-cdn2.gigya.com
-cdn3.gigya.com
-cdns.us1.gigya.com
-david.gigya-cs.com
