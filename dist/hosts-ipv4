@@ -1,6 +1,6 @@
-# Version: 202401062239
+# Version: 202401132313
 # Title: EasyPrivacy
-# Last modified: 06 Jan 2024 22:39 UTC
+# Last modified: 13 Jan 2024 23:13 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -4529,6 +4529,7 @@
 0.0.0.0 analytics.vendemore.com
 0.0.0.0 analytics.villagehouse.jp
 0.0.0.0 analytics.virginaustralia.com
+0.0.0.0 analytics.vixcloud.co
 0.0.0.0 analytics.wavebox.io
 0.0.0.0 analytics.wayland.app
 0.0.0.0 analytics.webgains.io
@@ -9250,6 +9251,7 @@
 0.0.0.0 deeplinkuat.upoker.net
 0.0.0.0 deerbeginner.com
 0.0.0.0 defacto-analytics.net
+0.0.0.0 defeatedbadge.com
 0.0.0.0 defectivedress.com
 0.0.0.0 defiantrice.com
 0.0.0.0 defygravity.convio.com
@@ -10203,6 +10205,7 @@
 0.0.0.0 edeals.rbp.com
 0.0.0.0 edge-client
 0.0.0.0 edge-mobile-static.azureedge.net.iberostar.com
+0.0.0.0 edge.adobedc.net
 0.0.0.0 edge.bredg.com
 0.0.0.0 edge.ricoh-europe.com
 0.0.0.0 edge.staging.fullstory.com
@@ -10267,6 +10270,7 @@
 0.0.0.0 ejbbcf.finishline.com
 0.0.0.0 ejhyhg.travelist.pl
 0.0.0.0 ejimtl.costway.com
+0.0.0.0 ejlytics.editorji.com
 0.0.0.0 ejpcuw.mitsubishilaval.com
 0.0.0.0 ejrbgi.tous.com
 0.0.0.0 ejyymghi.com
@@ -11098,6 +11102,7 @@
 0.0.0.0 events.jotform.com
 0.0.0.0 events.kangan.edu.au
 0.0.0.0 events.launchdarkly.com
+0.0.0.0 events.limango.com
 0.0.0.0 events.marketingcube.com.au
 0.0.0.0 events.matterport.com
 0.0.0.0 events.mbrl.ae
@@ -12942,6 +12947,7 @@
 0.0.0.0 habitualhumor.com
 0.0.0.0 hadronid.net
 0.0.0.0 hal.courrierinternational.com
+0.0.0.0 halcyoncanyon.com
 0.0.0.0 halldata.com
 0.0.0.0 hallowedinvention.com
 0.0.0.0 haloscan.com
@@ -14744,6 +14750,7 @@
 0.0.0.0 insurancenoodle.actonservice.com
 0.0.0.0 int.deltafaucet.com
 0.0.0.0 intake-analytics.wikimedia.org
+0.0.0.0 intake-lr.com
 0.0.0.0 intechservices.actonservice.com
 0.0.0.0 intel-trk.informa.com
 0.0.0.0 intel-trk.lloydslistintelligence.com
@@ -15215,6 +15222,7 @@
 0.0.0.0 k54nw.pw
 0.0.0.0 k5a.io
 0.0.0.0 k5app.byjus.com
+0.0.0.0 k8s-tracking-tracking-6c17add7fc-253503024.eu-central-1.elb.amazonaws.com
 0.0.0.0 ka.ilius.net
 0.0.0.0 kabokc.webuy.com
 0.0.0.0 kaden.netoff.co.jp
@@ -15782,6 +15790,7 @@
 0.0.0.0 link.cdl.freshly.com
 0.0.0.0 link.cheerz.com
 0.0.0.0 link.clickipo.com
+0.0.0.0 link.clubmanagergame.com
 0.0.0.0 link.cluno.com
 0.0.0.0 link.cofyz.com
 0.0.0.0 link.collectivebenefits.com
@@ -16505,6 +16514,7 @@
 0.0.0.0 log.hypebeast.com
 0.0.0.0 log.idnes.cz
 0.0.0.0 log.invodo.com
+0.0.0.0 log.kinolights.com
 0.0.0.0 log.klook.com
 0.0.0.0 log.m.sm.cn
 0.0.0.0 log.mediacategory.com
@@ -21807,6 +21817,7 @@
 0.0.0.0 ping.cavelab.dev
 0.0.0.0 ping.dozuki.com
 0.0.0.0 ping.fastsimon.com
+0.0.0.0 ping.hashnode.com
 0.0.0.0 ping.hedlund.xyz
 0.0.0.0 ping.hungama.com
 0.0.0.0 ping.instantsearchplus.com
@@ -21864,6 +21875,7 @@
 0.0.0.0 pixel-tracker.com
 0.0.0.0 pixel.ad
 0.0.0.0 pixel.ampry.com
+0.0.0.0 pixel.anyclip.com
 0.0.0.0 pixel.archipro.co.nz
 0.0.0.0 pixel.archivecaslytosk.onion
 0.0.0.0 pixel.archiveiya74codqgiixo33q62qlrqtkgmcitqx5u2oeqnmn5bpcbiyd.onion
@@ -22537,6 +22549,7 @@
 0.0.0.0 pushprofit.ru
 0.0.0.0 pushpushgo.com
 0.0.0.0 pushspring.com
+0.0.0.0 pushvisit.xyz
 0.0.0.0 pushwize.com
 0.0.0.0 pushwoosh.com
 0.0.0.0 pushypipe.com
@@ -23831,6 +23844,7 @@
 0.0.0.0 samestretch.com
 0.0.0.0 sametrics.finn.no
 0.0.0.0 samia.net.anwalt.de
+0.0.0.0 samplesamba.com
 0.0.0.0 sams.manager-magazin.de
 0.0.0.0 sams.spiegel.de
 0.0.0.0 samt.frankly.ch
@@ -24173,6 +24187,7 @@
 0.0.0.0 scratchsofa.com
 0.0.0.0 screechingfurniture.com
 0.0.0.0 screechingslip.com
+0.0.0.0 screechingstocking.com
 0.0.0.0 screechingstove.com
 0.0.0.0 screen13.com
 0.0.0.0 scribblestring.com
@@ -30462,6 +30477,7 @@
 0.0.0.0 tags.johnlewis.com
 0.0.0.0 tags.master-perf-tools.com
 0.0.0.0 tags.news.com.au
+0.0.0.0 tags.newscgp.com
 0.0.0.0 tags.op-palvelut.fi
 0.0.0.0 tags.refinery89.com
 0.0.0.0 tags.soloway.ru
@@ -34524,6 +34540,7 @@
 0.0.0.0 walmeric.com
 0.0.0.0 wantingwindow.com
 0.0.0.0 waplog.net
+0.0.0.0 wapn1.flosports.tv
 0.0.0.0 wareneingang.edeka.de
 0.0.0.0 warfieldtech.actonservice.com
 0.0.0.0 warlog.ru
@@ -36235,6 +36252,7 @@
 0.0.0.0 zenaps.com
 0.0.0.0 zenedge.actonservice.com
 0.0.0.0 zeotap.com
+0.0.0.0 zephyrlabyrinth.com
 0.0.0.0 zero.kz
 0.0.0.0 zerostats.com
 0.0.0.0 zesep.com
@@ -36345,7 +36363,7 @@
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2024-01-07 00:52:57.326997
+# Generated at 2024-01-14 00:53:15.981738
 
 0.0.0.0 databerries.com
 0.0.0.0 fidzup
