@@ -1,6 +1,6 @@
-# Version: 202401132313
+# Version: 202401202328
 # Title: EasyPrivacy
-# Last modified: 13 Jan 2024 23:13 UTC
+# Last modified: 20 Jan 2024 23:28 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -356,6 +356,7 @@ a.publicmobile.ca
 a.redbrickhealth.com
 a.remy.world
 a.replaytheseries.com
+a.ria.ru
 a.rohde-schwarz.com
 a.rohde-schwarz.com.cn
 a.sami.se
@@ -3033,7 +3034,7 @@ aa.dyson.co.uk
 aa.dyson.com
 aa.dyson.de
 aa.dyson.dk
-aa.dyson.es||adbmetrics.koreanair.com
+aa.dyson.es
 aa.hwigroup.com
 aa.maxblue.de
 aa.norisbank.de
@@ -3508,6 +3509,7 @@ adb-analytics.live-now.com
 adblade.com
 adblockmetrics.ru
 adblockrelief.com
+adbmetrics.koreanair.com
 adbmetrics.larioja.com
 adbmetrics.lasprovincias.es
 adbmetrics.laverdad.es
@@ -4395,6 +4397,7 @@ analytics.martin-fieber.de
 analytics.martinandosa.com
 analytics.matchbin.com
 analytics.mattmcadams.com
+analytics.maxroll.gg
 analytics.mc500.info
 analytics.media-proweb.de
 analytics.meituan.net
@@ -4578,6 +4581,7 @@ analyticssec.overwolf.com
 analyticsssl.forcepoint.com
 analyticswizard.com
 analyze.full-marke.com
+analyzee.io
 analyzer.fc2.com
 analyzer2.fc2.com
 analyzer51.fc2.com
@@ -5473,6 +5477,7 @@ ar.allrun.fr
 ar.i-run.fr
 ar.interiordefine.com
 ar.quadient.com
+ar1nvz5.com
 aragenbio.actonservice.com
 aragonresearch.actonservice.com
 aralego.net
@@ -5504,6 +5509,7 @@ arpxs.com
 arrayasolutions.actonservice.com
 arrietty.nrj.fr
 arrivalist.com
+arrivegrowth.com
 arrowpushengine.com
 arsdev.net
 art.b.inhaabit.com
@@ -5671,7 +5677,6 @@ atsptp.com
 attorney.findlaw.com
 attr-2p.com
 attracta.com
-attractionapples.com
 attractionbanana.com
 attractiveafternoon.com
 attractivecap.com
@@ -6304,6 +6309,7 @@ bio.chups.co
 bioanalyticalmarketing.eurofins-info.com
 bionicclick.com
 biophysicsgroup.actonservice.com
+birthdaybelief.com
 bisko.mall.tv
 bison.actonservice.com
 bit.beformance.com
@@ -6490,6 +6496,7 @@ bpmonline.com
 bps.ricoh.co.uk
 bps.ricoh.ie
 bpsemea.hilton.com
+bpt.webedia-group.com
 bqacmp.vidaxl.no
 bqhkix.mosmexa.ru
 bqstreamer.com
@@ -6785,7 +6792,6 @@ bugsnag.com
 build.bildgta.ca
 buildingknife.com
 buildkiteanalytics.com
-build|click.signaturemarket.co
 bulbbait.com
 bulkbookstore.actonservice.com
 bum7.bymycar.fr
@@ -7264,6 +7270,7 @@ claritytag.com
 clarium.global.ssl.fastly.net
 clarium.io
 clarivoy.com
+clck.dzen.ru
 cleanhaircut.com
 clear.wallapop.com
 clearbit.com
@@ -7489,8 +7496,6 @@ cmp.tek.no
 cmp.telerama.fr
 cmp2.channelpartner.de
 cmptch.com
-cmpworker.dotesports.com
-cmpworker.primagames.com
 cmr.customer.americanexpress.de
 cmrcustomer.americanexpress.co.uk
 cms.grandcloud.cn
@@ -7772,6 +7777,7 @@ comunicaciones.pymas.com.co
 comunicazioni.bancamediolanum.it
 comviewcorp.actonservice.com
 conceptualizereading.com
+concernedchange.com
 concernedchickens.com
 concernedcondition.com
 condemnedcomb.com
@@ -9709,6 +9715,7 @@ docyjy.ryderwear.com
 dogsshoes.com
 dojomojo.com
 dojomojo.ninja
+dollardelta.com
 dolldetail.com
 dolphin.deliver.ifeng.com
 domainbntest.branchcustom.xyz
@@ -9733,6 +9740,7 @@ dotjs.com
 dotmetrics.net
 doublestat.info
 doubtdrawer.com
+doubtfulrainstorm.com
 doug1izaerwt3.cloudfront.net
 downeconomywp.advancedtech.com
 download-staging.planify.io
@@ -9894,6 +9902,7 @@ e-pagerank.net
 e-referrer.com
 e-webtrack.net
 e.beckmancoulter.com
+e.channelexco.com
 e.darpro-solutions.com
 e.e.themighty.com
 e.gettyimages.ae
@@ -10819,6 +10828,7 @@ entertainingeyes.com
 entertainskin.com
 enthusiastgaming.net
 enthusiasticdad.com
+enthusiasticring.com
 enthusiastictemper.com
 enticelabs.com
 entravision.com
@@ -11005,7 +11015,6 @@ ev.moneymade.io
 ev.stellarlabs.ai
 ev.tpocdm.com
 evaluateend.com
-evaluatestream.com
 evanescentedge.com
 event-api.contactatonce.com
 event-api.rdstation.com.br
@@ -11162,6 +11171,7 @@ exchange.happ.social
 exchangedetail.com
 excited.me
 excitingtub.com
+exclusivebrass.com
 exclusiveclicks.com
 exd4.destinia.com.au
 exdmarketing.smu.edu.sg
@@ -11509,7 +11519,6 @@ flixfacts.co.uk
 flixgvid.flix360.io
 flixsyndication.net
 flnkmj.hometogo.fr
-flockflame.com
 flockrocket.io
 flocktory.com
 flog.pressplay.cc
@@ -13267,6 +13276,7 @@ hostpush.info
 hot-count.com
 hotcounter.de
 hotel-marketing.hrs.com
+hothydrant.com
 hotjar.com
 hotjar.io
 hotlog.ru
@@ -13599,7 +13609,8 @@ images.constellation.quintiles.com
 images.contact.cigna.com
 images.contact.princess.com
 images.contact.staubli.com
-images.contacto.uni|images.e.seagate.com
+images.contacto.unis.edu.gt
+images.e.seagate.com
 images.e.skandia.pl
 images.e.tcichemicals.com
 images.e.transunion.com
@@ -15969,7 +15980,6 @@ link.lendingtree.com
 link.letsdayout.com
 link.litnet.com
 link.lloydsbank.com
-link.localmasters.co||link.plazahogar.com.py
 link.loyalty.almosafer.com
 link.lpm.surkus.com
 link.lpt.surkus.com
@@ -16487,6 +16497,7 @@ log.cookieyes.com
 log.cpex.cz
 log.dance
 log.dpa.com
+log.dzen.ru
 log.ecgh.dk
 log.edidomus.it
 log.etoday.co.kr
@@ -19200,7 +19211,7 @@ metrics.fressnapf.ch
 metrics.friskies.com
 metrics.ftd.com
 metrics.futureplc.engineering
-metrics.gali|metrics.reallymoving.com
+metrics.galicia.ar
 metrics.gap.com
 metrics.genesis.es
 metrics.gengraf.com
@@ -19586,6 +19597,7 @@ metrics.rbcgam.com
 metrics.rci.com
 metrics.rcsmetrics.it
 metrics.realclearpolitics.com
+metrics.reallymoving.com
 metrics.realpropertymgt.com
 metrics.realsimple.com
 metrics.realtor.com
@@ -20124,6 +20136,7 @@ mochibot.com
 mockingfish.com
 modernus.is
 modifyeyes.com
+modularmental.com
 moengage.com
 mohamed.net.anwalt.de
 mokuz.ru
@@ -20231,6 +20244,7 @@ mrksmm.yumegazai.com
 mroprospector.aviationweek.com
 mrpdata.net
 ms-trackingapi.phenompeople.com
+ms.dzen.ru
 ms.informaengage.com
 ms.topschooljobs.org
 ms1.morganstanley.com
@@ -20454,6 +20468,7 @@ ndroyp.gettingpersonal.co.uk
 neaaom.ytn.co.kr
 neatshade.com
 neatstats.com
+nebulousripple.com
 necessarywax.com
 ned.themarketingscience.com
 nedstat.net
@@ -21386,6 +21401,9 @@ owldata.com
 owlsr.us
 owltrack.com
 ownpage.fr
+owp-hk.americanexpress.com
+owp-sg-prop.americanexpress.com
+owp-tw.americanexpress.com
 owss.ihs.com
 ox-bio.com
 oxbskt.autotrader.com.au
@@ -21963,6 +21981,7 @@ pl.weinshops.online
 pla.wigglepixel.nl
 placeframe.com
 placemypixel.com
+placidactivity.com
 placidperson.com
 pladform.ru
 plainplayground.com
@@ -22227,6 +22246,7 @@ portfold.com
 pos.baidu.com
 possessivebucket.com
 possibleboats.com
+possiblepencil.com
 posst.co
 postgraduate.smu.edu.sg
 potatoinvention.com
@@ -24175,6 +24195,7 @@ screechingslip.com
 screechingstocking.com
 screechingstove.com
 screen13.com
+scribbleson.com
 scribblestring.com
 scribe.wongnai.com
 scrippscontroller.com
@@ -27102,7 +27123,7 @@ smetrics.sumitclub.jp
 smetrics.sun.com
 smetrics.suncorp.co.nz
 smetrics.suncorp.com.au
-smetrics.suncorpbank.com.au||smetrics.viabcp.com
+smetrics.suncorpbank.com.au
 smetrics.sunflowerhealthplan.com
 smetrics.sunglasshut.com
 smetrics.sunlife.ca
@@ -27252,6 +27273,7 @@ smetrics.unicefusa.org
 smetrics.us.levi.com
 smetrics.us.playstation.com
 smetrics.vermontcountrystore.com
+smetrics.viabcp.com
 smetrics.viega.at
 smetrics.viega.be
 smetrics.viega.com
@@ -33186,6 +33208,7 @@ tracking.vitalant.org
 tracking.vodafone.co.uk
 tracking.vodafone.com
 tracking.voordeeluitjes.nl
+tracking.voxeus.com
 tracking.wao-corp.com
 tracking.wao.ne.jp
 tracking.waterfrontmedia.com
@@ -35996,12 +36019,14 @@ xwpoxv.birdies.com
 xxjiqg.oysho.com
 xxlefq.commentcamarche.net
 xxlefq.hugolescargot.com
+xxlefq.jeux-gratuits.com
 xxlefq.journaldesfemmes.fr
+xxlefq.journaldunet.com
 xxlefq.linternaute.com
-xxlef||xyhojp.lacoste.com
 xxxcounter.com
 xy33.smallable.com
 xya4.groupefsc.com
+xyhojp.lacoste.com
 xymhzq.klingel.de
 xyxgbs.lezhin.com
 xyztraffic.com
