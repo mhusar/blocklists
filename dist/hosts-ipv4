@@ -1,6 +1,6 @@
-# Version: 202401202328
+# Version: 202401280036
 # Title: EasyPrivacy
-# Last modified: 20 Jan 2024 23:28 UTC
+# Last modified: 28 Jan 2024 00:36 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -4154,6 +4154,7 @@
 0.0.0.0 analys.live
 0.0.0.0 analyse.bcovery.com
 0.0.0.0 analyse.hinemos.info
+0.0.0.0 analyse.lnearn.com
 0.0.0.0 analyselog.dx.com
 0.0.0.0 analysis.fi
 0.0.0.0 analyti.io
@@ -4190,6 +4191,7 @@
 0.0.0.0 analytics-helper.com
 0.0.0.0 analytics-lgs.corebridgefinancial.com
 0.0.0.0 analytics-nssl.bradyid.com
+0.0.0.0 analytics-prd.aws.wehaa.net
 0.0.0.0 analytics-production.hapyak.com
 0.0.0.0 analytics-proxy.springboard.com
 0.0.0.0 analytics-scripts.cablelabs.com
@@ -4445,6 +4447,7 @@
 0.0.0.0 analytics.oyorooms.com
 0.0.0.0 analytics.paddle.com
 0.0.0.0 analytics.pagefly.io
+0.0.0.0 analytics.pangle-ads.com
 0.0.0.0 analytics.partcommunity.com
 0.0.0.0 analytics.pgncs.notion.so
 0.0.0.0 analytics.phn.com
@@ -12299,6 +12302,7 @@
 0.0.0.0 glzsji.nordman.ru
 0.0.0.0 gm-it.consulting
 0.0.0.0 gm99.com
+0.0.0.0 gmetrics.getbeamer.com
 0.0.0.0 gmmhlk.techstar.ro
 0.0.0.0 gmodmp.jp
 0.0.0.0 gmossp-sp.jp
@@ -12845,6 +12849,7 @@
 0.0.0.0 grn.openapp.link
 0.0.0.0 grofag.hollandandbarrett.ie
 0.0.0.0 groovyornament.com
+0.0.0.0 grouchybrothers.com
 0.0.0.0 grouchypush.com
 0.0.0.0 groundcare.dixiechopper.com
 0.0.0.0 group-ib.ru
@@ -20701,6 +20706,7 @@
 0.0.0.0 no9pldds1lmn3.soundcloud.com
 0.0.0.0 noa0.compteczam.fr
 0.0.0.0 nocaadobefpc.optus.com.au
+0.0.0.0 nocturnalloom.com
 0.0.0.0 noeyeon.click
 0.0.0.0 noeyeon.com
 0.0.0.0 noflake-aggregator-http.narvar.com
@@ -22992,7 +22998,6 @@
 0.0.0.0 ref.elitehrv.com
 0.0.0.0 ref.mybb.id
 0.0.0.0 refer-dev.openmed.com
-0.0.0.0 refer.ccbill.com
 0.0.0.0 refer.chargerunning.com
 0.0.0.0 refer.dev.wagr.us
 0.0.0.0 refer.dragonfly.com.kh
@@ -34223,12 +34228,12 @@
 0.0.0.0 vepxl1.net
 0.0.0.0 veqvek.ctvnews.ca
 0.0.0.0 veqvek.tsn.ca
-0.0.0.0 verbolia.com
 0.0.0.0 vercel-analytics.com
 0.0.0.0 vercel-insights.com
 0.0.0.0 vercel-vitals.axiom.co
 0.0.0.0 verdantanswer.com
 0.0.0.0 verify.authorize.net
+0.0.0.0 verify.lnearn.com
 0.0.0.0 verify.safesigned.com
 0.0.0.0 verify.spin.app
 0.0.0.0 verify.test.spin.app
@@ -36388,7 +36393,7 @@
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2024-01-21 00:53:30.969359
+# Generated at 2024-01-28 00:48:31.567206
 
 0.0.0.0 databerries.com
 0.0.0.0 fidzup
