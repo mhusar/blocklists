@@ -1,6 +1,6 @@
-# Version: 202402110030
+# Version: 202402180007
 # Title: EasyPrivacy
-# Last modified: 11 Feb 2024 00:30 UTC
+# Last modified: 18 Feb 2024 00:07 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -3991,7 +3991,6 @@
 0.0.0.0 adex.kintetsu-re.co.jp
 0.0.0.0 adex.naruko333.jp
 0.0.0.0 adex.predear.com
-0.0.0.0 adform.net
 0.0.0.0 adfox.ru
 0.0.0.0 adfox.yandex.ru
 0.0.0.0 adgainersolutions.com
@@ -4485,6 +4484,7 @@
 0.0.0.0 amazon.com/1/aiv-web-player/1/OE
 0.0.0.0 amazonaws.com/beacon
 0.0.0.0 ambercrow.com
+0.0.0.0 ambientdusk.com
 0.0.0.0 ambiguousafternoon.com
 0.0.0.0 ambiguousalarm.com
 0.0.0.0 ambiguousanger.com
@@ -4552,6 +4552,7 @@
 0.0.0.0 analyse.bcovery.com
 0.0.0.0 analyse.hinemos.info
 0.0.0.0 analysis.fi
+0.0.0.0 analyt.ir
 0.0.0.0 analytic.ae.com
 0.0.0.0 analytic.americanfunds.com
 0.0.0.0 analytic.buoyweather.com
@@ -8628,6 +8629,7 @@
 0.0.0.0 collector.pi.spectrum.net
 0.0.0.0 collector.schibsted.io
 0.0.0.0 collector.sspinc.io
+0.0.0.0 collector.taoxh.life
 0.0.0.0 collector.wawlabs.com
 0.0.0.0 collector.xhamster.com
 0.0.0.0 collector.xhamster.desi
@@ -10589,7 +10591,6 @@
 0.0.0.0 dewdroplagoon.com
 0.0.0.0 dextersolutions.actonservice.com
 0.0.0.0 df-srv.de
-0.0.0.0 df.infra.shopee.ph
 0.0.0.0 dfanalytics.dealerfire.com
 0.0.0.0 dfapvmql-q.global.ssl.fastly.net
 0.0.0.0 dffpxg.targus.com
@@ -11094,6 +11095,7 @@
 0.0.0.0 docodoco.jp
 0.0.0.0 docomo-analytics.com
 0.0.0.0 docyjy.ryderwear.com
+0.0.0.0 dogcollarfavourbluff.com
 0.0.0.0 dogsshoes.com
 0.0.0.0 dohmen.actonservice.com
 0.0.0.0 dojomojo.com
@@ -11118,6 +11120,7 @@
 0.0.0.0 doppler-client-events.cbsivideo.com
 0.0.0.0 doppler-config.cbsivideo.com
 0.0.0.0 doppler-reporting.cbsivideo.com
+0.0.0.0 dot.nonolive.com
 0.0.0.0 dot.wp.pl
 0.0.0.0 dotaki.com
 0.0.0.0 dotaudiences.com
@@ -11653,6 +11656,7 @@
 0.0.0.0 edtp.de
 0.0.0.0 edtrainingcenter.actonservice.com
 0.0.0.0 edu.quizdom.gr
+0.0.0.0 educatedeggnog.com
 0.0.0.0 education.bendigotafe.edu.au
 0.0.0.0 education.brettdanko.com
 0.0.0.0 education.eatoncambridge.com
@@ -14803,6 +14807,7 @@
 0.0.0.0 gtags.net
 0.0.0.0 gtcslt-di2.com
 0.0.0.0 gtgvze.chintai.net
+0.0.0.0 gtm.diamond.jp
 0.0.0.0 gtm.wise.com
 0.0.0.0 gtop.ro
 0.0.0.0 gtopstats.com
@@ -17580,6 +17585,7 @@
 0.0.0.0 ju23.madeindesign.co.uk
 0.0.0.0 jubbie.de
 0.0.0.0 jubilantcanyon.com
+0.0.0.0 jubilantglimmer.com
 0.0.0.0 jubileo-ppb.carte-gr.total.fr
 0.0.0.0 jujtcq.amnibus.com
 0.0.0.0 jumbo.zomato.com
@@ -24178,6 +24184,7 @@
 0.0.0.0 nlf6.vente-unique.pl
 0.0.0.0 nlgzhd.yoox.com
 0.0.0.0 nljjem.honeys-onlineshop.com
+0.0.0.0 nlog.naver.com
 0.0.0.0 nlp-japan.life-and-mind.com
 0.0.0.0 nltzqx.autodoc.co.uk
 0.0.0.0 nlvnht.miror.jp
@@ -25536,6 +25543,7 @@
 0.0.0.0 ping.hungama.com
 0.0.0.0 ping.instantsearchplus.com
 0.0.0.0 ping.naturadapt.com
+0.0.0.0 ping.paidy.com
 0.0.0.0 ping.resoluteoil.com
 0.0.0.0 pingback.giphy.com
 0.0.0.0 pingback.issuu.com
@@ -27737,7 +27745,6 @@
 0.0.0.0 saas.stratitude.com
 0.0.0.0 saat.dow.com
 0.0.0.0 saatgut.pioneer.com
-0.0.0.0 sabavision.com
 0.0.0.0 sabic.actonservice.com
 0.0.0.0 sableloss.com
 0.0.0.0 sablesmile.com
@@ -28245,6 +28252,7 @@
 0.0.0.0 scaredstory.com
 0.0.0.0 scaredswing.com
 0.0.0.0 scarefowl.com
+0.0.0.0 scarf.sh
 0.0.0.0 scarfsmash.com
 0.0.0.0 scarfthought.com
 0.0.0.0 scatteredheat.com
@@ -34239,6 +34247,7 @@
 0.0.0.0 stat.prawo.pl
 0.0.0.0 stat.profinfo.pl
 0.0.0.0 stat.pubhtml5.com
+0.0.0.0 stat.re
 0.0.0.0 stat.recklesslove.co.za
 0.0.0.0 stat.ringier.sk
 0.0.0.0 stat.rizeniskoly.cz
@@ -36334,7 +36343,6 @@
 0.0.0.0 tangibleteam.com
 0.0.0.0 tangyamount.com
 0.0.0.0 tangycover.com
-0.0.0.0 tanx.com
 0.0.0.0 tao.barstoolsports.com
 0.0.0.0 tap.carling.com
 0.0.0.0 tapad.app
@@ -37305,7 +37313,6 @@
 0.0.0.0 torpidtoothpaste.com
 0.0.0.0 torrentcorp.actonservice.com
 0.0.0.0 torropinto.viessmann.es
-0.0.0.0 toruk.tanx.com
 0.0.0.0 toto.pandasuite.io
 0.0.0.0 touch.multitaction.com
 0.0.0.0 touch.myntra.com
@@ -39012,6 +39019,7 @@
 0.0.0.0 tracking.fullsail.edu
 0.0.0.0 tracking.fupa.net
 0.0.0.0 tracking.g2crowd.com
+0.0.0.0 tracking.game8.co
 0.0.0.0 tracking.game8.jp
 0.0.0.0 tracking.gameforge.de
 0.0.0.0 tracking.gartner.com
@@ -39550,6 +39558,7 @@
 0.0.0.0 trakksocial.googlecode.com
 0.0.0.0 tranquilamulet.com
 0.0.0.0 tranquilcanyon.com
+0.0.0.0 tranquilplume.com
 0.0.0.0 tranquilside.com
 0.0.0.0 transact.blackboard.com
 0.0.0.0 transactionale.com
@@ -40173,7 +40182,6 @@
 0.0.0.0 ubmwua.maisonsetappartements.fr
 0.0.0.0 ubpekn.sivillage.com
 0.0.0.0 ubrihx.allbirds.jp
-0.0.0.0 ubt.tracking.shopee.ph
 0.0.0.0 ubuyanalytics.ubuy.com
 0.0.0.0 ubvsjh.pointtown.com
 0.0.0.0 ubyjor.distrelec.ch
@@ -41625,6 +41633,7 @@
 0.0.0.0 wsstats.coches.net
 0.0.0.0 wstats.e-wok.tv
 0.0.0.0 wstats.gameblog.fr
+0.0.0.0 wstats.slashed.cloud
 0.0.0.0 wstatslive.com
 0.0.0.0 wsuqzu.armani.com
 0.0.0.0 wsytyz.tts.ru
