@@ -1,6 +1,6 @@
-# Version: 202402180007
+# Version: 202402250031
 # Title: EasyPrivacy
-# Last modified: 18 Feb 2024 00:07 UTC
+# Last modified: 25 Feb 2024 00:31 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -4504,6 +4504,7 @@ amp.vg
 amplify.outbrain.com
 amplifypixel.outbrain.com
 amplitude.com
+ampltd.medal.tv
 ampltd.top.gg
 ampltd2.medal.tv
 ams-pageview-public.s3.amazonaws.com
@@ -4621,6 +4622,7 @@ analytics.autozone.com
 analytics.avanser.com.au
 analytics.avis.de
 analytics.aweber.com
+analytics.b2.ai
 analytics.banksneveraskthat.com
 analytics.basistheory.com
 analytics.belgacom.be
@@ -4652,6 +4654,7 @@ analytics.cartoonnetwork.jp
 analytics.cartoonnetworkasia.com
 analytics.cartoonnetworkindia.com
 analytics.cartoonnetworkmena.com
+analytics.castel.jp
 analytics.cdf.cl
 analytics.ceneo.pl
 analytics.certifriedit.com
@@ -4715,6 +4718,7 @@ analytics.egernsund.de
 analytics.eggoffer.com
 analytics.eikko.ai
 analytics.eikondigital.it
+analytics.eip.telegraph.co.uk
 analytics.emol.com
 analytics.erepublic.com
 analytics.ericafischerphotography.com
@@ -7072,6 +7076,7 @@ bio.chups.co
 bioanalyticalmarketing.eurofins-info.com
 bionicclick.com
 biophysicsgroup.actonservice.com
+birdeatsbug.com
 birthdaybelief.com
 bisko.mall.tv
 bison.actonservice.com
@@ -7870,6 +7875,7 @@ cannontwin.com
 canopylabs.com
 capablecows.com
 capablecup.com
+capital.com
 capping.sirius.press
 capplanllc.actonservice.com
 capriciouscorn.com
@@ -16110,6 +16116,7 @@ impossibleexpansion.com
 impossibleglue.com
 impossiblemove.com
 impress.vcita.com
+impression-tracker-service-5eimuebuhq-lz.a.run.app
 impression.clickinc.com
 impression.link
 improving.wuzhuiso.com
@@ -18019,6 +18026,7 @@ lcsopa.onamae.com
 lctfgw.evernew.ca
 lcwodl.bleulibellule.com
 lddt.de
+ldgnrtn.com
 ldgxsr.locasun-vp.fr
 ldhteg.mooihorloge.nl
 ldnlyap.com
@@ -18589,7 +18597,6 @@ link.nextaveapp.com
 link.nextlevelsports.com
 link.nilclub.com
 link.notifications.busuu.app
-link.nubank.com.br
 link.nutty.chat
 link.offers.kodakmoments.com
 link.olympya.com
@@ -19207,7 +19214,6 @@ log.mofa.go.kr
 log.nordot.jp
 log.olark.com
 log.outbrain.com
-log.outbrainimg.com
 log.pinterest.com
 log.pipeline.datarize.io
 log.popin.cc
@@ -21609,6 +21615,7 @@ med.teflaro.com
 med.viibryd.com
 med.viibrydhcp.com
 med.vraylar.com
+medal.tv
 medals.bizrate.com
 meddleplant.com
 medhyg.actonservice.com
@@ -23948,6 +23955,7 @@ neaaom.ytn.co.kr
 neathousepartners.actonservice.com
 neatshade.com
 neatstats.com
+nebulacrescent.com
 nebulousripple.com
 necessarywax.com
 ned.themarketingscience.com
@@ -25044,6 +25052,7 @@ ournet-analytics.com
 ourstats.de
 outal.origo.hu
 outbid.io
+outbrainimg.com
 outdoor.theres.co
 outfunnel.com
 outgoinggiraffe.com
@@ -25345,6 +25354,7 @@ pbbl.co
 pbc.programbrokerage.com
 pbecrm.aquanet.ru
 pbgrd.com
+pbjs-stream.bydata.com
 pbm-email.rightwayhealthcare.com
 pbox.no.photobox.com
 pbox.photobox.at
@@ -25923,6 +25933,7 @@ pointmediatracker.com
 pointomatic.com
 poisedpig.com
 pol3.cheque-domicile.fr
+polaranalytics.com
 polarbyte.com
 polarcdn-pentos.com
 polarismagnet.com
@@ -26926,6 +26937,7 @@ remnkv.doda.jp
 removeads.workers.dev
 remp.nv.ua
 renaultbankdirekt.efscle.com
+renderbetter.net
 rent.mgrc.com
 renting.aldautomotive.es
 rentracks.jp
@@ -26964,6 +26976,7 @@ report-uri.io
 report.appmetrica.yandex.net.iberostar.com
 report.meituan.com
 report.mitsubishicars.com
+reportic.app
 reporting-api.gannettinnovation.com
 reporting.autographapp.me
 reporting.cdndex.io
@@ -34958,6 +34971,7 @@ stats.retofunctional.com
 stats.revitfamily.app
 stats.rideinpeace.ie
 stats.rightourhistoryhawaii.com
+stats.rip
 stats.robotika.ax
 stats.rocketbeans.tv
 stats.rocketvalidator.com
@@ -35305,6 +35319,7 @@ stingyspoon.com
 stippleit.com
 stjoe.psjhealth.org
 stliom.vidaxl.cz
+stm.komplett.no
 stmetrics.bbva.com.ar
 stmetrics.bbva.com.co
 stmetrics.bbva.es
@@ -38819,6 +38834,7 @@ tracking.ads.global-fashion-group.com
 tracking.adweb.co.kr
 tracking.aegpresents.com
 tracking.agora.io
+tracking.ai.rakuten.co.jp
 tracking.aifsabroad.com
 tracking.air-worldwide.com
 tracking.aita.gov.vn
@@ -39739,6 +39755,7 @@ trk.daimlertruck.com
 trk.darkreading.com
 trk.datacenterknowledge.com
 trk.datacenterworld.com
+trk.decido.io
 trk.delma.hu
 trk.delma.ro
 trk.delphiquest.com
@@ -40636,6 +40653,7 @@ vibranthaven.com
 vibrantsundown.com
 victoriousrequest.com
 video-ad-stats.googlesyndication.com
+video-analytics-api.cloudinary.com
 video.bzfd.it
 video.funnelbox.com
 video.oms.eu
@@ -41434,6 +41452,7 @@ wgsas.com
 wgyapq.stormberg.com
 wh.ipaddress.com
 whahmy.timberland.es
+whale.camera
 whale3.io
 whatcounts.branch.rocks
 whatif.fr.adobe.com
@@ -42954,7 +42973,7 @@ zzsqqx.shopjapan.co.jp
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2024-02-18 00:48:35.442707
+# Generated at 2024-02-25 00:48:59.132988
 
 databerries.com
 fidzup
