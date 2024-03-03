@@ -1,6 +1,6 @@
-# Version: 202402250031
+# Version: 202403030039
 # Title: EasyPrivacy
-# Last modified: 25 Feb 2024 00:31 UTC
+# Last modified: 03 Mar 2024 00:39 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -4032,7 +4032,6 @@
 0.0.0.0 admo.tv
 0.0.0.0 adnext.co
 0.0.0.0 adnl.bk.mufg.jp
-0.0.0.0 adnz.co
 0.0.0.0 adobe-analytics-dc.belastingdienst.nl
 0.0.0.0 adobe-analytics.vionicshoes.com
 0.0.0.0 adobe-dev-landingpageprefix.descubre.interbank.pe
@@ -4350,6 +4349,7 @@
 0.0.0.0 air360tracker.net
 0.0.0.0 airbrake.io
 0.0.0.0 airefcoinc.actonservice.com
+0.0.0.0 airlogak.com
 0.0.0.0 airlogs.ru
 0.0.0.0 airpr.com
 0.0.0.0 airserve.net
@@ -4394,6 +4394,7 @@
 0.0.0.0 alereinc.actonservice.com
 0.0.0.0 aleroninc.actonservice.com
 0.0.0.0 alertafterthought.com
+0.0.0.0 alertarithmetic.com
 0.0.0.0 alertfaucet.com
 0.0.0.0 alertme.news
 0.0.0.0 alerts.ironmountain.com
@@ -4493,6 +4494,7 @@
 0.0.0.0 ambiguousquilt.com
 0.0.0.0 ambitiousagreement.com
 0.0.0.0 ambitiousanimal.com
+0.0.0.0 ambrosialsummit.com
 0.0.0.0 amcdn.vn
 0.0.0.0 amcgns.giesswein.com
 0.0.0.0 amer.juniper.net
@@ -4552,6 +4554,7 @@
 0.0.0.0 analys.live
 0.0.0.0 analyse.bcovery.com
 0.0.0.0 analyse.hinemos.info
+0.0.0.0 analysis.aws.locondo.jp
 0.0.0.0 analysis.fi
 0.0.0.0 analyt.ir
 0.0.0.0 analytic.ae.com
@@ -4637,7 +4640,6 @@
 0.0.0.0 analytics.avanser.com.au
 0.0.0.0 analytics.avis.de
 0.0.0.0 analytics.aweber.com
-0.0.0.0 analytics.b2.ai
 0.0.0.0 analytics.banksneveraskthat.com
 0.0.0.0 analytics.basistheory.com
 0.0.0.0 analytics.belgacom.be
@@ -5265,6 +5267,7 @@
 0.0.0.0 api.net.sparhandy.de
 0.0.0.0 api.privacyguides.net
 0.0.0.0 api.ryanyao.design
+0.0.0.0 api.takealot.com
 0.0.0.0 api.wipmania.com
 0.0.0.0 api64.com
 0.0.0.0 apicit.net
@@ -6219,6 +6222,7 @@
 0.0.0.0 ar.i-run.fr
 0.0.0.0 ar.interiordefine.com
 0.0.0.0 ar.quadient.com
+0.0.0.0 ar1.aza.io
 0.0.0.0 ar1nvz5.com
 0.0.0.0 aragenbio.actonservice.com
 0.0.0.0 aragonresearch.actonservice.com
@@ -12243,6 +12247,7 @@
 0.0.0.0 enchantedskyline.com
 0.0.0.0 enchantedtop.com
 0.0.0.0 enchantingbear.com
+0.0.0.0 enchantingenchantment.com
 0.0.0.0 enchantingvalley.com
 0.0.0.0 encompassreport.elliemae.com
 0.0.0.0 encourageidea.com
@@ -12539,6 +12544,7 @@
 0.0.0.0 etcwmg.instant-gaming.com
 0.0.0.0 etgkbu.unieuro.it
 0.0.0.0 eth-pocket.com
+0.0.0.0 etherealquasar.com
 0.0.0.0 etherealripple.com
 0.0.0.0 ethereum-cashcard.com
 0.0.0.0 ethereum-pocket.com
@@ -14048,6 +14054,7 @@
 0.0.0.0 gksqfw.reverso.net
 0.0.0.0 gkxaay.tontarellishop.com
 0.0.0.0 gl5g98t0vfjb.panprices.com
+0.0.0.0 gladglen.com
 0.0.0.0 glamipixel.com
 0.0.0.0 glancecdn.net
 0.0.0.0 glass.autovistagroup.com
@@ -15085,6 +15092,7 @@
 0.0.0.0 highfalutinbox.com
 0.0.0.0 highfalutinhoney.com
 0.0.0.0 highfalutinroom.com
+0.0.0.0 highlight.io
 0.0.0.0 highlight.run
 0.0.0.0 highlights-schadenmanager.schwacke.de
 0.0.0.0 highlights-schwackenet.schwacke.de
@@ -15410,6 +15418,7 @@
 0.0.0.0 i.poker2u.app
 0.0.0.0 i.pokerbros.net
 0.0.0.0 i.pokernews.com
+0.0.0.0 i.posthog.com
 0.0.0.0 i.raise.me
 0.0.0.0 i.rttd.io
 0.0.0.0 i.sandbox.love
@@ -17165,6 +17174,7 @@
 0.0.0.0 invited.louwmanexclusive.nl
 0.0.0.0 invitejs.trustpilot.com
 0.0.0.0 invitemedia.com
+0.0.0.0 invitereferrals.com
 0.0.0.0 invites.nospace.app
 0.0.0.0 invitesugar.com
 0.0.0.0 invoc.us
@@ -17738,6 +17748,7 @@
 0.0.0.0 killerwebstats.com
 0.0.0.0 kilometrix.de
 0.0.0.0 kimberlyspa.actonservice.com
+0.0.0.0 kindhush.com
 0.0.0.0 kinesis.eu-west-1.amazonaws.com
 0.0.0.0 kinesis.us-east-1.analytics.edmentum.com
 0.0.0.0 kingnews.burgerking.co.za
@@ -19796,6 +19807,7 @@
 0.0.0.0 mailtrustsmetrics.rackspace.com
 0.0.0.0 mailx.happ.social
 0.0.0.0 mairdumont.com
+0.0.0.0 majesticmountainrange.com
 0.0.0.0 makbti.bandofboats.com
 0.0.0.0 makeshiftmine.com
 0.0.0.0 maliciousmusic.com
@@ -21703,6 +21715,7 @@
 0.0.0.0 mefo1.zdf.de
 0.0.0.0 mega-stats.com
 0.0.0.0 megadata.co.kr
+0.0.0.0 megatron.igraal.com
 0.0.0.0 megavisites.com
 0.0.0.0 meinauto.hdd-dienste.de
 0.0.0.0 mellamanjorge.net.anwalt.de
@@ -23971,6 +23984,7 @@
 0.0.0.0 neatshade.com
 0.0.0.0 neatstats.com
 0.0.0.0 nebulacrescent.com
+0.0.0.0 nebulousamusement.com
 0.0.0.0 nebulousripple.com
 0.0.0.0 necessarywax.com
 0.0.0.0 ned.themarketingscience.com
@@ -24436,6 +24450,7 @@
 0.0.0.0 o8.hyatt.com
 0.0.0.0 oadz.com
 0.0.0.0 oae6.carrefour-banque.fr
+0.0.0.0 oafishchance.com
 0.0.0.0 oafishobservation.com
 0.0.0.0 oahu.shakaguide.com
 0.0.0.0 oaizwm.zox.la
@@ -25090,6 +25105,7 @@
 0.0.0.0 ovmrti.sassyclassy.de
 0.0.0.0 ovrsso.gemo.fr
 0.0.0.0 ovyrak.viajeselcorteingles.es
+0.0.0.0 owen.prolitteris.ch
 0.0.0.0 owldata.com
 0.0.0.0 owlsr.us
 0.0.0.0 owltrack.com
@@ -25580,6 +25596,7 @@
 0.0.0.0 piquantpigs.com
 0.0.0.0 piquantprice.com
 0.0.0.0 piquantstove.com
+0.0.0.0 piquantvortex.com
 0.0.0.0 pirateclan-alternate.kano.link
 0.0.0.0 pirateclan.kano.link
 0.0.0.0 piratepx.com
@@ -26830,6 +26847,7 @@
 0.0.0.0 recs.shareaholic.com
 0.0.0.0 recv-entry.tbs.co.jp
 0.0.0.0 recv-jnn.tbs.co.jp
+0.0.0.0 recv.tbs.co.jp
 0.0.0.0 redbee.serverside.ai
 0.0.0.0 redbooks.actonservice.com
 0.0.0.0 redclassic.actonservice.com
@@ -27310,6 +27328,7 @@
 0.0.0.0 roseincome.com
 0.0.0.0 rossel.tech
 0.0.0.0 rottenray.com
+0.0.0.0 roughharmony.com
 0.0.0.0 roughroll.com
 0.0.0.0 roulette.abzorbagames.com
 0.0.0.0 router28.net.anwalt.de
@@ -28285,7 +28304,6 @@
 0.0.0.0 scintillatingscissors.com
 0.0.0.0 scintillatingsilver.com
 0.0.0.0 scintillatingspace.com
-0.0.0.0 scis.tbs.co.jp
 0.0.0.0 scispg.smu.edu.sg
 0.0.0.0 scissorsstatement.com
 0.0.0.0 scjlpq.navitime.co.jp
@@ -28941,6 +28959,7 @@
 0.0.0.0 seeip.org
 0.0.0.0 seek.intel.com
 0.0.0.0 seek.uwa.edu.au
+0.0.0.0 seemlysuggestion.com
 0.0.0.0 seevolution.com
 0.0.0.0 sefkal.openapp.link
 0.0.0.0 seg.sharethis.com
@@ -29324,6 +29343,7 @@
 0.0.0.0 shield.sitelock.com
 0.0.0.0 shinesavage.com
 0.0.0.0 shinestuart.com
+0.0.0.0 shinypond.com
 0.0.0.0 shinystat.com
 0.0.0.0 shinystat.it
 0.0.0.0 shippinginsights.com
@@ -33365,6 +33385,7 @@
 0.0.0.0 spookyskate.com
 0.0.0.0 spookysleet.com
 0.0.0.0 spookyslope.com
+0.0.0.0 spookystitch.com
 0.0.0.0 spoonsilk.com
 0.0.0.0 spotlessstamp.com
 0.0.0.0 spotstring.com
@@ -33381,6 +33402,7 @@
 0.0.0.0 springmetrics.com
 0.0.0.0 springsister.com
 0.0.0.0 springsnails.com
+0.0.0.0 sprydelta.com
 0.0.0.0 spscas.hitachi-solutions.co.jp
 0.0.0.0 spt.ahram.org.eg
 0.0.0.0 sptag.com
@@ -35575,6 +35597,7 @@
 0.0.0.0 superstats.com
 0.0.0.0 superstats.observepoint.com
 0.0.0.0 supervisegoldfish.com
+0.0.0.0 superviseshoes.com
 0.0.0.0 support.flex.com
 0.0.0.0 support.panasonic.eu
 0.0.0.0 support.ricoh.fr
@@ -39573,6 +39596,7 @@
 0.0.0.0 trakken.de
 0.0.0.0 trakksocial.googlecode.com
 0.0.0.0 tranquilamulet.com
+0.0.0.0 tranquilarchipelago.com
 0.0.0.0 tranquilcanyon.com
 0.0.0.0 tranquilplume.com
 0.0.0.0 tranquilside.com
@@ -40001,6 +40025,7 @@
 0.0.0.0 trk04.informatech.com
 0.0.0.0 trk09.informa.com
 0.0.0.0 trk2-wtb.swaven.com
+0.0.0.0 trkapi.impact.com
 0.0.0.0 trkbc.com
 0.0.0.0 trkcmi.informaconnect.com
 0.0.0.0 trkemail.luisaviaroma.com
@@ -40282,7 +40307,6 @@
 0.0.0.0 ukmarketing.sedgwick.com
 0.0.0.0 ukmnlp.techbang.com
 0.0.0.0 ukri.innovateuk.org
-0.0.0.0 ukw.jp
 0.0.0.0 ukzjce.idus.com
 0.0.0.0 ulclick.ru
 0.0.0.0 uldtqa.weekendmaxmara.com
@@ -41604,6 +41628,7 @@
 0.0.0.0 worldmtcs.nhk.jp
 0.0.0.0 worldnetpr.actonservice.com
 0.0.0.0 worriednumber.com
+0.0.0.0 worriedwine.com
 0.0.0.0 wos.lv
 0.0.0.0 wowanalytics.co.uk
 0.0.0.0 wowrdm.stepstone.at
