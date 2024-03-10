@@ -1,6 +1,6 @@
-# Version: 202403030039
+# Version: 202403092246
 # Title: EasyPrivacy
-# Last modified: 03 Mar 2024 00:39 UTC
+# Last modified: 09 Mar 2024 22:46 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -3894,6 +3894,7 @@ adbsmetrics.kt.com
 adbsmetrics.lotterentacar.net
 adc-js.nine.com.au
 adc-serv.net
+adcalls.nl
 adclear.net
 adcontroll.com
 adcrowd.com
@@ -4845,6 +4846,7 @@ analytics.martinandosa.com
 analytics.matchbin.com
 analytics.mattmcadams.com
 analytics.maxroll.gg
+analytics.mbga.jp
 analytics.mc500.info
 analytics.media-proweb.de
 analytics.meituan.net
@@ -7184,6 +7186,7 @@ blogtw.net
 blotburn.com
 blsoof.wirwinzer.de
 blue-rocket.actonservice.com
+blue.nbc4i.com
 bluecava.com
 blueconic.net
 bluecore-email.branch.rocks
@@ -9102,6 +9105,7 @@ convention.interfaceflor.com
 converge.headuplabs.com
 convergentdental.actonservice.com
 convergetrack.com
+conversationalsdevelopment.nl
 conversion.pl
 conversionfly.com
 conversionlabs.net.pl
@@ -9804,6 +9808,7 @@ d3lqotgbn3npr.cloudfront.net
 d3m6sept6cnil5.cloudfront.net
 d3mskfhorhi2fb.cloudfront.net
 d3n6i6eorggdxk.cloudfront.net
+d3or5d0jdz94or.cloudfront.net
 d3pi0tys5sdysl.cloudfront.net
 d3plfjw9uod7ab.cloudfront.net
 d3qztsm17pgxue.cloudfront.net
@@ -10396,6 +10401,7 @@ ddlbr.timesclub.co
 ddlcvm.clas.style
 ddm.io
 ddmfrg.modivo.bg
+ddome-tag.blablacar.com
 ddsndt.azubiyo.de
 de-de.siemensplmevents.com
 de-go.experian.com
@@ -12649,6 +12655,7 @@ eusdbk.philosophyofficial.com
 ev.moneymade.io
 ev.stellarlabs.ai
 ev.tpocdm.com
+eval.privateapi.click
 evaluateend.com
 evanescentedge.com
 evenement.ricoh.fr
@@ -12659,6 +12666,7 @@ event-collector.moviesanywhere.com
 event-collector.prd.data.s.joyn.de
 event-listener.air.tv
 event-logger.tagboard.com
+event-router.olympics.com
 event-service.letslinc.com
 event-stream.spot.im
 event.api.drift.com
@@ -13085,6 +13093,7 @@ feedme.use-beez.com
 feedperfect.com
 fek1.fnactickets.com
 feldman.net.anwalt.de
+feliz.data.tm-awx.com
 femetrics.grammarly.io
 feqbqn.rent.com
 feraciumus.com
@@ -13971,6 +13980,7 @@ getclicky.com
 getconnected.infor.com
 getconversion.net
 getdev.payso.ca
+getdeviceinf.com
 getdrip.com
 getfreebl.com
 getinfo.fullsail.edu
@@ -18155,6 +18165,7 @@ legolas-media.com
 leiki.com
 lem.nouvelobs.com
 lemnisk.co
+lemonpi.io
 lenpmh.francoisesaget.com
 lentainform.com
 leo1.leon-de-bruxelles.fr
@@ -19140,6 +19151,7 @@ livewebstats.dk
 liveyield.com
 livingsleet.com
 lizardslaugh.com
+ljc.coupang.com
 ljqpvo.hardrock.com
 ljyipz.nugnes1920.com
 ljzxdu.largus.fr
@@ -23737,7 +23749,6 @@ mtcvyv.webaslan.com
 mteme7li1d6r.vertexmarketingagency.com
 mtest.fontself.com
 mtkure.gazin.com.br
-mtm.qdqmedia.com
 mtoxtg.tezenis.com
 mtrace.qq.com
 mtrack.nl
@@ -26236,6 +26247,7 @@ promotions.thermofisher.com
 promotionspr.actonservice.com
 proofpoint.com
 proofpositivemedia.com
+propelbon.com
 propermessage.io
 properties.insiterealestate.com
 property.aon.com
@@ -26828,6 +26840,7 @@ rebelswing.com
 rec.banggood.com
 recapture.io
 receiptcent.com
+receive.wmcdp.io
 receptivebranch.com
 receptiveink.com
 receptivereaction.com
@@ -32832,6 +32845,7 @@ snowman.odencat.com
 snowplow.swm.digital
 snowplowjs.darwin.cx
 snowsignal.com
+snplow.net
 snprxx.wwfmarket.com
 snptrk.com
 snr4.canalplus.com
@@ -43013,7 +43027,7 @@ zzsqqx.shopjapan.co.jp
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2024-03-03 00:47:52.070360
+# Generated at 2024-03-10 00:48:57.810417
 
 databerries.com
 fidzup

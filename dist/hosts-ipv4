@@ -1,6 +1,6 @@
-# Version: 202403030039
+# Version: 202403092246
 # Title: EasyPrivacy
-# Last modified: 03 Mar 2024 00:39 UTC
+# Last modified: 09 Mar 2024 22:46 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -3894,6 +3894,7 @@
 0.0.0.0 adbsmetrics.lotterentacar.net
 0.0.0.0 adc-js.nine.com.au
 0.0.0.0 adc-serv.net
+0.0.0.0 adcalls.nl
 0.0.0.0 adclear.net
 0.0.0.0 adcontroll.com
 0.0.0.0 adcrowd.com
@@ -4845,6 +4846,7 @@
 0.0.0.0 analytics.matchbin.com
 0.0.0.0 analytics.mattmcadams.com
 0.0.0.0 analytics.maxroll.gg
+0.0.0.0 analytics.mbga.jp
 0.0.0.0 analytics.mc500.info
 0.0.0.0 analytics.media-proweb.de
 0.0.0.0 analytics.meituan.net
@@ -7184,6 +7186,7 @@
 0.0.0.0 blotburn.com
 0.0.0.0 blsoof.wirwinzer.de
 0.0.0.0 blue-rocket.actonservice.com
+0.0.0.0 blue.nbc4i.com
 0.0.0.0 bluecava.com
 0.0.0.0 blueconic.net
 0.0.0.0 bluecore-email.branch.rocks
@@ -9102,6 +9105,7 @@
 0.0.0.0 converge.headuplabs.com
 0.0.0.0 convergentdental.actonservice.com
 0.0.0.0 convergetrack.com
+0.0.0.0 conversationalsdevelopment.nl
 0.0.0.0 conversion.pl
 0.0.0.0 conversionfly.com
 0.0.0.0 conversionlabs.net.pl
@@ -9804,6 +9808,7 @@
 0.0.0.0 d3m6sept6cnil5.cloudfront.net
 0.0.0.0 d3mskfhorhi2fb.cloudfront.net
 0.0.0.0 d3n6i6eorggdxk.cloudfront.net
+0.0.0.0 d3or5d0jdz94or.cloudfront.net
 0.0.0.0 d3pi0tys5sdysl.cloudfront.net
 0.0.0.0 d3plfjw9uod7ab.cloudfront.net
 0.0.0.0 d3qztsm17pgxue.cloudfront.net
@@ -10396,6 +10401,7 @@
 0.0.0.0 ddlcvm.clas.style
 0.0.0.0 ddm.io
 0.0.0.0 ddmfrg.modivo.bg
+0.0.0.0 ddome-tag.blablacar.com
 0.0.0.0 ddsndt.azubiyo.de
 0.0.0.0 de-de.siemensplmevents.com
 0.0.0.0 de-go.experian.com
@@ -12649,6 +12655,7 @@
 0.0.0.0 ev.moneymade.io
 0.0.0.0 ev.stellarlabs.ai
 0.0.0.0 ev.tpocdm.com
+0.0.0.0 eval.privateapi.click
 0.0.0.0 evaluateend.com
 0.0.0.0 evanescentedge.com
 0.0.0.0 evenement.ricoh.fr
@@ -12659,6 +12666,7 @@
 0.0.0.0 event-collector.prd.data.s.joyn.de
 0.0.0.0 event-listener.air.tv
 0.0.0.0 event-logger.tagboard.com
+0.0.0.0 event-router.olympics.com
 0.0.0.0 event-service.letslinc.com
 0.0.0.0 event-stream.spot.im
 0.0.0.0 event.api.drift.com
@@ -13085,6 +13093,7 @@
 0.0.0.0 feedperfect.com
 0.0.0.0 fek1.fnactickets.com
 0.0.0.0 feldman.net.anwalt.de
+0.0.0.0 feliz.data.tm-awx.com
 0.0.0.0 femetrics.grammarly.io
 0.0.0.0 feqbqn.rent.com
 0.0.0.0 feraciumus.com
@@ -13971,6 +13980,7 @@
 0.0.0.0 getconnected.infor.com
 0.0.0.0 getconversion.net
 0.0.0.0 getdev.payso.ca
+0.0.0.0 getdeviceinf.com
 0.0.0.0 getdrip.com
 0.0.0.0 getfreebl.com
 0.0.0.0 getinfo.fullsail.edu
@@ -18155,6 +18165,7 @@
 0.0.0.0 leiki.com
 0.0.0.0 lem.nouvelobs.com
 0.0.0.0 lemnisk.co
+0.0.0.0 lemonpi.io
 0.0.0.0 lenpmh.francoisesaget.com
 0.0.0.0 lentainform.com
 0.0.0.0 leo1.leon-de-bruxelles.fr
@@ -19140,6 +19151,7 @@
 0.0.0.0 liveyield.com
 0.0.0.0 livingsleet.com
 0.0.0.0 lizardslaugh.com
+0.0.0.0 ljc.coupang.com
 0.0.0.0 ljqpvo.hardrock.com
 0.0.0.0 ljyipz.nugnes1920.com
 0.0.0.0 ljzxdu.largus.fr
@@ -23737,7 +23749,6 @@
 0.0.0.0 mteme7li1d6r.vertexmarketingagency.com
 0.0.0.0 mtest.fontself.com
 0.0.0.0 mtkure.gazin.com.br
-0.0.0.0 mtm.qdqmedia.com
 0.0.0.0 mtoxtg.tezenis.com
 0.0.0.0 mtrace.qq.com
 0.0.0.0 mtrack.nl
@@ -26236,6 +26247,7 @@
 0.0.0.0 promotionspr.actonservice.com
 0.0.0.0 proofpoint.com
 0.0.0.0 proofpositivemedia.com
+0.0.0.0 propelbon.com
 0.0.0.0 propermessage.io
 0.0.0.0 properties.insiterealestate.com
 0.0.0.0 property.aon.com
@@ -26828,6 +26840,7 @@
 0.0.0.0 rec.banggood.com
 0.0.0.0 recapture.io
 0.0.0.0 receiptcent.com
+0.0.0.0 receive.wmcdp.io
 0.0.0.0 receptivebranch.com
 0.0.0.0 receptiveink.com
 0.0.0.0 receptivereaction.com
@@ -32832,6 +32845,7 @@
 0.0.0.0 snowplow.swm.digital
 0.0.0.0 snowplowjs.darwin.cx
 0.0.0.0 snowsignal.com
+0.0.0.0 snplow.net
 0.0.0.0 snprxx.wwfmarket.com
 0.0.0.0 snptrk.com
 0.0.0.0 snr4.canalplus.com
@@ -43013,7 +43027,7 @@
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2024-03-03 00:47:52.838590
+# Generated at 2024-03-10 00:48:58.561035
 
 0.0.0.0 databerries.com
 0.0.0.0 fidzup
