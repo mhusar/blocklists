@@ -1,6 +1,6 @@
-# Version: 202403092246
+# Version: 202403170013
 # Title: EasyPrivacy
-# Last modified: 09 Mar 2024 22:46 UTC
+# Last modified: 17 Mar 2024 00:13 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -4173,7 +4173,6 @@
 0.0.0.0 adtive.com
 0.0.0.0 adtr.io
 0.0.0.0 adtrack.loracle.jp
-0.0.0.0 adtrackers.net
 0.0.0.0 adtraxx.de
 0.0.0.0 adtriba.com
 0.0.0.0 adultblogtoplist.com
@@ -4292,6 +4291,7 @@
 0.0.0.0 agentinteractive.com
 0.0.0.0 agexpo.americanexpress.com
 0.0.0.0 aggelakia.openapp.link
+0.0.0.0 aggle.net
 0.0.0.0 aghtag.tech
 0.0.0.0 agilecrm.com
 0.0.0.0 agilesrv.com
@@ -4607,6 +4607,7 @@
 0.0.0.0 analytics-zone-1.api.leadfamly.com
 0.0.0.0 analytics.163.com
 0.0.0.0 analytics.30m.com
+0.0.0.0 analytics.3c5.com
 0.0.0.0 analytics.aasaam.com
 0.0.0.0 analytics.academy.com
 0.0.0.0 analytics.adam.page
@@ -4708,6 +4709,7 @@
 0.0.0.0 analytics.convertlanguage.com
 0.0.0.0 analytics.cookiefirst.dev
 0.0.0.0 analytics.corusent.com
+0.0.0.0 analytics.crazygames.com
 0.0.0.0 analytics.crowdkeep.com
 0.0.0.0 analytics.cycleworld.com
 0.0.0.0 analytics.cyrillus.be
@@ -6827,6 +6829,7 @@
 0.0.0.0 ballsbanana.com
 0.0.0.0 ballymoregroup.actonservice.com
 0.0.0.0 bam-x.com
+0.0.0.0 ban.su
 0.0.0.0 banana.le.com
 0.0.0.0 bancopostapremia.bancoposta.it
 0.0.0.0 bandborder.com
@@ -8517,6 +8520,7 @@
 0.0.0.0 cnebis.i-no-science.com
 0.0.0.0 cnhv.co
 0.0.0.0 cnlbxi.zoopla.co.uk
+0.0.0.0 cnna.io
 0.0.0.0 cnpxwl.cheapcaribbean.com
 0.0.0.0 cns-service.actonservice.com
 0.0.0.0 cnsecurity.actonservice.com
@@ -9105,7 +9109,6 @@
 0.0.0.0 converge.headuplabs.com
 0.0.0.0 convergentdental.actonservice.com
 0.0.0.0 convergetrack.com
-0.0.0.0 conversationalsdevelopment.nl
 0.0.0.0 conversion.pl
 0.0.0.0 conversionfly.com
 0.0.0.0 conversionlabs.net.pl
@@ -12707,6 +12710,7 @@
 0.0.0.0 eventos.mirecweek.com
 0.0.0.0 eventos.ubmmexico.com
 0.0.0.0 eventos.usj.es
+0.0.0.0 events-ingestion.services.gorgias.com
 0.0.0.0 events-logs.doctolib.com
 0.0.0.0 events-prod.autolist.com
 0.0.0.0 events-tracker.deliveroo.net
@@ -13740,6 +13744,7 @@
 0.0.0.0 gcn.tuv.com
 0.0.0.0 gcoiys.cutsclothing.com
 0.0.0.0 gcowhi.thesalarycalculator.co.uk
+0.0.0.0 gcprivacy.com
 0.0.0.0 gct.americanexpress.com
 0.0.0.0 gcudsn.tradetested.co.nz
 0.0.0.0 gcwubi.happypancake.fi
@@ -19151,7 +19156,6 @@
 0.0.0.0 liveyield.com
 0.0.0.0 livingsleet.com
 0.0.0.0 lizardslaugh.com
-0.0.0.0 ljc.coupang.com
 0.0.0.0 ljqpvo.hardrock.com
 0.0.0.0 ljyipz.nugnes1920.com
 0.0.0.0 ljzxdu.largus.fr
@@ -36235,6 +36239,7 @@
 0.0.0.0 t.soec.ca
 0.0.0.0 t.soonersports.com
 0.0.0.0 t.southernmiss.com
+0.0.0.0 t.spbx.app
 0.0.0.0 t.splicky.com
 0.0.0.0 t.spot.im
 0.0.0.0 t.staging-mail.tabcorp.com.au
@@ -38721,6 +38726,7 @@
 0.0.0.0 track.plygem.com
 0.0.0.0 track.postkodlotteriet.se
 0.0.0.0 track.pricespider.com
+0.0.0.0 track.prod.smash.pet
 0.0.0.0 track.qoof.com
 0.0.0.0 track.quad.com
 0.0.0.0 track.realtimeboard.com
@@ -43027,7 +43033,7 @@
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2024-03-10 00:48:58.561035
+# Generated at 2024-03-17 00:49:05.063794
 
 0.0.0.0 databerries.com
 0.0.0.0 fidzup

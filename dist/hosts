@@ -1,6 +1,6 @@
-# Version: 202403092246
+# Version: 202403170013
 # Title: EasyPrivacy
-# Last modified: 09 Mar 2024 22:46 UTC
+# Last modified: 17 Mar 2024 00:13 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -4173,7 +4173,6 @@ adtimaserver.vn
 adtive.com
 adtr.io
 adtrack.loracle.jp
-adtrackers.net
 adtraxx.de
 adtriba.com
 adultblogtoplist.com
@@ -4292,6 +4291,7 @@ agentcomm.mercuryinsurance.com
 agentinteractive.com
 agexpo.americanexpress.com
 aggelakia.openapp.link
+aggle.net
 aghtag.tech
 agilecrm.com
 agilesrv.com
@@ -4607,6 +4607,7 @@ analytics-wcms.joins.net
 analytics-zone-1.api.leadfamly.com
 analytics.163.com
 analytics.30m.com
+analytics.3c5.com
 analytics.aasaam.com
 analytics.academy.com
 analytics.adam.page
@@ -4708,6 +4709,7 @@ analytics.contents.by-fw.jp
 analytics.convertlanguage.com
 analytics.cookiefirst.dev
 analytics.corusent.com
+analytics.crazygames.com
 analytics.crowdkeep.com
 analytics.cycleworld.com
 analytics.cyrillus.be
@@ -6827,6 +6829,7 @@ balloontexture.com
 ballsbanana.com
 ballymoregroup.actonservice.com
 bam-x.com
+ban.su
 banana.le.com
 bancopostapremia.bancoposta.it
 bandborder.com
@@ -8517,6 +8520,7 @@ cnebis.eisai.jp
 cnebis.i-no-science.com
 cnhv.co
 cnlbxi.zoopla.co.uk
+cnna.io
 cnpxwl.cheapcaribbean.com
 cns-service.actonservice.com
 cnsecurity.actonservice.com
@@ -9105,7 +9109,6 @@ convention.interfaceflor.com
 converge.headuplabs.com
 convergentdental.actonservice.com
 convergetrack.com
-conversationalsdevelopment.nl
 conversion.pl
 conversionfly.com
 conversionlabs.net.pl
@@ -12707,6 +12710,7 @@ eventos.emkt.ingressorapido.com.br
 eventos.mirecweek.com
 eventos.ubmmexico.com
 eventos.usj.es
+events-ingestion.services.gorgias.com
 events-logs.doctolib.com
 events-prod.autolist.com
 events-tracker.deliveroo.net
@@ -13740,6 +13744,7 @@ gccmembershiprewards.americanexpress.it
 gcn.tuv.com
 gcoiys.cutsclothing.com
 gcowhi.thesalarycalculator.co.uk
+gcprivacy.com
 gct.americanexpress.com
 gcudsn.tradetested.co.nz
 gcwubi.happypancake.fi
@@ -19151,7 +19156,6 @@ livewebstats.dk
 liveyield.com
 livingsleet.com
 lizardslaugh.com
-ljc.coupang.com
 ljqpvo.hardrock.com
 ljyipz.nugnes1920.com
 ljzxdu.largus.fr
@@ -36235,6 +36239,7 @@ t.smile.eu
 t.soec.ca
 t.soonersports.com
 t.southernmiss.com
+t.spbx.app
 t.splicky.com
 t.spot.im
 t.staging-mail.tabcorp.com.au
@@ -38721,6 +38726,7 @@ track.pexi.nl
 track.plygem.com
 track.postkodlotteriet.se
 track.pricespider.com
+track.prod.smash.pet
 track.qoof.com
 track.quad.com
 track.realtimeboard.com
@@ -43027,7 +43033,7 @@ zzsqqx.shopjapan.co.jp
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2024-03-10 00:48:57.810417
+# Generated at 2024-03-17 00:49:04.136767
 
 databerries.com
 fidzup
