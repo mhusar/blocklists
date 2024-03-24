@@ -1,6 +1,6 @@
-# Version: 202403170013
+# Version: 202403232326
 # Title: EasyPrivacy
-# Last modified: 17 Mar 2024 00:13 UTC
+# Last modified: 23 Mar 2024 23:26 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -248,7 +248,6 @@
 9uim1pc4ej4n.ru.themoneytizer.com
 9w2zed1szg.execute-api.us-east-1.amazonaws.com
 9ywl0cwf7e37m5yi.tapin.gg
-_tcp.academyofconsciousleadership.net
 a-api.skz.dev
 a-calc.de
 a-cast.jp
@@ -5249,6 +5248,7 @@ api.apiok.net.iberostar.com
 api.autopilothq.com
 api.baomoi.com
 api.bunzlaucastle.com
+api.country.is
 api.digitalpiloten.org
 api.eichendorffschule.online
 api.elliehuxtable.com
@@ -6848,6 +6848,7 @@ bavvgo.zingat.com
 bawdybalance.com
 bawdybeast.com
 bawdypets.com
+baxter.olx.org
 baynote.net
 bayshoresystems.actonservice.com
 baztrack.com
@@ -8008,6 +8009,7 @@ cdn-channels-pixel.ex.co
 cdn-net.com
 cdn-rum.ngenix.net
 cdn-sitegainer.com
+cdn.ad-platform.jmty.jp
 cdn.arcstudiopro.com
 cdn.c-i.as
 cdn.net.dz.jumia.com
@@ -9191,6 +9193,7 @@ count.me.uk
 count.munhwa.com
 count.paycounter.com
 count.rin.ru
+count.sibbo.net
 count.upc.rakuten.co.jp
 count.xxxssk.com
 count.yandeg.ru
@@ -9806,6 +9809,7 @@ d3sbxpiag177w8.cloudfront.net
 d3tglifpd8whs6.cloudfront.net
 d3uvwl4wtkgzo1.cloudfront.net
 d3vebqdofhigrn.cloudfront.net
+d401.dollartree.com
 d41.co
 d4ax0r5detcsu.cloudfront.net
 d6ek.pandasuite.io
@@ -9828,6 +9832,7 @@ da.maif.fr
 da.netease.com
 da.rabobank.nl
 da29e6b8-f018-490f-b25f-39a887fc95e7.xyz
+dabu.askmediagroup.com
 dacocorp.actonservice.com
 dacounter.com
 dadi.technology
@@ -11330,6 +11335,7 @@ e.mail.levi.com
 e.meridiancm.com
 e.nicklauschildrens.org
 e.pomonaelectronics.com
+e.quizlet.com
 e.replacementdevicelawsuit.com
 e.shop.app
 e.synchronybank.com
@@ -11729,6 +11735,7 @@ ek8.voyage-prive.com
 ekmpinpoint.co.uk
 ekmpinpoint.com
 ekphpa.perfectlypriscilla.com
+el.quizlet.com
 ela-3-tnk.com
 elasticchange.com
 elasticducks.com
@@ -12403,7 +12410,6 @@ engine64.com
 engineergrape.com
 engineertrick.com
 enhance.co.jp
-enhance.com
 enhencer.com
 eniac.net.jumia.com.gh
 enigmaticvoyage.com
@@ -14773,6 +14779,7 @@ greetzebra.com
 greif.actonservice.com
 greyinstrument.com
 grfz.de
+grgnsht.nzxt.com
 gridsum.com
 gridsumdissector.com
 gripcorn.com
@@ -14891,6 +14898,7 @@ h-cast.jp
 h.imedia.cz
 h.n11.com
 h00c.sfr.fr
+h031.familydollar.com
 h353.ncadvertiser.com
 h5.analytics.126.net
 h559.stamfordadvocate.com
@@ -19594,6 +19602,7 @@ lxztgb.musee-pla.com
 ly8c.caci-online.fr
 lydallpm.actonservice.com
 lyegyo.bluenile.com
+lyfnh.io
 lyfrir.purehockey.com
 lyngro.com
 lyonsdown.actonservice.com
@@ -21442,6 +21451,7 @@ mckbpe.united-arrows.co.jp
 mckiey.thun.com
 mcloudglobal.com
 mcrmqv.joiasprime.com.br
+mcs-ie.tiktokw.eu
 mcs-va.tiktokv.com
 mcs.tiktokv.us
 mcs.us.tiktokv.com
@@ -25955,6 +25965,7 @@ podcorn.com
 podiumpresto.com
 poeticmetric.com
 poeticpackage.com
+pog.com
 pointdigestion.com
 pointillist.com
 pointlesshour.com
@@ -27943,7 +27954,6 @@ samestretch.com
 sametrics.finn.no
 samia.net.anwalt.de
 samplesamba.com
-sams.manager-magazin.de
 sams.spiegel.de
 samt.frankly.ch
 samt.swisscanto.com
@@ -34115,6 +34125,7 @@ stanburns.actonservice.com
 standingnest.com
 standingsack.com
 standtrouble.com
+standvirtual.com
 star-cntr-5.com
 starchild.odencat.com
 starget.aircanada.com
@@ -35496,6 +35507,7 @@ stupendoussnow.com
 stupidscene.com
 stupidsnake.com
 sturdysnail.com
+sturton-lation.com
 styles.hautelook.com
 su1.les-suites.ca
 sub.booksdream-mypage.com
@@ -38745,6 +38757,7 @@ track.tiara.daum.net
 track.tiara.kakao.com
 track.tom.com
 track.tomwx.net
+track.ttsave.app
 track.uc.cn
 track.ultimate-guitar.com
 track.unidata.ai
@@ -43018,7 +43031,7 @@ zzsqqx.shopjapan.co.jp
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2024-03-17 00:49:04.136767
+# Generated at 2024-03-24 00:51:15.601809
 
 databerries.com
 fidzup
