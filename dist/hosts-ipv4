@@ -1,6 +1,6 @@
-# Version: 202403232326
+# Version: 202403310037
 # Title: EasyPrivacy
-# Last modified: 23 Mar 2024 23:26 UTC
+# Last modified: 31 Mar 2024 00:37 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -25,6 +25,7 @@
 0.0.0.0 102d.pandasuite.io
 0.0.0.0 103bees.com
 0.0.0.0 105app.com
+0.0.0.0 109.123.233.251
 0.0.0.0 109.169.66.161
 0.0.0.0 10ro53kulyb.groove.so
 0.0.0.0 10stepswp.advancedtech.com
@@ -4851,6 +4852,7 @@
 0.0.0.0 analytics.mc500.info
 0.0.0.0 analytics.media-proweb.de
 0.0.0.0 analytics.meituan.net
+0.0.0.0 analytics.mercadolibre.com
 0.0.0.0 analytics.metro-cc.ru
 0.0.0.0 analytics.metro.be
 0.0.0.0 analytics.metro.co.in
@@ -7029,7 +7031,6 @@
 0.0.0.0 bewilderedbattle.com
 0.0.0.0 bewilderedblade.com
 0.0.0.0 beyond.bluewolf.com
-0.0.0.0 beyondmeasure.rigoltech.com
 0.0.0.0 beyondsecurity.com
 0.0.0.0 bf-tools.net
 0.0.0.0 bf35f69f2c6f6bcda64064b1f5b49218.domain.com.au
@@ -8625,6 +8626,7 @@
 0.0.0.0 collect.verify.lnearn.com
 0.0.0.0 collect2.allianz.ch
 0.0.0.0 collecting.click
+0.0.0.0 collection.e-satisfaction.com
 0.0.0.0 collection.saga.co.uk
 0.0.0.0 collections.equifax.com
 0.0.0.0 collector-api.99designs.com
@@ -10634,6 +10636,7 @@
 0.0.0.0 dgkpzy.2ch2.net
 0.0.0.0 dgmolb.irishjobs.ie
 0.0.0.0 dgztiz.conrad.se
+0.0.0.0 dh0c1bz67fuho.cloudfront.net
 0.0.0.0 dhdaa.duke.edu
 0.0.0.0 dhlsupplychain.dhl.com
 0.0.0.0 dhmdja.trueprotein.com.au
@@ -12722,7 +12725,6 @@
 0.0.0.0 events-tracker.deliveroo.net
 0.0.0.0 events.accuity.com
 0.0.0.0 events.air.tv
-0.0.0.0 events.apester.com
 0.0.0.0 events.api.godaddy.com
 0.0.0.0 events.attentivemobile.com
 0.0.0.0 events.audiate.me
@@ -13238,6 +13240,7 @@
 0.0.0.0 floorforce.actonservice.com
 0.0.0.0 floraprima.efscle.com
 0.0.0.0 flotech.actonservice.com
+0.0.0.0 flourishingcollaboration.com
 0.0.0.0 flow.kiloutou.fr
 0.0.0.0 flowersornament.com
 0.0.0.0 flowerstreatment.com
@@ -14867,6 +14870,7 @@
 0.0.0.0 guiltlessbasketball.com
 0.0.0.0 guitargrandmother.com
 0.0.0.0 guitarlearning.deplike.com
+0.0.0.0 gulf.moneroocean.stream
 0.0.0.0 gulliblecamp.com
 0.0.0.0 gulliblegrip.com
 0.0.0.0 gullibleguitar.com
@@ -24009,6 +24013,7 @@
 0.0.0.0 neatshade.com
 0.0.0.0 neatstats.com
 0.0.0.0 nebulacrescent.com
+0.0.0.0 nebulajubilee.com
 0.0.0.0 nebulousamusement.com
 0.0.0.0 nebulousripple.com
 0.0.0.0 necessarywax.com
@@ -26068,6 +26073,7 @@
 0.0.0.0 pr.blogflux.com
 0.0.0.0 pr.cision.co.uk
 0.0.0.0 pr.cision.com
+0.0.0.0 pr.nss.netease.com
 0.0.0.0 pr.prnewswire.co.uk
 0.0.0.0 pr.prnewswire.com
 0.0.0.0 pr.yokohama-chokin.com
@@ -27444,6 +27450,7 @@
 0.0.0.0 rum.azion.com
 0.0.0.0 rum.azioncdn.net
 0.0.0.0 rum.condenastdigital.com
+0.0.0.0 rum.corewebvitals.io
 0.0.0.0 rum.ingress.layer0.co
 0.0.0.0 rum.kobo.com
 0.0.0.0 rum.layer0.co
@@ -28439,6 +28446,7 @@
 0.0.0.0 sdc2.credit-suisse.com
 0.0.0.0 sdcs.felissimo.co.jp
 0.0.0.0 sdjthl.tvguide.dk
+0.0.0.0 sdk.51.la
 0.0.0.0 sdlmaf.bestsecret.at
 0.0.0.0 sdome.underarmour.co.jp
 0.0.0.0 sdpimt.lostgolfballs.com
@@ -43046,7 +43054,7 @@
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2024-03-24 00:51:16.503942
+# Generated at 2024-03-31 00:51:11.231722
 
 0.0.0.0 databerries.com
 0.0.0.0 fidzup
