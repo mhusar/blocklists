@@ -1,6 +1,6 @@
-# Version: 202404210035
+# Version: 202404272325
 # Title: EasyPrivacy
-# Last modified: 21 Apr 2024 00:35 UTC
+# Last modified: 27 Apr 2024 23:25 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -5145,6 +5145,7 @@
 0.0.0.0 analyticssec.overwolf.com
 0.0.0.0 analyticsssl.forcepoint.com
 0.0.0.0 analyticswizard.com
+0.0.0.0 analyzecorona.com
 0.0.0.0 analyzee.io
 0.0.0.0 analyzer.fc2.com
 0.0.0.0 analyzer2.fc2.com
@@ -7319,6 +7320,7 @@
 0.0.0.0 bounceexchange.com
 0.0.0.0 bouncepilot.com
 0.0.0.0 bouncex.com
+0.0.0.0 bouncex.net
 0.0.0.0 bouncyfront.com
 0.0.0.0 bouncyproperty.com
 0.0.0.0 boundarybusiness.com
@@ -7790,6 +7792,7 @@
 0.0.0.0 c.stext.id
 0.0.0.0 c.thredup.com
 0.0.0.0 c.topya.com
+0.0.0.0 c.vanityfair.com
 0.0.0.0 c.vcty.co
 0.0.0.0 c.vogue.com
 0.0.0.0 c.vrt.be
@@ -8070,6 +8073,7 @@
 0.0.0.0 cdnmaster.com
 0.0.0.0 cdnopw.com
 0.0.0.0 cdnral.com
+0.0.0.0 cdnwidget.com
 0.0.0.0 cdp.cifinancial.com
 0.0.0.0 cdp.yna.co.kr
 0.0.0.0 cdrive.compellent.com
@@ -8221,6 +8225,7 @@
 0.0.0.0 cityadstrack.com
 0.0.0.0 citypaketet.se
 0.0.0.0 cityrobotflower.com
+0.0.0.0 cityspark.com
 0.0.0.0 cityua.net
 0.0.0.0 ciyacton.ciy.com
 0.0.0.0 cizzvi.beldona.com
@@ -9461,6 +9466,7 @@
 0.0.0.0 cs1863sbeda.glaucoma-arrest.net
 0.0.0.0 cs2113sbeda.hokto-onlineshop.jp
 0.0.0.0 cs42.pikabu.ru
+0.0.0.0 cs43.pikabu.ru
 0.0.0.0 cscsexam.quantresear.ch
 0.0.0.0 csdata1.com
 0.0.0.0 cse3.chausport.com
@@ -9806,6 +9812,7 @@
 0.0.0.0 d1wix2gc2cgqis.cloudfront.net
 0.0.0.0 d1xfq2052q7thw.cloudfront.net
 0.0.0.0 d1z2jf7jlzjs58.cloudfront.net
+0.0.0.0 d1z3r0i09bwium.cloudfront.net
 0.0.0.0 d1z9vm58yath60.cloudfront.net
 0.0.0.0 d2-apps.net
 0.0.0.0 d20kffh39acpue.cloudfront.net
@@ -9844,6 +9851,7 @@
 0.0.0.0 d34r8q7sht0t9k.cloudfront.net
 0.0.0.0 d35u1vg1q28b3w.cloudfront.net
 0.0.0.0 d36u3psykfwy91.cloudfront.net
+0.0.0.0 d39ion77s0ucuz.cloudfront.net
 0.0.0.0 d39yds8oe4n4jq.cloudfront.net
 0.0.0.0 d3bj8nkfly20uo.cloudfront.net
 0.0.0.0 d3bo67muzbfgtl.cloudfront.net
@@ -11805,6 +11813,7 @@
 0.0.0.0 ekphpa.perfectlypriscilla.com
 0.0.0.0 el.quizlet.com
 0.0.0.0 ela-3-tnk.com
+0.0.0.0 eland-tech.com
 0.0.0.0 elasticchange.com
 0.0.0.0 elasticducks.com
 0.0.0.0 elastoproxy.actonservice.com
@@ -12768,7 +12777,6 @@
 0.0.0.0 event.csdn.net
 0.0.0.0 event.dnv.com
 0.0.0.0 event.evtm.53.com
-0.0.0.0 event.getblue.io
 0.0.0.0 event.grassicpas.com
 0.0.0.0 event.hackle.io
 0.0.0.0 event.instiengage.com
@@ -13680,6 +13688,7 @@
 0.0.0.0 fujiladder.com
 0.0.0.0 fullcircleinsights.com
 0.0.0.0 fullerton-app.hotdoc.com.au
+0.0.0.0 fulllab.com.br
 0.0.0.0 fullstory.com
 0.0.0.0 fulmar.net.anwalt.de
 0.0.0.0 fumblingform.com
@@ -14087,6 +14096,7 @@
 0.0.0.0 getapp.priceza.com
 0.0.0.0 getback.ch
 0.0.0.0 getbackstory.com
+0.0.0.0 getblue.io
 0.0.0.0 getblueshift.com
 0.0.0.0 getclicky.com
 0.0.0.0 getconnected.infor.com
@@ -14265,6 +14275,7 @@
 0.0.0.0 go-test.tamed.fdm.dk
 0.0.0.0 go-test.wondavr.com
 0.0.0.0 go-uat.qantaswellbeing.com
+0.0.0.0 go-usertrack-importer.pub.24ur.si
 0.0.0.0 go.17app.co
 0.0.0.0 go.4010.ru
 0.0.0.0 go.4sq.com
@@ -14603,6 +14614,7 @@
 0.0.0.0 go.piccolo.mobi
 0.0.0.0 go.picsart.com
 0.0.0.0 go.pinoy.innovatedating.com
+0.0.0.0 go.planetnine.com
 0.0.0.0 go.playbackbone.com
 0.0.0.0 go.player2app.com
 0.0.0.0 go.plygem.com
@@ -15244,6 +15256,7 @@
 0.0.0.0 hipkqt.contorion.de
 0.0.0.0 hira-meki.jp
 0.0.0.0 hirmatrix.hu
+0.0.0.0 hirsung.de
 0.0.0.0 histats.com
 0.0.0.0 historicalbeam.com
 0.0.0.0 historicalrequest.com
@@ -17368,6 +17381,7 @@
 0.0.0.0 ip.chipestimate.com
 0.0.0.0 ip.cliphunter.com
 0.0.0.0 ip.lovely-app.com
+0.0.0.0 ip.momentummedia.com.au
 0.0.0.0 ip.up66.ru
 0.0.0.0 ip2c.landscape.co.jp
 0.0.0.0 ip2c.org
@@ -17918,7 +17932,6 @@
 0.0.0.0 kilometrix.de
 0.0.0.0 kimberlyspa.actonservice.com
 0.0.0.0 kindhush.com
-0.0.0.0 kinesis.eu-west-1.amazonaws.com
 0.0.0.0 kinesis.us-east-1.analytics.edmentum.com
 0.0.0.0 kingnews.burgerking.co.za
 0.0.0.0 kingsandqueens.splowser.com
@@ -21567,6 +21580,7 @@
 0.0.0.0 mat.aegps.com
 0.0.0.0 mat.lgdisplay.com
 0.0.0.0 mat.socy.es
+0.0.0.0 mat.ukraine-nachrichten.de
 0.0.0.0 matchjoke.com
 0.0.0.0 matelso.de
 0.0.0.0 materialexample.com
@@ -23608,6 +23622,7 @@
 0.0.0.0 minuterhythm.com
 0.0.0.0 mirabelanalytics.com
 0.0.0.0 mirabelsmarketingmanager.com
+0.0.0.0 mircheigeshoa.com
 0.0.0.0 mirec.ubmmexico.com
 0.0.0.0 mirvso.boggi.com
 0.0.0.0 miscreantmine.com
@@ -24659,6 +24674,7 @@
 0.0.0.0 o.therosettastone.es
 0.0.0.0 o.webmd.com
 0.0.0.0 o.xbox.com
+0.0.0.0 o1ych4jb.com
 0.0.0.0 o2.ikontwerpflyers.nl
 0.0.0.0 o398.trumbulltimes.com
 0.0.0.0 o3gxzoewxl1x.cp.zomro.com
@@ -25641,6 +25657,7 @@
 0.0.0.0 pciokm.glamuse.com
 0.0.0.0 pcm.symantec.com
 0.0.0.0 pcnphysio-com.ca-eulerian.net
+0.0.0.0 pcp.coupert.com
 0.0.0.0 pcs.capgroup.com
 0.0.0.0 pcspeedup.com
 0.0.0.0 pd.bppeloqua.com
@@ -26718,6 +26735,7 @@
 0.0.0.0 qc.gq.com
 0.0.0.0 qc.newyorker.com
 0.0.0.0 qc.qualicocommunitieswinnipeg.com
+0.0.0.0 qc.vanityfair.com
 0.0.0.0 qc.vogue.com
 0.0.0.0 qc.wired.com
 0.0.0.0 qcaebg.nos.pt
@@ -36591,6 +36609,7 @@
 0.0.0.0 t570.wiltonbulletin.com
 0.0.0.0 t7baxp1xmw00.boxoffice.adventuretix.com
 0.0.0.0 t8.mailperformance.com
+0.0.0.0 t810.ctpost.com
 0.0.0.0 t9h2.ricardocuisine.com
 0.0.0.0 t9k3a.jeanpaulfortin.com
 0.0.0.0 ta.sanook.com
@@ -40943,6 +40962,7 @@
 0.0.0.0 valdes.net.anwalt.de
 0.0.0.0 valensoft.actonservice.com
 0.0.0.0 validate.onecount.net
+0.0.0.0 validmemo.com
 0.0.0.0 value.kfcu.org
 0.0.0.0 value.register.com
 0.0.0.0 valuedopinions.co.uk
@@ -42004,6 +42024,7 @@
 0.0.0.0 wowanalytics.co.uk
 0.0.0.0 wowrdm.stepstone.at
 0.0.0.0 wozdcc.vidaxl.at
+0.0.0.0 wp-worthy.de
 0.0.0.0 wpauvu.obuvki.bg
 0.0.0.0 wpdstat.com
 0.0.0.0 wpfc.ml
