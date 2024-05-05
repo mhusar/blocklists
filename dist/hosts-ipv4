@@ -1,6 +1,6 @@
-# Version: 202404272325
+# Version: 202405050039
 # Title: EasyPrivacy
-# Last modified: 27 Apr 2024 23:25 UTC
+# Last modified: 05 May 2024 00:39 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -3606,6 +3606,7 @@
 0.0.0.0 abtshield.com
 0.0.0.0 abuaac.suzette-shop.jp
 0.0.0.0 abuajs.e-monsite.com
+0.0.0.0 abundantcoin.com
 0.0.0.0 abvghl.udn.com
 0.0.0.0 abxslg.jollyroom.fi
 0.0.0.0 ac-3.mix.tokyo
@@ -6739,6 +6740,7 @@
 0.0.0.0 aydtkb.pikabu.ru
 0.0.0.0 aygccr.eonet.jp
 0.0.0.0 ayleaf.petersofkensington.com.au
+0.0.0.0 az.nzn.io
 0.0.0.0 az693360.vo.msecnd.net
 0.0.0.0 azcoct.bikkembergs.com
 0.0.0.0 azera-s014.com
@@ -8576,7 +8578,6 @@
 0.0.0.0 cnt.nov.ru
 0.0.0.0 cnt.rambler.ru
 0.0.0.0 cnt.rate.ru
-0.0.0.0 cnt.trvdp.com
 0.0.0.0 cnt.viptube.com
 0.0.0.0 cnt.vivatube.com
 0.0.0.0 cnt.wetteronline.de
@@ -9407,6 +9408,7 @@
 0.0.0.0 creator.zmags.com
 0.0.0.0 creatorcherry.com
 0.0.0.0 creatorpassenger.com
+0.0.0.0 creaturecabbage.com
 0.0.0.0 creditcreature.com
 0.0.0.0 crepemania.openapp.link
 0.0.0.0 crew-qa.zubie.com
@@ -11518,6 +11520,7 @@
 0.0.0.0 ea.warnerbros.fr
 0.0.0.0 ea.youmaker.com
 0.0.0.0 eacla.com
+0.0.0.0 eagereden.com
 0.0.0.0 eagle-insight.com
 0.0.0.0 eagle.actonservice.com
 0.0.0.0 eagle.aon.com
@@ -13093,6 +13096,7 @@
 0.0.0.0 fairdatacenter.de
 0.0.0.0 fairfeeling.com
 0.0.0.0 fairiesbranch.com
+0.0.0.0 fairytaleflame.com
 0.0.0.0 faktor.io
 0.0.0.0 fal2.carrefour-banque.fr
 0.0.0.0 fallaciousfifth.com
@@ -14106,6 +14110,7 @@
 0.0.0.0 getdrip.com
 0.0.0.0 getfreebl.com
 0.0.0.0 getinfo.fullsail.edu
+0.0.0.0 getinsights.io
 0.0.0.0 getl4w.lookout.com
 0.0.0.0 getlasso.co
 0.0.0.0 getnotix.co
@@ -15620,6 +15625,7 @@
 0.0.0.0 icslearn.actonsoftware.com
 0.0.0.0 icstats.nl
 0.0.0.0 icu.getstorybox.com
+0.0.0.0 iculture.report
 0.0.0.0 id-visitors.com
 0.0.0.0 id-ward.com
 0.0.0.0 id5-sync.com
@@ -21973,6 +21979,7 @@
 0.0.0.0 merequartz.com
 0.0.0.0 meridianbanker.actonservice.com
 0.0.0.0 meriwest.actonservice.com
+0.0.0.0 merryopal.com
 0.0.0.0 mesalabs.actonservice.com
 0.0.0.0 message.alldata.com
 0.0.0.0 message.sonicwall.com
@@ -25971,6 +25978,7 @@
 0.0.0.0 pl.venusafe.com
 0.0.0.0 pl.volunteeringhb.org.nz
 0.0.0.0 pl.weinshops.online
+0.0.0.0 pla.fwdcdn.com
 0.0.0.0 pla.wigglepixel.nl
 0.0.0.0 placeframe.com
 0.0.0.0 placemypixel.com
@@ -26013,6 +26021,7 @@
 0.0.0.0 plausible.ams.to
 0.0.0.0 plausible.app.kdojang.com
 0.0.0.0 plausible.app.tlschedule.com
+0.0.0.0 plausible.avris.it
 0.0.0.0 plausible.bablab.com
 0.0.0.0 plausible.bacanalia.net
 0.0.0.0 plausible.baychi.org
@@ -26344,7 +26353,6 @@
 0.0.0.0 pregrados.javeriana.edu.co
 0.0.0.0 premierbuyer.edm.globalsources.com
 0.0.0.0 premiercio.actonservice.com
-0.0.0.0 premiumads.com.br
 0.0.0.0 premiumapp.byjus.com
 0.0.0.0 premiumimpression.com
 0.0.0.0 prenesi-mojm.mercator.si
@@ -27686,6 +27694,7 @@
 0.0.0.0 ruddywash.com
 0.0.0.0 rugttt.robinson.com
 0.0.0.0 ruhpbn.zhigaojixie.com
+0.0.0.0 rum-ingress-coralogix.com
 0.0.0.0 rum.api.intuit.com
 0.0.0.0 rum.azion.com
 0.0.0.0 rum.azioncdn.net
@@ -28546,6 +28555,7 @@
 0.0.0.0 scanoptics.actonservice.com
 0.0.0.0 scanverify.com
 0.0.0.0 scarcecard.com
+0.0.0.0 scarceshock.com
 0.0.0.0 scarcesign.com
 0.0.0.0 scarcesurprise.com
 0.0.0.0 scarecrowslip.com
@@ -35735,6 +35745,7 @@
 0.0.0.0 strangeclocks.com
 0.0.0.0 strangersponge.com
 0.0.0.0 strangesink.com
+0.0.0.0 strapi.clickjogos.com.br
 0.0.0.0 strategycompanion.actonservice.com
 0.0.0.0 stratitude.actonservice.com
 0.0.0.0 strawberry.basf.com
@@ -39105,6 +39116,7 @@
 0.0.0.0 tracker-dot-dfty-optimeeze-leroymerlinfr.appspot.com
 0.0.0.0 tracker-dot-optimeeze.appspot.com
 0.0.0.0 tracker-rec.smart-bdash.com
+0.0.0.0 tracker-v4.gamedock.io
 0.0.0.0 tracker.520call.me
 0.0.0.0 tracker.adbinead.com
 0.0.0.0 tracker.affiliate.iqbroker.com
@@ -39137,6 +39149,7 @@
 0.0.0.0 tracker.iltrovatore.it
 0.0.0.0 tracker.incite-group.com
 0.0.0.0 tracker.insurancenexus.com
+0.0.0.0 tracker.jkplayers.com
 0.0.0.0 tracker.jkstremum.xyz
 0.0.0.0 tracker.keywordintent.com
 0.0.0.0 tracker.marinsoftware.com
@@ -43306,6 +43319,7 @@
 0.0.0.0 zieyeq.intent24.fr
 0.0.0.0 zimadifirenze.net.anwalt.de
 0.0.0.0 zio.xcar.com.cn
+0.0.0.0 zion-telemetry-nonprod.api.cnn.io
 0.0.0.0 zion-telemetry.api.cnn.io
 0.0.0.0 zion.qbo.intuit.com
 0.0.0.0 zipperxray.com
@@ -43319,6 +43333,7 @@
 0.0.0.0 ziyu.net
 0.0.0.0 zjbfke.centerparcs.be
 0.0.0.0 zjkpxw.tesco.hu
+0.0.0.0 zjptg.com
 0.0.0.0 zjrbwb.markenschuhe.de
 0.0.0.0 zjzain.aboutyou.bg
 0.0.0.0 zjzste.tom-tailor.de
@@ -43417,7 +43432,7 @@
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2024-04-28 00:51:46.110785
+# Generated at 2024-05-05 00:51:37.979386
 
 0.0.0.0 databerries.com
 0.0.0.0 fidzup
