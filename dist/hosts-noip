@@ -1,6 +1,6 @@
-# Version: 202405050039
+# Version: 202405112145
 # Title: EasyPrivacy
-# Last modified: 05 May 2024 00:39 UTC
+# Last modified: 11 May 2024 21:45 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -4758,6 +4758,7 @@ analytics.gamesdrive.net
 analytics.gazeta.pl
 analytics.geastore.com
 analytics.geekyminds.net
+analytics.genial.ly
 analytics.geoutletstore.com
 analytics.gestore.com
 analytics.getshogun.com
@@ -6497,6 +6498,7 @@ aurum.tirto.id
 aus.amexforbusiness.com.au
 ausclh.castlery.com
 auspiciousyard.com
+australiarevival.com
 auth.carte-gr.total.fr
 authedwebmine.cz
 authentic3d.actonservice.com
@@ -7632,6 +7634,7 @@ btncdn.com
 btstats.benakt.com
 btstats.devtribu.fr
 bttmkj.diesel.com
+bttn.io
 btttag.com
 bu.actonservice.com
 bu.adpinfo.com
@@ -7821,6 +7824,7 @@ caderonline.bu.edu
 cadreon.com
 cadsuta.net
 caf.actonservice.com
+cafirebreather.com
 cahf4eed.mooo.com
 cakesdrum.com
 cakmzz.schwab.de
@@ -7849,6 +7853,7 @@ calltracks.com
 calmcactus.com
 calmcough.com
 calmradio.actonservice.com
+calvera-telemetry.polaris.me
 calypsocapsule.com
 camagess.carte-gr.total.fr
 camel.headfarming.com
@@ -8185,6 +8190,7 @@ ci.intuit.ca
 ci.intuit.co.uk
 ci.intuit.com
 ci.quickbooks.com
+cicdserver.com
 cihac.ubmmexico.com
 cikvwv.dsdamat.com
 cikxuh.iciformation.fr
@@ -12745,6 +12751,7 @@ ev.tpocdm.com
 eval.privateapi.click
 evaluateend.com
 evanescentedge.com
+evasivejar.com
 evelynn.landing.ni.com
 evenement.ricoh.fr
 event-api.contactatonce.com
@@ -14582,7 +14589,6 @@ go.oilkings.ca
 go.ondutydoc.com
 go.onecart.co.za
 go.onefc.com
-go.oracle.com
 go.oroinc.com
 go.ortholive.com
 go.ovsoftware.nl
@@ -15318,6 +15324,7 @@ hiyksu.karllagerfeldparis.com
 hjgcdi.farmacybeauty.com
 hjgkdv.fiverr.com
 hk-go.experian.com
+hk-trc-events.taboola.com
 hk2d.tourismemauricie.com
 hkj8.evobanco.com
 hkskqs.belvilla.fr
@@ -21555,6 +21562,7 @@ marshinsurance.actonservice.com
 marsupial.roleup.com
 martech.condenastdigital.com
 martech.wavenet.com.tw
+marvelmetrix.com
 mas.hronboard.me
 mas.nth.ch
 massivebasket.com
@@ -25376,6 +25384,7 @@ p.logbox.io
 p.marqueplace.com
 p.meilentrio.de
 p.metrilo.com
+p.minds.com
 p.pagesjaunes.fr
 p.placed.com
 p.pmu.fr
@@ -26262,6 +26271,7 @@ power.viggo.com
 powercount.com
 powerfulblends.com
 powerfulcopper.com
+powerrobotflower.com
 powerup.rsaworks.com
 pp.promocionesfarma.com
 pp.scorecardrewards.com
@@ -26347,6 +26357,7 @@ presssensor.com
 preview.fi-institutional.com.au
 previousplayground.com
 previouspotato.com
+prf.hn
 prf.vagnt.com
 prfct.co
 prhhqo.vintagevoyage.ru
@@ -26934,6 +26945,7 @@ r.sax.sina.com.cn
 r.skimresources.com
 r.sportsie.com
 r.stripe.com
+r.wz.de
 r1ztni.oui.sncf
 r2r.utas.edu.au
 r42tag.com
@@ -35648,6 +35660,8 @@ stingyspoon.com
 stippleit.com
 stjoe.psjhealth.org
 stliom.vidaxl.cz
+stlog.d.dmkt-sp.jp
+stlog.dmarket.docomo.ne.jp
 stm.komplett.no
 stmetrics.bbva.com.ar
 stmetrics.bbva.com.co
@@ -37110,6 +37124,7 @@ telemetry.moveworks.com
 telemetry.navispherecarrier.com
 telemetry.phenixrts.com
 telemetry.reembed.com
+telemetry.smartframe.io
 telemetry.soundcloud.com
 telemetry.stryker.com
 telemetry.tableausoftware.com
@@ -39154,6 +39169,7 @@ tracker.ranker.com
 tracker.services.vaix.ai
 tracker.shanon-services.com
 tracker.shopclues.com
+tracker.smartframe.io
 tracker.smartseminar.jp
 tracker.softcube.com
 tracker.ssl0d.com
@@ -41002,6 +41018,7 @@ veinteractive.com
 velaro.com
 velocitypartners.actonservice.com
 velvetnova.com
+velvetquasar.com
 vemxcy.crocs.com.sg
 vendri.io
 vengefulgrass.com
@@ -41080,6 +41097,7 @@ video.oms.eu
 video.verintsystemsinc.com
 video.vitcord.com
 videoamp.com
+videocdnmetrika.com
 videoevents.outbrain.com
 videoplayerhub.com
 videos.adp.ca
@@ -43416,7 +43434,7 @@ zzsqqx.shopjapan.co.jp
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2024-05-05 00:51:36.681319
+# Generated at 2024-05-12 00:53:02.709787
 
 databerries.com
 fidzup

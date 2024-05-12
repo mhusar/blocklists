@@ -1,6 +1,6 @@
-# Version: 202405050039
+# Version: 202405112145
 # Title: EasyPrivacy
-# Last modified: 05 May 2024 00:39 UTC
+# Last modified: 11 May 2024 21:45 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -4774,6 +4774,7 @@
 0.0.0.0 analytics.gazeta.pl
 0.0.0.0 analytics.geastore.com
 0.0.0.0 analytics.geekyminds.net
+0.0.0.0 analytics.genial.ly
 0.0.0.0 analytics.geoutletstore.com
 0.0.0.0 analytics.gestore.com
 0.0.0.0 analytics.getshogun.com
@@ -6513,6 +6514,7 @@
 0.0.0.0 aus.amexforbusiness.com.au
 0.0.0.0 ausclh.castlery.com
 0.0.0.0 auspiciousyard.com
+0.0.0.0 australiarevival.com
 0.0.0.0 auth.carte-gr.total.fr
 0.0.0.0 authedwebmine.cz
 0.0.0.0 authentic3d.actonservice.com
@@ -7648,6 +7650,7 @@
 0.0.0.0 btstats.benakt.com
 0.0.0.0 btstats.devtribu.fr
 0.0.0.0 bttmkj.diesel.com
+0.0.0.0 bttn.io
 0.0.0.0 btttag.com
 0.0.0.0 bu.actonservice.com
 0.0.0.0 bu.adpinfo.com
@@ -7837,6 +7840,7 @@
 0.0.0.0 cadreon.com
 0.0.0.0 cadsuta.net
 0.0.0.0 caf.actonservice.com
+0.0.0.0 cafirebreather.com
 0.0.0.0 cahf4eed.mooo.com
 0.0.0.0 cakesdrum.com
 0.0.0.0 cakmzz.schwab.de
@@ -7865,6 +7869,7 @@
 0.0.0.0 calmcactus.com
 0.0.0.0 calmcough.com
 0.0.0.0 calmradio.actonservice.com
+0.0.0.0 calvera-telemetry.polaris.me
 0.0.0.0 calypsocapsule.com
 0.0.0.0 camagess.carte-gr.total.fr
 0.0.0.0 camel.headfarming.com
@@ -8201,6 +8206,7 @@
 0.0.0.0 ci.intuit.co.uk
 0.0.0.0 ci.intuit.com
 0.0.0.0 ci.quickbooks.com
+0.0.0.0 cicdserver.com
 0.0.0.0 cihac.ubmmexico.com
 0.0.0.0 cikvwv.dsdamat.com
 0.0.0.0 cikxuh.iciformation.fr
@@ -12761,6 +12767,7 @@
 0.0.0.0 eval.privateapi.click
 0.0.0.0 evaluateend.com
 0.0.0.0 evanescentedge.com
+0.0.0.0 evasivejar.com
 0.0.0.0 evelynn.landing.ni.com
 0.0.0.0 evenement.ricoh.fr
 0.0.0.0 event-api.contactatonce.com
@@ -14598,7 +14605,6 @@
 0.0.0.0 go.ondutydoc.com
 0.0.0.0 go.onecart.co.za
 0.0.0.0 go.onefc.com
-0.0.0.0 go.oracle.com
 0.0.0.0 go.oroinc.com
 0.0.0.0 go.ortholive.com
 0.0.0.0 go.ovsoftware.nl
@@ -15334,6 +15340,7 @@
 0.0.0.0 hjgcdi.farmacybeauty.com
 0.0.0.0 hjgkdv.fiverr.com
 0.0.0.0 hk-go.experian.com
+0.0.0.0 hk-trc-events.taboola.com
 0.0.0.0 hk2d.tourismemauricie.com
 0.0.0.0 hkj8.evobanco.com
 0.0.0.0 hkskqs.belvilla.fr
@@ -21571,6 +21578,7 @@
 0.0.0.0 marsupial.roleup.com
 0.0.0.0 martech.condenastdigital.com
 0.0.0.0 martech.wavenet.com.tw
+0.0.0.0 marvelmetrix.com
 0.0.0.0 mas.hronboard.me
 0.0.0.0 mas.nth.ch
 0.0.0.0 massivebasket.com
@@ -25392,6 +25400,7 @@
 0.0.0.0 p.marqueplace.com
 0.0.0.0 p.meilentrio.de
 0.0.0.0 p.metrilo.com
+0.0.0.0 p.minds.com
 0.0.0.0 p.pagesjaunes.fr
 0.0.0.0 p.placed.com
 0.0.0.0 p.pmu.fr
@@ -26278,6 +26287,7 @@
 0.0.0.0 powercount.com
 0.0.0.0 powerfulblends.com
 0.0.0.0 powerfulcopper.com
+0.0.0.0 powerrobotflower.com
 0.0.0.0 powerup.rsaworks.com
 0.0.0.0 pp.promocionesfarma.com
 0.0.0.0 pp.scorecardrewards.com
@@ -26363,6 +26373,7 @@
 0.0.0.0 preview.fi-institutional.com.au
 0.0.0.0 previousplayground.com
 0.0.0.0 previouspotato.com
+0.0.0.0 prf.hn
 0.0.0.0 prf.vagnt.com
 0.0.0.0 prfct.co
 0.0.0.0 prhhqo.vintagevoyage.ru
@@ -26950,6 +26961,7 @@
 0.0.0.0 r.skimresources.com
 0.0.0.0 r.sportsie.com
 0.0.0.0 r.stripe.com
+0.0.0.0 r.wz.de
 0.0.0.0 r1ztni.oui.sncf
 0.0.0.0 r2r.utas.edu.au
 0.0.0.0 r42tag.com
@@ -35664,6 +35676,8 @@
 0.0.0.0 stippleit.com
 0.0.0.0 stjoe.psjhealth.org
 0.0.0.0 stliom.vidaxl.cz
+0.0.0.0 stlog.d.dmkt-sp.jp
+0.0.0.0 stlog.dmarket.docomo.ne.jp
 0.0.0.0 stm.komplett.no
 0.0.0.0 stmetrics.bbva.com.ar
 0.0.0.0 stmetrics.bbva.com.co
@@ -37126,6 +37140,7 @@
 0.0.0.0 telemetry.navispherecarrier.com
 0.0.0.0 telemetry.phenixrts.com
 0.0.0.0 telemetry.reembed.com
+0.0.0.0 telemetry.smartframe.io
 0.0.0.0 telemetry.soundcloud.com
 0.0.0.0 telemetry.stryker.com
 0.0.0.0 telemetry.tableausoftware.com
@@ -39170,6 +39185,7 @@
 0.0.0.0 tracker.services.vaix.ai
 0.0.0.0 tracker.shanon-services.com
 0.0.0.0 tracker.shopclues.com
+0.0.0.0 tracker.smartframe.io
 0.0.0.0 tracker.smartseminar.jp
 0.0.0.0 tracker.softcube.com
 0.0.0.0 tracker.ssl0d.com
@@ -41018,6 +41034,7 @@
 0.0.0.0 velaro.com
 0.0.0.0 velocitypartners.actonservice.com
 0.0.0.0 velvetnova.com
+0.0.0.0 velvetquasar.com
 0.0.0.0 vemxcy.crocs.com.sg
 0.0.0.0 vendri.io
 0.0.0.0 vengefulgrass.com
@@ -41096,6 +41113,7 @@
 0.0.0.0 video.verintsystemsinc.com
 0.0.0.0 video.vitcord.com
 0.0.0.0 videoamp.com
+0.0.0.0 videocdnmetrika.com
 0.0.0.0 videoevents.outbrain.com
 0.0.0.0 videoplayerhub.com
 0.0.0.0 videos.adp.ca
@@ -43432,7 +43450,7 @@
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2024-05-05 00:51:37.979386
+# Generated at 2024-05-12 00:53:03.630227
 
 0.0.0.0 databerries.com
 0.0.0.0 fidzup
