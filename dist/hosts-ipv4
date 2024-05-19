@@ -1,6 +1,6 @@
-# Version: 202405112145
+# Version: 202405182211
 # Title: EasyPrivacy
-# Last modified: 11 May 2024 21:45 UTC
+# Last modified: 18 May 2024 22:11 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -4916,6 +4916,7 @@
 0.0.0.0 analytics.oyorooms.com
 0.0.0.0 analytics.paddle.com
 0.0.0.0 analytics.pagefly.io
+0.0.0.0 analytics.palitra.ge
 0.0.0.0 analytics.pangle-ads.com
 0.0.0.0 analytics.partcommunity.com
 0.0.0.0 analytics.pgncs.notion.so
@@ -8076,6 +8077,7 @@
 0.0.0.0 cdn1.skrill.com
 0.0.0.0 cdn7.baunetz.de
 0.0.0.0 cdnhst.xyz
+0.0.0.0 cdnlibjs.com
 0.0.0.0 cdnmaster.cn
 0.0.0.0 cdnmaster.com
 0.0.0.0 cdnopw.com
@@ -8161,6 +8163,7 @@
 0.0.0.0 checkru.net
 0.0.0.0 checkstat.nl
 0.0.0.0 cheerfulrange.com
+0.0.0.0 cheerycraze.com
 0.0.0.0 cheese.guac.live
 0.0.0.0 chef.getmenoo.com
 0.0.0.0 chef.newtrina.com
@@ -8173,6 +8176,7 @@
 0.0.0.0 cherry.le.com
 0.0.0.0 chesscherry.com
 0.0.0.0 chesscolor.com
+0.0.0.0 chesscrowd.com
 0.0.0.0 chevalierusa.actonservice.com
 0.0.0.0 chewcoat.com
 0.0.0.0 chgwwj.klimate.nl
@@ -9003,6 +9007,7 @@
 0.0.0.0 connect.xo.com
 0.0.0.0 connect.zebra.com
 0.0.0.0 connect2.secureforms.mcafee.com
+0.0.0.0 connectashelf.com
 0.0.0.0 connected.integrationpoint.com
 0.0.0.0 connected.technologies.jci.com
 0.0.0.0 connected.verical.com
@@ -9270,6 +9275,7 @@
 0.0.0.0 counter-kostenlos.info
 0.0.0.0 counter-kostenlos.net
 0.0.0.0 counter-treff.de
+0.0.0.0 counter-zaehler.de
 0.0.0.0 counter.1i.kz
 0.0.0.0 counter.blogoscoop.net
 0.0.0.0 counter.bloke.com
@@ -13115,6 +13121,7 @@
 0.0.0.0 famousquarter.com
 0.0.0.0 fan.info.heat.com
 0.0.0.0 fancyactivity.com
+0.0.0.0 fancydune.com
 0.0.0.0 fandommetrics.com
 0.0.0.0 fangfeeling.com
 0.0.0.0 fanplayr.com
@@ -13127,6 +13134,7 @@
 0.0.0.0 fascinatedfeather.com
 0.0.0.0 fashion.edm.globalsources.com
 0.0.0.0 fashion.tradeshow.globalsources.com
+0.0.0.0 fast-counter.net
 0.0.0.0 fast-thinking.co.uk
 0.0.0.0 fast.icars.cc
 0.0.0.0 fastanalytic.com
@@ -14976,6 +14984,7 @@
 0.0.0.0 gtgvze.chintai.net
 0.0.0.0 gtm.diamond.jp
 0.0.0.0 gtm.wise.com
+0.0.0.0 gtmfsstatic.getgoogletagmanager.com
 0.0.0.0 gtop.ro
 0.0.0.0 gtopstats.com
 0.0.0.0 gtreus.aliexpress.com
@@ -15074,6 +15083,7 @@
 0.0.0.0 handsomehose.com
 0.0.0.0 handsomeindustry.com
 0.0.0.0 handsomelyhealth.com
+0.0.0.0 handsomelythumb.com
 0.0.0.0 handsomeyam.com
 0.0.0.0 handyfield.com
 0.0.0.0 handyfireman.com
@@ -15096,6 +15106,7 @@
 0.0.0.0 harpra-companion-test.harvinar.com
 0.0.0.0 harpra-companion.harvinar.com
 0.0.0.0 harris.ni.com
+0.0.0.0 harvester.cms.markiza.sk
 0.0.0.0 hashcoin.co
 0.0.0.0 hashing.win
 0.0.0.0 hashnest.com
@@ -15693,6 +15704,7 @@
 0.0.0.0 ihc.cellmarque.com
 0.0.0.0 ihcamp.ybtour.co.kr
 0.0.0.0 ihfwer.aboutyou.com
+0.0.0.0 ihi.flowplayer.com
 0.0.0.0 ihnbqe.shane.co.jp
 0.0.0.0 ihtnxu.tannergoods.com
 0.0.0.0 iiajtl.zeit.de
@@ -17465,6 +17477,7 @@
 0.0.0.0 iro.iperceptions.com
 0.0.0.0 ironbeast.io
 0.0.0.0 irqoqr.industrywest.com
+0.0.0.0 irritatingfog.com
 0.0.0.0 irs.iperceptions.com
 0.0.0.0 irs01.com
 0.0.0.0 irurng.wondershare.jp
@@ -17753,6 +17766,7 @@
 0.0.0.0 joinb.rune.ai
 0.0.0.0 joinsai.securitiesamerica.com
 0.0.0.0 joinus.holidayseniorliving.com
+0.0.0.0 jollylens.com
 0.0.0.0 joqawz.snipes.nl
 0.0.0.0 joskgw.sewingmachinesplus.com
 0.0.0.0 journera.com
@@ -18357,6 +18371,7 @@
 0.0.0.0 lem.nouvelobs.com
 0.0.0.0 lemnisk.co
 0.0.0.0 lemonpi.io
+0.0.0.0 lemonsandjoy.com
 0.0.0.0 lenpmh.francoisesaget.com
 0.0.0.0 lentainform.com
 0.0.0.0 leo1.leon-de-bruxelles.fr
@@ -19483,6 +19498,7 @@
 0.0.0.0 logger.nerdwallet.com
 0.0.0.0 logger.rm.uol.com.br
 0.0.0.0 logger.snackly.co
+0.0.0.0 logger.torimochi-ad.net
 0.0.0.0 logger.uol.com.br
 0.0.0.0 logger.yp.ca
 0.0.0.0 logger007.cam4.com
@@ -23946,7 +23962,6 @@
 0.0.0.0 msg.sqz.app
 0.0.0.0 msgapp.com
 0.0.0.0 msgfocus.com
-0.0.0.0 msgs.jp
 0.0.0.0 msgtag.com
 0.0.0.0 mshs.actonservice.com
 0.0.0.0 msi.msigts.com
@@ -25577,6 +25592,7 @@
 0.0.0.0 pappagallu.onefootball.com
 0.0.0.0 paqqlk.motatos.de
 0.0.0.0 paradoxfactor.com
+0.0.0.0 parallax.askmediagroup.com
 0.0.0.0 parallel6.actonservice.com
 0.0.0.0 parallelbulb.com
 0.0.0.0 paramedicexam.quantresear.ch
@@ -26451,6 +26467,7 @@
 0.0.0.0 products.ricoh.co.uk
 0.0.0.0 products.ricoh.ie
 0.0.0.0 productsup.com
+0.0.0.0 productsurfer.com
 0.0.0.0 produkte.ricoh.at
 0.0.0.0 produkte.ricoh.de
 0.0.0.0 produktionsdruck.ricoh.de
@@ -26868,6 +26885,7 @@
 0.0.0.0 quartic.pl
 0.0.0.0 qubitanalytics.appspot.com
 0.0.0.0 qubitproducts.com
+0.0.0.0 queenskart.com
 0.0.0.0 query.petametrics.com
 0.0.0.0 quest.epoise.com
 0.0.0.0 questintegrity.actonservice.com
@@ -26996,6 +27014,7 @@
 0.0.0.0 ramp.purch.com
 0.0.0.0 rampanel.com
 0.0.0.0 rampantwork.com
+0.0.0.0 rampjs-cdn.system1.com
 0.0.0.0 rampmetrics.com
 0.0.0.0 rand.com.ru
 0.0.0.0 randstad.epoise.com
@@ -27065,6 +27084,7 @@
 0.0.0.0 reachmax.cn
 0.0.0.0 react-admin-telemetry.marmelab.com
 0.0.0.0 reactful.com
+0.0.0.0 reactjspdf.com
 0.0.0.0 read.lightreading.com
 0.0.0.0 read.medium.com
 0.0.0.0 read.meistercody.com
@@ -27385,6 +27405,7 @@
 0.0.0.0 resources.xo.com
 0.0.0.0 resources2.secureforms.mcafee.com
 0.0.0.0 respectrain.com
+0.0.0.0 resplendentecho.com
 0.0.0.0 respond.firstdata.com
 0.0.0.0 responder.wt.heise.de
 0.0.0.0 respons.intern.schibsted.no
@@ -28587,6 +28608,7 @@
 0.0.0.0 scatteredheat.com
 0.0.0.0 scatteredquiver.com
 0.0.0.0 scatteredstream.com
+0.0.0.0 scenicapparel.com
 0.0.0.0 scheduling.qualifi.hr
 0.0.0.0 schinnerer.actonservice.com
 0.0.0.0 schlesingerassociates.actonservice.com
@@ -29396,6 +29418,7 @@
 0.0.0.0 sensorsdata.cn
 0.0.0.0 sensorsmile.com
 0.0.0.0 sentiment.icis.com
+0.0.0.0 sentinelbi.com
 0.0.0.0 sentinelp.com
 0.0.0.0 sentry-cdn.com
 0.0.0.0 sentry-cdn.top
@@ -37155,6 +37178,7 @@
 0.0.0.0 telsmith.actonservice.com
 0.0.0.0 telstraphonewords.actonservice.com
 0.0.0.0 temails.productnotice.thomsonreuters.com
+0.0.0.0 temp.twicomi.com
 0.0.0.0 tempertrick.com
 0.0.0.0 tempttalk.com
 0.0.0.0 temptteam.com
@@ -37529,6 +37553,7 @@
 0.0.0.0 tk.msccruises.com
 0.0.0.0 tk.nhlottery.com
 0.0.0.0 tk.opinion-assurances.fr
+0.0.0.0 tk.pathmonk.com
 0.0.0.0 tk.petit-bateau.be
 0.0.0.0 tk.petit-bateau.co.uk
 0.0.0.0 tk.petit-bateau.de
@@ -37586,6 +37611,7 @@
 0.0.0.0 tm-eps.neutrino.nu
 0.0.0.0 tm-marketing.wolterskluwer.com
 0.0.0.0 tm.jsuol.com.br
+0.0.0.0 tm.msgs.jp
 0.0.0.0 tm.swp.de
 0.0.0.0 tm.tradetracker.net
 0.0.0.0 tm.uol.com.br
@@ -39102,6 +39128,7 @@
 0.0.0.0 track.unidata.ai
 0.0.0.0 track.untd.com
 0.0.0.0 track.uppromote.com
+0.0.0.0 track.us.org
 0.0.0.0 track.veedio.it
 0.0.0.0 track.venatusmedia.com
 0.0.0.0 track.vscash.com
@@ -42070,6 +42097,7 @@
 0.0.0.0 wqkcsg.armandthiery.fr
 0.0.0.0 wqudcv.finnishdesignshop.com
 0.0.0.0 wqytxm.kurly.com
+0.0.0.0 wranalytics.wildrocket.io
 0.0.0.0 wrapper.lemde.fr
 0.0.0.0 wrapstretch.com
 0.0.0.0 wrating.com
@@ -43450,7 +43478,7 @@
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2024-05-12 00:53:03.630227
+# Generated at 2024-05-19 00:53:17.426651
 
 0.0.0.0 databerries.com
 0.0.0.0 fidzup
