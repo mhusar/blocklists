@@ -1,6 +1,6 @@
-# Version: 202405182211
+# Version: 202405260010
 # Title: EasyPrivacy
-# Last modified: 18 May 2024 22:11 UTC
+# Last modified: 26 May 2024 00:10 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -4952,6 +4952,7 @@
 0.0.0.0 analytics.praetor.im
 0.0.0.0 analytics.prezly.com
 0.0.0.0 analytics.productreview.com.au
+0.0.0.0 analytics.qogita.com
 0.0.0.0 analytics.qualcomm.com
 0.0.0.0 analytics.qualityquestions.co
 0.0.0.0 analytics.qualityunit.com
@@ -5131,6 +5132,7 @@
 0.0.0.0 analytics1.vdo.ai
 0.0.0.0 analytics2-3-meride-tv.akamaized.net
 0.0.0.0 analytics2-meride-tv.akamaized.net
+0.0.0.0 analyticsapi.qogita.com
 0.0.0.0 analyticsbusiness.ing.ro
 0.0.0.0 analyticsehnwe.servicebus.windows.net
 0.0.0.0 analyticsip.net
@@ -7036,6 +7038,7 @@
 0.0.0.0 bepartof.wechain.eu
 0.0.0.0 berg-6-82.com
 0.0.0.0 bersondeanstevens.actonservice.com
+0.0.0.0 bespokesandals.com
 0.0.0.0 best-top.de
 0.0.0.0 best-top.ro
 0.0.0.0 bestboundary.com
@@ -8190,6 +8193,7 @@
 0.0.0.0 childlikeform.com
 0.0.0.0 chingovernment.com
 0.0.0.0 chinsnakes.com
+0.0.0.0 chipperisle.com
 0.0.0.0 chivalrouscord.com
 0.0.0.0 chmproxy.bid
 0.0.0.0 choose.adelaide.edu.au
@@ -9172,6 +9176,7 @@
 0.0.0.0 conversionly.com
 0.0.0.0 conversionruler.com
 0.0.0.0 conversions.genieventures.co.uk
+0.0.0.0 convertagain.net
 0.0.0.0 convertcart.com
 0.0.0.0 convertexperiments.com
 0.0.0.0 convertglobal.com
@@ -12365,6 +12370,7 @@
 0.0.0.0 enchantedtop.com
 0.0.0.0 enchantingbear.com
 0.0.0.0 enchantingenchantment.com
+0.0.0.0 enchantingtundra.com
 0.0.0.0 enchantingvalley.com
 0.0.0.0 encompassreport.elliemae.com
 0.0.0.0 encourageidea.com
@@ -12932,6 +12938,7 @@
 0.0.0.0 evs.icy-lake.kickstarter.com
 0.0.0.0 evs.sgmt.loom.com
 0.0.0.0 evt-api.ntm.eu
+0.0.0.0 evt.24.com
 0.0.0.0 evt.collarity.com
 0.0.0.0 evt.houzz.com
 0.0.0.0 evupmg.olehenriksen.com
@@ -15094,6 +15101,7 @@
 0.0.0.0 happen.spkt.io
 0.0.0.0 happenhistory.com
 0.0.0.0 happyholidays.coniferhealth.com
+0.0.0.0 happysponge.com
 0.0.0.0 harborcaption.com
 0.0.0.0 harborcub.com
 0.0.0.0 hardinet.actonservice.com
@@ -15490,6 +15498,7 @@
 0.0.0.0 htcnbx.odkarla.cz
 0.0.0.0 htm1.ch
 0.0.0.0 htmgrl.jollyroom.no
+0.0.0.0 htplayground.com
 0.0.0.0 htqfxh.vuch.cz
 0.0.0.0 htrace.wetvinfo.com
 0.0.0.0 httr.redskins.com
@@ -16337,6 +16346,7 @@
 0.0.0.0 improving.wuzhuiso.com
 0.0.0.0 impulsehands.com
 0.0.0.0 impulsejewel.com
+0.0.0.0 impulselumber.com
 0.0.0.0 imrk.net
 0.0.0.0 imrtrack.com
 0.0.0.0 imrworldwide.com
@@ -17571,6 +17581,7 @@
 0.0.0.0 ja-jp.siemensplmevents.com
 0.0.0.0 jadedjoke.com
 0.0.0.0 jadeitite.com
+0.0.0.0 jaderooster.com
 0.0.0.0 jagransolutions.com.actonservice.com
 0.0.0.0 jailbulb.com
 0.0.0.0 jambwe.transsibinfo.com
@@ -19478,6 +19489,7 @@
 0.0.0.0 log.snapdeal.com
 0.0.0.0 log.tagtic.cn
 0.0.0.0 log.targetpush.co.kr
+0.0.0.0 log.tossinvest.com
 0.0.0.0 log.ttbc-hcm.gov.vn
 0.0.0.0 log.v.ssp.yahoo.com
 0.0.0.0 log.webnovel.com
@@ -25124,6 +25136,7 @@
 0.0.0.0 onlinesucces.nl
 0.0.0.0 onlinevacationcenter.actonservice.com
 0.0.0.0 onlinewebstat.com
+0.0.0.0 onlywoofs.com
 0.0.0.0 onmlkjiion.carte-gr.total.fr
 0.0.0.0 onoztg.ultimate-guitar.com
 0.0.0.0 onthe.io
@@ -25584,6 +25597,7 @@
 0.0.0.0 panda.kasika.io
 0.0.0.0 panickycurtain.com
 0.0.0.0 panickypancake.com
+0.0.0.0 panorama.wixapps.net
 0.0.0.0 panoramicbutter.com
 0.0.0.0 panoramicplane.com
 0.0.0.0 pap.qualityunit.com
@@ -28590,6 +28604,7 @@
 0.0.0.0 scarcecard.com
 0.0.0.0 scarceshock.com
 0.0.0.0 scarcesign.com
+0.0.0.0 scarcestructure.com
 0.0.0.0 scarcesurprise.com
 0.0.0.0 scarecrowslip.com
 0.0.0.0 scarecrowslope.com
@@ -33655,6 +33670,7 @@
 0.0.0.0 spamanalyst.com
 0.0.0.0 spamtitan.actonservice.com
 0.0.0.0 spark.thelyst.com
+0.0.0.0 sparkgoal.com
 0.0.0.0 sparklesleet.com
 0.0.0.0 sparklingnumber.com
 0.0.0.0 sparklingshelf.com
@@ -33681,6 +33697,7 @@
 0.0.0.0 speedyrhino.co
 0.0.0.0 speee-ad.akamaized.net
 0.0.0.0 speee-ad.jp
+0.0.0.0 speetals.com
 0.0.0.0 spelar.org
 0.0.0.0 spellmist.com
 0.0.0.0 spellsalsa.com
@@ -34502,6 +34519,7 @@
 0.0.0.0 start.sharpclinical.com
 0.0.0.0 start.smartanalyst.com
 0.0.0.0 start.spark-thinking.com
+0.0.0.0 startingcars.com
 0.0.0.0 startrekk.flaconi.at
 0.0.0.0 startrekk.flaconi.de
 0.0.0.0 startrekk.flaconi.fr
@@ -36714,6 +36732,7 @@
 0.0.0.0 tags.esri.rw
 0.0.0.0 tags.fullcontact.com
 0.0.0.0 tags.globo.com
+0.0.0.0 tags.hilabel.nl
 0.0.0.0 tags.igeo.com.bo
 0.0.0.0 tags.johnlewis.com
 0.0.0.0 tags.master-perf-tools.com
@@ -39293,6 +39312,7 @@
 0.0.0.0 tracking.automotivemastermind.com
 0.0.0.0 tracking.averydennison.com
 0.0.0.0 tracking.avladies.de
+0.0.0.0 tracking.b-cdn.net
 0.0.0.0 tracking.bababam.com
 0.0.0.0 tracking.badeladies.de
 0.0.0.0 tracking.bankofalbuquerque.com
@@ -39688,6 +39708,7 @@
 0.0.0.0 tracking.practicefusion.com
 0.0.0.0 tracking.precisely.com
 0.0.0.0 tracking.precollege.wisc.edu
+0.0.0.0 tracking.prepr.io
 0.0.0.0 tracking.pro.engie.fr
 0.0.0.0 tracking.prodesa.com
 0.0.0.0 tracking.prophet.com
@@ -41081,6 +41102,8 @@
 0.0.0.0 vercel-insights.com
 0.0.0.0 vercel-vitals.axiom.co
 0.0.0.0 verdantanswer.com
+0.0.0.0 verdantlabyrinth.com
+0.0.0.0 verdantsculpture.com
 0.0.0.0 verify.authorize.net
 0.0.0.0 verify.safesigned.com
 0.0.0.0 verify.spin.app
@@ -41096,6 +41119,7 @@
 0.0.0.0 vertster.com
 0.0.0.0 vetsource.actonservice.com
 0.0.0.0 vewbab.entertainmentearth.com
+0.0.0.0 vf.startpage.com
 0.0.0.0 vfd2dyn.vodafone.de
 0.0.0.0 vfghe.com
 0.0.0.0 vfgte.com
@@ -41487,6 +41511,7 @@
 0.0.0.0 watch.jawwy.tv
 0.0.0.0 watch.stctv.com
 0.0.0.0 watch.vipa.me
+0.0.0.0 watchtower.graindata.com
 0.0.0.0 water.tetrapak.com
 0.0.0.0 waterlooberlin.viessmann.ca
 0.0.0.0 wateryvan.com
@@ -41804,6 +41829,7 @@
 0.0.0.0 website-usage.knorr-bremse.com
 0.0.0.0 websiteceo.com
 0.0.0.0 websiteperform.com
+0.0.0.0 websitesdude.com
 0.0.0.0 websitewelcome.com
 0.0.0.0 webspectator.com
 0.0.0.0 webstat.4music.com
@@ -43345,6 +43371,7 @@
 0.0.0.0 zesep.com
 0.0.0.0 zesgky.belambra.fr
 0.0.0.0 zestycrime.com
+0.0.0.0 zestyhorizon.com
 0.0.0.0 zestywire.com
 0.0.0.0 zeustechnology.com
 0.0.0.0 zfctrack.net
