@@ -1,6 +1,6 @@
-# Version: 202405260010
+# Version: 202406011431
 # Title: EasyPrivacy
-# Last modified: 26 May 2024 00:10 UTC
+# Last modified: 01 Jun 2024 14:31 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -4713,6 +4713,7 @@
 0.0.0.0 analytics.convertlanguage.com
 0.0.0.0 analytics.cookiefirst.dev
 0.0.0.0 analytics.corusent.com
+0.0.0.0 analytics.cosmonova.net
 0.0.0.0 analytics.crazygames.com
 0.0.0.0 analytics.crowdkeep.com
 0.0.0.0 analytics.cycleworld.com
@@ -9521,6 +9522,7 @@
 0.0.0.0 csyqts.tmon.co.kr
 0.0.0.0 cszz.ru
 0.0.0.0 ct-dev.taskhuman.com
+0.0.0.0 ct.beslist.nl
 0.0.0.0 ct.capterra.com
 0.0.0.0 ct.corpusapp.com
 0.0.0.0 ct.eid.co.nz
@@ -11284,6 +11286,7 @@
 0.0.0.0 dptgdj.usagi-online.com
 0.0.0.0 dptkdh.joinhoney.com
 0.0.0.0 dq95d35.com
+0.0.0.0 dqif5bl25s0bf.cloudfront.net
 0.0.0.0 dqqfrs.qatarairways.com
 0.0.0.0 dqs.actonservice.com
 0.0.0.0 dqs3.darjeeling.fr
@@ -13365,6 +13368,7 @@
 0.0.0.0 floraprima.efscle.com
 0.0.0.0 flotech.actonservice.com
 0.0.0.0 flourishingcollaboration.com
+0.0.0.0 flourishingpartnership.com
 0.0.0.0 flow.kiloutou.fr
 0.0.0.0 flowersornament.com
 0.0.0.0 flowerstreatment.com
@@ -14909,6 +14913,7 @@
 0.0.0.0 gr-business.vodafone.com
 0.0.0.0 gr-go.experian.com
 0.0.0.0 gr.a23.in
+0.0.0.0 gracefulmilk.com
 0.0.0.0 gracefulsock.com
 0.0.0.0 grado.ufv.es
 0.0.0.0 grainmass.com
@@ -19580,6 +19585,7 @@
 0.0.0.0 lopley.com
 0.0.0.0 lopsidedleather.com
 0.0.0.0 lord.actonservice.com
+0.0.0.0 lordofthesuperfrogs.com
 0.0.0.0 lorenzourban.com
 0.0.0.0 losecounter.de
 0.0.0.0 losslace.com
@@ -24214,6 +24220,7 @@
 0.0.0.0 navdmp.com
 0.0.0.0 navfja.answear.hu
 0.0.0.0 navigation-timing.meinestadt.de
+0.0.0.0 navigator-analytics.tweakwise.com
 0.0.0.0 navigator.io
 0.0.0.0 navilytics.com
 0.0.0.0 navrcholu.cz
@@ -25233,6 +25240,7 @@
 0.0.0.0 optout.oracle-zoominfo-notice.com
 0.0.0.0 optoutadvertising.com
 0.0.0.0 optumcoding.optum.com
+0.0.0.0 opulentsylvan.com
 0.0.0.0 oqbimz.aviasales.ru
 0.0.0.0 oqgrax.sissy-boy.com
 0.0.0.0 oqidne.itaka.pl
@@ -25463,6 +25471,7 @@
 0.0.0.0 p24.hu
 0.0.0.0 p2poolmining.com
 0.0.0.0 p2r14.com
+0.0.0.0 p2ro4u.trybawaryjny.pl
 0.0.0.0 p30rank.ir
 0.0.0.0 p3tq.pandasuite.io
 0.0.0.0 p5mcwdbu.ginzo-buy.jp
@@ -25879,6 +25888,7 @@
 0.0.0.0 pint-dev-branch.airship.com
 0.0.0.0 pipe-collect.ebu.io
 0.0.0.0 pipedream.wistia.com
+0.0.0.0 pipeline.lc.nl
 0.0.0.0 pipeline.rd.nl
 0.0.0.0 piper.amocrm.ru
 0.0.0.0 pippio.com
@@ -26338,6 +26348,7 @@
 0.0.0.0 pqlmae.lamaisonduchocolat.co.jp
 0.0.0.0 pqn7.cheque-dejeuner.fr
 0.0.0.0 pqrede.fiatprofessional.com
+0.0.0.0 pr-bh.ybp.yahoo.com
 0.0.0.0 pr-chart.com
 0.0.0.0 pr-linktausch.de
 0.0.0.0 pr-sunshine.de
@@ -26895,6 +26906,7 @@
 0.0.0.0 quantum.actonservice.com
 0.0.0.0 quantumlagoon.com
 0.0.0.0 quantummetric.com
+0.0.0.0 quantumshine.com
 0.0.0.0 quarterbean.com
 0.0.0.0 quartic.pl
 0.0.0.0 qubitanalytics.appspot.com
@@ -26920,6 +26932,7 @@
 0.0.0.0 quillkick.com
 0.0.0.0 quinceimaging.actonservice.com
 0.0.0.0 quintelligence.com
+0.0.0.0 quirkybliss.com
 0.0.0.0 quirkysugar.com
 0.0.0.0 quitsnap-blue.com
 0.0.0.0 quixoticnebula.com
@@ -29340,6 +29353,7 @@
 0.0.0.0 send.merit.me
 0.0.0.0 send.preply.com
 0.0.0.0 sendgrid.employeelinkapp.com
+0.0.0.0 sendingspire.com
 0.0.0.0 sendmoney.americanexpress.co.uk
 0.0.0.0 sendpulse.com
 0.0.0.0 sendpulsenewtest.branch.rocks
@@ -33223,6 +33237,7 @@
 0.0.0.0 soelui.butosklep.pl
 0.0.0.0 sofa.bankofamerica.com
 0.0.0.0 sofire.bdstatic.com
+0.0.0.0 sofire.terabox.app
 0.0.0.0 soflopxl.com
 0.0.0.0 softonic-analytics.net
 0.0.0.0 soggysponge.com
@@ -33597,7 +33612,6 @@
 0.0.0.0 soneticscorp.actonservice.com
 0.0.0.0 songssmoke.com
 0.0.0.0 songsterritory.com
-0.0.0.0 sooqr.com
 0.0.0.0 sootheside.com
 0.0.0.0 soothingglade.com
 0.0.0.0 sophi.io
@@ -36147,6 +36161,7 @@
 0.0.0.0 swebtraffic.executiveboard.com
 0.0.0.0 sweeps.la-z-boy.com
 0.0.0.0 sweepsheep.com
+0.0.0.0 sweetgum.io
 0.0.0.0 sweetslope.com
 0.0.0.0 swellstocking.com
 0.0.0.0 swelteringsleep.com
@@ -38417,6 +38432,7 @@
 0.0.0.0 tr.mattressman.co.uk
 0.0.0.0 tr.mcom03b.espmp-aufr.net
 0.0.0.0 tr.mcom04p.espmp-aufr.net
+0.0.0.0 tr.mediafin.be
 0.0.0.0 tr.melhores-propostas.pt
 0.0.0.0 tr.membres.boursorama.info
 0.0.0.0 tr.mep.enkiapp.io
@@ -39738,6 +39754,7 @@
 0.0.0.0 tracking.risk.lexisnexis.co.uk
 0.0.0.0 tracking.risk.lexisnexis.com
 0.0.0.0 tracking.risk.lexisnexis.com.br
+0.0.0.0 tracking.rocketleague.com
 0.0.0.0 tracking.rogers.com
 0.0.0.0 tracking.rootinc.com
 0.0.0.0 tracking.rti-inc.com
@@ -41373,6 +41390,8 @@
 0.0.0.0 vtracy.de
 0.0.0.0 vtrtl.de
 0.0.0.0 vttics.world.co.jp
+0.0.0.0 vturb.com.br
+0.0.0.0 vturb.net
 0.0.0.0 vuypew.ikks.com
 0.0.0.0 vvaaol.enuygun.com
 0.0.0.0 vvcufx.colombo.com.br
@@ -41413,6 +41432,7 @@
 0.0.0.0 w3n.llbean.com
 0.0.0.0 w4.air-worldwide.com
 0.0.0.0 w4o7aea80ss3-a.akamaihd.net
+0.0.0.0 w6.chabad.org
 0.0.0.0 w7.berlin.de
 0.0.0.0 w7.berliner-silvester.de
 0.0.0.0 w7.weihnachteninberlin.de
@@ -41476,6 +41496,7 @@
 0.0.0.0 waawuu.highfashionhome.com
 0.0.0.0 wabsgz.studocu.com
 0.0.0.0 waggishpig.com
+0.0.0.0 waitingnumber.com
 0.0.0.0 wakefulcook.com
 0.0.0.0 wal.wolfram.com
 0.0.0.0 walbusch.de
@@ -42959,6 +42980,7 @@
 0.0.0.0 x9.shinobi.jp
 0.0.0.0 xaguwy.thomas-muenz.ru
 0.0.0.0 xait.actonservice.com
+0.0.0.0 xanalytics.vip
 0.0.0.0 xapi.ozon.ru
 0.0.0.0 xapkgame.com
 0.0.0.0 xay5o.toscane-boutique.fr
@@ -43505,7 +43527,7 @@
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2024-05-19 00:53:17.426651
+# Generated at 2024-06-02 00:54:13.904101
 
 0.0.0.0 databerries.com
 0.0.0.0 fidzup
