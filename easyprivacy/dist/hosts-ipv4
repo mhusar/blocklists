@@ -1,6 +1,6 @@
-# Version: 202406011431
+# Version: 202406082248
 # Title: EasyPrivacy
-# Last modified: 01 Jun 2024 14:31 UTC
+# Last modified: 08 Jun 2024 22:48 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -388,6 +388,7 @@
 0.0.0.0 a.topya.com
 0.0.0.0 a.transportgruppen.se
 0.0.0.0 a.trivita.com
+0.0.0.0 a.vturb.net
 0.0.0.0 a.weareknitters.co.uk
 0.0.0.0 a.weareknitters.com
 0.0.0.0 a.weareknitters.de
@@ -8486,6 +8487,7 @@
 0.0.0.0 cloudhosting-business.vodafone.com
 0.0.0.0 cloudhosting.actonservice.com
 0.0.0.0 cloudiq.com
+0.0.0.0 cloudmetrics.xenforo.com
 0.0.0.0 cloudsdestruction.com
 0.0.0.0 cloudtracer101.com
 0.0.0.0 cloudwp.io
@@ -9323,7 +9325,6 @@
 0.0.0.0 counter.ukr.net
 0.0.0.0 counter.webmart.de
 0.0.0.0 counter.websitevoice.com
-0.0.0.0 counter.wikiwiki.jp
 0.0.0.0 counter.yadro.ru
 0.0.0.0 counter2.blog.livedoor.com
 0.0.0.0 counter27.ch
@@ -9853,6 +9854,7 @@
 0.0.0.0 d2j1fszo1axgmp.cloudfront.net
 0.0.0.0 d2j74sjmqqyf26.cloudfront.net
 0.0.0.0 d2kdl5wcwrtj90.cloudfront.net
+0.0.0.0 d2lxqodqbpy7c2.cloudfront.net
 0.0.0.0 d2nxi61n77zqpl.cloudfront.net
 0.0.0.0 d2o67tzzxkqap2.cloudfront.net
 0.0.0.0 d2oh4tlt9mrke9.cloudfront.net
@@ -12703,6 +12705,7 @@
 0.0.0.0 etx.indiatimes.com
 0.0.0.0 etyper.com
 0.0.0.0 etznkn.ec-store.net
+0.0.0.0 eu-1-id5-sync.com
 0.0.0.0 eu-mobile.events.data.microsoft.com
 0.0.0.0 eu-survey.com
 0.0.0.0 eu.business.samsung.com
@@ -23307,6 +23310,7 @@
 0.0.0.0 metrics.steinhafels.com
 0.0.0.0 metrics.stockhead.com.au
 0.0.0.0 metrics.store.irobot.com
+0.0.0.0 metrics.streaks.jp
 0.0.0.0 metrics.striderite.com
 0.0.0.0 metrics.strokeawareness.com
 0.0.0.0 metrics.stubhub.co.uk
@@ -36527,6 +36531,7 @@
 0.0.0.0 t.mashable.com
 0.0.0.0 t.massmutualcenter.com
 0.0.0.0 t.meangreensports.com
+0.0.0.0 t.mediaset.it
 0.0.0.0 t.menepe.com
 0.0.0.0 t.metrilo.com
 0.0.0.0 t.mgoblue.com
@@ -40085,6 +40090,7 @@
 0.0.0.0 trck.atnenga.com
 0.0.0.0 trck.bdi-services.de
 0.0.0.0 trck.comms.watlow.com
+0.0.0.0 trck.coomeet.com
 0.0.0.0 trck.copeland.com
 0.0.0.0 trck.e.atradius.com
 0.0.0.0 trck.el.supremapoker.com.br
@@ -40138,6 +40144,7 @@
 0.0.0.0 trendcounter.de
 0.0.0.0 trendemon.com
 0.0.0.0 trends.newsmaxwidget.com
+0.0.0.0 trends.privacywall.org
 0.0.0.0 triadtechnologies.actonservice.com
 0.0.0.0 trialfire.com
 0.0.0.0 trib.al
@@ -41390,8 +41397,6 @@
 0.0.0.0 vtracy.de
 0.0.0.0 vtrtl.de
 0.0.0.0 vttics.world.co.jp
-0.0.0.0 vturb.com.br
-0.0.0.0 vturb.net
 0.0.0.0 vuypew.ikks.com
 0.0.0.0 vvaaol.enuygun.com
 0.0.0.0 vvcufx.colombo.com.br

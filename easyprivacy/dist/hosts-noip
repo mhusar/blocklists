@@ -1,6 +1,6 @@
-# Version: 202406011431
+# Version: 202406082248
 # Title: EasyPrivacy
-# Last modified: 01 Jun 2024 14:31 UTC
+# Last modified: 08 Jun 2024 22:48 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -372,6 +372,7 @@ a.telus.com
 a.topya.com
 a.transportgruppen.se
 a.trivita.com
+a.vturb.net
 a.weareknitters.co.uk
 a.weareknitters.com
 a.weareknitters.de
@@ -8470,6 +8471,7 @@ cloudfront.net
 cloudhosting-business.vodafone.com
 cloudhosting.actonservice.com
 cloudiq.com
+cloudmetrics.xenforo.com
 cloudsdestruction.com
 cloudtracer101.com
 cloudwp.io
@@ -9307,7 +9309,6 @@ counter.top.kg
 counter.ukr.net
 counter.webmart.de
 counter.websitevoice.com
-counter.wikiwiki.jp
 counter.yadro.ru
 counter2.blog.livedoor.com
 counter27.ch
@@ -9837,6 +9838,7 @@ d2ibu2ug0mt5qp.cloudfront.net
 d2j1fszo1axgmp.cloudfront.net
 d2j74sjmqqyf26.cloudfront.net
 d2kdl5wcwrtj90.cloudfront.net
+d2lxqodqbpy7c2.cloudfront.net
 d2nxi61n77zqpl.cloudfront.net
 d2o67tzzxkqap2.cloudfront.net
 d2oh4tlt9mrke9.cloudfront.net
@@ -12687,6 +12689,7 @@ etwovr.underarmour.eu
 etx.indiatimes.com
 etyper.com
 etznkn.ec-store.net
+eu-1-id5-sync.com
 eu-mobile.events.data.microsoft.com
 eu-survey.com
 eu.business.samsung.com
@@ -23291,6 +23294,7 @@ metrics.steelcase.com
 metrics.steinhafels.com
 metrics.stockhead.com.au
 metrics.store.irobot.com
+metrics.streaks.jp
 metrics.striderite.com
 metrics.strokeawareness.com
 metrics.stubhub.co.uk
@@ -36511,6 +36515,7 @@ t.lucentisdirect.com
 t.mashable.com
 t.massmutualcenter.com
 t.meangreensports.com
+t.mediaset.it
 t.menepe.com
 t.metrilo.com
 t.mgoblue.com
@@ -40069,6 +40074,7 @@ trck.asset.malcotools.com
 trck.atnenga.com
 trck.bdi-services.de
 trck.comms.watlow.com
+trck.coomeet.com
 trck.copeland.com
 trck.e.atradius.com
 trck.el.supremapoker.com.br
@@ -40122,6 +40128,7 @@ trendcounter.com
 trendcounter.de
 trendemon.com
 trends.newsmaxwidget.com
+trends.privacywall.org
 triadtechnologies.actonservice.com
 trialfire.com
 trib.al
@@ -41374,8 +41381,6 @@ vtracker.net
 vtracy.de
 vtrtl.de
 vttics.world.co.jp
-vturb.com.br
-vturb.net
 vuypew.ikks.com
 vvaaol.enuygun.com
 vvcufx.colombo.com.br
