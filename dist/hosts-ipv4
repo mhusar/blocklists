@@ -1,6 +1,6 @@
-# Version: 202406082248
+# Version: 202406152011
 # Title: EasyPrivacy
-# Last modified: 08 Jun 2024 22:48 UTC
+# Last modified: 15 Jun 2024 20:11 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -66,6 +66,7 @@
 0.0.0.0 1a715b8q5m3j.www.logology.co
 0.0.0.0 1amehwchx31.bloxdhop.io
 0.0.0.0 1baq2nvd6n7.www.keevowallet.com
+0.0.0.0 1bliq.io
 0.0.0.0 1bpmtrvkqkj.pettoonies.com
 0.0.0.0 1bw7etm93lf.www.woodbrass.com
 0.0.0.0 1cros.net
@@ -4180,6 +4181,7 @@
 0.0.0.0 adultblogtoplist.com
 0.0.0.0 adultium.com
 0.0.0.0 adunity.com
+0.0.0.0 adv-analytics-collector.videograph.ai
 0.0.0.0 adv-sv-stat.focus.cn
 0.0.0.0 adv.drtuber.com
 0.0.0.0 advalo.com
@@ -4552,6 +4554,7 @@
 0.0.0.0 ana.e-ticket.co.jp
 0.0.0.0 ana.tv5unis.ca
 0.0.0.0 anaconda.net.anwalt.de
+0.0.0.0 anal.sataniskwijt.be
 0.0.0.0 analights.com
 0.0.0.0 analitica.webrpp.com
 0.0.0.0 analitik.bik.gov.tr
@@ -4702,6 +4705,7 @@
 0.0.0.0 analytics.cnfanart.com
 0.0.0.0 analytics.cnnchile.com
 0.0.0.0 analytics.cocolog-nifty.com
+0.0.0.0 analytics.code.dccouncil.gov
 0.0.0.0 analytics.codeforscience.org
 0.0.0.0 analytics.codeskulptor.org
 0.0.0.0 analytics.codigo.se
@@ -9272,6 +9276,7 @@
 0.0.0.0 count.rin.ru
 0.0.0.0 count.sibbo.net
 0.0.0.0 count.upc.rakuten.co.jp
+0.0.0.0 count.vidsrc.pro
 0.0.0.0 count.xxxssk.com
 0.0.0.0 count.yandeg.ru
 0.0.0.0 count24.de
@@ -10357,6 +10362,7 @@
 0.0.0.0 datafeedfile.com
 0.0.0.0 datafiletechnologies.actonservice.com
 0.0.0.0 datafront.co
+0.0.0.0 datalayer.orange.fr
 0.0.0.0 datam.com
 0.0.0.0 datamilk.app
 0.0.0.0 datamind.ru
@@ -11867,6 +11873,7 @@
 0.0.0.0 eliteclng.ericksonbuilt.com
 0.0.0.0 elitics.com
 0.0.0.0 ellypsio.net.jumia.com.ng
+0.0.0.0 elmasistatistik.com.tr
 0.0.0.0 elogic-learning.actonservice.com
 0.0.0.0 eloq.fiducial.fr
 0.0.0.0 eloqua-tracking.kaiserpermanente.org
@@ -14824,6 +14831,10 @@
 0.0.0.0 goa.dngn.kr
 0.0.0.0 goaccredited.actonservice.com
 0.0.0.0 goadservices.com
+0.0.0.0 goat.hepicgamerz.com
+0.0.0.0 goat.nhimmeo.cf
+0.0.0.0 goat.skeetstats.xyz
+0.0.0.0 goat.tailspace.net
 0.0.0.0 goatcounter.com
 0.0.0.0 goazlf.mytoys.de
 0.0.0.0 gobeyond.superiorgroup.com
@@ -18389,6 +18400,7 @@
 0.0.0.0 leiki.com
 0.0.0.0 lem.nouvelobs.com
 0.0.0.0 lemnisk.co
+0.0.0.0 lemonde.fr
 0.0.0.0 lemonpi.io
 0.0.0.0 lemonsandjoy.com
 0.0.0.0 lenpmh.francoisesaget.com
@@ -19555,6 +19567,7 @@
 0.0.0.0 logs.mezmo.com
 0.0.0.0 logs.naukri.com
 0.0.0.0 logs.netflix.com
+0.0.0.0 logs.openbank.com
 0.0.0.0 logs.spilgames.com
 0.0.0.0 logs.thebloggernetwork.com
 0.0.0.0 logs.theccaa.com
@@ -22018,6 +22031,7 @@
 0.0.0.0 mercadolibre.com/tracks
 0.0.0.0 mercent.com
 0.0.0.0 merchant-app.th3rdwave.coffee
+0.0.0.0 merchant-center-analytics.goog
 0.0.0.0 merchant-mail.neosurf.com
 0.0.0.0 merchant.libertycarz.com
 0.0.0.0 meremark.com
@@ -22166,6 +22180,7 @@
 0.0.0.0 metricode.com
 0.0.0.0 metricool.com
 0.0.0.0 metrics-api.librato.com
+0.0.0.0 metrics-broker.prod.p.tf1.fr
 0.0.0.0 metrics-dra.dt.hicloud.com
 0.0.0.0 metrics-go.experian.com
 0.0.0.0 metrics-ieeexplore.ieee.org
@@ -24916,6 +24931,7 @@
 0.0.0.0 ometrics.warnerbros.com
 0.0.0.0 ometrics.wb.com
 0.0.0.0 omgcreative.actonservice.com
+0.0.0.0 omgthink.com
 0.0.0.0 omguk.com
 0.0.0.0 omiki.com
 0.0.0.0 omine.org
@@ -26664,6 +26680,7 @@
 0.0.0.0 pulleymarketing.com
 0.0.0.0 puls.lv
 0.0.0.0 pulsar.ebay.com
+0.0.0.0 pulsatingmeadow.com
 0.0.0.0 pulse.delta.com
 0.0.0.0 pulseinsights.com
 0.0.0.0 pulselog.com
@@ -34436,6 +34453,7 @@
 0.0.0.0 st.iceportal.de
 0.0.0.0 st.img-bahn.de
 0.0.0.0 st.linkfire.com
+0.0.0.0 st.mapleranks.com
 0.0.0.0 st.mashable.com
 0.0.0.0 st.mazdausa.com
 0.0.0.0 st.newyorklife.com
@@ -34777,6 +34795,7 @@
 0.0.0.0 stats.adobe.com
 0.0.0.0 stats.adultswim.com
 0.0.0.0 stats.aerotime.aero
+0.0.0.0 stats.afrocave.com
 0.0.0.0 stats.agl.com.au
 0.0.0.0 stats.airfarewatchdog.co.uk
 0.0.0.0 stats.airfarewatchdog.com
@@ -34852,6 +34871,7 @@
 0.0.0.0 stats.bookingbuddy.com
 0.0.0.0 stats.bookingbuddy.eu
 0.0.0.0 stats.booncon.com
+0.0.0.0 stats.boringproxy.io
 0.0.0.0 stats.boscabeatha.ie
 0.0.0.0 stats.bradmax.com
 0.0.0.0 stats.breathly.app
@@ -35021,6 +35041,7 @@
 0.0.0.0 stats.fishersci.de
 0.0.0.0 stats.fishersci.it
 0.0.0.0 stats.flightsphere.com
+0.0.0.0 stats.flixhq.live
 0.0.0.0 stats.florianfritz.net
 0.0.0.0 stats.flowphantom.com
 0.0.0.0 stats.fomo.com
@@ -35086,6 +35107,7 @@
 0.0.0.0 stats.homestow.com
 0.0.0.0 stats.honeywell.com
 0.0.0.0 stats.hostfactor.io
+0.0.0.0 stats.how.wtf
 0.0.0.0 stats.hpz-scharnhausen.de
 0.0.0.0 stats.htmlcsstoimage.com
 0.0.0.0 stats.htp.org
@@ -43532,7 +43554,7 @@
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2024-06-09 00:56:05.322644
+# Generated at 2024-06-16 00:55:50.066879
 
 0.0.0.0 databerries.com
 0.0.0.0 fidzup
