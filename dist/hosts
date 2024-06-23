@@ -1,6 +1,6 @@
-# Version: 202406152011
+# Version: 202406222331
 # Title: EasyPrivacy
-# Last modified: 15 Jun 2024 20:11 UTC
+# Last modified: 22 Jun 2024 23:31 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -42,6 +42,7 @@
 12915784.help.sanvello.com
 12build.actonservice.com
 13js1lbtbj3.sparkloop.app
+1438976156.recolution.de
 1558334541.rsc.cdn77.org
 15gifts.com
 16134024.artcollection.io
@@ -5075,6 +5076,7 @@ analytics.vedantu.com
 analytics.vendemore.com
 analytics.verizon.com
 analytics.verizonwireless.com
+analytics.vg
 analytics.villagehouse.jp
 analytics.virginaustralia.com
 analytics.virginmobileusa.com
@@ -6872,6 +6874,7 @@ ballymoregroup.actonservice.com
 bam-x.com
 ban.su
 banana.le.com
+bananabarrel.com
 bancopostapremia.bancoposta.it
 bandborder.com
 bank.svb.com
@@ -7107,6 +7110,7 @@ bhwkju.vivo.com
 bhxemw.charleskeith.com
 bi.banggood.com
 bi.concordesolutions.com
+bi.heyloyalty.com
 bi.irisdating.com
 bi.medscape.com
 biberukalap.com
@@ -9322,6 +9326,7 @@ counter.rambler.ru
 counter.reddigital.ru
 counter.scribblelive.com
 counter.sibnet.ru
+counter.smotrim.ru
 counter.snackly.co
 counter.subtitlebee.com
 counter.tldw.me
@@ -11364,6 +11369,7 @@ dumpster.cam4.com
 dup.baidustatic.com
 duprelogistics.actonservice.com
 durationmedia.net
+durchsichtig.xyz
 durst-group.actonservice.com
 dustydime.com
 dustyhammer.com
@@ -13220,6 +13226,7 @@ fearfulmint.com
 fearlessfaucet.com
 featherstage.com
 feathr.co
+feature-flag-edge.live.clickbus.net
 featured.bradyid.com
 febcyv.joshi-spa.jp
 fec1.optimhome.com
@@ -15312,6 +15319,7 @@ historicalrequest.com
 hit-360.com
 hit-counter.info
 hit-parade.com
+hit.cnbce.com
 hit.interia.pl
 hit.mybestpro.com
 hit.skrz.cz
@@ -18263,6 +18271,7 @@ lasagneandands.com
 laserconcepts.actonservice.com
 laserstat.com
 laserveradedomaina.com
+lasttaco.com
 latam.thomsonreuters.com
 laughablecopper.com
 laughablelizards.com
@@ -26162,6 +26171,7 @@ plausible.regex.help
 plausible.retune.de
 plausible.safing.io
 plausible.sbw.org
+plausible.server.hakai.app
 plausible.shadygrovepca.org
 plausible.simplelogin.io
 plausible.srijn.net
@@ -26654,6 +26664,7 @@ pub.servidoresge.com
 pub.sheknows.com
 pubdream.com
 pubexchange.com
+pubfs.com
 pubimgs.com
 publications.nomination.fr
 publicgood.com
@@ -41412,6 +41423,7 @@ vsgwsk.bergzeit.at
 vsqyaz.sweetwater.com
 vst.sibnet.ru
 vstat.borderlessbd.com
+vstat.rtr-vesti.ru
 vstats.me
 vt.mak.com
 vtneexam.quantresear.ch
@@ -43554,7 +43566,7 @@ zzsqqx.shopjapan.co.jp
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2024-06-16 00:55:49.155038
+# Generated at 2024-06-23 00:55:12.835222
 
 databerries.com
 fidzup

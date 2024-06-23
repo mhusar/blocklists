@@ -1,6 +1,6 @@
-# Version: 202406152011
+# Version: 202406222331
 # Title: EasyPrivacy
-# Last modified: 15 Jun 2024 20:11 UTC
+# Last modified: 22 Jun 2024 23:31 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -42,6 +42,7 @@
 0.0.0.0 12915784.help.sanvello.com
 0.0.0.0 12build.actonservice.com
 0.0.0.0 13js1lbtbj3.sparkloop.app
+0.0.0.0 1438976156.recolution.de
 0.0.0.0 1558334541.rsc.cdn77.org
 0.0.0.0 15gifts.com
 0.0.0.0 16134024.artcollection.io
@@ -5075,6 +5076,7 @@
 0.0.0.0 analytics.vendemore.com
 0.0.0.0 analytics.verizon.com
 0.0.0.0 analytics.verizonwireless.com
+0.0.0.0 analytics.vg
 0.0.0.0 analytics.villagehouse.jp
 0.0.0.0 analytics.virginaustralia.com
 0.0.0.0 analytics.virginmobileusa.com
@@ -6872,6 +6874,7 @@
 0.0.0.0 bam-x.com
 0.0.0.0 ban.su
 0.0.0.0 banana.le.com
+0.0.0.0 bananabarrel.com
 0.0.0.0 bancopostapremia.bancoposta.it
 0.0.0.0 bandborder.com
 0.0.0.0 bank.svb.com
@@ -7107,6 +7110,7 @@
 0.0.0.0 bhxemw.charleskeith.com
 0.0.0.0 bi.banggood.com
 0.0.0.0 bi.concordesolutions.com
+0.0.0.0 bi.heyloyalty.com
 0.0.0.0 bi.irisdating.com
 0.0.0.0 bi.medscape.com
 0.0.0.0 biberukalap.com
@@ -9322,6 +9326,7 @@
 0.0.0.0 counter.reddigital.ru
 0.0.0.0 counter.scribblelive.com
 0.0.0.0 counter.sibnet.ru
+0.0.0.0 counter.smotrim.ru
 0.0.0.0 counter.snackly.co
 0.0.0.0 counter.subtitlebee.com
 0.0.0.0 counter.tldw.me
@@ -11364,6 +11369,7 @@
 0.0.0.0 dup.baidustatic.com
 0.0.0.0 duprelogistics.actonservice.com
 0.0.0.0 durationmedia.net
+0.0.0.0 durchsichtig.xyz
 0.0.0.0 durst-group.actonservice.com
 0.0.0.0 dustydime.com
 0.0.0.0 dustyhammer.com
@@ -13220,6 +13226,7 @@
 0.0.0.0 fearlessfaucet.com
 0.0.0.0 featherstage.com
 0.0.0.0 feathr.co
+0.0.0.0 feature-flag-edge.live.clickbus.net
 0.0.0.0 featured.bradyid.com
 0.0.0.0 febcyv.joshi-spa.jp
 0.0.0.0 fec1.optimhome.com
@@ -15312,6 +15319,7 @@
 0.0.0.0 hit-360.com
 0.0.0.0 hit-counter.info
 0.0.0.0 hit-parade.com
+0.0.0.0 hit.cnbce.com
 0.0.0.0 hit.interia.pl
 0.0.0.0 hit.mybestpro.com
 0.0.0.0 hit.skrz.cz
@@ -18263,6 +18271,7 @@
 0.0.0.0 laserconcepts.actonservice.com
 0.0.0.0 laserstat.com
 0.0.0.0 laserveradedomaina.com
+0.0.0.0 lasttaco.com
 0.0.0.0 latam.thomsonreuters.com
 0.0.0.0 laughablecopper.com
 0.0.0.0 laughablelizards.com
@@ -26162,6 +26171,7 @@
 0.0.0.0 plausible.retune.de
 0.0.0.0 plausible.safing.io
 0.0.0.0 plausible.sbw.org
+0.0.0.0 plausible.server.hakai.app
 0.0.0.0 plausible.shadygrovepca.org
 0.0.0.0 plausible.simplelogin.io
 0.0.0.0 plausible.srijn.net
@@ -26654,6 +26664,7 @@
 0.0.0.0 pub.sheknows.com
 0.0.0.0 pubdream.com
 0.0.0.0 pubexchange.com
+0.0.0.0 pubfs.com
 0.0.0.0 pubimgs.com
 0.0.0.0 publications.nomination.fr
 0.0.0.0 publicgood.com
@@ -41412,6 +41423,7 @@
 0.0.0.0 vsqyaz.sweetwater.com
 0.0.0.0 vst.sibnet.ru
 0.0.0.0 vstat.borderlessbd.com
+0.0.0.0 vstat.rtr-vesti.ru
 0.0.0.0 vstats.me
 0.0.0.0 vt.mak.com
 0.0.0.0 vtneexam.quantresear.ch
@@ -43554,7 +43566,7 @@
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2024-06-16 00:55:50.066879
+# Generated at 2024-06-23 00:55:13.575086
 
 0.0.0.0 databerries.com
 0.0.0.0 fidzup
