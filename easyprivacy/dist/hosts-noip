@@ -1,6 +1,6 @@
-# Version: 202406222331
+# Version: 202406300001
 # Title: EasyPrivacy
-# Last modified: 22 Jun 2024 23:31 UTC
+# Last modified: 30 Jun 2024 00:01 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -3782,6 +3782,7 @@ ad-ebis.mynavi-job20s.jp
 ad-ebis.toysub.jp
 ad-fam.com
 ad-log.dable.io
+ad-platform.jmty.jp
 ad-shield.io
 ad-srv-track.com
 ad-track.jp
@@ -4589,6 +4590,7 @@ analytics-production.hapyak.com
 analytics-proxy.springboard.com
 analytics-scripts.cablelabs.com
 analytics-secure.dollargeneral.com
+analytics-server.arras.cx
 analytics-sg.tiktok.com
 analytics-ssl.allconnect.com
 analytics-ssl.bradyid.com
@@ -8157,6 +8159,7 @@ check.ddos-guard.net
 check.frbservices.org
 checkeffect.at
 checkpointcharlie.heizung.de
+checkreferrer.io
 checkru.net
 checkstat.nl
 cheerfulrange.com
@@ -9807,7 +9810,6 @@ d17m68fovwmgxj.cloudfront.net
 d18p8z0ptb8qab.cloudfront.net
 d191y0yd6d0jy4.cloudfront.net
 d196fri2z18sm.cloudfront.net
-d1af033869koo7.cloudfront.net
 d1cr9zxt7u0sgu.cloudfront.net
 d1f0tbk1v3e25u.cloudfront.net
 d1gp8joe0evc8s.cloudfront.net
@@ -9920,6 +9922,7 @@ da29e6b8-f018-490f-b25f-39a887fc95e7.xyz
 dabu.askmediagroup.com
 dacocorp.actonservice.com
 dacounter.com
+dadalytics.it
 dadi.technology
 dadispapi.gmarket.co.kr
 daifez.thebay.com
@@ -15504,6 +15507,7 @@ hssyje.theathletesfoot.com.au
 hst2-invite.ander.ai
 hstats.askmiso.com
 hstats.hepsiburada.com
+hstatstest.hepsiburada.com
 hstrck.com
 htc.oaken.com
 htcnbx.odkarla.cz
@@ -20087,6 +20091,7 @@ maniacalappliance.com
 mantis.edge47.testandtarget.omniture.com
 manufacturing.autodeskcommunications.com
 map.rockwellautomation.com
+mapixl.com
 maploco.com
 mapmyuser.com
 mapp.biryanibykilo.com
@@ -23613,6 +23618,7 @@ mgefhu.seiska.fi
 mgefhu.suomi24.fi
 mggakg.littleblack.co.kr
 mgixgn.wittchen.com
+mgln.ai
 mgn.ebis.xn--olsz5f0ufw02b.net
 mgptul.finson.com
 mgt7.madeindesign.it
@@ -23872,6 +23878,7 @@ mon.domdog.io
 mon.ingservices.nl
 mon.us.tiktokv.com
 mon.zijieapi.com
+monacobeatles.com
 monerise.com
 monerominer.rocks
 moneroocean.stream
@@ -25682,6 +25689,7 @@ pastoralroad.com
 patientpay.actonservice.com
 patrikios.openapp.link
 paupud.meillandrichardier.com
+pawsnug.com
 pawsplus.actonservice.com
 pay.truemoney.me
 paydashboard.actonservice.com
@@ -25950,6 +25958,7 @@ pixel.coccoc.com
 pixel.condenastdigital.com
 pixel.convertize.io
 pixel.cpex.cz
+pixel.driveniq.com
 pixel.dugwood.com
 pixel.europapress.net
 pixel.facebook.com
@@ -27195,6 +27204,7 @@ recoverypoint.actonservice.com
 recruit.go.apprenticeshipcommunity.com.au
 recruitics.com
 recruiting.dukekunshan.edu.cn
+recs-api.conde.digital
 recs.shareaholic.com
 recv-entry.tbs.co.jp
 recv-jnn.tbs.co.jp
@@ -28515,6 +28525,7 @@ sanmet.originenergy.com.au
 sapha.com
 sapphire-api.target.com
 sappmetrics.sprint.com
+sardine.ai
 sare25.com
 sarov.ws
 sas.com
@@ -29544,6 +29555,7 @@ seyfwl.okazjum.pl
 seyfwl.pomponik.pl
 seyfwl.smaker.pl
 sezixz.officesupply.com
+sf-insights.io
 sf-test.groc.press
 sf.groc.press
 sf14g.com
