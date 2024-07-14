@@ -1,6 +1,6 @@
-# Version: 202407070044
+# Version: 202407140042
 # Title: EasyPrivacy
-# Last modified: 07 Jul 2024 00:44 UTC
+# Last modified: 14 Jul 2024 00:42 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -4848,6 +4848,7 @@
 0.0.0.0 adrizer.com
 0.0.0.0 adrta.com
 0.0.0.0 adrtx.net
+0.0.0.0 ads-collector.luizalabs.com
 0.0.0.0 ads-trk.vidible.tv
 0.0.0.0 ads.dandelionchocolate.jp
 0.0.0.0 ads.tikpage.com
@@ -5344,6 +5345,7 @@
 0.0.0.0 ana.e-ticket.co.jp
 0.0.0.0 ana.tv5unis.ca
 0.0.0.0 anaconda.net.anwalt.de
+0.0.0.0 anal.doubledouble.top
 0.0.0.0 anal.sataniskwijt.be
 0.0.0.0 analights.com
 0.0.0.0 analitica.webrpp.com
@@ -8503,6 +8505,7 @@
 0.0.0.0 brvelocity.eccocar.com
 0.0.0.0 brwanacars.eccocar.com
 0.0.0.0 brwerental.eccocar.com
+0.0.0.0 brwsrfrm.com
 0.0.0.0 brycys.24mx.se
 0.0.0.0 bryurent.eccocar.com
 0.0.0.0 bs-pro-origin-pull.kwai.net.iberostar.com
@@ -8673,6 +8676,7 @@
 0.0.0.0 c.holmesmind.com
 0.0.0.0 c.imedia.cz
 0.0.0.0 c.ixi.to
+0.0.0.0 c.keltis.com
 0.0.0.0 c.live.com
 0.0.0.0 c.lolamarket.com
 0.0.0.0 c.mgid.com
@@ -9667,6 +9671,7 @@
 0.0.0.0 colvk.viki.io
 0.0.0.0 com.carte-gr.total.fr
 0.0.0.0 com.econa.com
+0.0.0.0 comagic.ru
 0.0.0.0 combativecar.com
 0.0.0.0 combativedetail.com
 0.0.0.0 combbit.com
@@ -10169,6 +10174,7 @@
 0.0.0.0 coralogix.com
 0.0.0.0 coralreverie.com
 0.0.0.0 cordcopper.com
+0.0.0.0 core-apps.b-cdn.net
 0.0.0.0 core-cen-54.com
 0.0.0.0 coremetrics.com
 0.0.0.0 coremotives.com
@@ -10445,6 +10451,7 @@
 0.0.0.0 csp-collector.appspot.com
 0.0.0.0 csp-reporting.cloudflare.com
 0.0.0.0 csp.secureserver.net
+0.0.0.0 csp.yandex.net
 0.0.0.0 cspmkl.gruppal.com
 0.0.0.0 csr.onet.pl
 0.0.0.0 csr11.net.asambeauty.com
@@ -11716,6 +11723,7 @@
 0.0.0.0 detectdinner.com
 0.0.0.0 detectdiscovery.com
 0.0.0.0 deteql.net
+0.0.0.0 detmir-stats.ru
 0.0.0.0 detnmz.cuteness.com
 0.0.0.0 detnmz.ehow.com
 0.0.0.0 detnmz.hunker.com
@@ -15049,6 +15057,7 @@
 0.0.0.0 g993dvyzae.branch.salesfloor.net
 0.0.0.0 ga-analytics.com
 0.0.0.0 ga-beacon.appspot.com
+0.0.0.0 ga-tracker-dot-detmir-bonus.appspot.com
 0.0.0.0 ga.groc.press
 0.0.0.0 ga.nsimg.net
 0.0.0.0 ga.webdigi.co.uk
@@ -18956,6 +18965,7 @@
 0.0.0.0 javascriptcounter.appspot.com
 0.0.0.0 javs.actonservice.com
 0.0.0.0 javvso.newone-shop.com
+0.0.0.0 jazzyzest.cfd
 0.0.0.0 jbbljg.autoscout24.bg
 0.0.0.0 jbezdi.ilsole24ore.com
 0.0.0.0 jcaqvl.twinset.com
@@ -21570,6 +21580,7 @@
 0.0.0.0 maricich.actonservice.com
 0.0.0.0 marine.promo.skf.com
 0.0.0.0 marinsm.com
+0.0.0.0 markadver.com
 0.0.0.0 markedcrayon.com
 0.0.0.0 markedmeasure.com
 0.0.0.0 markedpail.com
@@ -21983,6 +21994,7 @@
 0.0.0.0 marketing.dreamstyleremodeling.com
 0.0.0.0 marketing.driveline.co.nz
 0.0.0.0 marketing.driveulu.com
+0.0.0.0 marketing.dropbox.com
 0.0.0.0 marketing.dryvit.com
 0.0.0.0 marketing.dscdredge.com
 0.0.0.0 marketing.ducenit.com
@@ -25031,6 +25043,7 @@
 0.0.0.0 mialbj6.com
 0.0.0.0 miao.baidu.com
 0.0.0.0 miaozhen.com
+0.0.0.0 michiganrobotflower.com
 0.0.0.0 micodigo.com
 0.0.0.0 micpn.com
 0.0.0.0 micro.workplaceinvesting.fidelity.com
@@ -26292,6 +26305,7 @@
 0.0.0.0 ojrq.net
 0.0.0.0 ojufuk.vincecamuto.com
 0.0.0.0 ojvxtz.junonline.jp
+0.0.0.0 ok88okg.infinityscans.net
 0.0.0.0 okhwxl.rnainc.jp
 0.0.0.0 oksiqv.styletread.com.au
 0.0.0.0 okt.to
@@ -28423,6 +28437,7 @@
 0.0.0.0 quick-counter.net
 0.0.0.0 quick.openapp.link
 0.0.0.0 quickkoala.io
+0.0.0.0 quickpcfixer.click
 0.0.0.0 quicksandear.com
 0.0.0.0 quidel.actonservice.com
 0.0.0.0 quietknowledge.com
@@ -29572,6 +29587,7 @@
 0.0.0.0 sa.tactics.com
 0.0.0.0 sa.tlc.com
 0.0.0.0 sa.travelchannel.com
+0.0.0.0 sa.uswitch.com
 0.0.0.0 saa-aem.hamamatsu.com
 0.0.0.0 saa.247sports.com
 0.0.0.0 saa.cbs.com
@@ -30095,6 +30111,7 @@
 0.0.0.0 sbcomniture.focus.de
 0.0.0.0 sbdhdq.zeeman.com
 0.0.0.0 sbeacon.sina.com.cn
+0.0.0.0 sbermarketing.ru
 0.0.0.0 sbfrnq.naturalforme.fr
 0.0.0.0 sbgsodufuosmmvsdf.info
 0.0.0.0 sbi-push.com
@@ -37665,6 +37682,7 @@
 0.0.0.0 sysmon.kakaku.com
 0.0.0.0 sysomos.com
 0.0.0.0 systancia-scp.actonservice.com
+0.0.0.0 system-beta.b-cdn.net
 0.0.0.0 system.nefiber.com
 0.0.0.0 systemizecoat.com
 0.0.0.0 sytuzk.nissanvimontlaval.com
@@ -37847,6 +37865,7 @@
 0.0.0.0 t.foxtheatre.org
 0.0.0.0 t.freelancer.com
 0.0.0.0 t.friars.com
+0.0.0.0 t.fullres.net
 0.0.0.0 t.fuzeon.com
 0.0.0.0 t.gazyva.com
 0.0.0.0 t.gelderlander.nl
@@ -37989,6 +38008,7 @@
 0.0.0.0 t.pmu.fr
 0.0.0.0 t.poconoraceway.com
 0.0.0.0 t.pointandplace.com
+0.0.0.0 t.poki.io
 0.0.0.0 t.popsugar.com
 0.0.0.0 t.portland5.com
 0.0.0.0 t.powerreviews.com
@@ -45169,7 +45189,7 @@
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2024-07-07 00:57:00.619279
+# Generated at 2024-07-14 00:57:51.842612
 
 0.0.0.0 databerries.com
 0.0.0.0 fidzup
