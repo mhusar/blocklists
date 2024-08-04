@@ -1,6 +1,6 @@
-# Version: 202407272239
+# Version: 202408032327
 # Title: EasyPrivacy
-# Last modified: 27 Jul 2024 22:39 UTC
+# Last modified: 03 Aug 2024 23:27 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -5343,6 +5343,7 @@ analyse.bcovery.com
 analyse.hinemos.info
 analysis.aws.locondo.jp
 analysis.fi
+analysis.prod.joyfru.jiji.com
 analyt.ir
 analytic.alabama.aaa.com
 analytic.americanfunds.com
@@ -5382,6 +5383,7 @@ analytics-hub.3plearning.com
 analytics-lgs.corebridgefinancial.com
 analytics-nssl.bradyid.com
 analytics-prd.aws.wehaa.net
+analytics-prod-alb-292764149.us-west-2.elb.amazonaws.com
 analytics-prod2.glance-internal.inmobi.com
 analytics-production.hapyak.com
 analytics-proxy.springboard.com
@@ -10496,6 +10498,7 @@ csp-collector.appspot.com
 csp-reporting.cloudflare.com
 csp.secureserver.net
 csp.yandex.net
+csplog.kwai-pro.com
 cspmkl.gruppal.com
 csr.onet.pl
 csr11.net.asambeauty.com
@@ -10864,6 +10867,7 @@ d2lxqodqbpy7c2.cloudfront.net
 d2nxi61n77zqpl.cloudfront.net
 d2o67tzzxkqap2.cloudfront.net
 d2oh4tlt9mrke9.cloudfront.net
+d2pozfvrp52dk4.cloudfront.net
 d2pt12ct4kmq21.cloudfront.net
 d2r1yp2w7bby2u.cloudfront.net
 d2rnkf2kqy5m6h.cloudfront.net
@@ -11839,6 +11843,7 @@ devtracking.risk.lexisnexis.com
 dewdroplagoon.com
 dextersolutions.actonservice.com
 df-srv.de
+df.huya.com
 dfanalytics.dealerfire.com
 dfapvmql-q.global.ssl.fastly.net
 dffpxg.targus.com
@@ -12506,6 +12511,7 @@ dsply.com
 dspx.tv
 dst05lp2.net.mydays.de
 dsvmgu.snipes.it
+dt.xfyun.cn
 dtag.breadfinancial.com
 dtc-v6t.com
 dtestpromo.fiat.it
@@ -14044,6 +14050,7 @@ event.hackle.io
 event.instiengage.com
 event.jma.or.jp
 event.ortec.com
+event.platform.autotrader.com.au
 event.platform.tunein.com
 event.raise3d.cn
 event.seatradecruiseevents.com
@@ -14104,6 +14111,7 @@ events.ferrari.com
 events.flagship.io
 events.forddirectdealers.com
 events.framer.com
+events.getsitectrl.com
 events.glory-global.com
 events.gogoair.com
 events.golubcapital.com
@@ -14155,6 +14163,7 @@ events.squarespace.com
 events.storifyme.com
 events.tafensw.edu.au
 events.trapptechnology.com
+events.tryamped.com
 events.tubecup.org
 events.turbosquid.com
 events.ubembed.com
@@ -14477,6 +14486,7 @@ featherstage.com
 feathr.co
 feature-flag-edge.live.clickbus.net
 featured.bradyid.com
+featuregates.org
 febcyv.joshi-spa.jp
 fedexfield.redskins.com
 fedsched.actonservice.com
@@ -14522,6 +14532,7 @@ fgfukd.sakazen.co.jp
 fgjfwz.legami.com
 fglrgt.ruggable.com
 fgmaal.u-canshop.jp
+fgn-plausible.serverable.com
 fgosob.unhcr.it
 fgqxcz.thehipstore.co.uk
 fhdnds.mrmarvis.com
@@ -15227,6 +15238,7 @@ gdmelqact.gartner.com
 gdphhl.elite-auto.fr
 gdqlno.weisshaus.de
 gdsngr.chainreactioncycles.com
+gdt.qq.com
 gea-exchange-03.net.jumia.ug
 gear.echovisuals.com
 gecfnc.foresight.jp
@@ -17797,6 +17809,7 @@ imzahrwl.xyz
 in-business.vodafone.com
 in-go.experian.com
 in-mktg.vodafone.com
+in.brilliant.org
 in.invitd.us
 in.promo.skf.com
 in.upipr.co
@@ -18247,7 +18260,6 @@ info.marumatchbox.com
 info.mccloudservices.com
 info.mdsol.com
 info.med-iq.com
-info.medtronicdiabetes.com
 info.membercoverage.com
 info.memberzone.com
 info.mergertech.com
@@ -18676,6 +18688,7 @@ insight.velocify.com
 insight.wittkieffer.com
 insightera.com
 insightgrit.com
+insights-mxp-cdn.coursecareers.com
 insights.53.com
 insights.academy.com
 insights.affilimate.com
@@ -18782,6 +18795,7 @@ intergid.ru
 interhits.de
 intermundomedia.com
 internal-analytics.odoo.com
+internal-e.posthog.com
 internal.hcltech.com
 internalcomms.dbschenker.com
 internalcomms.hubinternational.com
@@ -19352,6 +19366,7 @@ jubilantcanyon.com
 jubilantglimmer.com
 jubileo-ppb.carte-gr.total.fr
 jufhxk.audienhearing.com
+juiceblocks.com
 jujtcq.amnibus.com
 jumbo.zomato.com
 jumplead.com
@@ -19413,6 +19428,7 @@ k.laredoute.es
 k.laredoute.pt
 k.laredoute.ru
 k.laredoute.se
+k.qwant.com
 k.streamrail.com
 k.truffaut.com
 k.voyageursdumonde.be
@@ -19746,6 +19762,7 @@ l.urban.com.au
 l.uvcr.me
 l.voalearningenglish.in
 l.voleousa.com
+l.web.huya.com
 l.whizzl.com
 l.workoutparty.co
 l.your.md
@@ -21030,6 +21047,7 @@ log-api.cli.im
 log-gateway.zoom.us
 log-lb.skyperfectv.co.jp
 log-pq.shopfully.cloud
+log-upload-os.hoyoverse.com
 log.adplex.co.kr
 log.aimtell.com
 log.bitauto.com
@@ -21144,6 +21162,7 @@ logs.thebloggernetwork.com
 logs.theccaa.com
 logs.viavideo.digital
 logsbin.dantri.com.vn
+logsdk.kwai-pro.com
 logservice.hicloud.com
 logservice1.hicloud.com
 logstash-3.radio-canada.ca
@@ -21457,6 +21476,7 @@ lynjbq.sizeofficial.nl
 lyonsdown.actonservice.com
 lypn.com
 lypn.net
+lyricshook.com
 lytics.findairpods.com
 lytics.io
 lytiks.com
@@ -23536,6 +23556,7 @@ mediego.com
 mediniku.viessmann.lt
 medipartner.jp
 medisante.actonservice.com
+mediumshort.com
 medlemskap.nof.no
 meds.androderm.com
 meds.asacolhdhcp.com
@@ -23614,6 +23635,7 @@ met.sewell.com
 met.vgwort.de
 met1.hp.com
 met2.hp.com
+metajaws.com
 metallic.actonservice.com
 metalyzer.com
 metapack.actonservice.com
@@ -25454,6 +25476,7 @@ more-data.ru
 more.groups.be
 more.socialflow.com
 more.spglobal.com
+morefriendly.com
 moreinfo.onnowdigital.com
 moreinfo.powerpro360.com
 moreinfo.sdmyers.com
@@ -26033,6 +26056,7 @@ nik.io
 nikitas.openapp.link
 nil.naver.com
 nimblebird.co
+nimbleplot.com
 nimbleswan.io
 nimiq.com
 nimiqpool.com
@@ -26082,6 +26106,7 @@ nnqyed.laredoute.be
 nntgna.dmm.com
 nnvoia.closetworld.com
 no9pldds1lmn3.soundcloud.com
+noa.yahoo.com
 noa0.compteczam.fr
 nocaadobefpc.optus.com.au
 nocturnalloom.com
@@ -26438,7 +26463,6 @@ oj2q8.montecarlosbm.book-secure.com
 ojlsxt.pigment.co.kr
 ojm4.palladiumhotelgroup.com
 ojmxro.yatsan.com
-ojrq.net
 ojufuk.vincecamuto.com
 ojvxtz.junonline.jp
 ok88okg.infinityscans.net
@@ -26994,6 +27018,7 @@ outstandingsnails.com
 ouvjnb.westernbikeworks.com
 ovalweek.com
 overconfidentfood.com
+overkick.com
 overlakemedicalcenter.hrm.healthgrades.com
 overratedchalk.com
 overstat.com
@@ -27860,6 +27885,7 @@ pm0.net
 pm14.com
 pmazpg.legalzoom.com
 pmbox.biz
+pmi.flowplayer.com
 pmweb.com.br
 pn.vg
 pnaagn.haekplanter-heijnen.dk
@@ -27886,6 +27912,8 @@ podbooth.martela.no
 podbooth.martela.se
 podcorn.com
 podiumpresto.com
+podscribe.com
+poemprompt.com
 poeticmetric.com
 poeticpackage.com
 pog.com
@@ -28969,10 +28997,12 @@ relay.happ.social
 relay.information.maileva.com
 relay.velpa.pl
 relead.com
+releasepath.com
 relevant-digital.com
 reliable.elgas.com.au
 reliablecounter.com
 relmaxtop.com
+reloadphoto.com
 reltrd.peteralexander.com.au
 relyonit.americanexpress.co.uk
 rem-track.bild.de
@@ -29482,6 +29512,7 @@ rumpelstiltskinhead.com
 rumsey.actonservice.com
 rumstat.cdnvideo.ru
 rumt-sg.com
+runconverge.com
 rup5.destinia.ru
 ruralrobin.com
 rush.hrm.healthgrades.com
@@ -29727,6 +29758,7 @@ sa.flux.community
 sa.foodnetwork.com
 sa.hgtv.com
 sa.investigationdiscovery.com
+sa.kolik.cz
 sa.lesselectionsskoda.fr
 sa.oprah.com
 sa.reebok.co.uk
@@ -30188,6 +30220,7 @@ sanalytics.wideroe.no
 sanalytics.yorkstatebank.com
 sandbox-connectlp.keysight.com
 sandbox-elq.keysight.com
+sandstrophies.com
 sanl.champssports.ca
 sanl.champssports.com
 sanl.eastbay.com
@@ -30361,6 +30394,7 @@ scatteredheat.com
 scatteredquiver.com
 scatteredstream.com
 scenicapparel.com
+scenicdrops.com
 scheduling.qualifi.hr
 schinnerer.actonservice.com
 schwacke.autovistagroup.com
@@ -31256,6 +31290,8 @@ services.blackboard.com
 services.cairn.info
 services.eclerx.com
 services.edc.ca
+services.haaretz.co.il
+services.haaretz.com
 services.princes-trust.org.uk
 services.releasepoint.com
 servicing.business.hsbc.com
@@ -31493,6 +31529,7 @@ showheroes.com
 showsteel.com
 showstranger.com
 shqmetrics.sony.com
+shredquiz.com
 shrek.6.cn
 shrillspoon.com
 shroughtened.com
@@ -35369,7 +35406,6 @@ spersonalization.rainbowintl.com
 sphc.caring4cancer.com
 sphostserver.com
 spider-mich.com
-spideraf.com
 spidersboats.com
 spiffymachine.com
 spigte.shopee.tw
@@ -35377,6 +35413,7 @@ spinnaker-js.com
 spinnakermgmt.actonservice.com
 spirebaboon.com
 spjysa.only.com
+splash-screen.net
 splitbee.io
 splitexpenses.oworld.fr
 splittag.com
@@ -35397,6 +35434,7 @@ spottednoise.com
 spottedsmile.com
 spottedsnow.com
 spread.epoolers.com
+sprig.com
 spring-tns.net
 spring.de
 springaftermath.com
@@ -35406,6 +35444,7 @@ springolive.com
 springsister.com
 springsnails.com
 sproutingbag.com
+sprtnd.com
 sprydelta.com
 spscas.hitachi-solutions.co.jp
 spt.ahram.org.eg
@@ -36164,6 +36203,7 @@ starget.vodafone.es
 starget.westjet.com
 starget.workingadvantage.com
 starify.appsonic.fr
+starkscale.com
 starman.fathomdns.com
 starman.floorcleanse.co.uk
 start.adelaide.edu.au
@@ -37207,6 +37247,7 @@ statse-omtrdc.deka.de
 statse.deka-etf.de
 statsegg.cdngeek.com
 statsforever.com
+statshunt.com
 statsig.com
 statsigapi.net
 statsinsight.com
@@ -37225,6 +37266,7 @@ statuesquebrush.com
 statun.com
 statuncore.com
 status.acutx.org
+statwup.huya.com
 statystyki.ekspertyzy-szkolenia.pl
 statystyki.panelek.com
 stay.lottehotel.com
@@ -37544,10 +37586,12 @@ sunlightmetrics.b-cdn.net
 sunshinegates.com
 suntcontent.se
 super8-link.mysuki.io
+superchichair.com
 supercounters.com
 superficialeyes.com
 superficialspring.com
 superficialsquare.com
+superfiliate.com
 superiorgroup.actonservice.com
 superpointlesshamsters.com
 superspeedapp.com
@@ -38070,6 +38114,7 @@ t.herdzone.com
 t.hln.be
 t.hmwy.io
 t.hokiesports.com
+t.home.news.cn
 t.hornetsports.com
 t.huskers.com
 t.hypers.com.cn
@@ -38750,6 +38795,7 @@ te.yomonda.de
 te.your-look-for-less.nl
 te.your-look-for-less.se
 teach.graduateprogram.org
+teacupbooks.com
 tealiumiq.com
 team-rec.jp
 team.moxtra.com
@@ -42389,6 +42435,7 @@ ucmetrics.unicreditbanca.it
 ucmetrics.unicreditgroup.eu
 ucounter.ucoz.net
 ucppeo.silux.hr
+udblog.huya.com
 udgrbq.malwarebytes.com
 udicje.perrys.co.uk
 udkcrj.com
@@ -42484,6 +42531,7 @@ ultravalid.com
 ultund.misterspex.nl
 ulutlv.esprit.fr
 um.contentstudio.io
+umami.aigenerations.net
 umami.is
 umami.wakarimasen.moe
 umassmemorial.hrm.healthgrades.com
@@ -42677,6 +42725,7 @@ userreport.com
 users-api.com
 users.rentbabe.com
 usersegment.wpdigital.net
+usertracks.live
 userzoom.com
 usesfathom.com
 usgzei.vidaxl.ch
@@ -43713,6 +43762,7 @@ whatif.it.adobe.com
 whatif.nl.adobe.com
 whcmij.altitude-sports.com
 wheredoyoucomefrom.ovh
+whimsicalcanyon.com
 whimsicalgrove.com
 whineattempt.com
 whirlwealth.com
@@ -45276,6 +45326,7 @@ zodhqv.peterson.fr
 zodxgk.lecoqsportif.com
 zombieslayer-alternate.kano.link
 zombieslayer.kano.link
+zonewedgeshaft.com
 zononi.com
 zontera.com
 zoomanalytics.co
@@ -45350,7 +45401,7 @@ zzsqqx.shopjapan.co.jp
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2024-07-21 00:57:33.153093
+# Generated at 2024-08-04 00:58:05.596219
 
 databerries.com
 fidzup
