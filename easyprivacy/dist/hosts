@@ -1,6 +1,6 @@
-# Version: 202408241350
+# Version: 202408311742
 # Title: EasyPrivacy
-# Last modified: 24 Aug 2024 13:50 UTC
+# Last modified: 31 Aug 2024 17:42 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -5364,6 +5364,8 @@ analysis.aws.locondo.jp
 analysis.fi
 analysis.prod.joyfru.jiji.com
 analyt.ir
+analytic-client.chickgoddess.com
+analytic-client.panowars.com
 analytic.alabama.aaa.com
 analytic.americanfunds.com
 analytic.buoyweather.com
@@ -5757,6 +5759,7 @@ analytics.pipelife.rs
 analytics.pipelife.se
 analytics.pipelife.si
 analytics.pixels.ai
+analytics.plasmic.app
 analytics.plex.tv
 analytics.plumbworld.co.uk
 analytics.pnc.com
@@ -5933,6 +5936,7 @@ analytics.xiloc.net
 analytics.xoomenergy.com
 analytics.yahoo.com
 analytics.yext-static.com
+analytics.yicai.com
 analytics.ynap.biz
 analytics.yola.net
 analytics.yolacdn.net
@@ -8916,6 +8920,7 @@ cartkitten.com
 cartoon.hardalist.com
 carts.guru
 cartstack.com
+cartx.cloud
 carvecakes.com
 cascadion.thermo.com
 cascadion.thermofisher.com
@@ -8997,6 +9002,7 @@ cdn.arcstudiopro.com
 cdn.c-i.as
 cdn.net.dz.jumia.com
 cdn.net.elogia.net
+cdn.ravm.tv
 cdn.usefathom.com
 cdn1.skrill.com
 cdn7.baunetz.de
@@ -9067,6 +9073,7 @@ chalkoil.com
 challengeh.carte-gr.total.fr
 chanalytics.merchantadvantage.com
 changeablecats.com
+channel-analysis-js.gmw.cn
 channel-impact.actonservice.com
 channel.cummins.com
 channel.informaengage.com
@@ -9613,6 +9620,7 @@ collect.bannercrowd.net
 collect.cap.ch
 collect.chaordicsystems.com
 collect.cloudsponge.com
+collect.deel.com
 collect.elvia.ch
 collect.ezidox.com
 collect.helsana-preprod.ch
@@ -9694,6 +9702,7 @@ combcompetition.com
 cometquote.com
 comfortablecheese.com
 comfygoodness.com
+comitiumanalytics.com
 comm.toro.com
 commander1.com
 commanslabdpp.carte-gr.total.fr
@@ -9849,6 +9858,7 @@ connect-qa.netapp.com
 connect.abm.netapp.com
 connect.acams.org
 connect.acspubs.org
+connect.airfrance.com/ach/api/event
 connect.arkadin.com
 connect.aucmed.edu
 connect.azulseven.com
@@ -14647,7 +14657,6 @@ flyingpt.com
 flznib.weblio.jp
 fma7.aegon.es
 fmbankva.actonservice.com
-fmhy.net
 fmjgtp.dentalspeed.com
 fmpjka.moroccanoil.com
 fmqidg.letras.com
@@ -15116,6 +15125,7 @@ g11885060100.co
 g12083144435.co
 g12281228770.co
 g1584674682.co
+g1584674684.co
 g1782759015.co
 g1782759016.co
 g1980843350.co
@@ -16133,6 +16143,7 @@ go2.ringcentral.com
 go5.global.toshiba
 goa.dngn.kr
 goaccredited.actonservice.com
+goadopt.io
 goadservices.com
 goat.hepicgamerz.com
 goat.nhimmeo.cf
@@ -21112,6 +21123,7 @@ logly.co.jp
 logmatic.io
 lognormal.net
 logql.yahoo.co.jp
+logr-ingest.com
 logrocket.com
 logrocket.io
 logs-api.shoprunner.com
@@ -26084,6 +26096,7 @@ nnofmj.studiof.com.co
 nnqyed.laredoute.be
 nntgna.dmm.com
 nnvoia.closetworld.com
+no88kks.infinityscans.net
 no9pldds1lmn3.soundcloud.com
 noa.yahoo.com
 noa0.compteczam.fr
@@ -26181,6 +26194,8 @@ nqozgp.botland.com.pl
 nqxnvy.levi.com.hk
 nqyuel589fq5.esgrounding.com
 nr-data.net
+nr-data.noelleeming.co.nz
+nr.noelleeming.co.nz
 nr.static.mmcdn.com
 nr7.us
 nra.locktonaffinity.net
@@ -26443,7 +26458,6 @@ ojm4.palladiumhotelgroup.com
 ojmxro.yatsan.com
 ojufuk.vincecamuto.com
 ojvxtz.junonline.jp
-ok88okg.infinityscans.net
 okhwxl.rnainc.jp
 oksiqv.styletread.com.au
 okt.to
@@ -27728,6 +27742,7 @@ plausible.dingran.me
 plausible.doctave.com
 plausible.dragonfru.it
 plausible.ejs.dev
+plausible.elbisebul.com
 plausible.eurostocks.nl
 plausible.exploreandcreate.com
 plausible.external.sine.foundation
@@ -28382,6 +28397,7 @@ pxi.pub
 pxjkbj.bostonproper.com
 pxl.indeed.com
 pxlgnpgecom-a.akamaihd.net
+pxlstat.com
 pxmzlk.redfin.com
 pxsg.pandora.com
 pxvlcc.crocs.fr
@@ -29644,6 +29660,7 @@ s.upoker.net
 s.useeffectbyexample.com
 s.usenix.org
 s.utop.vn
+s.vibe.co
 s.vucko.co
 s.waterloochronicle.ca
 s.wayfair.com
@@ -30219,6 +30236,7 @@ sanl.footlocker.se
 sanl.six02.com
 sanmet.originenergy.com.au
 sapha.com
+sapi.tremendous.com
 sapphire-api.target.com
 sappmetrics.sprint.com
 sardine.ai
@@ -31260,7 +31278,6 @@ services.cairn.info
 services.eclerx.com
 services.edc.ca
 services.haaretz.co.il
-services.haaretz.com
 services.princes-trust.org.uk
 services.releasepoint.com
 servicing.business.hsbc.com
@@ -35319,6 +35336,7 @@ sp.ecosia.org
 sp.gameomatic.fr
 sp.jrklein.com
 sp.naver.com
+sp.pcoptimum.ca
 sp.soniccares.com
 sp.spaceomatic.fr
 sp.tinymce.com
@@ -38327,6 +38345,7 @@ tag.lexer.io
 tag.minimaid.co.jp
 tag.mtrcs.samba.tv
 tag.myplay.com
+tag.pearldiver.io
 tag.rightmessage.com
 tag.rmp.rakuten.com
 tag.shopping-feed.com
@@ -38639,6 +38658,7 @@ target.zeiss.com
 target.zeiss.de
 target.zinia.com
 targetab.metrobyt-mobile.com
+targetads.io
 targetemsecure.blob.core.windows.net
 targetfuel.com
 targeting.focas.jp
@@ -39308,7 +39328,6 @@ tm-marketing.wolterskluwer.com
 tm.msgs.jp
 tm.swp.de
 tm.tradetracker.net
-tm.uol.com.br
 tm.urssaf.fr
 tm.vendemore.com
 tmapp.fitnessyard.com
@@ -39376,6 +39395,7 @@ tommys.openapp.link
 tomonline-inc.com
 tongji-res.meizu.com
 tongji.mafengwo.cn
+tongji.techweb.com.cn
 tongji.xinmin.cn
 tongjiniao.com
 tongkhohangnhat.abphotos.link
@@ -40884,6 +40904,7 @@ tracker.adbinead.com
 tracker.affiliate.iqbroker.com
 tracker.affirm.com
 tracker.ai.xiaomi.com
+tracker.au.zitcha.app
 tracker.azet.sk
 tracker.beezup.com
 tracker.bestshopping.com
@@ -40904,6 +40925,7 @@ tracker.financialcontent.com
 tracker.gamedock.io
 tracker.gamemonkey.org
 tracker.gleanview.com
+tracker.grupanya.com
 tracker.hdtvcloud.com
 tracker.icerocket.com
 tracker.idocdn.com
@@ -40916,6 +40938,7 @@ tracker.keywordintent.com
 tracker.marinsoftware.com
 tracker.mrpfd.com
 tracker.mspy.com
+tracker.multisearch.io
 tracker.myth.dev
 tracker.myyschool.xyz
 tracker.nbcuas.com
@@ -40923,7 +40946,6 @@ tracker.netklix.com
 tracker.nitropay.com
 tracker.nocodelytics.com
 tracker.novage.com.ua
-tracker.openwebtorrent.com
 tracker.prom.ua
 tracker.providence.org
 tracker.psjhealth.org
@@ -42705,6 +42727,7 @@ usgzei.vidaxl.ch
 usingyourcard.americanexpress.co.uk
 usmetric.rediff.com
 usnvuj.skillfactory.ru
+usr.interactiveone.com
 usrkrz.zdravcity.ru
 ussco-dev.actonservice.com
 ussolutions.equifax.com
