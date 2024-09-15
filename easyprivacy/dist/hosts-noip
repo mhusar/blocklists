@@ -1,6 +1,6 @@
-# Version: 202409071514
+# Version: 202409141852
 # Title: EasyPrivacy
-# Last modified: 07 Sep 2024 15:14 UTC
+# Last modified: 14 Sep 2024 18:52 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -260,6 +260,7 @@ a-calc.de
 a-cast.jp
 a-counter.kiev.ua
 a-counters.com
+a-da.invideo.io
 a-pagerank.net
 a-reporting.nytimes.com
 a-t.topya.com
@@ -5376,6 +5377,7 @@ analytics-cf.bigcrunch.com
 analytics-cms.whitebeard.me
 analytics-coletor-site.ojc.com.br
 analytics-consent-manager-v2-prod.azureedge.net
+analytics-dataplane.invideo.io
 analytics-debugger.com
 analytics-gw.games.wanmei.com
 analytics-helper.com
@@ -5751,6 +5753,7 @@ analytics.qogita.com
 analytics.qualcomm.com
 analytics.qualityquestions.co
 analytics.qualityunit.com
+analytics.qushad.com
 analytics.radiatemedia.com
 analytics.rambla.be
 analytics.ramiyer.io
@@ -14020,6 +14023,7 @@ events.attentivemobile.com
 events.audiate.me
 events.auth.gid.ru
 events.avaya.com
+events.baselime.io
 events.bendigotafe.edu.au
 events.blackboard.com
 events.brightline.tv
@@ -15920,7 +15924,6 @@ go.piccolo.mobi
 go.picsart.com
 go.pinoy.innovatedating.com
 go.planetnine.com
-go.playbackbone.com
 go.player2app.com
 go.plygem.com
 go.poland.innovatedating.com
@@ -23276,6 +23279,7 @@ mds.ricoh.ie
 mds.ricoh.it
 mds.ricoh.no
 mdstats.info
+mdt.crateandbarrel.com
 mdtnjvcsdbc02-eth1-0.net.mydays.de
 mdugiz.jdsports.de
 mdws.1stchoicesavings.ca
@@ -27512,6 +27516,7 @@ pixel.biano.cz
 pixel.biano.ro
 pixel.blivenyc.com
 pixel.byspotify.com
+pixel.clutter.com
 pixel.coccoc.com
 pixel.condenastdigital.com
 pixel.convertize.io
@@ -36365,6 +36370,7 @@ stats.aixbrain.de
 stats.albert-kropp-gmbh.de
 stats.alibhai.co
 stats.alleaktien.de
+stats.allenai.org
 stats.alocreativa.com
 stats.am.ai
 stats.amaeya.media
@@ -37851,7 +37857,6 @@ t.7sur7.be
 t.91syun.com
 t.9gag.com
 t.a3cloud.net
-t.ac.pandora.com
 t.actemra.com
 t.ad.nl
 t.adlpo.com
@@ -42399,6 +42404,7 @@ uidpcx.planet.fr
 uifesg.modulor.de
 uigwgn.france-abonnements.fr
 uijciz.gunze.jp
+uilogging.tcdevops.com
 uilwmi.coop.nl
 uim.tifbs.net
 uinpmz.iichi.com
@@ -42492,6 +42498,7 @@ unknowncontrol.com
 unknowncrate.com
 unknownidea.com
 unknowntray.com
+unleash.livepix.gg
 unm.emol.com
 unsubscribe.datadelivers.com
 unsubscribe.e.silverfernfarms.com

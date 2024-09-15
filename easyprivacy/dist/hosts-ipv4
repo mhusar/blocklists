@@ -1,6 +1,6 @@
-# Version: 202409071514
+# Version: 202409141852
 # Title: EasyPrivacy
-# Last modified: 07 Sep 2024 15:14 UTC
+# Last modified: 14 Sep 2024 18:52 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -277,6 +277,7 @@
 0.0.0.0 a-cast.jp
 0.0.0.0 a-counter.kiev.ua
 0.0.0.0 a-counters.com
+0.0.0.0 a-da.invideo.io
 0.0.0.0 a-pagerank.net
 0.0.0.0 a-reporting.nytimes.com
 0.0.0.0 a-t.topya.com
@@ -5393,6 +5394,7 @@
 0.0.0.0 analytics-cms.whitebeard.me
 0.0.0.0 analytics-coletor-site.ojc.com.br
 0.0.0.0 analytics-consent-manager-v2-prod.azureedge.net
+0.0.0.0 analytics-dataplane.invideo.io
 0.0.0.0 analytics-debugger.com
 0.0.0.0 analytics-gw.games.wanmei.com
 0.0.0.0 analytics-helper.com
@@ -5768,6 +5770,7 @@
 0.0.0.0 analytics.qualcomm.com
 0.0.0.0 analytics.qualityquestions.co
 0.0.0.0 analytics.qualityunit.com
+0.0.0.0 analytics.qushad.com
 0.0.0.0 analytics.radiatemedia.com
 0.0.0.0 analytics.rambla.be
 0.0.0.0 analytics.ramiyer.io
@@ -14037,6 +14040,7 @@
 0.0.0.0 events.audiate.me
 0.0.0.0 events.auth.gid.ru
 0.0.0.0 events.avaya.com
+0.0.0.0 events.baselime.io
 0.0.0.0 events.bendigotafe.edu.au
 0.0.0.0 events.blackboard.com
 0.0.0.0 events.brightline.tv
@@ -15937,7 +15941,6 @@
 0.0.0.0 go.picsart.com
 0.0.0.0 go.pinoy.innovatedating.com
 0.0.0.0 go.planetnine.com
-0.0.0.0 go.playbackbone.com
 0.0.0.0 go.player2app.com
 0.0.0.0 go.plygem.com
 0.0.0.0 go.poland.innovatedating.com
@@ -23293,6 +23296,7 @@
 0.0.0.0 mds.ricoh.it
 0.0.0.0 mds.ricoh.no
 0.0.0.0 mdstats.info
+0.0.0.0 mdt.crateandbarrel.com
 0.0.0.0 mdtnjvcsdbc02-eth1-0.net.mydays.de
 0.0.0.0 mdugiz.jdsports.de
 0.0.0.0 mdws.1stchoicesavings.ca
@@ -27529,6 +27533,7 @@
 0.0.0.0 pixel.biano.ro
 0.0.0.0 pixel.blivenyc.com
 0.0.0.0 pixel.byspotify.com
+0.0.0.0 pixel.clutter.com
 0.0.0.0 pixel.coccoc.com
 0.0.0.0 pixel.condenastdigital.com
 0.0.0.0 pixel.convertize.io
@@ -36382,6 +36387,7 @@
 0.0.0.0 stats.albert-kropp-gmbh.de
 0.0.0.0 stats.alibhai.co
 0.0.0.0 stats.alleaktien.de
+0.0.0.0 stats.allenai.org
 0.0.0.0 stats.alocreativa.com
 0.0.0.0 stats.am.ai
 0.0.0.0 stats.amaeya.media
@@ -37868,7 +37874,6 @@
 0.0.0.0 t.91syun.com
 0.0.0.0 t.9gag.com
 0.0.0.0 t.a3cloud.net
-0.0.0.0 t.ac.pandora.com
 0.0.0.0 t.actemra.com
 0.0.0.0 t.ad.nl
 0.0.0.0 t.adlpo.com
@@ -42416,6 +42421,7 @@
 0.0.0.0 uifesg.modulor.de
 0.0.0.0 uigwgn.france-abonnements.fr
 0.0.0.0 uijciz.gunze.jp
+0.0.0.0 uilogging.tcdevops.com
 0.0.0.0 uilwmi.coop.nl
 0.0.0.0 uim.tifbs.net
 0.0.0.0 uinpmz.iichi.com
@@ -42509,6 +42515,7 @@
 0.0.0.0 unknowncrate.com
 0.0.0.0 unknownidea.com
 0.0.0.0 unknowntray.com
+0.0.0.0 unleash.livepix.gg
 0.0.0.0 unm.emol.com
 0.0.0.0 unsubscribe.datadelivers.com
 0.0.0.0 unsubscribe.e.silverfernfarms.com
