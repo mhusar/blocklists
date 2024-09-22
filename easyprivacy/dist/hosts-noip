@@ -1,6 +1,6 @@
-# Version: 202409141852
+# Version: 202409211718
 # Title: EasyPrivacy
-# Last modified: 14 Sep 2024 18:52 UTC
+# Last modified: 21 Sep 2024 17:18 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -4338,6 +4338,8 @@ accessi.it
 accessintel.com
 accesstrade.net
 acclaro.actonservice.com
+acclog001.shop-pro.jp
+acclog002.shop-pro.jp
 accountancy.bppeloqua.com
 accounting.frbservices.org
 accountsdoor.com
@@ -5804,6 +5806,7 @@ analytics.soluforce.com
 analytics.sona-mira.co.jp
 analytics.southpointcasino.com
 analytics.spark.co.nz
+analytics.spearly.com
 analytics.spun.com.br
 analytics.strangeloopnetworks.com
 analytics.superstation.com
@@ -9178,6 +9181,7 @@ clamcelery.com
 clammychicken.com
 clammytree.com
 clanker-events.squarespace.com
+clanto.cloud
 clariant.actonservice.com
 clarice.streema.com
 clarifyverse.com
@@ -9339,6 +9343,7 @@ clickzzs.nl
 client-analytics.braintreegateway.com
 client-analytics.mts.ru
 client-log.box.com
+client-log.karte.io
 client-logger.beta.salemove.com
 client-logger.salemove.com
 client-metrics.chess.com
@@ -10497,6 +10502,7 @@ ct.pinterest.com
 ct.taskhuman.com
 ct.thegear-box.com
 ct5m.citadium.com
+cta-service-cms2.hubspot.com
 ctags.cn
 ctc.wolterskluwer.com
 ctd.drivescore.com
@@ -10940,6 +10946,7 @@ data.accountsamericas.coca-cola.com
 data.accountsapac.coca-cola.com
 data.accountsemea.coca-cola.com
 data.accountslatam.coca-cola.com
+data.acierto.com
 data.adlermode.com
 data.admin-updates.airmiles.ca
 data.aem-sites-internal.adobe.com
@@ -11889,6 +11896,7 @@ digianalytics.fr
 digicard.jollyhires.com
 digidip.net
 digistat.westjet.com
+digistats.de
 digistats.westjet.com
 digital-engineering.de
 digital-global.furniture-china.cn
@@ -17765,6 +17773,7 @@ infinigraph.com
 infinity-tracking.com
 infinity-tracking.net
 infinityid.condenastdigital.com
+infisecure.com
 inflectionpointmedia.com
 influencer.picklebutnotcucumber.com
 info-fsi.stanford.edu
@@ -19949,6 +19958,7 @@ lgbdxo.azazie.com
 lgm.averydennison.com
 lgylib.dg-home.ru
 lgzkzp.bauhaus.at
+lh.bigcrunch.com
 lhaqtn.lyst.ca
 lhasalimited.actonservice.com
 lhcivu.dekbed-discounter.nl
@@ -25449,6 +25459,7 @@ movemeal.com
 mowfruit.com
 mowvra.idlookmall.com
 moxtra.actonservice.com
+mp.imgur.com
 mp.pitchero.com
 mp.theepochtimes.com
 mpakal.openapp.link
@@ -28988,6 +28999,7 @@ repdata.yorkdispatch.com
 repeatsweater.com
 repixel.co
 replaceroute.com
+replaybird.com
 reply.osv.com
 report-uri.com
 report-uri.io
@@ -29419,6 +29431,7 @@ rum.azion.com
 rum.azioncdn.net
 rum.condenastdigital.com
 rum.corewebvitals.io
+rum.hlx.page
 rum.ingress.layer0.co
 rum.layer0.co
 rum.marquardmedia.hu
@@ -36910,6 +36923,7 @@ stats.projectcongress.com
 stats.psychotherapieravensburg.de
 stats.pubfind.io
 stats.pusher.com
+stats.pushloop.io
 stats.qdq.com
 stats.qovery.com
 stats.quicksilvercre.com
@@ -38038,7 +38052,6 @@ t.hornetsports.com
 t.huskers.com
 t.hypers.com.cn
 t.icomms.origin.com.au
-t.imgur.com
 t.indeed.com
 t.ionos.com
 t.iowaeventscenter.com
@@ -38860,6 +38873,7 @@ test.findplay.it
 test.go.provident.bank
 test.gogoinflight.com
 test.handy-alarm.com
+test.legitcode.ws
 test.links.emails.br.discoveryplus.com
 test.links.emails.ca.discoveryplus.com
 test.links.emails.discoveryplus.com
@@ -43260,6 +43274,7 @@ wct-2.com
 wddnff.bonprix.cz
 wdfl.co
 wdnyom.faces.com
+wds.weqs.me
 wdsgpy.lekarna.cz
 wdsvc.net
 wdukge.midwayusa.com
