@@ -1,6 +1,6 @@
-# Version: 202409211718
+# Version: 202409281650
 # Title: EasyPrivacy
-# Last modified: 21 Sep 2024 17:18 UTC
+# Last modified: 28 Sep 2024 16:50 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -5345,7 +5345,11 @@ an.sny.tv
 an.theblaze.com
 an.xavierrosee.com
 an.yesnetwork.com
+ana.3751chat.com
+ana.chat.shalove.net
 ana.e-ticket.co.jp
+ana.luvul.net
+ana.skypemeet.net
 ana.tv5unis.ca
 anaconda.net.anwalt.de
 anal.doubledouble.top
@@ -9198,7 +9202,6 @@ clamcelery.com
 clammychicken.com
 clammytree.com
 clanker-events.squarespace.com
-clanto.cloud
 clariant.actonservice.com
 clarice.streema.com
 clarifyverse.com
@@ -13994,6 +13997,7 @@ event-logger.tagboard.com
 event-router.olympics.com
 event-service.letslinc.com
 event-stream.spot.im
+event-tracker-library.mediaownerscloud.com
 event-tracking.hellohealthgroup.com
 event.api.drift.com
 event.boozallen.com
@@ -16443,6 +16447,7 @@ harmonywing.com
 harpra-companion-test.harvinar.com
 harpra-companion.harvinar.com
 harris.ni.com
+harvest.graindata.com
 harvester.cms.markiza.sk
 hashcoin.co
 hashing.win
@@ -23220,6 +23225,8 @@ math.meistercody.com
 matheranalytics.com
 mathilde-ads.com
 mathtag.com
+mato.clanto.cloud
+matomo.clanto.cloud
 matomo.cloud
 matrix.elecle.bike
 matrix.hbo.com
@@ -28201,6 +28208,7 @@ provesrc.com
 providentcrm.actonservice.com
 provify.io
 prowareness.actonservice.com
+proxima.midjourney.com
 proxy.dzeio.com
 proxy.trysavvy.com
 prprocess.com
@@ -29324,6 +29332,7 @@ ro.promo.skf.com
 robotflowermobile.com
 robustbelieve.com
 rochelle.wantsext.me
+rockagainst.com
 rockincontent.net
 rockpebbles.com
 rocks.io
@@ -31565,6 +31574,7 @@ sinfo.dtcidev.co
 singlefeed.com
 singleplatform.actonservice.com
 singroot.com
+singular.net
 sinkbooks.com
 sinkou.tireshop.com.br
 sinmo.chasecenter.com
@@ -38241,7 +38251,6 @@ t.villanova.com
 t.virginiasports.com
 t.voyages-sncf.com
 t.vrbo.io
-t.vrt.be
 t.vucommodores.com
 t.wayfair.ca
 t.wayfair.co.uk
@@ -38982,7 +38991,6 @@ thanks.olivesitter.com
 thanks.tsubaki-musicschool.com
 thaqyl.mediamarkt.nl
 thatmonkeybites3.com
-the-ozone-project.com
 theactivetag.com
 theadex.com
 theagency.com
@@ -40858,6 +40866,7 @@ tracker.affirm.com
 tracker.ai.xiaomi.com
 tracker.au.zitcha.app
 tracker.azet.sk
+tracker.bang.com
 tracker.beezup.com
 tracker.bestshopping.com
 tracker.blutv.com
@@ -45346,7 +45355,7 @@ zzsqqx.shopjapan.co.jp
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2024-09-22 01:04:40.382780
+# Generated at 2024-09-29 01:05:35.241341
 
 databerries.com
 fidzup

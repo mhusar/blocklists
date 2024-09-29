@@ -1,6 +1,6 @@
-# Version: 202409211718
+# Version: 202409281650
 # Title: EasyPrivacy
-# Last modified: 21 Sep 2024 17:18 UTC
+# Last modified: 28 Sep 2024 16:50 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -5345,7 +5345,11 @@
 0.0.0.0 an.theblaze.com
 0.0.0.0 an.xavierrosee.com
 0.0.0.0 an.yesnetwork.com
+0.0.0.0 ana.3751chat.com
+0.0.0.0 ana.chat.shalove.net
 0.0.0.0 ana.e-ticket.co.jp
+0.0.0.0 ana.luvul.net
+0.0.0.0 ana.skypemeet.net
 0.0.0.0 ana.tv5unis.ca
 0.0.0.0 anaconda.net.anwalt.de
 0.0.0.0 anal.doubledouble.top
@@ -9198,7 +9202,6 @@
 0.0.0.0 clammychicken.com
 0.0.0.0 clammytree.com
 0.0.0.0 clanker-events.squarespace.com
-0.0.0.0 clanto.cloud
 0.0.0.0 clariant.actonservice.com
 0.0.0.0 clarice.streema.com
 0.0.0.0 clarifyverse.com
@@ -13994,6 +13997,7 @@
 0.0.0.0 event-router.olympics.com
 0.0.0.0 event-service.letslinc.com
 0.0.0.0 event-stream.spot.im
+0.0.0.0 event-tracker-library.mediaownerscloud.com
 0.0.0.0 event-tracking.hellohealthgroup.com
 0.0.0.0 event.api.drift.com
 0.0.0.0 event.boozallen.com
@@ -16443,6 +16447,7 @@
 0.0.0.0 harpra-companion-test.harvinar.com
 0.0.0.0 harpra-companion.harvinar.com
 0.0.0.0 harris.ni.com
+0.0.0.0 harvest.graindata.com
 0.0.0.0 harvester.cms.markiza.sk
 0.0.0.0 hashcoin.co
 0.0.0.0 hashing.win
@@ -23220,6 +23225,8 @@
 0.0.0.0 matheranalytics.com
 0.0.0.0 mathilde-ads.com
 0.0.0.0 mathtag.com
+0.0.0.0 mato.clanto.cloud
+0.0.0.0 matomo.clanto.cloud
 0.0.0.0 matomo.cloud
 0.0.0.0 matrix.elecle.bike
 0.0.0.0 matrix.hbo.com
@@ -28201,6 +28208,7 @@
 0.0.0.0 providentcrm.actonservice.com
 0.0.0.0 provify.io
 0.0.0.0 prowareness.actonservice.com
+0.0.0.0 proxima.midjourney.com
 0.0.0.0 proxy.dzeio.com
 0.0.0.0 proxy.trysavvy.com
 0.0.0.0 prprocess.com
@@ -29324,6 +29332,7 @@
 0.0.0.0 robotflowermobile.com
 0.0.0.0 robustbelieve.com
 0.0.0.0 rochelle.wantsext.me
+0.0.0.0 rockagainst.com
 0.0.0.0 rockincontent.net
 0.0.0.0 rockpebbles.com
 0.0.0.0 rocks.io
@@ -31565,6 +31574,7 @@
 0.0.0.0 singlefeed.com
 0.0.0.0 singleplatform.actonservice.com
 0.0.0.0 singroot.com
+0.0.0.0 singular.net
 0.0.0.0 sinkbooks.com
 0.0.0.0 sinkou.tireshop.com.br
 0.0.0.0 sinmo.chasecenter.com
@@ -38241,7 +38251,6 @@
 0.0.0.0 t.virginiasports.com
 0.0.0.0 t.voyages-sncf.com
 0.0.0.0 t.vrbo.io
-0.0.0.0 t.vrt.be
 0.0.0.0 t.vucommodores.com
 0.0.0.0 t.wayfair.ca
 0.0.0.0 t.wayfair.co.uk
@@ -38982,7 +38991,6 @@
 0.0.0.0 thanks.tsubaki-musicschool.com
 0.0.0.0 thaqyl.mediamarkt.nl
 0.0.0.0 thatmonkeybites3.com
-0.0.0.0 the-ozone-project.com
 0.0.0.0 theactivetag.com
 0.0.0.0 theadex.com
 0.0.0.0 theagency.com
@@ -40858,6 +40866,7 @@
 0.0.0.0 tracker.ai.xiaomi.com
 0.0.0.0 tracker.au.zitcha.app
 0.0.0.0 tracker.azet.sk
+0.0.0.0 tracker.bang.com
 0.0.0.0 tracker.beezup.com
 0.0.0.0 tracker.bestshopping.com
 0.0.0.0 tracker.blutv.com
@@ -45346,7 +45355,7 @@
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2024-09-22 01:04:41.122038
+# Generated at 2024-09-29 01:05:36.549592
 
 0.0.0.0 databerries.com
 0.0.0.0 fidzup
