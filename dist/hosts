@@ -1,6 +1,6 @@
-# Version: 202409281650
+# Version: 202410051831
 # Title: EasyPrivacy
-# Last modified: 28 Sep 2024 16:50 UTC
+# Last modified: 05 Oct 2024 18:31 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -5302,6 +5302,7 @@ americanuniversityofantigua.actonservice.com
 americanwatergroup.actonservice.com
 americasbrandperformancesupport.hilton.com
 amersc.actonservice.com
+amethyst.6pm.com
 amethyst.zappos.com
 amethystzenith.com
 ametrics.finn.no
@@ -5624,6 +5625,7 @@ analytics.homes.com
 analytics.hottopic.com
 analytics.id.amazongames.com
 analytics.idfnet.net
+analytics.ifanrusercontent.com
 analytics.ihg.com
 analytics.ikyu.com
 analytics.inquisitr.com
@@ -7826,6 +7828,7 @@ be.slowmographer.co
 beacon.adelphic.com
 beacon.affil.walmart.com
 beacon.aimtell.com
+beacon.cdn.qq.com
 beacon.cdnma.com
 beacon.dropbox.com
 beacon.errorception.com
@@ -8571,6 +8574,7 @@ bugdsm.buffalo-boots.com
 bugherd.com
 bugjyl.jkattire.co.uk
 bugsnag.com
+bugsnag.shopbop.amazon.dev
 build.1tap.tax
 build.bildgta.ca
 buildingknife.com
@@ -15148,6 +15152,7 @@ gak.webtoons.com
 galaxiemedia.fr
 gallerysouvlakeri.openapp.link
 galop.leferacheval-saintcloud.com
+game8.jp/logs
 gameanalytics.com
 gameplanfinancial.actonservice.com
 gammachug.com
@@ -15434,6 +15439,7 @@ getdrip.com
 getfreebl.com
 getinfo.fullsail.edu
 getinsights.io
+getjan.io
 getl4w.lookout.com
 getlasso.co
 getnotix.co
@@ -17707,6 +17713,7 @@ img.simply.bwin.com
 img.sparkasse-koelnbonn.de
 img.website-security.symantec.com
 img.yemeksepeti.com
+img2021.navyfederal.org
 imgict.dwtcmarketing.com
 imginfo.insource.co.jp
 imgmail.mediasetpremium.it
@@ -21036,6 +21043,7 @@ log.klook.com
 log.m.sm.cn
 log.mediacategory.com
 log.medietall.no
+log.mgtv.com
 log.mix.sina.com.cn
 log.mofa.go.kr
 log.nordot.jp
@@ -21133,6 +21141,7 @@ logz.ru
 lokalleads-cci.com
 lokalwerben.t-online.de
 lomadee.com
+lonelybulb.com
 lonelyflavor.com
 longinglettuce.com
 longingtrees.com
@@ -21661,6 +21670,7 @@ mairdumont.com
 majdmw.gigasport.at
 majesticmountainrange.com
 majesticwaterscape.com
+majesticwilderness.com
 makbti.bandofboats.com
 makeshiftmine.com
 maliciousmusic.com
@@ -23189,11 +23199,13 @@ maropost.com
 marriedbelief.com
 marriedmailbox.com
 marriedvalue.com
+marrowleaves.com
 marsh.actonservice.com
 marshinsurance.actonservice.com
 marsupial.roleup.com
 martech.condenastdigital.com
 martech.wavenet.com.tw
+marty.zappos.com
 marvelmetrix.com
 mas.hronboard.me
 mas.marsh.com
@@ -25466,6 +25478,7 @@ motm.adp.ca
 motorpresse-statistik.de
 motorsports.locktonaffinity.net
 motrixi.com
+motu-teamblue.services
 mountainouspear.com
 mouse3k.com
 mousebusters.odencat.com
@@ -26263,6 +26276,7 @@ nvxlag.liligo.fr
 nwajdf.zakzak.co.jp
 nwbmvq.jockey.com
 nwfkjx.gadventures.com
+nwr.static.mmcdn.com
 nws.naltis.com
 nwvupz.cljoias.com.br
 nwwucx.palemoba.com
@@ -28927,6 +28941,7 @@ reg.theaisummit.com
 reg.vrdconf.com
 reg.workspace-connect.com
 reg.xrdconf.com
+regexmail.com
 register-implants.dentsplysirona.com
 register.compellent.com
 register.denovo-us.com
@@ -29029,6 +29044,7 @@ reply.osv.com
 report-uri.com
 report-uri.io
 report.appmetrica.yandex.net.iberostar.com
+report.error-report.com
 report.meituan.com
 reportic.app
 reporting-api.gannettinnovation.com
@@ -37966,6 +37982,7 @@ t.bimvid.com
 t.biooncology.com
 t.birchlane.com
 t.blablacar.com
+t.blog.livedoor.jp
 t.bluehens.com
 t.bndestem.nl
 t.bucky.uwbadgers.com
@@ -40838,6 +40855,7 @@ track.yfret.com
 track.yieldsoftware.com
 track.youniversalmedia.com
 track.zapimoveis.com.br
+track.zappos.com
 track2.cliplister.com
 track2.dulingo.com
 track2.mycliplister.com
@@ -41823,6 +41841,7 @@ tritetongue.com
 triton.actonservice.com
 triton.companyegg.com
 triumph.actonservice.com
+trjs2.mediafin.be
 trk-branch.balinea.com
 trk-maiorum.com
 trk.a-dsp.com
@@ -42367,6 +42386,7 @@ ubdjfy.maje.com
 ubdsej.notino.pl
 ubertags.com
 ubertracking.info
+ubiquitoussea.com
 ubiquitousyard.com
 ubmdob.connection.com
 ubmups.houseofindya.com
@@ -45355,7 +45375,7 @@ zzsqqx.shopjapan.co.jp
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2024-09-29 01:05:35.241341
+# Generated at 2024-10-06 01:05:15.412823
 
 databerries.com
 fidzup

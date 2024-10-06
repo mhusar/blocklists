@@ -1,6 +1,6 @@
-# Version: 202409281650
+# Version: 202410051831
 # Title: EasyPrivacy
-# Last modified: 28 Sep 2024 16:50 UTC
+# Last modified: 05 Oct 2024 18:31 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -5302,6 +5302,7 @@
 0.0.0.0 americanwatergroup.actonservice.com
 0.0.0.0 americasbrandperformancesupport.hilton.com
 0.0.0.0 amersc.actonservice.com
+0.0.0.0 amethyst.6pm.com
 0.0.0.0 amethyst.zappos.com
 0.0.0.0 amethystzenith.com
 0.0.0.0 ametrics.finn.no
@@ -5624,6 +5625,7 @@
 0.0.0.0 analytics.hottopic.com
 0.0.0.0 analytics.id.amazongames.com
 0.0.0.0 analytics.idfnet.net
+0.0.0.0 analytics.ifanrusercontent.com
 0.0.0.0 analytics.ihg.com
 0.0.0.0 analytics.ikyu.com
 0.0.0.0 analytics.inquisitr.com
@@ -7826,6 +7828,7 @@
 0.0.0.0 beacon.adelphic.com
 0.0.0.0 beacon.affil.walmart.com
 0.0.0.0 beacon.aimtell.com
+0.0.0.0 beacon.cdn.qq.com
 0.0.0.0 beacon.cdnma.com
 0.0.0.0 beacon.dropbox.com
 0.0.0.0 beacon.errorception.com
@@ -8571,6 +8574,7 @@
 0.0.0.0 bugherd.com
 0.0.0.0 bugjyl.jkattire.co.uk
 0.0.0.0 bugsnag.com
+0.0.0.0 bugsnag.shopbop.amazon.dev
 0.0.0.0 build.1tap.tax
 0.0.0.0 build.bildgta.ca
 0.0.0.0 buildingknife.com
@@ -15148,6 +15152,7 @@
 0.0.0.0 galaxiemedia.fr
 0.0.0.0 gallerysouvlakeri.openapp.link
 0.0.0.0 galop.leferacheval-saintcloud.com
+0.0.0.0 game8.jp/logs
 0.0.0.0 gameanalytics.com
 0.0.0.0 gameplanfinancial.actonservice.com
 0.0.0.0 gammachug.com
@@ -15434,6 +15439,7 @@
 0.0.0.0 getfreebl.com
 0.0.0.0 getinfo.fullsail.edu
 0.0.0.0 getinsights.io
+0.0.0.0 getjan.io
 0.0.0.0 getl4w.lookout.com
 0.0.0.0 getlasso.co
 0.0.0.0 getnotix.co
@@ -17707,6 +17713,7 @@
 0.0.0.0 img.sparkasse-koelnbonn.de
 0.0.0.0 img.website-security.symantec.com
 0.0.0.0 img.yemeksepeti.com
+0.0.0.0 img2021.navyfederal.org
 0.0.0.0 imgict.dwtcmarketing.com
 0.0.0.0 imginfo.insource.co.jp
 0.0.0.0 imgmail.mediasetpremium.it
@@ -21036,6 +21043,7 @@
 0.0.0.0 log.m.sm.cn
 0.0.0.0 log.mediacategory.com
 0.0.0.0 log.medietall.no
+0.0.0.0 log.mgtv.com
 0.0.0.0 log.mix.sina.com.cn
 0.0.0.0 log.mofa.go.kr
 0.0.0.0 log.nordot.jp
@@ -21133,6 +21141,7 @@
 0.0.0.0 lokalleads-cci.com
 0.0.0.0 lokalwerben.t-online.de
 0.0.0.0 lomadee.com
+0.0.0.0 lonelybulb.com
 0.0.0.0 lonelyflavor.com
 0.0.0.0 longinglettuce.com
 0.0.0.0 longingtrees.com
@@ -21661,6 +21670,7 @@
 0.0.0.0 majdmw.gigasport.at
 0.0.0.0 majesticmountainrange.com
 0.0.0.0 majesticwaterscape.com
+0.0.0.0 majesticwilderness.com
 0.0.0.0 makbti.bandofboats.com
 0.0.0.0 makeshiftmine.com
 0.0.0.0 maliciousmusic.com
@@ -23189,11 +23199,13 @@
 0.0.0.0 marriedbelief.com
 0.0.0.0 marriedmailbox.com
 0.0.0.0 marriedvalue.com
+0.0.0.0 marrowleaves.com
 0.0.0.0 marsh.actonservice.com
 0.0.0.0 marshinsurance.actonservice.com
 0.0.0.0 marsupial.roleup.com
 0.0.0.0 martech.condenastdigital.com
 0.0.0.0 martech.wavenet.com.tw
+0.0.0.0 marty.zappos.com
 0.0.0.0 marvelmetrix.com
 0.0.0.0 mas.hronboard.me
 0.0.0.0 mas.marsh.com
@@ -25466,6 +25478,7 @@
 0.0.0.0 motorpresse-statistik.de
 0.0.0.0 motorsports.locktonaffinity.net
 0.0.0.0 motrixi.com
+0.0.0.0 motu-teamblue.services
 0.0.0.0 mountainouspear.com
 0.0.0.0 mouse3k.com
 0.0.0.0 mousebusters.odencat.com
@@ -26263,6 +26276,7 @@
 0.0.0.0 nwajdf.zakzak.co.jp
 0.0.0.0 nwbmvq.jockey.com
 0.0.0.0 nwfkjx.gadventures.com
+0.0.0.0 nwr.static.mmcdn.com
 0.0.0.0 nws.naltis.com
 0.0.0.0 nwvupz.cljoias.com.br
 0.0.0.0 nwwucx.palemoba.com
@@ -28927,6 +28941,7 @@
 0.0.0.0 reg.vrdconf.com
 0.0.0.0 reg.workspace-connect.com
 0.0.0.0 reg.xrdconf.com
+0.0.0.0 regexmail.com
 0.0.0.0 register-implants.dentsplysirona.com
 0.0.0.0 register.compellent.com
 0.0.0.0 register.denovo-us.com
@@ -29029,6 +29044,7 @@
 0.0.0.0 report-uri.com
 0.0.0.0 report-uri.io
 0.0.0.0 report.appmetrica.yandex.net.iberostar.com
+0.0.0.0 report.error-report.com
 0.0.0.0 report.meituan.com
 0.0.0.0 reportic.app
 0.0.0.0 reporting-api.gannettinnovation.com
@@ -37966,6 +37982,7 @@
 0.0.0.0 t.biooncology.com
 0.0.0.0 t.birchlane.com
 0.0.0.0 t.blablacar.com
+0.0.0.0 t.blog.livedoor.jp
 0.0.0.0 t.bluehens.com
 0.0.0.0 t.bndestem.nl
 0.0.0.0 t.bucky.uwbadgers.com
@@ -40838,6 +40855,7 @@
 0.0.0.0 track.yieldsoftware.com
 0.0.0.0 track.youniversalmedia.com
 0.0.0.0 track.zapimoveis.com.br
+0.0.0.0 track.zappos.com
 0.0.0.0 track2.cliplister.com
 0.0.0.0 track2.dulingo.com
 0.0.0.0 track2.mycliplister.com
@@ -41823,6 +41841,7 @@
 0.0.0.0 triton.actonservice.com
 0.0.0.0 triton.companyegg.com
 0.0.0.0 triumph.actonservice.com
+0.0.0.0 trjs2.mediafin.be
 0.0.0.0 trk-branch.balinea.com
 0.0.0.0 trk-maiorum.com
 0.0.0.0 trk.a-dsp.com
@@ -42367,6 +42386,7 @@
 0.0.0.0 ubdsej.notino.pl
 0.0.0.0 ubertags.com
 0.0.0.0 ubertracking.info
+0.0.0.0 ubiquitoussea.com
 0.0.0.0 ubiquitousyard.com
 0.0.0.0 ubmdob.connection.com
 0.0.0.0 ubmups.houseofindya.com
@@ -45355,7 +45375,7 @@
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2024-09-29 01:05:36.549592
+# Generated at 2024-10-06 01:05:16.152785
 
 0.0.0.0 databerries.com
 0.0.0.0 fidzup
