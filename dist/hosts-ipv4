@@ -1,6 +1,6 @@
-# Version: 202410192031
+# Version: 202410262315
 # Title: EasyPrivacy
-# Last modified: 19 Oct 2024 20:31 UTC
+# Last modified: 26 Oct 2024 23:15 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -5895,6 +5895,7 @@
 0.0.0.0 analytics.virginmobileusa.com
 0.0.0.0 analytics.visible.com
 0.0.0.0 analytics.vixcloud.co
+0.0.0.0 analytics.vortexscans.com
 0.0.0.0 analytics.warnertv.fr
 0.0.0.0 analytics.wavebox.io
 0.0.0.0 analytics.wayland.app
@@ -6106,6 +6107,7 @@
 0.0.0.0 api.digitalpiloten.org
 0.0.0.0 api.elliehuxtable.com
 0.0.0.0 api.fuck.education
+0.0.0.0 api.june.so
 0.0.0.0 api.ryanyao.design
 0.0.0.0 api.takealot.com
 0.0.0.0 api.wipmania.com
@@ -7264,6 +7266,7 @@
 0.0.0.0 at.mclaren.com
 0.0.0.0 at.neom.com
 0.0.0.0 at.norisbank.de
+0.0.0.0 at.pagesjaunes.fr
 0.0.0.0 at.postbank.de
 0.0.0.0 at.sharpmarketing.eu
 0.0.0.0 at.swisscom.ch
@@ -10525,7 +10528,6 @@
 0.0.0.0 ct.taskhuman.com
 0.0.0.0 ct.thegear-box.com
 0.0.0.0 ct5m.citadium.com
-0.0.0.0 cta-service-cms2.hubspot.com
 0.0.0.0 ctags.cn
 0.0.0.0 ctc.wolterskluwer.com
 0.0.0.0 ctd.drivescore.com
@@ -14296,7 +14298,6 @@
 0.0.0.0 ezhddx.thesouledstore.com
 0.0.0.0 eziccr.dedoles.cz
 0.0.0.0 ezobam.jdsports.nl
-0.0.0.0 ezodn.com
 0.0.0.0 ezstat.ru
 0.0.0.0 ezuhbd.industrialdiscount.it
 0.0.0.0 ezvjys.belezanaweb.com.br
@@ -16660,6 +16661,7 @@
 0.0.0.0 hits.antena3.com
 0.0.0.0 hits.dealer.com
 0.0.0.0 hits.getelevar.com
+0.0.0.0 hits.gokwik.co
 0.0.0.0 hits.guardian.co.uk
 0.0.0.0 hits.informer.com
 0.0.0.0 hits.letras.mus.br
@@ -26094,7 +26096,6 @@
 0.0.0.0 nnqyed.laredoute.be
 0.0.0.0 nntgna.dmm.com
 0.0.0.0 nnvoia.closetworld.com
-0.0.0.0 no88kks.infinityscans.net
 0.0.0.0 no9pldds1lmn3.soundcloud.com
 0.0.0.0 noa.yahoo.com
 0.0.0.0 noa0.compteczam.fr
@@ -28310,6 +28311,7 @@
 0.0.0.0 pulsatingmeadow.com
 0.0.0.0 pulse.delta.com
 0.0.0.0 pulse.munsonhealthcare.org
+0.0.0.0 pulse.shopflo.com
 0.0.0.0 pulseinsights.com
 0.0.0.0 pulselog.com
 0.0.0.0 pulsemaps.com
@@ -31330,6 +31332,7 @@
 0.0.0.0 sg3.notarize.com
 0.0.0.0 sgali-mcs.byteoversea.com
 0.0.0.0 sggsbd.fonteyn.nl
+0.0.0.0 sgmntfy.com
 0.0.0.0 sgms.greatschools.org
 0.0.0.0 sgsb.aba.com
 0.0.0.0 sgstats.com
@@ -35459,6 +35462,7 @@
 0.0.0.0 squirrel.malaynahocker.com
 0.0.0.0 squirrelhands.com
 0.0.0.0 sr59t7wbx5.claricelin.com
+0.0.0.0 src.freshmarketer.in
 0.0.0.0 srcip.com
 0.0.0.0 srd1-pdx.net.jumia.ci
 0.0.0.0 srepdata.12newsnow.com
@@ -36398,6 +36402,7 @@
 0.0.0.0 statistics.tuv.com
 0.0.0.0 statistics.wibiya.com
 0.0.0.0 statisticsplatform.com
+0.0.0.0 statistiek.rijksoverheid.nl
 0.0.0.0 statistik-gallup.net
 0.0.0.0 statistik.apartments-tirolerhaus.at
 0.0.0.0 statistik.motorpresse.de
@@ -42550,6 +42555,7 @@
 0.0.0.0 unequaltrail.com
 0.0.0.0 uni.okane-reco-plus.com
 0.0.0.0 uniconsent.com
+0.0.0.0 unicontainers.com
 0.0.0.0 unifiedwfo.verintsystemsinc.com
 0.0.0.0 unifilabs.actonservice.com
 0.0.0.0 unifyaddition.com
@@ -44949,6 +44955,7 @@
 0.0.0.0 yehyqc.hugoboss.com
 0.0.0.0 yektanet.com
 0.0.0.0 yellowbrix.com
+0.0.0.0 yes88kks.infinityscans.net
 0.0.0.0 yewrcd.govoyages.com
 0.0.0.0 yext-pixel.com
 0.0.0.0 yextevents.com
@@ -45388,7 +45395,7 @@
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2024-10-20 01:06:21.071005
+# Generated at 2024-10-27 01:05:43.521945
 
 0.0.0.0 databerries.com
 0.0.0.0 fidzup
