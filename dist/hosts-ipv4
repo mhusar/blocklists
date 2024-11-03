@@ -1,6 +1,6 @@
-# Version: 202410262315
+# Version: 202411022259
 # Title: EasyPrivacy
-# Last modified: 26 Oct 2024 23:15 UTC
+# Last modified: 02 Nov 2024 22:59 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -4335,7 +4335,6 @@
 0.0.0.0 acc.marketing.adobedxcusteng.com
 0.0.0.0 accaii.com
 0.0.0.0 accdab.net
-0.0.0.0 accengage.net
 0.0.0.0 accenture.epoise.com
 0.0.0.0 accenturetest.epoise.com
 0.0.0.0 acceptableauthority.com
@@ -11465,6 +11464,7 @@
 0.0.0.0 datadome.co
 0.0.0.0 datadome.maisonsdumonde.com
 0.0.0.0 datadsk.com
+0.0.0.0 datafa.st
 0.0.0.0 datafeedfile.com
 0.0.0.0 datafiletechnologies.actonservice.com
 0.0.0.0 datafront.co
@@ -11692,6 +11692,7 @@
 0.0.0.0 deeplinks.twelve.dynamify.com
 0.0.0.0 deeplinktest.yooture.info
 0.0.0.0 deeplinkuat.upoker.net
+0.0.0.0 deeptack.com
 0.0.0.0 deerbeginner.com
 0.0.0.0 def.bayer04.de
 0.0.0.0 defeatedbadge.com
@@ -12297,6 +12298,7 @@
 0.0.0.0 dmdi.pl
 0.0.0.0 dmepyodjotcuks.com
 0.0.0.0 dmkt.solutions.cas.org
+0.0.0.0 dmp.citynews.ovh
 0.0.0.0 dmpcdn.el-mundo.net
 0.0.0.0 dmpcounter.com
 0.0.0.0 dmpmetrics.rcsmetrics.it
@@ -14816,6 +14818,7 @@
 0.0.0.0 fpc.utexas.edu
 0.0.0.0 fpcdallasstars.nhl.com
 0.0.0.0 fpcdn.io
+0.0.0.0 fpcn.bpsgameserver.com
 0.0.0.0 fpcs.firemountaingems.com
 0.0.0.0 fpcsbulls.nba.com
 0.0.0.0 fpctraffic2.com
@@ -18239,7 +18242,6 @@
 0.0.0.0 info.monsooninc.com
 0.0.0.0 info.morganfranklin.com
 0.0.0.0 info.motion10.nl
-0.0.0.0 info.mouser.com
 0.0.0.0 info.msconsultants.com
 0.0.0.0 info.mshs.com
 0.0.0.0 info.multiburo.com
@@ -21589,6 +21591,7 @@
 0.0.0.0 maggieeatstheangel.com
 0.0.0.0 magic.freetrade.io
 0.0.0.0 magicaljoin.com
+0.0.0.0 magicminibox.com
 0.0.0.0 magicpixel.io
 0.0.0.0 magiczenith.com
 0.0.0.0 magiq.com
@@ -25222,6 +25225,7 @@
 0.0.0.0 minkatu.com
 0.0.0.0 minorcattle.com
 0.0.0.0 minormeeting.com
+0.0.0.0 minstats.xyz
 0.0.0.0 minusmental.com
 0.0.0.0 minuteburst.com
 0.0.0.0 minuterhythm.com
@@ -35558,6 +35562,7 @@
 0.0.0.0 srtb.msn.com
 0.0.0.0 sruk.srglobal.com
 0.0.0.0 srv.plesk.com
+0.0.0.0 srvgl.com
 0.0.0.0 ss.esade.edu
 0.0.0.0 ss.photospecialist.at
 0.0.0.0 ss.photospecialist.co.uk
@@ -39345,7 +39350,6 @@
 0.0.0.0 tmvasapp.fitnessyard.com
 0.0.0.0 tmvtp.com
 0.0.0.0 tmwkya.jh-profishop.at
-0.0.0.0 tmx.bestbuy.com
 0.0.0.0 tmx.td.com
 0.0.0.0 tmxjdr.benaza.ro
 0.0.0.0 tmy8.madeindesign.ch
@@ -42895,7 +42899,6 @@
 0.0.0.0 vfo.voyage-prive.co.uk
 0.0.0.0 vfo4.carrefour-banque.fr
 0.0.0.0 vfvcxv.naturhaeuschen.de
-0.0.0.0 vg247-p2.vg247.com
 0.0.0.0 vg247-uk.vg247.com
 0.0.0.0 vgavzy.spierandmackay.com
 0.0.0.0 vgazda.krefel.be
@@ -43542,7 +43545,6 @@
 0.0.0.0 webanalytics.proff.no
 0.0.0.0 webanalyticsssl.websense.com
 0.0.0.0 webapp.e-post.smn.no
-0.0.0.0 webcare.byside.com
 0.0.0.0 webcasts.de.ni.com
 0.0.0.0 webcasts.partnermcafee.com
 0.0.0.0 webclicktracker.com
@@ -45395,7 +45397,7 @@
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2024-10-27 01:05:43.521945
+# Generated at 2024-11-03 01:05:45.228269
 
 0.0.0.0 databerries.com
 0.0.0.0 fidzup

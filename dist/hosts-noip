@@ -1,6 +1,6 @@
-# Version: 202410262315
+# Version: 202411022259
 # Title: EasyPrivacy
-# Last modified: 26 Oct 2024 23:15 UTC
+# Last modified: 02 Nov 2024 22:59 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -4318,7 +4318,6 @@ acc.info.lumxpert.signify.com
 acc.marketing.adobedxcusteng.com
 accaii.com
 accdab.net
-accengage.net
 accenture.epoise.com
 accenturetest.epoise.com
 acceptableauthority.com
@@ -11448,6 +11447,7 @@ datadoghq.eu
 datadome.co
 datadome.maisonsdumonde.com
 datadsk.com
+datafa.st
 datafeedfile.com
 datafiletechnologies.actonservice.com
 datafront.co
@@ -11675,6 +11675,7 @@ deeplinks.pebblebee.com
 deeplinks.twelve.dynamify.com
 deeplinktest.yooture.info
 deeplinkuat.upoker.net
+deeptack.com
 deerbeginner.com
 def.bayer04.de
 defeatedbadge.com
@@ -12280,6 +12281,7 @@ dmdgdu.atmosphera.com
 dmdi.pl
 dmepyodjotcuks.com
 dmkt.solutions.cas.org
+dmp.citynews.ovh
 dmpcdn.el-mundo.net
 dmpcounter.com
 dmpmetrics.rcsmetrics.it
@@ -14799,6 +14801,7 @@ fpc.trimarkusa.com
 fpc.utexas.edu
 fpcdallasstars.nhl.com
 fpcdn.io
+fpcn.bpsgameserver.com
 fpcs.firemountaingems.com
 fpcsbulls.nba.com
 fpctraffic2.com
@@ -18222,7 +18225,6 @@ info.moneycontrol.network18online.com
 info.monsooninc.com
 info.morganfranklin.com
 info.motion10.nl
-info.mouser.com
 info.msconsultants.com
 info.mshs.com
 info.multiburo.com
@@ -21572,6 +21574,7 @@ magento-recs-sdk.adobe.net
 maggieeatstheangel.com
 magic.freetrade.io
 magicaljoin.com
+magicminibox.com
 magicpixel.io
 magiczenith.com
 magiq.com
@@ -25205,6 +25208,7 @@ mininghub.club
 minkatu.com
 minorcattle.com
 minormeeting.com
+minstats.xyz
 minusmental.com
 minuteburst.com
 minuterhythm.com
@@ -35541,6 +35545,7 @@ srsg.srglobal.com
 srtb.msn.com
 sruk.srglobal.com
 srv.plesk.com
+srvgl.com
 ss.esade.edu
 ss.photospecialist.at
 ss.photospecialist.co.uk
@@ -39328,7 +39333,6 @@ tmt.intelligence.informa.com
 tmvasapp.fitnessyard.com
 tmvtp.com
 tmwkya.jh-profishop.at
-tmx.bestbuy.com
 tmx.td.com
 tmxjdr.benaza.ro
 tmy8.madeindesign.ch
@@ -42878,7 +42882,6 @@ vfmahn.slevomat.cz
 vfo.voyage-prive.co.uk
 vfo4.carrefour-banque.fr
 vfvcxv.naturhaeuschen.de
-vg247-p2.vg247.com
 vg247-uk.vg247.com
 vgavzy.spierandmackay.com
 vgazda.krefel.be
@@ -43525,7 +43528,6 @@ webanalytics.logitechg.com.cn
 webanalytics.proff.no
 webanalyticsssl.websense.com
 webapp.e-post.smn.no
-webcare.byside.com
 webcasts.de.ni.com
 webcasts.partnermcafee.com
 webclicktracker.com
@@ -45378,7 +45380,7 @@ zzsqqx.shopjapan.co.jp
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2024-10-27 01:05:42.777622
+# Generated at 2024-11-03 01:05:44.482889
 
 databerries.com
 fidzup
