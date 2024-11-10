@@ -1,6 +1,6 @@
-# Version: 202411022259
+# Version: 202411100015
 # Title: EasyPrivacy
-# Last modified: 02 Nov 2024 22:59 UTC
+# Last modified: 10 Nov 2024 00:15 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -5432,6 +5432,7 @@
 0.0.0.0 analytics.adultswim.co.uk
 0.0.0.0 analytics.agenedia.com
 0.0.0.0 analytics.agoda.com
+0.0.0.0 analytics.ahrefs.dev
 0.0.0.0 analytics.aimtell.com
 0.0.0.0 analytics.airindia.com
 0.0.0.0 analytics.airtron.com
@@ -9567,6 +9568,7 @@
 0.0.0.0 cnzz.net
 0.0.0.0 co.promo.skf.com
 0.0.0.0 coachquartz.com
+0.0.0.0 coalkitchen.com
 0.0.0.0 coatfood.com
 0.0.0.0 cobaltgroup.com
 0.0.0.0 cobaltoverture.com
@@ -13837,6 +13839,7 @@
 0.0.0.0 error-collector.ted.com
 0.0.0.0 error.videonow.ru
 0.0.0.0 errorreports.couponcabin.com
+0.0.0.0 errors.darkreader.app
 0.0.0.0 errors.snackly.co
 0.0.0.0 ert5.rmcsport.tv
 0.0.0.0 erutinmos.snagajob.com
@@ -15110,6 +15113,7 @@
 0.0.0.0 g.staging.pathsha.re
 0.0.0.0 g.whatsapp.net.iberostar.com
 0.0.0.0 g.yccdn.com
+0.0.0.0 g10102301085.co
 0.0.0.0 g10300385420.co
 0.0.0.0 g11686975765.co
 0.0.0.0 g1188506010.co
@@ -15486,6 +15490,7 @@
 0.0.0.0 ghifrc.baldai1.lt
 0.0.0.0 ghnwss.fmsstores.gr
 0.0.0.0 ghonnz.columbiasports.co.jp
+0.0.0.0 ghostgenie.com
 0.0.0.0 ghp.adp.ca
 0.0.0.0 ghrnbw.avocadostore.de
 0.0.0.0 ghrzlu.skechers.com.tr
@@ -27472,6 +27477,7 @@
 0.0.0.0 phonalytics.com
 0.0.0.0 phone-analytics.com
 0.0.0.0 phonetrack.hukumkaikka.in
+0.0.0.0 phonicsblitz.com
 0.0.0.0 photographpan.com
 0.0.0.0 photography.hursey.com
 0.0.0.0 photorank.me
@@ -31476,6 +31482,7 @@
 0.0.0.0 shell-recharge.tupinambaenergia.com.br
 0.0.0.0 sheregesh-io.traveler.today
 0.0.0.0 shesubscriptions.com
+0.0.0.0 shgcdn3.com
 0.0.0.0 shhoix0fuonj0hz6.net.fidor.de
 0.0.0.0 shield.sitelock.com
 0.0.0.0 shinesavage.com
@@ -31703,6 +31710,7 @@
 0.0.0.0 skisofa.com
 0.0.0.0 skmcwz.haselmode.co.kr
 0.0.0.0 skosgrill.openapp.link
+0.0.0.0 skullmagnets.com
 0.0.0.0 skxbbj.clasic.jp
 0.0.0.0 skyglue.com
 0.0.0.0 sl-ct5.com
@@ -36209,6 +36217,7 @@
 0.0.0.0 start.ramp.com
 0.0.0.0 start.sharpclinical.com
 0.0.0.0 start.spark-thinking.com
+0.0.0.0 startercost.com
 0.0.0.0 startingcars.com
 0.0.0.0 startrekk.flaconi.at
 0.0.0.0 startrekk.flaconi.ch
@@ -36395,6 +36404,7 @@
 0.0.0.0 statisticplatform.com
 0.0.0.0 statistics.csob.cz
 0.0.0.0 statistics.daktilo.com
+0.0.0.0 statistics.darkreader.app
 0.0.0.0 statistics.fppressa.ru
 0.0.0.0 statistics.heatbeat.de
 0.0.0.0 statistics.jfmedier.dk
@@ -36578,6 +36588,7 @@
 0.0.0.0 stats.danestevens.dev
 0.0.0.0 stats.danielwolf.photography
 0.0.0.0 stats.danner-landschaftsbau.at
+0.0.0.0 stats.darkreader.app
 0.0.0.0 stats.dashbit.co
 0.0.0.0 stats.datahjaelp.net
 0.0.0.0 stats.datamanie.cz
@@ -37174,6 +37185,7 @@
 0.0.0.0 stats.vattenfall.se
 0.0.0.0 stats.vdsnow.ru
 0.0.0.0 stats.vican.me
+0.0.0.0 stats.vidbinge.com
 0.0.0.0 stats.viddler.com
 0.0.0.0 stats.vidyome.com
 0.0.0.0 stats.visions.ch
@@ -37246,6 +37258,7 @@
 0.0.0.0 statsigapi.net
 0.0.0.0 statsinsight.com
 0.0.0.0 statsit.com
+0.0.0.0 statsjs.klevu.com
 0.0.0.0 statsmachine.com
 0.0.0.0 statsmp2.emol.com
 0.0.0.0 statsrely.com
@@ -38384,7 +38397,6 @@
 0.0.0.0 tags.master-perf-tools.com
 0.0.0.0 tags.news.com.au
 0.0.0.0 tags.op-palvelut.fi
-0.0.0.0 tags.refinery89.com
 0.0.0.0 tags.soloway.ru
 0.0.0.0 tags.stepstone.com
 0.0.0.0 tagsrvcs.com
@@ -38417,7 +38429,6 @@
 0.0.0.0 tapad.app
 0.0.0.0 tapad.com
 0.0.0.0 tapfiliate.com
-0.0.0.0 taplytics-umami.grubhub.com
 0.0.0.0 taplytics.com
 0.0.0.0 taps.io
 0.0.0.0 tapstream.com
@@ -43788,6 +43799,7 @@
 0.0.0.0 wideangle.co
 0.0.0.0 widerplanet.com
 0.0.0.0 widget-pixels.outbrain.com
+0.0.0.0 widget.civey.com
 0.0.0.0 widget.educationdynamics.com
 0.0.0.0 widgetbe.com
 0.0.0.0 widgets.solutions
@@ -45397,7 +45409,7 @@
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2024-11-03 01:05:45.228269
+# Generated at 2024-11-10 01:04:00.866420
 
 0.0.0.0 databerries.com
 0.0.0.0 fidzup
