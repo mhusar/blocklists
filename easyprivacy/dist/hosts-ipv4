@@ -1,6 +1,6 @@
-# Version: 202411100015
+# Version: 202411170059
 # Title: EasyPrivacy
-# Last modified: 10 Nov 2024 00:15 UTC
+# Last modified: 17 Nov 2024 00:59 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -7639,7 +7639,6 @@
 0.0.0.0 b.iheart.southwest.com
 0.0.0.0 b.itravel.southwest.com
 0.0.0.0 b.iwanna.southwest.com
-0.0.0.0 b.karte.io
 0.0.0.0 b.koodomobile.com
 0.0.0.0 b.law.com
 0.0.0.0 b.lyst.com
@@ -9048,6 +9047,7 @@
 0.0.0.0 cesario.bt.no
 0.0.0.0 cetlog.jp
 0.0.0.0 cetrk.com
+0.0.0.0 cf-pixelfront-analytics.widencdn.net
 0.0.0.0 cf.campagnes-france.com
 0.0.0.0 cf.overblog.com
 0.0.0.0 cfa.fidelity.com
@@ -9650,6 +9650,7 @@
 0.0.0.0 collections.equifax.com
 0.0.0.0 collector-api.99designs.com
 0.0.0.0 collector-api.frspecifics.com
+0.0.0.0 collector-direct.xhamster.com
 0.0.0.0 collector-px0py5pczn.octopart.com
 0.0.0.0 collector-videoplayer.5centscdn.net
 0.0.0.0 collector.api.video
@@ -9679,6 +9680,7 @@
 0.0.0.0 collector.xhamster.desi
 0.0.0.0 collector.xhamster2.com
 0.0.0.0 collector.xhamster3.com
+0.0.0.0 collector.xhamsterporno.mx
 0.0.0.0 collector2c.zhihuishu.com
 0.0.0.0 collector5.zipy.ai
 0.0.0.0 college.business.oregonstate.edu
@@ -13758,6 +13760,7 @@
 0.0.0.0 ens.nzz.ch
 0.0.0.0 ens.tagblatt.ch
 0.0.0.0 ensighten.com
+0.0.0.0 entail-insights.com
 0.0.0.0 enter-system.com
 0.0.0.0 enterdrama.com
 0.0.0.0 enterombacerick.com
@@ -18597,6 +18600,7 @@
 0.0.0.0 ingage.tech
 0.0.0.0 ingenioustech.biz
 0.0.0.0 ingest-lr.com
+0.0.0.0 ingest.coincodex.com
 0.0.0.0 ingest.make.rvapps.io
 0.0.0.0 ingest.make.rvohealth.com
 0.0.0.0 ingredients.firmenich.com
@@ -21126,6 +21130,7 @@
 0.0.0.0 logs-partners.coupang.com
 0.0.0.0 logs.51cto.com
 0.0.0.0 logs.animaapp.com
+0.0.0.0 logs.chatboost-cv.algoage.co.jp
 0.0.0.0 logs.datadoghq.com
 0.0.0.0 logs.hotstar.com
 0.0.0.0 logs.mezmo.com
@@ -26889,6 +26894,7 @@
 0.0.0.0 ordbng.extra.com.br
 0.0.0.0 ordpmx.victorianplumbing.co.uk
 0.0.0.0 oregonstate.actonservice.com
+0.0.0.0 organiccdn.io
 0.0.0.0 organizations.stratfor.com
 0.0.0.0 orhdev.com
 0.0.0.0 oribi.io
@@ -36841,6 +36847,7 @@
 0.0.0.0 stats.literaturkreis.online
 0.0.0.0 stats.live-video.net
 0.0.0.0 stats.lmdsp.com
+0.0.0.0 stats.locallabs.com
 0.0.0.0 stats.localmetravel.com
 0.0.0.0 stats.lord.io
 0.0.0.0 stats.lotlinx.com
@@ -38231,6 +38238,7 @@
 0.0.0.0 t.raptorsmartadvisor.com
 0.0.0.0 t.regionsjob.com
 0.0.0.0 t.rentcafe.com
+0.0.0.0 t.rentio.jp
 0.0.0.0 t.restek.com
 0.0.0.0 t.rheumatoidarthritis.com
 0.0.0.0 t.richmondspiders.com

@@ -1,6 +1,6 @@
-# Version: 202411100015
+# Version: 202411170059
 # Title: EasyPrivacy
-# Last modified: 10 Nov 2024 00:15 UTC
+# Last modified: 17 Nov 2024 00:59 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -7622,7 +7622,6 @@ b.home.com.au
 b.iheart.southwest.com
 b.itravel.southwest.com
 b.iwanna.southwest.com
-b.karte.io
 b.koodomobile.com
 b.law.com
 b.lyst.com
@@ -9031,6 +9030,7 @@ cesa6.actonservice.com
 cesario.bt.no
 cetlog.jp
 cetrk.com
+cf-pixelfront-analytics.widencdn.net
 cf.campagnes-france.com
 cf.overblog.com
 cfa.fidelity.com
@@ -9633,6 +9633,7 @@ collection.saga.co.uk
 collections.equifax.com
 collector-api.99designs.com
 collector-api.frspecifics.com
+collector-direct.xhamster.com
 collector-px0py5pczn.octopart.com
 collector-videoplayer.5centscdn.net
 collector.api.video
@@ -9662,6 +9663,7 @@ collector.xhamster.com
 collector.xhamster.desi
 collector.xhamster2.com
 collector.xhamster3.com
+collector.xhamsterporno.mx
 collector2c.zhihuishu.com
 collector5.zipy.ai
 college.business.oregonstate.edu
@@ -13741,6 +13743,7 @@ ens.luzernerzeitung.ch
 ens.nzz.ch
 ens.tagblatt.ch
 ensighten.com
+entail-insights.com
 enter-system.com
 enterdrama.com
 enterombacerick.com
@@ -18580,6 +18583,7 @@ infox.sg
 ingage.tech
 ingenioustech.biz
 ingest-lr.com
+ingest.coincodex.com
 ingest.make.rvapps.io
 ingest.make.rvohealth.com
 ingredients.firmenich.com
@@ -21109,6 +21113,7 @@ logs-api.shoprunner.com
 logs-partners.coupang.com
 logs.51cto.com
 logs.animaapp.com
+logs.chatboost-cv.algoage.co.jp
 logs.datadoghq.com
 logs.hotstar.com
 logs.mezmo.com
@@ -26872,6 +26877,7 @@ orcapia.com
 ordbng.extra.com.br
 ordpmx.victorianplumbing.co.uk
 oregonstate.actonservice.com
+organiccdn.io
 organizations.stratfor.com
 orhdev.com
 oribi.io
@@ -36824,6 +36830,7 @@ stats.literacysomerset.org
 stats.literaturkreis.online
 stats.live-video.net
 stats.lmdsp.com
+stats.locallabs.com
 stats.localmetravel.com
 stats.lord.io
 stats.lotlinx.com
@@ -38214,6 +38221,7 @@ t.ramblinwreck.com
 t.raptorsmartadvisor.com
 t.regionsjob.com
 t.rentcafe.com
+t.rentio.jp
 t.restek.com
 t.rheumatoidarthritis.com
 t.richmondspiders.com
