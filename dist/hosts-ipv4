@@ -1,6 +1,6 @@
-# Version: 202411232309
+# Version: 202412010004
 # Title: EasyPrivacy
-# Last modified: 23 Nov 2024 23:09 UTC
+# Last modified: 01 Dec 2024 00:04 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -4710,6 +4710,7 @@
 0.0.0.0 adinsight.co.kr
 0.0.0.0 adinsight.com
 0.0.0.0 adinte.jp
+0.0.0.0 aditude.cloud
 0.0.0.0 adixkr.culturekings.com.au
 0.0.0.0 adku.co
 0.0.0.0 adku.com
@@ -12491,6 +12492,7 @@
 0.0.0.0 dspx.tv
 0.0.0.0 dst05lp2.net.mydays.de
 0.0.0.0 dsvmgu.snipes.it
+0.0.0.0 dt-tracker.mamikos.com
 0.0.0.0 dt.xfyun.cn
 0.0.0.0 dtag.breadfinancial.com
 0.0.0.0 dtc-v6t.com
@@ -27888,6 +27890,7 @@
 0.0.0.0 plugin.ws
 0.0.0.0 plugs.jameco.com
 0.0.0.0 plusavecmoins.adp.ca
+0.0.0.0 pluto.smallpdf.com
 0.0.0.0 plv.geocomply.com
 0.0.0.0 plwfwc.teknozone.it
 0.0.0.0 plyizb.latour-lith.nl
@@ -43060,6 +43063,7 @@
 0.0.0.0 visitorprofiler.com
 0.0.0.0 visitorqueue.com
 0.0.0.0 visitors.gigianddavid.com
+0.0.0.0 visitortracking.com
 0.0.0.0 visitortracklog.com
 0.0.0.0 visitorville.com
 0.0.0.0 visitping.rossel.be
@@ -44956,6 +44960,7 @@
 0.0.0.0 yamanoha.com
 0.0.0.0 yamstamp.com
 0.0.0.0 yandexadexchange.net
+0.0.0.0 yandexmetric.com
 0.0.0.0 yardianalytics.com
 0.0.0.0 yast.rutube.ru
 0.0.0.0 yaudience.com
@@ -45431,7 +45436,7 @@
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2024-11-24 01:08:25.991679
+# Generated at 2024-12-01 01:16:32.751826
 
 0.0.0.0 databerries.com
 0.0.0.0 fidzup
