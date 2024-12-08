@@ -1,6 +1,6 @@
-# Version: 202412010004
+# Version: 202412080100
 # Title: EasyPrivacy
-# Last modified: 01 Dec 2024 00:04 UTC
+# Last modified: 08 Dec 2024 01:00 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -5566,6 +5566,7 @@
 0.0.0.0 analytics.facebook.com
 0.0.0.0 analytics.faceitanalytics.com
 0.0.0.0 analytics.faprika.net
+0.0.0.0 analytics.fatmedia.io
 0.0.0.0 analytics.favcy.com
 0.0.0.0 analytics.ferguson.com
 0.0.0.0 analytics.firespring.com
@@ -7853,6 +7854,7 @@
 0.0.0.0 beacon.wikia-services.com
 0.0.0.0 beaconcdn.qq.com
 0.0.0.0 beaconhealthsystem.hrm.healthgrades.com
+0.0.0.0 beacons.digital.disneyadvertising.com
 0.0.0.0 beacons.mediamelon.com
 0.0.0.0 beaconstreetservices.com
 0.0.0.0 beadbears.com
@@ -9548,6 +9550,7 @@
 0.0.0.0 cnsecurity.actonservice.com
 0.0.0.0 cnstats.cdev.eu
 0.0.0.0 cnstats.ru
+0.0.0.0 cnstrc.com
 0.0.0.0 cnt.3dmy.net
 0.0.0.0 cnt.hd21.com
 0.0.0.0 cnt.iceporn.com
@@ -10836,7 +10839,6 @@
 0.0.0.0 d1t9uctetvi0tu.cloudfront.net
 0.0.0.0 d1tbj6eaenapdy.cloudfront.net
 0.0.0.0 d1vg5xiq7qffdj.cloudfront.net
-0.0.0.0 d1wix2gc2cgqis.cloudfront.net
 0.0.0.0 d1xfq2052q7thw.cloudfront.net
 0.0.0.0 d1z2jf7jlzjs58.cloudfront.net
 0.0.0.0 d1z3r0i09bwium.cloudfront.net
@@ -26126,6 +26128,7 @@
 0.0.0.0 nocaadobefpc.optus.com.au
 0.0.0.0 nocturnalloom.com
 0.0.0.0 nocturnalmystique.com
+0.0.0.0 nodethisweek.com
 0.0.0.0 noflake-aggregator-http.narvar.com
 0.0.0.0 nogxjk.dackonline.se
 0.0.0.0 nohaxn.damattween.com
@@ -26439,6 +26442,7 @@
 0.0.0.0 offers.la-z-boy.com
 0.0.0.0 offers.storagepipe.com
 0.0.0.0 offerstrategy.com
+0.0.0.0 offshorecyclone.com
 0.0.0.0 ofkqiy.knowfashionstyle.com
 0.0.0.0 ofqkbk.proclipusa.com
 0.0.0.0 ofvosb.jumbo.com.tr
@@ -27647,6 +27651,7 @@
 0.0.0.0 pixels.boxberry.ru
 0.0.0.0 pixeltracker.co
 0.0.0.0 pixeltracker.im
+0.0.0.0 pixelvariety.com
 0.0.0.0 pixelzirkus.gameforge.com
 0.0.0.0 pixfuture.com
 0.0.0.0 pixiedust.buzzfeed.com
@@ -29879,6 +29884,7 @@
 0.0.0.0 saat.dow.com
 0.0.0.0 sabic.actonservice.com
 0.0.0.0 sableloss.com
+0.0.0.0 sableshelf.com
 0.0.0.0 sablesmile.com
 0.0.0.0 sablesong.com
 0.0.0.0 sabxt.teeoff.com
@@ -30058,6 +30064,7 @@
 0.0.0.0 samt.frankly.ch
 0.0.0.0 samt.swisscanto.com
 0.0.0.0 samt.zkb.ch
+0.0.0.0 samuraibots.com
 0.0.0.0 san-spr-01.net
 0.0.0.0 sanalytics.adobe.tp.gskpro.com
 0.0.0.0 sanalytics.adultswim.co.uk
@@ -40943,6 +40950,7 @@
 0.0.0.0 tracker.cauly.co.kr
 0.0.0.0 tracker.cdnbye.com
 0.0.0.0 tracker.comagic.ru
+0.0.0.0 tracker.curama.jp
 0.0.0.0 tracker.decomworld.com
 0.0.0.0 tracker.digitalcamp.co.kr
 0.0.0.0 tracker.downdetector.com
@@ -43836,6 +43844,7 @@
 0.0.0.0 wikia-beacon.com
 0.0.0.0 wildcommittee.com
 0.0.0.0 wildernesscamera.com
+0.0.0.0 wildwoodavenue.com
 0.0.0.0 win.staticstuff.net
 0.0.0.0 winitout.com
 0.0.0.0 wipe.de
