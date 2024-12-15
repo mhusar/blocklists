@@ -1,6 +1,6 @@
-# Version: 202412080100
+# Version: 202412142337
 # Title: EasyPrivacy
-# Last modified: 08 Dec 2024 01:00 UTC
+# Last modified: 14 Dec 2024 23:37 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -5864,6 +5864,7 @@ analytics.tntsports.com.br
 analytics.tomato.gg
 analytics.tondach.pl
 analytics.top10-charts.com
+analytics.topseotoolkit.com
 analytics.tout.com
 analytics.toyotaforklift.com
 analytics.tradedoubler.com
@@ -8513,7 +8514,6 @@ brrmpm.skanskin.kr
 brshareandrent.eccocar.com
 brsmovecity.eccocar.com
 brsolenelocation.eccocar.com
-brsrvr.com
 brtelefurgo.eccocar.com
 brtimove.eccocar.com
 brtimovesharing.eccocar.com
@@ -9017,6 +9017,7 @@ cdnmaster.cn
 cdnmaster.com
 cdnopw.com
 cdnral.com
+cdns.brsrvr.com
 cdnwidget.com
 cdp.cifinancial.com
 cdp.yna.co.kr
@@ -9072,6 +9073,7 @@ cgwebmetrics.capgroup.com
 ch.credithypo.com
 ch.sharpmarketing.eu
 ch0p.darty.com
+chademocharge.com
 chaireggnog.com
 chairscrack.com
 chairsdonkey.com
@@ -9550,7 +9552,6 @@ cns-service.actonservice.com
 cnsecurity.actonservice.com
 cnstats.cdev.eu
 cnstats.ru
-cnstrc.com
 cnt.3dmy.net
 cnt.hd21.com
 cnt.iceporn.com
@@ -16169,6 +16170,7 @@ godev.steps.me
 godhat.com
 godiciardstia.com
 godlygeese.com
+godseedband.com
 gogaej.momastore.jp
 gogofunding.actonservice.com
 gogovapps.actonservice.com
@@ -21604,6 +21606,7 @@ maddeningpowder.com
 madebyintent.com
 madisoncres.actonservice.com
 madkudu.com
+madlysuccessful.com
 madnet.ru
 madrid.report.botm.transparentedge.io
 maeketing.net.gafas.es
@@ -27250,6 +27253,7 @@ pagesense-collect.zoho.com
 pagesense.io
 pagesocket.glam.com
 pageview.click
+pageviews.tray.com.br
 paginaseloqua.unisabana.edu.co
 pagoda56.com
 pahtag.tech
@@ -39147,6 +39151,7 @@ tidymitten.com
 tif.ionos.com
 tightpowder.com
 tiglck.technopolis.bg
+tiktok.tray.com.br
 tilanalytics.timesinternet.in
 tilt.bankofamerica.com
 tim.nextinpact.com
@@ -45445,7 +45450,7 @@ zzsqqx.shopjapan.co.jp
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2024-12-08 01:11:58.618862
+# Generated at 2024-12-15 01:12:02.743623
 
 databerries.com
 fidzup
