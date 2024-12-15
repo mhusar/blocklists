@@ -1,6 +1,6 @@
-# Version: 202412080100
+# Version: 202412142337
 # Title: EasyPrivacy
-# Last modified: 08 Dec 2024 01:00 UTC
+# Last modified: 14 Dec 2024 23:37 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -5864,6 +5864,7 @@
 0.0.0.0 analytics.tomato.gg
 0.0.0.0 analytics.tondach.pl
 0.0.0.0 analytics.top10-charts.com
+0.0.0.0 analytics.topseotoolkit.com
 0.0.0.0 analytics.tout.com
 0.0.0.0 analytics.toyotaforklift.com
 0.0.0.0 analytics.tradedoubler.com
@@ -8513,7 +8514,6 @@
 0.0.0.0 brshareandrent.eccocar.com
 0.0.0.0 brsmovecity.eccocar.com
 0.0.0.0 brsolenelocation.eccocar.com
-0.0.0.0 brsrvr.com
 0.0.0.0 brtelefurgo.eccocar.com
 0.0.0.0 brtimove.eccocar.com
 0.0.0.0 brtimovesharing.eccocar.com
@@ -9017,6 +9017,7 @@
 0.0.0.0 cdnmaster.com
 0.0.0.0 cdnopw.com
 0.0.0.0 cdnral.com
+0.0.0.0 cdns.brsrvr.com
 0.0.0.0 cdnwidget.com
 0.0.0.0 cdp.cifinancial.com
 0.0.0.0 cdp.yna.co.kr
@@ -9072,6 +9073,7 @@
 0.0.0.0 ch.credithypo.com
 0.0.0.0 ch.sharpmarketing.eu
 0.0.0.0 ch0p.darty.com
+0.0.0.0 chademocharge.com
 0.0.0.0 chaireggnog.com
 0.0.0.0 chairscrack.com
 0.0.0.0 chairsdonkey.com
@@ -9550,7 +9552,6 @@
 0.0.0.0 cnsecurity.actonservice.com
 0.0.0.0 cnstats.cdev.eu
 0.0.0.0 cnstats.ru
-0.0.0.0 cnstrc.com
 0.0.0.0 cnt.3dmy.net
 0.0.0.0 cnt.hd21.com
 0.0.0.0 cnt.iceporn.com
@@ -16169,6 +16170,7 @@
 0.0.0.0 godhat.com
 0.0.0.0 godiciardstia.com
 0.0.0.0 godlygeese.com
+0.0.0.0 godseedband.com
 0.0.0.0 gogaej.momastore.jp
 0.0.0.0 gogofunding.actonservice.com
 0.0.0.0 gogovapps.actonservice.com
@@ -21604,6 +21606,7 @@
 0.0.0.0 madebyintent.com
 0.0.0.0 madisoncres.actonservice.com
 0.0.0.0 madkudu.com
+0.0.0.0 madlysuccessful.com
 0.0.0.0 madnet.ru
 0.0.0.0 madrid.report.botm.transparentedge.io
 0.0.0.0 maeketing.net.gafas.es
@@ -27250,6 +27253,7 @@
 0.0.0.0 pagesense.io
 0.0.0.0 pagesocket.glam.com
 0.0.0.0 pageview.click
+0.0.0.0 pageviews.tray.com.br
 0.0.0.0 paginaseloqua.unisabana.edu.co
 0.0.0.0 pagoda56.com
 0.0.0.0 pahtag.tech
@@ -39147,6 +39151,7 @@
 0.0.0.0 tif.ionos.com
 0.0.0.0 tightpowder.com
 0.0.0.0 tiglck.technopolis.bg
+0.0.0.0 tiktok.tray.com.br
 0.0.0.0 tilanalytics.timesinternet.in
 0.0.0.0 tilt.bankofamerica.com
 0.0.0.0 tim.nextinpact.com
