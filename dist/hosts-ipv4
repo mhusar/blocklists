@@ -1,6 +1,6 @@
-# Version: 202412220029
+# Version: 202412290020
 # Title: EasyPrivacy
-# Last modified: 22 Dec 2024 00:29 UTC
+# Last modified: 29 Dec 2024 00:20 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -5059,6 +5059,7 @@
 0.0.0.0 aghtag.tech
 0.0.0.0 agilebreeze.com
 0.0.0.0 agilecrm.com
+0.0.0.0 agileformer.com
 0.0.0.0 agilesrv.com
 0.0.0.0 agillic.eu
 0.0.0.0 agilone.com
@@ -5249,6 +5250,7 @@
 0.0.0.0 altabold1.com
 0.0.0.0 altalex.wolterskluwer.com
 0.0.0.0 altastat.com
+0.0.0.0 altema-log.com
 0.0.0.0 alternativetechnology.arrow.com
 0.0.0.0 alticoadvisors.actonservice.com
 0.0.0.0 altn.actonservice.com
@@ -8010,6 +8012,7 @@
 0.0.0.0 billowybead.com
 0.0.0.0 billowybelief.com
 0.0.0.0 biminibliss.rwbimini.com
+0.0.0.0 binarycrest.com
 0.0.0.0 binocule21c.merriam-webster.com
 0.0.0.0 binspiredtees.com
 0.0.0.0 bint.openapp.link
@@ -9163,6 +9166,7 @@
 0.0.0.0 ci.quickbooks.com
 0.0.0.0 ci42.rgp.com
 0.0.0.0 cicdserver.com
+0.0.0.0 ciderfeast.com
 0.0.0.0 cihac.ubmmexico.com
 0.0.0.0 cikvwv.dsdamat.com
 0.0.0.0 cikxuh.iciformation.fr
@@ -9226,6 +9230,7 @@
 0.0.0.0 clarivoy.com
 0.0.0.0 claruscommerce.actonservice.com
 0.0.0.0 classroominc.actonservice.com
+0.0.0.0 claude.ai/sentry
 0.0.0.0 claynelsonlifebalance.actonservice.com
 0.0.0.0 clck.dzen.ru
 0.0.0.0 cleanhaircut.com
@@ -12721,6 +12726,7 @@
 0.0.0.0 eakwza.bipicar.com
 0.0.0.0 eanalyzer.de
 0.0.0.0 early-birds.io
+0.0.0.0 earnbaht.com
 0.0.0.0 earthquakescarf.com
 0.0.0.0 earthycopy.com
 0.0.0.0 earthyfarm.com
@@ -13808,6 +13814,7 @@
 0.0.0.0 eperfectdata.com
 0.0.0.0 epezqy.plaisio.gr
 0.0.0.0 epicgolive.rainresources.com
+0.0.0.0 epicoldschool.com
 0.0.0.0 epilot.com
 0.0.0.0 epimetheus.navigator.web.de
 0.0.0.0 epitrack.com
@@ -14660,6 +14667,7 @@
 0.0.0.0 fluentco.actonservice.com
 0.0.0.0 fluidsurveys.com
 0.0.0.0 flurry.com
+0.0.0.0 flushingbeast.com
 0.0.0.0 flutteringfireman.com
 0.0.0.0 flx1.com
 0.0.0.0 flxpxl.com
@@ -14790,6 +14798,7 @@
 0.0.0.0 fourfork.com
 0.0.0.0 fourier.taobao.com
 0.0.0.0 fourmtagservices.appspot.com
+0.0.0.0 fourpawsahead.com
 0.0.0.0 fourtimessmelly.com
 0.0.0.0 fout.jp
 0.0.0.0 foxpush.com
@@ -16205,6 +16214,7 @@
 0.0.0.0 gosenergy.actonservice.com
 0.0.0.0 goseri-link.mysuki.io
 0.0.0.0 goshenhealth.hrm.healthgrades.com
+0.0.0.0 gossamerwing.com
 0.0.0.0 gostats.cn
 0.0.0.0 gostats.com
 0.0.0.0 gostats.de
@@ -16795,6 +16805,7 @@
 0.0.0.0 hollowafterthought.com
 0.0.0.0 home.edm.globalsources.com
 0.0.0.0 home.usg.com
+0.0.0.0 homebizplaza.com
 0.0.0.0 homecareresources.rosemarksystem.com
 0.0.0.0 homehardware.actonservice.com
 0.0.0.0 homelycrown.com
@@ -16807,6 +16818,7 @@
 0.0.0.0 honorableland.com
 0.0.0.0 honorhealth.hrm.healthgrades.com
 0.0.0.0 hoojts.demmelhuber.net
+0.0.0.0 hookconference.com
 0.0.0.0 hootsuite.branch.rocks
 0.0.0.0 hop.clickbank.net
 0.0.0.0 hop.dttd.app
@@ -18734,6 +18746,7 @@
 0.0.0.0 instreamatic.com
 0.0.0.0 instrumentinsect.com
 0.0.0.0 instrumentsponge.com
+0.0.0.0 insulatech.com
 0.0.0.0 insurance.alliant.com
 0.0.0.0 insurance.caainsurancecompany.com
 0.0.0.0 insurance.leads360.com
@@ -21038,6 +21051,7 @@
 0.0.0.0 lodicoandco.actonservice.com
 0.0.0.0 lodlww.carcon.co.jp
 0.0.0.0 lofo3l15c674.platform.replai.io
+0.0.0.0 log-185a61e7.bendigobank.com.au
 0.0.0.0 log-ads.r7.com
 0.0.0.0 log-api.cli.im
 0.0.0.0 log-gateway.zoom.us
@@ -25294,6 +25308,7 @@
 0.0.0.0 mixedreading.com
 0.0.0.0 mixi.mn
 0.0.0.0 mixomniture.rbs.com
+0.0.0.0 mixpanel-proxy.coingecko.com
 0.0.0.0 mixpanel-proxy.ted.com
 0.0.0.0 mixpanel.com
 0.0.0.0 mixproxy.epoch.cloud
@@ -25962,6 +25977,7 @@
 0.0.0.0 netzaehler.de
 0.0.0.0 netzstat.ch
 0.0.0.0 neurotrack.neurolake.io
+0.0.0.0 newartreview.com
 0.0.0.0 newjersey-content.cresa.com
 0.0.0.0 newperspective.americanexpress.com
 0.0.0.0 newrelic.com
@@ -27423,6 +27439,7 @@
 0.0.0.0 pedropanther.com
 0.0.0.0 peerius.com
 0.0.0.0 pegasus.unifygroup.com
+0.0.0.0 pegsbuttons.com
 0.0.0.0 pehkmy.edreams.pt
 0.0.0.0 peiq.services
 0.0.0.0 pemskb.unitedcinemas.jp
@@ -28262,6 +28279,7 @@
 0.0.0.0 prophet.heise-academy.de
 0.0.0.0 prophet.heise.de
 0.0.0.0 props.id
+0.0.0.0 propsynergy.com
 0.0.0.0 prospecteye.com
 0.0.0.0 prospex.actonservice.com
 0.0.0.0 protapes.actonservice.com
@@ -31133,6 +31151,7 @@
 0.0.0.0 seek.intel.com
 0.0.0.0 seek.uwa.edu.au
 0.0.0.0 seemlysuggestion.com
+0.0.0.0 seespice.com
 0.0.0.0 seevolution.com
 0.0.0.0 sefkal.openapp.link
 0.0.0.0 seg.sharethis.com
@@ -36569,6 +36588,7 @@
 0.0.0.0 stats.brumtechtapas.co.uk
 0.0.0.0 stats.buddiy.net
 0.0.0.0 stats.bungeefit.co.uk
+0.0.0.0 stats.bunkr.ru
 0.0.0.0 stats.burocratin.com
 0.0.0.0 stats.byma.com.br
 0.0.0.0 stats.byterocket.dev
@@ -37279,6 +37299,7 @@
 0.0.0.0 stats2.cntraveler.com
 0.0.0.0 stats2.com
 0.0.0.0 stats2.golfdigest.com
+0.0.0.0 stats2.indianpornempire.com
 0.0.0.0 stats2.mytuner.mobi
 0.0.0.0 stats2.newyorker.com
 0.0.0.0 stats2.self.com
@@ -37299,6 +37320,7 @@
 0.0.0.0 statsegg.cdngeek.com
 0.0.0.0 statsforever.com
 0.0.0.0 statshunt.com
+0.0.0.0 statsig.anthropic.com
 0.0.0.0 statsig.com
 0.0.0.0 statsigapi.net
 0.0.0.0 statsinsight.com
@@ -38732,6 +38754,7 @@
 0.0.0.0 tas.bdoaustralia.bdo.com.au
 0.0.0.0 taskanalytics.com
 0.0.0.0 tasksimplify.com
+0.0.0.0 tasselapp.com
 0.0.0.0 tasteeat.openapp.link
 0.0.0.0 tastefulsongs.com
 0.0.0.0 tastelesstoes.com
@@ -38935,6 +38958,7 @@
 0.0.0.0 tendersugar.com
 0.0.0.0 tendertest.com
 0.0.0.0 tengointernet.actonservice.com
+0.0.0.0 tenhourweek.com
 0.0.0.0 tenilstats.turner.com
 0.0.0.0 tenmax.io
 0.0.0.0 tenping.kr
@@ -39093,6 +39117,7 @@
 0.0.0.0 thecea.actonservice.com
 0.0.0.0 thecounter.com
 0.0.0.0 thefontzone.com
+0.0.0.0 thejavalane.com
 0.0.0.0 theme.echovisuals.com
 0.0.0.0 thench.net
 0.0.0.0 thequickbooksteam.intuit.ca
@@ -41633,6 +41658,7 @@
 0.0.0.0 tracking.umbrella.com
 0.0.0.0 tracking.umms.org
 0.0.0.0 tracking.unisabana.edu.co
+0.0.0.0 tracking.univtec.com
 0.0.0.0 tracking.unrealengine.com
 0.0.0.0 tracking.usj.es
 0.0.0.0 tracking.utas.edu.au
@@ -42645,6 +42671,7 @@
 0.0.0.0 unsubscribe.email.verizon.com
 0.0.0.0 unsubscribe.openapp.link
 0.0.0.0 unsubscribe.promo.timhortons.ca
+0.0.0.0 untho.de
 0.0.0.0 untidyquestion.com
 0.0.0.0 untidyrice.com
 0.0.0.0 unusedstone.com
@@ -44062,6 +44089,7 @@
 0.0.0.0 wucvvh.surpricenow.com
 0.0.0.0 wundercounter.com
 0.0.0.0 wunderloop.net
+0.0.0.0 wup-185a61e7.bendigobank.com.au
 0.0.0.0 wvlirb.lexoffice.de
 0.0.0.0 wvoudw.magaseek.com
 0.0.0.0 wvrukp.globalcyclingnetwork.com
@@ -45463,7 +45491,7 @@
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2024-12-22 01:06:30.390060
+# Generated at 2024-12-29 01:07:11.969703
 
 0.0.0.0 databerries.com
 0.0.0.0 fidzup
