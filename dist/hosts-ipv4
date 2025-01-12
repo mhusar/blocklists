@@ -1,6 +1,6 @@
-# Version: 202501050003
+# Version: 202501120059
 # Title: EasyPrivacy
-# Last modified: 05 Jan 2025 00:03 UTC
+# Last modified: 12 Jan 2025 00:59 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -130,7 +130,6 @@
 0.0.0.0 2tty.overstappen.nl
 0.0.0.0 2yqcaqbfnv.nextgen.shareablee.com
 0.0.0.0 2znp09oa.com
-0.0.0.0 31daa5lnq.de
 0.0.0.0 3347.wolf-gordon.com
 0.0.0.0 3347.wolfgordon.com
 0.0.0.0 34.215.155.61
@@ -9479,6 +9478,7 @@
 0.0.0.0 cmrcustomer.americanexpress.co.uk
 0.0.0.0 cmrcustomer.americanexpress.es
 0.0.0.0 cmrhvx.lojapegada.com.br
+0.0.0.0 cms-stats-view.vitrinabox.com
 0.0.0.0 cms.grandcloud.cn
 0.0.0.0 cms.hardloopaanbiedingen.nl
 0.0.0.0 cms.lv
@@ -9657,6 +9657,7 @@
 0.0.0.0 collector.quillbot.com
 0.0.0.0 collector.schibsted.io
 0.0.0.0 collector.sspinc.io
+0.0.0.0 collector.t-idr.com
 0.0.0.0 collector.taoxh.life
 0.0.0.0 collector.wawlabs.com
 0.0.0.0 collector.xhaccess.com
@@ -11702,7 +11703,6 @@
 0.0.0.0 delidatax.net
 0.0.0.0 delightfulhour.com
 0.0.0.0 delikoko.openapp.link
-0.0.0.0 deliver.ptgncdn.com
 0.0.0.0 delivery.email-pepipost.branch.rocks
 0.0.0.0 delivery.lululemon.com
 0.0.0.0 delivery.marketing.boutiqaat.com
@@ -12434,6 +12434,7 @@
 0.0.0.0 dreamycanyon.com
 0.0.0.0 dressexpansion.com
 0.0.0.0 drfdisvc.walmart.com
+0.0.0.0 driftingchef.com
 0.0.0.0 driftpizza.com
 0.0.0.0 dripappliance.com
 0.0.0.0 driv-analytics.com
@@ -16469,7 +16470,6 @@
 0.0.0.0 hbfpvm.comolib.com
 0.0.0.0 hbiq.net
 0.0.0.0 hbo5.concours-pass.com
-0.0.0.0 hbwrapper.com
 0.0.0.0 hbx.df-srv.de
 0.0.0.0 hby7.destinia.it
 0.0.0.0 hcdnpe.iareduceri.ro
@@ -17031,7 +17031,6 @@
 0.0.0.0 iculture.report
 0.0.0.0 id-visitors.com
 0.0.0.0 id-ward.com
-0.0.0.0 id5-sync.com
 0.0.0.0 idbkfy.kango-roo.com
 0.0.0.0 iddu1vvb7sk8-a.akamaihd.net
 0.0.0.0 ideadevice.actonservice.com
@@ -18568,7 +18567,6 @@
 0.0.0.0 infotc.readingpartners.org
 0.0.0.0 infotul.readingpartners.org
 0.0.0.0 infox.sg
-0.0.0.0 ingage.tech
 0.0.0.0 ingenioustech.biz
 0.0.0.0 ingest-lr.com
 0.0.0.0 ingest.coincodex.com
@@ -18663,7 +18661,6 @@
 0.0.0.0 insights.v3.decathlon.net
 0.0.0.0 insights.zinio.com
 0.0.0.0 insightseries.redbull.racing
-0.0.0.0 insigit.com
 0.0.0.0 insitemetrics.com
 0.0.0.0 insitez.blob.core.windows.net
 0.0.0.0 inspectlet.com
@@ -19048,7 +19045,6 @@
 0.0.0.0 javascriptcounter.appspot.com
 0.0.0.0 javs.actonservice.com
 0.0.0.0 javvso.newone-shop.com
-0.0.0.0 jazzyzest.cfd
 0.0.0.0 jbbljg.autoscout24.bg
 0.0.0.0 jbezdi.ilsole24ore.com
 0.0.0.0 jc917x3.adaptive.marketing
@@ -21654,6 +21650,7 @@
 0.0.0.0 majesticwilderness.com
 0.0.0.0 makbti.bandofboats.com
 0.0.0.0 makeshiftmine.com
+0.0.0.0 makesimpact.com
 0.0.0.0 maliciousmusic.com
 0.0.0.0 maling.dn.no
 0.0.0.0 mallioras.openapp.link
@@ -21668,6 +21665,7 @@
 0.0.0.0 manufacturing.autodeskcommunications.com
 0.0.0.0 map.rockwellautomation.com
 0.0.0.0 mapbasin.com
+0.0.0.0 mapcommand.com
 0.0.0.0 mapixl.com
 0.0.0.0 maploco.com
 0.0.0.0 mapmyuser.com
@@ -25211,6 +25209,7 @@
 0.0.0.0 misrepush.com
 0.0.0.0 missionrewards.com
 0.0.0.0 missionrs.actonservice.com
+0.0.0.0 mistervillas.com
 0.0.0.0 mistyhorizon.com
 0.0.0.0 mit.bhw.de
 0.0.0.0 mit.db.com
@@ -25428,7 +25427,6 @@
 0.0.0.0 montelena.auction.co.kr
 0.0.0.0 monthlyhat.com
 0.0.0.0 montpalatin.handicap.fr
-0.0.0.0 monu.delivery
 0.0.0.0 moodlerooms.blackboard.com
 0.0.0.0 moorshoes.com
 0.0.0.0 mooseway.com
@@ -26033,6 +26031,7 @@
 0.0.0.0 ninjacat.io
 0.0.0.0 nirdjz.revolveclothing.com.au
 0.0.0.0 nisaapp.nexus-dt.com
+0.0.0.0 nitroscripts.com
 0.0.0.0 nitrous-analytics.s3.amazonaws.com
 0.0.0.0 njnlih.realitatea.net
 0.0.0.0 njorya.aosom.de
@@ -26355,6 +26354,7 @@
 0.0.0.0 octavius.rocks
 0.0.0.0 octomarket.com
 0.0.0.0 octopart-analytics.com
+0.0.0.0 octotracking.com
 0.0.0.0 ocular.dealabs.com
 0.0.0.0 ocular.promodescuentos.com
 0.0.0.0 ocwlhv.ecid.com.br
@@ -26704,6 +26704,7 @@
 0.0.0.0 one.godigit.com
 0.0.0.0 one2.onestep.fr
 0.0.0.0 onecloud.avaya.com
+0.0.0.0 onedollarstats.com
 0.0.0.0 onefeed.co.uk
 0.0.0.0 oneid.mmstat.com
 0.0.0.0 onelink.me
@@ -27478,10 +27479,8 @@
 0.0.0.0 ping-admin.ru
 0.0.0.0 ping-fast.com
 0.0.0.0 ping.dozuki.com
-0.0.0.0 ping.fastsimon.com
 0.0.0.0 ping.hashnode.com
 0.0.0.0 ping.hungama.com
-0.0.0.0 ping.instantsearchplus.com
 0.0.0.0 ping.naturadapt.com
 0.0.0.0 ping.paidy.com
 0.0.0.0 ping.resoluteoil.com
@@ -28048,7 +28047,6 @@
 0.0.0.0 preview.fi-institutional.com.au
 0.0.0.0 previousplayground.com
 0.0.0.0 previouspotato.com
-0.0.0.0 prf.hn
 0.0.0.0 prf.vagnt.com
 0.0.0.0 prfct.co
 0.0.0.0 prhhqo.vintagevoyage.ru
@@ -35815,7 +35813,6 @@
 0.0.0.0 sslstats.ssl.postescanada-canadapost.ca
 0.0.0.0 sslstats.worldagentdirect.com
 0.0.0.0 ssltest2.branch.io
-0.0.0.0 ssm.codes
 0.0.0.0 ssmile.dentsplysirona.com
 0.0.0.0 ssmr.nuro.jp
 0.0.0.0 ssmr.so-net.ne.jp
@@ -37349,6 +37346,7 @@
 0.0.0.0 stnt.sky.de
 0.0.0.0 stockingsleet.com
 0.0.0.0 stockingsneeze.com
+0.0.0.0 stocktheme.com
 0.0.0.0 stomachscience.com
 0.0.0.0 stonecalcom.com
 0.0.0.0 stonechin.com
@@ -39011,7 +39009,6 @@
 0.0.0.0 thanks.olivesitter.com
 0.0.0.0 thanks.tsubaki-musicschool.com
 0.0.0.0 thaqyl.mediamarkt.nl
-0.0.0.0 thatmonkeybites3.com
 0.0.0.0 theactivetag.com
 0.0.0.0 theadex.com
 0.0.0.0 theagency.com
@@ -42878,7 +42875,6 @@
 0.0.0.0 vf.startpage.com
 0.0.0.0 vfd2dyn.vodafone.de
 0.0.0.0 vfghe.com
-0.0.0.0 vfgte.com
 0.0.0.0 vfmahn.slevomat.cz
 0.0.0.0 vfo.voyage-prive.co.uk
 0.0.0.0 vfo4.carrefour-banque.fr
@@ -45375,7 +45371,7 @@
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2025-01-05 01:06:22.609723
+# Generated at 2025-01-12 01:07:36.795700
 
 0.0.0.0 databerries.com
 0.0.0.0 fidzup
