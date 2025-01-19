@@ -1,6 +1,6 @@
-# Version: 202501120059
+# Version: 202501182227
 # Title: EasyPrivacy
-# Last modified: 12 Jan 2025 00:59 UTC
+# Last modified: 18 Jan 2025 22:27 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -4281,6 +4281,7 @@ abstractedamount.com
 abstractedauthority.com
 absurdapple.com
 absurdwater.com
+absys.web.de
 abt.bauhaus.es
 abt.bauhaus.info
 abt.nike.com
@@ -4405,6 +4406,7 @@ action.logixfiber.com
 action.totalcompbuilder.com
 action.totalrewardssoftware.com
 action.unifiedoffice.com
+actiontracking.jp
 actirinius.com
 activation.depop.com
 activation.labcorp.com
@@ -5444,6 +5446,7 @@ analytics.bestreviews.com
 analytics.betterplaces.nl
 analytics.bgr.com
 analytics.bigfishgames.com
+analytics.bitchute.com
 analytics.bitrix.info
 analytics.blackboard.com
 analytics.bleacherreport.com
@@ -7286,6 +7289,7 @@ atom-log.3.cn
 atp.io
 atraxio.com
 ats.alot.com
+ats.otto.de
 atsfi.de
 atsmetrics.adobe.com
 atsmobile.actonservice.com
@@ -8652,6 +8656,7 @@ c-c-l.actonservice.com
 c-o-u-n-t.com
 c-rings.net
 c-t.topya.com
+c.albss.com
 c.amazinglybrilliant.com.au
 c.aquaservice.com
 c.arstechnica.com
@@ -10082,6 +10087,7 @@ content.recordpoint.com
 content.rightsourcemarketing.com
 content.sffirecu.org
 content.stage.mini.pix.style
+content.tab.com.au
 content.tacticalma.com
 content.tatatelebusiness.com
 content.timetogather.co.uk
@@ -11391,6 +11397,7 @@ data.tw-email.princess.com
 data.tw-guest.princess.com
 data.txn.puntoscolombia.com
 data.ubi.com
+data.ublock-browser.com
 data.uk-email.princess.com
 data.uk-guest.princess.com
 data.umfrage.aetkasmart.de
@@ -12328,6 +12335,7 @@ domino.flycl.ps
 dominocounter.net
 domodomain.com
 domorewithless.adp.ca
+domself.de
 donjigrad.viessmann.rs
 donkeyleaf.com
 donreach.com
@@ -14003,6 +14011,7 @@ event3.thermofisher.com
 event3.thermoscientific.com
 eventapi.libring.com
 eventbus.intuit.com
+eventcollector.mcf-prod.a.intuit.com
 eventexistence.com
 eventgateway.soundcloud.com
 eventlog.chatlead.com
@@ -14442,6 +14451,7 @@ feedify.net
 feedjit.com
 feedme.use-beez.com
 feedperfect.com
+feedten.com
 feignedfaucet.com
 femetrics.grammarly.io
 feppiu.systemaction.es
@@ -24280,6 +24290,7 @@ metrics.huffingtonpost.es
 metrics.huntington.com
 metrics.huntingtonsdiseasehcp.com
 metrics.hydraulicspneumatics.com
+metrics.hyperliquid.xyz
 metrics.hyundaiusa.com
 metrics.icloud.com
 metrics.iconfitness.com
@@ -25457,6 +25468,7 @@ move.azets.no
 move.azets.se
 movemeal.com
 mowfruit.com
+mowgoats.com
 mowvra.idlookmall.com
 moxtra.actonservice.com
 mp.imgur.com
@@ -35399,6 +35411,7 @@ springsnails.com
 sproutingbag.com
 sprtnd.com
 sprydelta.com
+sprysummit.com
 spscas.hitachi-solutions.co.jp
 spt.ahram.org.eg
 sptag.com
@@ -37820,6 +37833,7 @@ sy.amebame.com
 sy.ameblo.jp
 sy57d8wi.com
 syfwnf.society6.com
+sygrip.info
 syllablesight.com
 symantec.ecs.arrow.com
 symbio.actonservice.com
@@ -45354,7 +45368,7 @@ zzsqqx.shopjapan.co.jp
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2025-01-12 01:07:35.480496
+# Generated at 2025-01-19 01:04:17.275530
 
 databerries.com
 fidzup
