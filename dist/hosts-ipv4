@@ -1,6 +1,6 @@
-# Version: 202501182227
+# Version: 202501260043
 # Title: EasyPrivacy
-# Last modified: 18 Jan 2025 22:27 UTC
+# Last modified: 26 Jan 2025 00:43 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -5597,6 +5597,7 @@
 0.0.0.0 analytics.gewaterheater.com
 0.0.0.0 analytics.glance.inmobi.com
 0.0.0.0 analytics.global.sky.com
+0.0.0.0 analytics.gokwik.co
 0.0.0.0 analytics.google.com
 0.0.0.0 analytics.gooogol.com
 0.0.0.0 analytics.greenmountain.com
@@ -8993,6 +8994,7 @@
 0.0.0.0 cdn.debugbear.com
 0.0.0.0 cdn.net.dz.jumia.com
 0.0.0.0 cdn.net.elogia.net
+0.0.0.0 cdn.polarbyte.com
 0.0.0.0 cdn.ravm.tv
 0.0.0.0 cdn.usefathom.com
 0.0.0.0 cdn1.skrill.com
@@ -11564,6 +11566,7 @@
 0.0.0.0 dcmn.com
 0.0.0.0 dcmn.io
 0.0.0.0 dcnkrd.baseballsavings.com
+0.0.0.0 dco.coupang.com
 0.0.0.0 dcs.audi.com
 0.0.0.0 dcs.esprit.at
 0.0.0.0 dcs.esprit.au
@@ -14303,6 +14306,7 @@
 0.0.0.0 f-emc.ngsp.gov.vn
 0.0.0.0 f-log-at.grammarly.io
 0.0.0.0 f-log-test.grammarly.io
+0.0.0.0 f-tra.com
 0.0.0.0 f.a23.in
 0.0.0.0 f.cdngeek.com
 0.0.0.0 f02b61sgc617.es.themoneytizer.com
@@ -18869,7 +18873,6 @@
 0.0.0.0 ipgp.net
 0.0.0.0 iphufr.circleline.com
 0.0.0.0 ipinfo.info
-0.0.0.0 ipinfo.io
 0.0.0.0 ipinfodb.com
 0.0.0.0 ipinternational.actonservice.com
 0.0.0.0 ipinyou.com
@@ -26352,6 +26355,7 @@
 0.0.0.0 observe.metarouter.io
 0.0.0.0 observer.ip-label.net
 0.0.0.0 observerapp.com
+0.0.0.0 obseu.netgreencolumn.com
 0.0.0.0 obtfhl.bellemaison.jp
 0.0.0.0 oca.microsoft.com
 0.0.0.0 occidente.ubmmexico.com
@@ -27911,7 +27915,6 @@
 0.0.0.0 poisedpig.com
 0.0.0.0 pol3.cheque-domicile.fr
 0.0.0.0 polaranalytics.com
-0.0.0.0 polarbyte.com
 0.0.0.0 polarcdn-pentos.com
 0.0.0.0 polarismagnet.com
 0.0.0.0 polhvf.bootbarn.com
@@ -31461,6 +31464,7 @@
 0.0.0.0 sharppatch.com
 0.0.0.0 sharpspring.com
 0.0.0.0 sheeta.nrj-play.fr
+0.0.0.0 sheideal.com
 0.0.0.0 shelbypublishing.actonservice.com
 0.0.0.0 shell-recharge.tupinambaenergia.com.br
 0.0.0.0 sheregesh-io.traveler.today
@@ -37341,6 +37345,7 @@
 0.0.0.0 stingyspoon.com
 0.0.0.0 stippleit.com
 0.0.0.0 stjoe.psjhealth.org
+0.0.0.0 stk.px-cloud.net
 0.0.0.0 stktkt.profizelt24.de
 0.0.0.0 stliom.vidaxl.cz
 0.0.0.0 stlog.d.dmkt-sp.jp
@@ -38023,6 +38028,7 @@
 0.0.0.0 t.cofcsports.com
 0.0.0.0 t.collinscenterforthearts.com
 0.0.0.0 t.cometlytrack.com
+0.0.0.0 t.commandbar.com
 0.0.0.0 t.comms.thetimes.co.uk
 0.0.0.0 t.cozone.com
 0.0.0.0 t.csurams.com
@@ -45385,7 +45391,7 @@
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2025-01-19 01:04:18.219042
+# Generated at 2025-01-26 01:01:55.206695
 
 0.0.0.0 databerries.com
 0.0.0.0 fidzup
