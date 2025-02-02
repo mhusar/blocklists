@@ -1,6 +1,6 @@
-# Version: 202501260043
+# Version: 202502012316
 # Title: EasyPrivacy
-# Last modified: 26 Jan 2025 00:43 UTC
+# Last modified: 01 Feb 2025 23:16 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -20898,7 +20898,6 @@
 0.0.0.0 listen.tunein.com
 0.0.0.0 listenlayer.com
 0.0.0.0 listing-a8-itp.hello-storage.com
-0.0.0.0 listrakbi.com
 0.0.0.0 lists.ccmbg.com
 0.0.0.0 lit.connatix.com
 0.0.0.0 literally-analytics.appspot.com
@@ -25765,6 +25764,7 @@
 0.0.0.0 naivestatement.com
 0.0.0.0 naj.sk
 0.0.0.0 najva.com
+0.0.0.0 nakedanalytics.net
 0.0.0.0 nakisa.actonservice.com
 0.0.0.0 nala.headuplabs.com
 0.0.0.0 namcah.alipearlhair.com
@@ -27742,6 +27742,7 @@
 0.0.0.0 plausible.external.sine.foundation
 0.0.0.0 plausible.f1laps.com
 0.0.0.0 plausible.factly.in
+0.0.0.0 plausible.flamekiller.org
 0.0.0.0 plausible.flowcv.io
 0.0.0.0 plausible.getlean.digital
 0.0.0.0 plausible.giveatip.io
@@ -28598,6 +28599,7 @@
 0.0.0.0 quick-counter.net
 0.0.0.0 quick.openapp.link
 0.0.0.0 quickkoala.io
+0.0.0.0 quicklyedit.com
 0.0.0.0 quickpcfixer.click
 0.0.0.0 quicksandear.com
 0.0.0.0 quidel.actonservice.com
@@ -29437,6 +29439,7 @@
 0.0.0.0 rt.flix360.com
 0.0.0.0 rt.newswire.ca
 0.0.0.0 rt.prnewswire.com
+0.0.0.0 rt.whitebridge.ai
 0.0.0.0 rta.dailymail.co.uk
 0.0.0.0 rta2.inews.co.uk
 0.0.0.0 rta2.metro.co.uk
@@ -37345,7 +37348,6 @@
 0.0.0.0 stingyspoon.com
 0.0.0.0 stippleit.com
 0.0.0.0 stjoe.psjhealth.org
-0.0.0.0 stk.px-cloud.net
 0.0.0.0 stktkt.profizelt24.de
 0.0.0.0 stliom.vidaxl.cz
 0.0.0.0 stlog.d.dmkt-sp.jp
