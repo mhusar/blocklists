@@ -1,6 +1,6 @@
-# Version: 202502012316
+# Version: 202502090005
 # Title: EasyPrivacy
-# Last modified: 01 Feb 2025 23:16 UTC
+# Last modified: 09 Feb 2025 00:05 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -7650,6 +7650,7 @@
 0.0.0.0 b.mitrust.com
 0.0.0.0 b.miwebflex.com
 0.0.0.0 b.mynewplace.com
+0.0.0.0 b.nativendo.de
 0.0.0.0 b.parade.com
 0.0.0.0 b.pickme.lk
 0.0.0.0 b.prod1.youroffers.dominos.ca
@@ -7671,6 +7672,7 @@
 0.0.0.0 b.thechive.com
 0.0.0.0 b.thechivery.com
 0.0.0.0 b.todaytix.com
+0.0.0.0 b.trueanthem.com
 0.0.0.0 b.vidmob.com
 0.0.0.0 b.whee.ly
 0.0.0.0 b.workhere.com
@@ -14355,6 +14357,7 @@
 0.0.0.0 fairiesbranch.com
 0.0.0.0 fairygaze.com
 0.0.0.0 fairytaleflame.com
+0.0.0.0 faithrowold.com
 0.0.0.0 faktor.io
 0.0.0.0 fal2.carrefour-banque.fr
 0.0.0.0 fallaciousfifth.com
@@ -16371,6 +16374,7 @@
 0.0.0.0 gvxnff.soulara.com.au
 0.0.0.0 gw-analytics.panasonic.com
 0.0.0.0 gw-dv.vip
+0.0.0.0 gw.conversionsapigateway.com
 0.0.0.0 gwguyh.edreams.es
 0.0.0.0 gwizal.yumbutter.com
 0.0.0.0 gwmtracking.com
@@ -21000,6 +21004,7 @@
 0.0.0.0 log-gateway.zoom.us
 0.0.0.0 log-lb.skyperfectv.co.jp
 0.0.0.0 log-pq.shopfully.cloud
+0.0.0.0 log-upload-os.hoyolab.com
 0.0.0.0 log-upload-os.hoyoverse.com
 0.0.0.0 log.adplex.co.kr
 0.0.0.0 log.aimtell.com
@@ -27381,7 +27386,6 @@
 0.0.0.0 pehkmy.edreams.pt
 0.0.0.0 peiq.services
 0.0.0.0 pemskb.unitedcinemas.jp
-0.0.0.0 pendo.io
 0.0.0.0 people.mbtionline.com
 0.0.0.0 peoplehr.actonservice.com
 0.0.0.0 pepleb.ekosport.de
@@ -29052,7 +29056,6 @@
 0.0.0.0 report-uri.com
 0.0.0.0 report-uri.io
 0.0.0.0 report.appmetrica.yandex.net.iberostar.com
-0.0.0.0 report.error-report.com
 0.0.0.0 report.meituan.com
 0.0.0.0 reportic.app
 0.0.0.0 reporting-api.gannettinnovation.com
@@ -39079,6 +39082,7 @@
 0.0.0.0 threatbook.cn
 0.0.0.0 threechurch.com
 0.0.0.0 threetruck.com
+0.0.0.0 thrillasoft.com
 0.0.0.0 thrive.metagenics.com
 0.0.0.0 throattrees.com
 0.0.0.0 thsnvv.hollywoodschaukel-paradies.de
@@ -45393,7 +45397,7 @@
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2025-02-02 01:03:08.201756
+# Generated at 2025-02-09 01:04:18.234422
 
 0.0.0.0 databerries.com
 0.0.0.0 fidzup
