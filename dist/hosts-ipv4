@@ -1,6 +1,6 @@
-# Version: 202502090005
+# Version: 202502160029
 # Title: EasyPrivacy
-# Last modified: 09 Feb 2025 00:05 UTC
+# Last modified: 16 Feb 2025 00:29 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -5975,6 +5975,7 @@
 0.0.0.0 analyticsresults.trialog-magazin.de
 0.0.0.0 analyticssec.overwolf.com
 0.0.0.0 analyticsssl.forcepoint.com
+0.0.0.0 analyticsweb.net
 0.0.0.0 analyticswizard.com
 0.0.0.0 analyzecorona.com
 0.0.0.0 analyzee.io
@@ -6822,7 +6823,6 @@
 0.0.0.0 app.tajawal.com
 0.0.0.0 app.talksport.com
 0.0.0.0 app.task.io
-0.0.0.0 app.teachfx.com
 0.0.0.0 app.tech.pentontech.com
 0.0.0.0 app.test.elly.com
 0.0.0.0 app.texasperformingarts.org
@@ -6954,6 +6954,7 @@
 0.0.0.0 application.ricoh.ie
 0.0.0.0 application.taleo.com
 0.0.0.0 applicationinsights.azure.com
+0.0.0.0 applicationinsights.io
 0.0.0.0 applink-test.chalknation.com
 0.0.0.0 applink.aspiration.com
 0.0.0.0 applink.batterii.com
@@ -10582,6 +10583,7 @@
 0.0.0.0 cups.republicoftea.com
 0.0.0.0 curalate.com
 0.0.0.0 curated.fieldtest.cc
+0.0.0.0 curbminers.com
 0.0.0.0 cure.trueface.org
 0.0.0.0 curious.cognyte.com
 0.0.0.0 curiouschalk.com
@@ -15269,6 +15271,7 @@
 0.0.0.0 geoplugin.net
 0.0.0.0 georiot.com
 0.0.0.0 geoservice.curse.com
+0.0.0.0 geotags.refinery89.com
 0.0.0.0 geotargetly-1a441.appspot.com
 0.0.0.0 geotargetly.co
 0.0.0.0 geotrust.com
@@ -17769,6 +17772,7 @@
 0.0.0.0 in-mktg.vodafone.com
 0.0.0.0 in.brilliant.org
 0.0.0.0 in.invitd.us
+0.0.0.0 in.treasuredata.com
 0.0.0.0 in.upipr.co
 0.0.0.0 inbound-analytics.pixlee.co
 0.0.0.0 inboxtag.com
@@ -18863,7 +18867,6 @@
 0.0.0.0 ip2phrase.com
 0.0.0.0 ip7prksb2muxvmmh25t6rxl2te0tfulc.lambda-url.eu-west-1.on.aws
 0.0.0.0 ipaddresslabs.com
-0.0.0.0 ipapi.co
 0.0.0.0 ipcatch.com
 0.0.0.0 ipcfgw.pieces.com
 0.0.0.0 ipcheck.blogsys.jp
@@ -20581,7 +20584,6 @@
 0.0.0.0 link.trycircle.com
 0.0.0.0 link.trymida.com
 0.0.0.0 link.trytaptab.com
-0.0.0.0 link.tubi.tv
 0.0.0.0 link.tul.io
 0.0.0.0 link.tumblbug.com
 0.0.0.0 link.tupinambaenergia.com.br
@@ -28215,6 +28217,7 @@
 0.0.0.0 prophet.heise-academy.de
 0.0.0.0 prophet.heise.de
 0.0.0.0 props.id
+0.0.0.0 propsid.b-cdn.net
 0.0.0.0 propsynergy.com
 0.0.0.0 prospecteye.com
 0.0.0.0 prospex.actonservice.com
@@ -31500,7 +31503,6 @@
 0.0.0.0 shoplytics.com
 0.0.0.0 shopmetric.rediff.com
 0.0.0.0 shopnetic.com
-0.0.0.0 shopperapproved.com
 0.0.0.0 shoppers-test.instacartemail.com
 0.0.0.0 shoppers.instacartemail.com
 0.0.0.0 shopping.cellpure.co.jp
@@ -35571,6 +35573,7 @@
 0.0.0.0 ss.photospecialist.co.uk
 0.0.0.0 ss.photospecialist.de
 0.0.0.0 ss.silkandsonder.com
+0.0.0.0 ss.woodupp.pl
 0.0.0.0 ssa.asianfoodnetwork.com
 0.0.0.0 ssa.cookingchanneltv.com
 0.0.0.0 ssa.discovery.com
@@ -37367,6 +37370,7 @@
 0.0.0.0 stnt.express-scripts.com
 0.0.0.0 stnt.sky.at
 0.0.0.0 stnt.sky.de
+0.0.0.0 stockerator.com
 0.0.0.0 stockingsleet.com
 0.0.0.0 stockingsneeze.com
 0.0.0.0 stocktheme.com
@@ -43011,7 +43015,6 @@
 0.0.0.0 visit.monroecollege.edu
 0.0.0.0 visit.oakstreethealth.com
 0.0.0.0 visit.sendheirloom.com
-0.0.0.0 visit.tafensw.edu.au
 0.0.0.0 visit.tenplay.com.au
 0.0.0.0 visit.xchina.pics
 0.0.0.0 visitor-analytics.io
@@ -45397,7 +45400,7 @@
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2025-02-09 01:04:18.234422
+# Generated at 2025-02-16 01:06:27.732320
 
 0.0.0.0 databerries.com
 0.0.0.0 fidzup

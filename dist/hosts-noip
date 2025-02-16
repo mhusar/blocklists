@@ -1,6 +1,6 @@
-# Version: 202502090005
+# Version: 202502160029
 # Title: EasyPrivacy
-# Last modified: 09 Feb 2025 00:05 UTC
+# Last modified: 16 Feb 2025 00:29 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -5958,6 +5958,7 @@ analyticsresults.dev.datev.de
 analyticsresults.trialog-magazin.de
 analyticssec.overwolf.com
 analyticsssl.forcepoint.com
+analyticsweb.net
 analyticswizard.com
 analyzecorona.com
 analyzee.io
@@ -6805,7 +6806,6 @@ app.tagachi.io
 app.tajawal.com
 app.talksport.com
 app.task.io
-app.teachfx.com
 app.tech.pentontech.com
 app.test.elly.com
 app.texasperformingarts.org
@@ -6937,6 +6937,7 @@ application.ricoh.de
 application.ricoh.ie
 application.taleo.com
 applicationinsights.azure.com
+applicationinsights.io
 applink-test.chalknation.com
 applink.aspiration.com
 applink.batterii.com
@@ -10565,6 +10566,7 @@ cunda.ai
 cups.republicoftea.com
 curalate.com
 curated.fieldtest.cc
+curbminers.com
 cure.trueface.org
 curious.cognyte.com
 curiouschalk.com
@@ -15252,6 +15254,7 @@ geonetric.actonservice.com
 geoplugin.net
 georiot.com
 geoservice.curse.com
+geotags.refinery89.com
 geotargetly-1a441.appspot.com
 geotargetly.co
 geotrust.com
@@ -17752,6 +17755,7 @@ in-go.experian.com
 in-mktg.vodafone.com
 in.brilliant.org
 in.invitd.us
+in.treasuredata.com
 in.upipr.co
 inbound-analytics.pixlee.co
 inboxtag.com
@@ -18846,7 +18850,6 @@ ip2map.com
 ip2phrase.com
 ip7prksb2muxvmmh25t6rxl2te0tfulc.lambda-url.eu-west-1.on.aws
 ipaddresslabs.com
-ipapi.co
 ipcatch.com
 ipcfgw.pieces.com
 ipcheck.blogsys.jp
@@ -20564,7 +20567,6 @@ link.truckerpath.com
 link.trycircle.com
 link.trymida.com
 link.trytaptab.com
-link.tubi.tv
 link.tul.io
 link.tumblbug.com
 link.tupinambaenergia.com.br
@@ -28198,6 +28200,7 @@ propertypotato.com
 prophet.heise-academy.de
 prophet.heise.de
 props.id
+propsid.b-cdn.net
 propsynergy.com
 prospecteye.com
 prospex.actonservice.com
@@ -31483,7 +31486,6 @@ shopimind.com
 shoplytics.com
 shopmetric.rediff.com
 shopnetic.com
-shopperapproved.com
 shoppers-test.instacartemail.com
 shoppers.instacartemail.com
 shopping.cellpure.co.jp
@@ -35554,6 +35556,7 @@ ss.photospecialist.at
 ss.photospecialist.co.uk
 ss.photospecialist.de
 ss.silkandsonder.com
+ss.woodupp.pl
 ssa.asianfoodnetwork.com
 ssa.cookingchanneltv.com
 ssa.discovery.com
@@ -37350,6 +37353,7 @@ stms.newline53.com
 stnt.express-scripts.com
 stnt.sky.at
 stnt.sky.de
+stockerator.com
 stockingsleet.com
 stockingsneeze.com
 stocktheme.com
@@ -42994,7 +42998,6 @@ visit.lifeblood.com.au
 visit.monroecollege.edu
 visit.oakstreethealth.com
 visit.sendheirloom.com
-visit.tafensw.edu.au
 visit.tenplay.com.au
 visit.xchina.pics
 visitor-analytics.io
@@ -45380,7 +45383,7 @@ zzsqqx.shopjapan.co.jp
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2025-02-09 01:04:17.459303
+# Generated at 2025-02-16 01:06:26.790436
 
 databerries.com
 fidzup
