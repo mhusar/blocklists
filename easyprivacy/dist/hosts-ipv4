@@ -1,6 +1,6 @@
-# Version: 202502222242
+# Version: 202503012202
 # Title: EasyPrivacy
-# Last modified: 22 Feb 2025 22:42 UTC
+# Last modified: 01 Mar 2025 22:02 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -4865,7 +4865,6 @@
 0.0.0.0 adsnid.wagyushop.com
 0.0.0.0 adsolutions.com
 0.0.0.0 adspsp.com
-0.0.0.0 adsrvr.org
 0.0.0.0 adstat.4u.pl
 0.0.0.0 adstats.tencentmusic.com
 0.0.0.0 adstk.io
@@ -5088,6 +5087,7 @@
 0.0.0.0 ahjucs.loberon.de
 0.0.0.0 ahngxh.palladiumhotelgroup.com
 0.0.0.0 ahnrmb.topvintage.de
+0.0.0.0 ahrefs.com
 0.0.0.0 ahsxot.meaningfulbeauty.com
 0.0.0.0 ahuvjy.design-market.fr
 0.0.0.0 ahzqgr.au-sonpo.co.jp
@@ -7976,6 +7976,7 @@
 0.0.0.0 bi.medscape.com
 0.0.0.0 biberukalap.com
 0.0.0.0 bibglj.timberland.fr
+0.0.0.0 bicp-analytics.postscript.io
 0.0.0.0 bid.run
 0.0.0.0 bidder.mediams.mb.softbank.jp
 0.0.0.0 bidderrtb.com
@@ -17055,6 +17056,7 @@
 0.0.0.0 iculture.report
 0.0.0.0 id-visitors.com
 0.0.0.0 id-ward.com
+0.0.0.0 id.a-mx.com
 0.0.0.0 idbkfy.kango-roo.com
 0.0.0.0 iddu1vvb7sk8-a.akamaihd.net
 0.0.0.0 ideadevice.actonservice.com
@@ -25437,7 +25439,6 @@
 0.0.0.0 monitis.com
 0.0.0.0 monitor-api.blackcrow.ai
 0.0.0.0 monitor-frontend-collector.a.bybit-aws.com
-0.0.0.0 monitor.azure.com
 0.0.0.0 monitor.channel4.com
 0.0.0.0 monitor.music.qq.com
 0.0.0.0 monitoring.iraiser.eu

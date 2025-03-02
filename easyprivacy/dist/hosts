@@ -1,6 +1,6 @@
-# Version: 202502222242
+# Version: 202503012202
 # Title: EasyPrivacy
-# Last modified: 22 Feb 2025 22:42 UTC
+# Last modified: 01 Mar 2025 22:02 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -4865,7 +4865,6 @@ adsmediator.com
 adsnid.wagyushop.com
 adsolutions.com
 adspsp.com
-adsrvr.org
 adstat.4u.pl
 adstats.tencentmusic.com
 adstk.io
@@ -5088,6 +5087,7 @@ ahisft.moonmagic.com
 ahjucs.loberon.de
 ahngxh.palladiumhotelgroup.com
 ahnrmb.topvintage.de
+ahrefs.com
 ahsxot.meaningfulbeauty.com
 ahuvjy.design-market.fr
 ahzqgr.au-sonpo.co.jp
@@ -7976,6 +7976,7 @@ bi.irisdating.com
 bi.medscape.com
 biberukalap.com
 bibglj.timberland.fr
+bicp-analytics.postscript.io
 bid.run
 bidder.mediams.mb.softbank.jp
 bidderrtb.com
@@ -17055,6 +17056,7 @@ ictrjw.barcastores.com
 iculture.report
 id-visitors.com
 id-ward.com
+id.a-mx.com
 idbkfy.kango-roo.com
 iddu1vvb7sk8-a.akamaihd.net
 ideadevice.actonservice.com
@@ -25437,7 +25439,6 @@ monicaatron.com
 monitis.com
 monitor-api.blackcrow.ai
 monitor-frontend-collector.a.bybit-aws.com
-monitor.azure.com
 monitor.channel4.com
 monitor.music.qq.com
 monitoring.iraiser.eu
