@@ -1,6 +1,6 @@
-# Version: 202503012202
+# Version: 202503090043
 # Title: EasyPrivacy
-# Last modified: 01 Mar 2025 22:02 UTC
+# Last modified: 09 Mar 2025 00:43 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -6954,7 +6954,6 @@
 0.0.0.0 application.ricoh.ie
 0.0.0.0 application.taleo.com
 0.0.0.0 applicationinsights.azure.com
-0.0.0.0 applicationinsights.io
 0.0.0.0 applink-test.chalknation.com
 0.0.0.0 applink.aspiration.com
 0.0.0.0 applink.batterii.com
@@ -7769,7 +7768,6 @@
 0.0.0.0 bavvgo.zingat.com
 0.0.0.0 bawdybalance.com
 0.0.0.0 bawdybeast.com
-0.0.0.0 baxter.olx.org
 0.0.0.0 baynote.net
 0.0.0.0 bayshoresystems.actonservice.com
 0.0.0.0 bazlny.homepal.it
@@ -8180,6 +8178,7 @@
 0.0.0.0 bobswatches.actonservice.com
 0.0.0.0 boelsl.lastijerasmagicas.com
 0.0.0.0 boewzj.meiji-jisho.com
+0.0.0.0 boiledegglabs.com
 0.0.0.0 boilingbeetle.com
 0.0.0.0 boilingcredit.com
 0.0.0.0 boilingumbrella.com
@@ -21006,6 +21005,7 @@
 0.0.0.0 lodlww.carcon.co.jp
 0.0.0.0 lofo3l15c674.platform.replai.io
 0.0.0.0 log-185a61e7.bendigobank.com.au
+0.0.0.0 log-2ffe60ee.westpac.com.au
 0.0.0.0 log-ads.r7.com
 0.0.0.0 log-api.cli.im
 0.0.0.0 log-gateway.zoom.us
@@ -26074,7 +26074,6 @@
 0.0.0.0 nlf6.vente-unique.pl
 0.0.0.0 nlgzhd.yoox.com
 0.0.0.0 nljjem.honeys-onlineshop.com
-0.0.0.0 nlog.naver.com
 0.0.0.0 nlp-japan.life-and-mind.com
 0.0.0.0 nltihf.fashiondays.ro
 0.0.0.0 nltzqx.autodoc.co.uk
@@ -37064,6 +37063,7 @@
 0.0.0.0 stats.sec.telefonica.com
 0.0.0.0 stats.selectam.io
 0.0.0.0 stats.sendngnt.com
+0.0.0.0 stats.senty.com.au
 0.0.0.0 stats.servicedesignjobs.com
 0.0.0.0 stats.seva.rocks
 0.0.0.0 stats.sexemodel.com
@@ -38875,6 +38875,7 @@
 0.0.0.0 telemetry.stytch.com
 0.0.0.0 telemetry.tableausoftware.com
 0.0.0.0 telemetry.tradingview.com
+0.0.0.0 telemetry.transcend.io
 0.0.0.0 telemetry.vtex.com
 0.0.0.0 telemetry.webasto.com
 0.0.0.0 telephoneapparatus.com
@@ -40963,7 +40964,6 @@
 0.0.0.0 tracker.netklix.com
 0.0.0.0 tracker.nitropay.com
 0.0.0.0 tracker.nocodelytics.com
-0.0.0.0 tracker.novage.com.ua
 0.0.0.0 tracker.prod.ams3.k8s.hyperia.sk
 0.0.0.0 tracker.prom.ua
 0.0.0.0 tracker.providence.org
@@ -42330,6 +42330,7 @@
 0.0.0.0 tv-test.esvdigital.com
 0.0.0.0 tv.totaljobs.com
 0.0.0.0 tvcoag.brw.pl
+0.0.0.0 tver-metrics.streaks.jp
 0.0.0.0 tvkfms.nta.co.jp
 0.0.0.0 tvpixel.com
 0.0.0.0 tvppa.actonservice.com
@@ -44012,6 +44013,7 @@
 0.0.0.0 wundercounter.com
 0.0.0.0 wunderloop.net
 0.0.0.0 wup-185a61e7.bendigobank.com.au
+0.0.0.0 wup-2ffe60ee.westpac.com.au
 0.0.0.0 wvlirb.lexoffice.de
 0.0.0.0 wvoudw.magaseek.com
 0.0.0.0 wvrukp.globalcyclingnetwork.com
