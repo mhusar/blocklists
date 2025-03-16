@@ -1,6 +1,6 @@
-# Version: 202503090043
+# Version: 202503152128
 # Title: EasyPrivacy
-# Last modified: 09 Mar 2025 00:43 UTC
+# Last modified: 15 Mar 2025 21:28 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -5881,6 +5881,7 @@ analytics.villagehouse.jp
 analytics.virginaustralia.com
 analytics.virginmobileusa.com
 analytics.visible.com
+analytics.viture.dev
 analytics.vixcloud.co
 analytics.vortexscans.com
 analytics.warnertv.fr
@@ -5931,6 +5932,7 @@ analytics.yicai.com
 analytics.ynap.biz
 analytics.yola.net
 analytics.yolacdn.net
+analytics.yollamedia.com
 analytics.yomedia.vn
 analytics.yugen.to
 analytics.zagg.com
@@ -16165,6 +16167,7 @@ goodcounter.org
 goodmeasure.io
 google-analytics-cn.com
 google-analytics.com
+google.com/log
 googleadservices.com
 googleoptimize-cn.com
 googleoptimize.com
@@ -17020,7 +17023,6 @@ ibpxl.net
 ibtmla.discovery-expedition.com
 ic-live.com
 icahealth.actonservice.com
-icanhazip.com
 icas.ikea.com
 icas.ikea.net
 icaubf.casamundo.de
@@ -24566,6 +24568,7 @@ metrics.northwesternmutual.com
 metrics.norvir.com
 metrics.nowtv.com
 metrics.nrma.com.au
+metrics.nsureapi.com
 metrics.ntnews.com.au
 metrics.nu.nl
 metrics.nutraingredients-asia.com
@@ -29352,6 +29355,7 @@ rockagainst.com
 rockincontent.net
 rockpebbles.com
 rocks.io
+rockstarwriter.com
 rodeopolice.com
 roedwy.imidapeptide.com
 roeye.com
