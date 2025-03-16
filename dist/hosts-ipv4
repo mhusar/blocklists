@@ -1,6 +1,6 @@
-# Version: 202503090043
+# Version: 202503152128
 # Title: EasyPrivacy
-# Last modified: 09 Mar 2025 00:43 UTC
+# Last modified: 15 Mar 2025 21:28 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -5898,6 +5898,7 @@
 0.0.0.0 analytics.virginaustralia.com
 0.0.0.0 analytics.virginmobileusa.com
 0.0.0.0 analytics.visible.com
+0.0.0.0 analytics.viture.dev
 0.0.0.0 analytics.vixcloud.co
 0.0.0.0 analytics.vortexscans.com
 0.0.0.0 analytics.warnertv.fr
@@ -5948,6 +5949,7 @@
 0.0.0.0 analytics.ynap.biz
 0.0.0.0 analytics.yola.net
 0.0.0.0 analytics.yolacdn.net
+0.0.0.0 analytics.yollamedia.com
 0.0.0.0 analytics.yomedia.vn
 0.0.0.0 analytics.yugen.to
 0.0.0.0 analytics.zagg.com
@@ -16182,6 +16184,7 @@
 0.0.0.0 goodmeasure.io
 0.0.0.0 google-analytics-cn.com
 0.0.0.0 google-analytics.com
+0.0.0.0 google.com/log
 0.0.0.0 googleadservices.com
 0.0.0.0 googleoptimize-cn.com
 0.0.0.0 googleoptimize.com
@@ -17037,7 +17040,6 @@
 0.0.0.0 ibtmla.discovery-expedition.com
 0.0.0.0 ic-live.com
 0.0.0.0 icahealth.actonservice.com
-0.0.0.0 icanhazip.com
 0.0.0.0 icas.ikea.com
 0.0.0.0 icas.ikea.net
 0.0.0.0 icaubf.casamundo.de
@@ -24583,6 +24585,7 @@
 0.0.0.0 metrics.norvir.com
 0.0.0.0 metrics.nowtv.com
 0.0.0.0 metrics.nrma.com.au
+0.0.0.0 metrics.nsureapi.com
 0.0.0.0 metrics.ntnews.com.au
 0.0.0.0 metrics.nu.nl
 0.0.0.0 metrics.nutraingredients-asia.com
@@ -29369,6 +29372,7 @@
 0.0.0.0 rockincontent.net
 0.0.0.0 rockpebbles.com
 0.0.0.0 rocks.io
+0.0.0.0 rockstarwriter.com
 0.0.0.0 rodeopolice.com
 0.0.0.0 roedwy.imidapeptide.com
 0.0.0.0 roeye.com
@@ -45409,7 +45413,7 @@
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2025-03-09 00:55:58.863171
+# Generated at 2025-03-16 01:09:36.727246
 
 0.0.0.0 databerries.com
 0.0.0.0 fidzup
