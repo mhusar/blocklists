@@ -1,6 +1,6 @@
-# Version: 202503222250
+# Version: 202503300102
 # Title: EasyPrivacy
-# Last modified: 22 Mar 2025 22:50 UTC
+# Last modified: 30 Mar 2025 01:02 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -5230,6 +5230,7 @@
 0.0.0.0 allvideometrika.com
 0.0.0.0 almalasers.actonservice.com
 0.0.0.0 alocdn.com
+0.0.0.0 alohamiles.com
 0.0.0.0 aloofmetal.com
 0.0.0.0 aloofvest.com
 0.0.0.0 alp1.drimki.fr
@@ -7018,6 +7019,7 @@
 0.0.0.0 applog.yiche.com
 0.0.0.0 apply.bluetrustloans.com
 0.0.0.0 apply.maxlend.com
+0.0.0.0 applyless.com
 0.0.0.0 appmetrica.yandex.com
 0.0.0.0 appn.center
 0.0.0.0 appocalypsis.com
@@ -8588,6 +8590,7 @@
 0.0.0.0 bulgaria.openapp.link
 0.0.0.0 bulgariarestaurant.openapp.link
 0.0.0.0 bulkbookstore.actonservice.com
+0.0.0.0 bullwhip.cloud
 0.0.0.0 bulozc.tui.be
 0.0.0.0 bum7.bymycar.fr
 0.0.0.0 bumlam.com
@@ -9025,7 +9028,6 @@
 0.0.0.0 cdns.brsrvr.com
 0.0.0.0 cdnwidget.com
 0.0.0.0 cdp.cifinancial.com
-0.0.0.0 cdp.yna.co.kr
 0.0.0.0 cdrive.compellent.com
 0.0.0.0 cdtm.cdiscount.com
 0.0.0.0 ceciliavenus.com
@@ -11625,6 +11627,7 @@
 0.0.0.0 dd.auspost.com.au
 0.0.0.0 dd.betano.com
 0.0.0.0 dd.control4.com
+0.0.0.0 dd.g2.com
 0.0.0.0 dd.leboncoin.fr
 0.0.0.0 dd.nytimes.com
 0.0.0.0 dd6zx4ibq538k.cloudfront.net
@@ -11666,6 +11669,7 @@
 0.0.0.0 decisivebase.com
 0.0.0.0 decisivedrawer.com
 0.0.0.0 decisiveducks.com
+0.0.0.0 decklibrary.com
 0.0.0.0 decoroustitle.com
 0.0.0.0 decoycreation.com
 0.0.0.0 decvsm.xlmoto.se
@@ -12738,6 +12742,7 @@
 0.0.0.0 early-birds.io
 0.0.0.0 earnbaht.com
 0.0.0.0 earthquakescarf.com
+0.0.0.0 earthups.com
 0.0.0.0 earthycopy.com
 0.0.0.0 earthyfarm.com
 0.0.0.0 eastern2.secureforms.mcafee.com
@@ -13891,6 +13896,7 @@
 0.0.0.0 esqjac.costakreuzfahrten.de
 0.0.0.0 esqxrp.bonprix-fl.be
 0.0.0.0 esri.nl.actonservice.com
+0.0.0.0 essayspin.com
 0.0.0.0 essmnx.edreams.ch
 0.0.0.0 estadisticas.lanacion.com.ar
 0.0.0.0 estadisticasgratis.com
@@ -19465,6 +19471,7 @@
 0.0.0.0 kampanjer.yxvisa.no
 0.0.0.0 kampyle.com
 0.0.0.0 kantartns.lt
+0.0.0.0 kape.dataplane.rudderstack.com
 0.0.0.0 kaputquill.com
 0.0.0.0 kartik.devishetty.com
 0.0.0.0 kartik.devishetty.net
@@ -19703,28 +19710,43 @@
 0.0.0.0 l-test.guesthug.com
 0.0.0.0 l.apna.co
 0.0.0.0 l.audibook.si
+0.0.0.0 l.aufeminin.com
+0.0.0.0 l.autojournal.fr
+0.0.0.0 l.autoplus.fr
 0.0.0.0 l.azarlive.com
+0.0.0.0 l.beaute-test.com
 0.0.0.0 l.bhaibandhu.com
+0.0.0.0 l.bibamagazine.fr
 0.0.0.0 l.bigbasket.com
 0.0.0.0 l.biglion.ru
 0.0.0.0 l.brightside.com
 0.0.0.0 l.bspace.io
 0.0.0.0 l.civic.com
 0.0.0.0 l.claphere.com
+0.0.0.0 l.closermag.fr
+0.0.0.0 l.cnetfrance.fr
 0.0.0.0 l.coastapp.com
 0.0.0.0 l.create.canva.com
 0.0.0.0 l.cultgear.com
 0.0.0.0 l.dev-ajo.caixabank.com
 0.0.0.0 l.dev.audibook.si
+0.0.0.0 l.diapasonmag.fr
 0.0.0.0 l.dm.casio.info
+0.0.0.0 l.doctissimo.fr
 0.0.0.0 l.du.coach
+0.0.0.0 l.dzfoot.com
 0.0.0.0 l.e.domain.com.au
 0.0.0.0 l.engage.canva.com
+0.0.0.0 l.entrenous.fr
 0.0.0.0 l.fairblocker.com
+0.0.0.0 l.football.fr
+0.0.0.0 l.football365.fr
 0.0.0.0 l.francetvinfo.fr
+0.0.0.0 l.gamekult.com
 0.0.0.0 l.getpyfl.com
 0.0.0.0 l.gocement.com
 0.0.0.0 l.gpay.to
+0.0.0.0 l.grazia.fr
 0.0.0.0 l.guesthug.com
 0.0.0.0 l.ialoc.app
 0.0.0.0 l.iamfy.co
@@ -19732,28 +19754,47 @@
 0.0.0.0 l.itribe.in
 0.0.0.0 l.jayshetty.me
 0.0.0.0 l.kodika.io
+0.0.0.0 l.lacremedugaming.fr
+0.0.0.0 l.lechasseurfrancais.com
+0.0.0.0 l.lejournaldelamaison.fr
+0.0.0.0 l.lesnumeriques.com
 0.0.0.0 l.lilyzhou.com
 0.0.0.0 l.lyfshort.com
 0.0.0.0 l.m.naver.com
 0.0.0.0 l.m.tradiecore.com.au
+0.0.0.0 l.maison-travaux.fr
+0.0.0.0 l.mariefrance.fr
+0.0.0.0 l.melty.fr
+0.0.0.0 l.modesettravaux.fr
 0.0.0.0 l.mydoki.app
 0.0.0.0 l.myvoleo.com
 0.0.0.0 l.navx.co
+0.0.0.0 l.netmums.com
 0.0.0.0 l.newnew.co
+0.0.0.0 l.nextplz.fr
 0.0.0.0 l.nflo.at
+0.0.0.0 l.nicematin.com
 0.0.0.0 l.ooyala.com
+0.0.0.0 l.paroledemamans.com
 0.0.0.0 l.player.ooyala.com
+0.0.0.0 l.pleinevie.fr
 0.0.0.0 l.post2b.com
 0.0.0.0 l.prk.bz
+0.0.0.0 l.psychologies.com
 0.0.0.0 l.redcross.or.ke
 0.0.0.0 l.rovo.co
+0.0.0.0 l.science-et-vie.com
 0.0.0.0 l.sharethis.com
 0.0.0.0 l.siply.in
+0.0.0.0 l.sportauto.fr
+0.0.0.0 l.sports.fr
 0.0.0.0 l.sqrrl.in
 0.0.0.0 l.support.canva.com
 0.0.0.0 l.supremapoker.net
 0.0.0.0 l.t.domain.com.au
+0.0.0.0 l.telestar.fr
 0.0.0.0 l.thumbtack.com
+0.0.0.0 l.topsante.com
 0.0.0.0 l.topya.com
 0.0.0.0 l.training-page.worldvision.ca
 0.0.0.0 l.typesquare.com
@@ -19767,6 +19808,7 @@
 0.0.0.0 l.whizzl.com
 0.0.0.0 l.workoutparty.co
 0.0.0.0 l.your.md
+0.0.0.0 l.zdnet.fr
 0.0.0.0 l2.io
 0.0.0.0 l2k30jsa.theochu.com
 0.0.0.0 l936.expressnews.com
@@ -20988,6 +21030,7 @@
 0.0.0.0 lkluoz.saraceniwines.com
 0.0.0.0 lknqfn.furla.com
 0.0.0.0 lkvkgk.levis.com.tr
+0.0.0.0 llamavoice.com
 0.0.0.0 llanalytics.com
 0.0.0.0 llkdiu.chacos.com
 0.0.0.0 llntrack.messe-duesseldorf.de
@@ -21436,6 +21479,7 @@
 0.0.0.0 luumhi.whatonearthcatalog.com
 0.0.0.0 luuonz.motoblouz.com
 0.0.0.0 luwzem.skala.nl
+0.0.0.0 luxformula.com
 0.0.0.0 luzfpa.dltviaggi.it
 0.0.0.0 lv6od3a4sz12.www.logology.co
 0.0.0.0 lvidqa.unisportstore.de
@@ -25493,6 +25537,7 @@
 0.0.0.0 monthlyhat.com
 0.0.0.0 montpalatin.handicap.fr
 0.0.0.0 moodlerooms.blackboard.com
+0.0.0.0 mooncrustpizza.com
 0.0.0.0 moorshoes.com
 0.0.0.0 mooseway.com
 0.0.0.0 mopinion.com
@@ -26775,6 +26820,7 @@
 0.0.0.0 one2.onestep.fr
 0.0.0.0 onecloud.avaya.com
 0.0.0.0 onedollarstats.com
+0.0.0.0 onedropocean.com
 0.0.0.0 onefeed.co.uk
 0.0.0.0 oneid.mmstat.com
 0.0.0.0 onelink.me
@@ -27811,6 +27857,7 @@
 0.0.0.0 plausible.ionicelements.dev
 0.0.0.0 plausible.jeroenvandenboorn.nl
 0.0.0.0 plausible.joinself.com
+0.0.0.0 plausible.k-words.io
 0.0.0.0 plausible.k6sbw.net
 0.0.0.0 plausible.kabaret.no
 0.0.0.0 plausible.kdojang.com
@@ -27953,6 +28000,7 @@
 0.0.0.0 podbooth.martela.se
 0.0.0.0 podcorn.com
 0.0.0.0 podiumpresto.com
+0.0.0.0 podname.com
 0.0.0.0 podscribe.com
 0.0.0.0 poemprompt.com
 0.0.0.0 poeticmetric.com
@@ -29516,6 +29564,7 @@
 0.0.0.0 rtrk.co.nz
 0.0.0.0 rtrk.com
 0.0.0.0 rttkpr.bidolubaski.com
+0.0.0.0 rttrk.com
 0.0.0.0 rtvision.actonservice.com
 0.0.0.0 rtxlni.doclasse.com
 0.0.0.0 rtxpx-a.akamaihd.net
@@ -30320,6 +30369,7 @@
 0.0.0.0 say.hello.navan.com
 0.0.0.0 say.hello.tripactions.com
 0.0.0.0 sayac.kapital.com.tr
+0.0.0.0 sayac.net.tr
 0.0.0.0 sayinnovation.com
 0.0.0.0 saysidewalk.com
 0.0.0.0 sayutracking.co.uk
@@ -30494,6 +30544,7 @@
 0.0.0.0 scout.us2.salesloft.com
 0.0.0.0 scoutanalytics.net
 0.0.0.0 scp.deltadentalwa.com
+0.0.0.0 scrapcranes.com
 0.0.0.0 scrapesleep.com
 0.0.0.0 scratchsofa.com
 0.0.0.0 screechingfurniture.com
@@ -31575,6 +31626,7 @@
 0.0.0.0 shtptt.cupshe.com
 0.0.0.0 shutseashore.com
 0.0.0.0 shydinosaurs.com
+0.0.0.0 shylibrary.com
 0.0.0.0 shyseed.com
 0.0.0.0 siazlw.cetroloja.com.br
 0.0.0.0 sibautomation.com
@@ -34949,6 +35001,7 @@
 0.0.0.0 sno1.snowrental.com
 0.0.0.0 snoobi.com
 0.0.0.0 snoresmile.com
+0.0.0.0 snowflake.qq.com
 0.0.0.0 snowman.odencat.com
 0.0.0.0 snowmentor.com
 0.0.0.0 snowplow.swm.digital
@@ -39197,6 +39250,7 @@
 0.0.0.0 tipstats.onepagelove.com
 0.0.0.0 tirandoalmedio.net.anwalt.de
 0.0.0.0 tiredthroat.com
+0.0.0.0 tireinside.com
 0.0.0.0 tiresomethunder.com
 0.0.0.0 tiser.com.au
 0.0.0.0 tisoomi-services.com
@@ -39489,6 +39543,7 @@
 0.0.0.0 topacad.com
 0.0.0.0 topblogarea.com
 0.0.0.0 topblogging.com
+0.0.0.0 topcrazypress.com
 0.0.0.0 topdepo.com
 0.0.0.0 tophitbit.com
 0.0.0.0 topichawaii.com
@@ -43842,12 +43897,14 @@
 0.0.0.0 whoaremyfriends.net
 0.0.0.0 whoisonline.net
 0.0.0.0 whoisvisiting.com
+0.0.0.0 whoogled.com
 0.0.0.0 whosclickingwho.com
 0.0.0.0 whoseesyou.com
 0.0.0.0 whqkyq.leasingmarkt.de
 0.0.0.0 whwiab.pamono.it
 0.0.0.0 why.hdvest.com
 0.0.0.0 why3.inseec.education
+0.0.0.0 whymaze.com
 0.0.0.0 wiar9wff0ma9.ping.t3.gg
 0.0.0.0 wickedreports.com
 0.0.0.0 wideangle.co
@@ -43885,6 +43942,7 @@
 0.0.0.0 wiz.empowerhearing.com
 0.0.0.0 wiz.sncf-connect.com
 0.0.0.0 wizaly.com
+0.0.0.0 wizardbuck.com
 0.0.0.0 wjssvg.descentekorea.co.kr
 0.0.0.0 wjtekf.vidaxl.bg
 0.0.0.0 wjzyrk.magiclife.com
@@ -45462,7 +45520,7 @@
 
 # exodusprivacy standard
 # This host file is based on Exodus Privacy database.
-# Generated at 2025-03-23 01:10:09.903532
+# Generated at 2025-03-30 01:11:21.639213
 
 0.0.0.0 databerries.com
 0.0.0.0 fidzup
