@@ -1,6 +1,6 @@
-# Version: 202503300102
+# Version: 202504060027
 # Title: EasyPrivacy
-# Last modified: 30 Mar 2025 01:02 UTC
+# Last modified: 06 Apr 2025 00:27 UTC
 # Expires: 4 days (update frequency)
 # Homepage: https://easylist.to/
 # Licence: https://easylist.to/pages/licence.html
@@ -9317,7 +9317,6 @@
 0.0.0.0 click2.email.ticketmaster.com
 0.0.0.0 click360.io
 0.0.0.0 click360v2-ingest.azurewebsites.net
-0.0.0.0 click4assistance.co.uk
 0.0.0.0 clickable.net
 0.0.0.0 clickaider.com
 0.0.0.0 clickalyzer.com
@@ -26150,6 +26149,7 @@
 0.0.0.0 njtwub.schneider.de
 0.0.0.0 njxnsb.paodeacucar.com
 0.0.0.0 nkarmh.jmbullion.com
+0.0.0.0 nkdyzf.com
 0.0.0.0 nkothz.duskin.jp
 0.0.0.0 nkqxyn.misterspex.co.uk
 0.0.0.0 nkwvwb.fluevog.com
@@ -37967,6 +37967,7 @@
 0.0.0.0 sxmxpm.nectarsleep.com
 0.0.0.0 sxp.allianz.de
 0.0.0.0 sxwxswg8z1xe.www.arnowebtv.com
+0.0.0.0 sy.ameba.jp
 0.0.0.0 sy.amebame.com
 0.0.0.0 sy.ameblo.jp
 0.0.0.0 sy57d8wi.com
